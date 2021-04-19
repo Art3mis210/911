@@ -1,0 +1,1472 @@
+fileFormatVersion: 2
+guid: 45bdd628fe0a9e64aa1b58d3c2b7abbe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2376084249645774949
+    second: Hide Gun_0
+  - first:
+      213: 3657974860502896231
+    second: Hide Gun_1
+  - first:
+      213: -6756697620326113576
+    second: Hide Gun_2
+  - first:
+      213: 8795082963535708909
+    second: Hide Gun_3
+  - first:
+      213: -229659399315274664
+    second: Hide Gun_4
+  - first:
+      213: 2537803200646082426
+    second: Hide Gun_5
+  - first:
+      213: 5126924885337179814
+    second: Hide Gun_6
+  - first:
+      213: 5222718887928586427
+    second: Hide Gun_7
+  - first:
+      213: -4289264896255790588
+    second: Hide Gun_8
+  - first:
+      213: 7263130899120572493
+    second: Hide Gun_9
+  - first:
+      213: -2159100347207218457
+    second: Hide Gun_10
+  - first:
+      213: 9033084894887347160
+    second: Hide Gun_11
+  - first:
+      213: 7201662738267426747
+    second: Hide Gun_12
+  - first:
+      213: 7301942844538390013
+    second: Hide Gun_13
+  - first:
+      213: 6776523442946810852
+    second: Hide Gun_14
+  - first:
+      213: -7792265901234744443
+    second: Hide Gun_15
+  - first:
+      213: -867106826171222789
+    second: Hide Gun_16
+  - first:
+      213: -325130479525199410
+    second: Hide Gun_17
+  - first:
+      213: -6676736075079493925
+    second: Hide Gun_18
+  - first:
+      213: 5120559137101670308
+    second: Hide Gun_19
+  - first:
+      213: 1048927507140321103
+    second: Hide Gun_20
+  - first:
+      213: -2222348249293991099
+    second: Hide Gun_21
+  - first:
+      213: -4390645443822781841
+    second: Hide Gun_22
+  - first:
+      213: 4210153938875836108
+    second: Hide Gun_23
+  - first:
+      213: -5430916697595536412
+    second: Hide Gun_24
+  - first:
+      213: -3861030497973710858
+    second: Hide Gun_25
+  - first:
+      213: -1760086636655739552
+    second: Hide Gun_26
+  - first:
+      213: 1758533337085385112
+    second: Hide Gun_27
+  - first:
+      213: -5985636148272682537
+    second: Hide Gun_28
+  - first:
+      213: -8651359355326848578
+    second: Hide Gun_29
+  - first:
+      213: 1725864145689869666
+    second: Hide Gun_30
+  - first:
+      213: -7532440424182646946
+    second: Hide Gun_31
+  - first:
+      213: 6231487089486981516
+    second: Hide Gun_32
+  - first:
+      213: -6615141523310343359
+    second: Hide Gun_33
+  - first:
+      213: -7701843404534810941
+    second: Hide Gun_34
+  - first:
+      213: 7949139614343122285
+    second: Hide Gun_35
+  - first:
+      213: 2183985992061922607
+    second: Hide Gun_36
+  - first:
+      213: -8339131310183528275
+    second: Hide Gun_37
+  - first:
+      213: -8386474039119639801
+    second: Hide Gun_38
+  - first:
+      213: 2441756285639773844
+    second: Hide Gun_39
+  - first:
+      213: -3377544034649779897
+    second: Hide Gun_40
+  - first:
+      213: 7946474654963842613
+    second: Hide Gun_41
+  - first:
+      213: -7511411673809429236
+    second: Hide Gun_42
+  - first:
+      213: 689676629453888387
+    second: Hide Gun_43
+  - first:
+      213: 3477243925456362176
+    second: Hide Gun_44
+  - first:
+      213: 3896281199275605458
+    second: Hide Gun_45
+  - first:
+      213: 5944549992526569326
+    second: Hide Gun_46
+  - first:
+      213: 5654727196144134888
+    second: Hide Gun_47
+  - first:
+      213: -1021801318849480775
+    second: Hide Gun_48
+  - first:
+      213: -4489880407780364422
+    second: Hide Gun_49
+  - first:
+      213: 7168584672648597674
+    second: Hide Gun_50
+  - first:
+      213: 3914900316229865678
+    second: Hide Gun_51
+  - first:
+      213: -7460515369094794919
+    second: Hide Gun_52
+  - first:
+      213: -3602575074117045909
+    second: Hide Gun_53
+  - first:
+      213: -601258870007982476
+    second: Hide Gun_54
+  - first:
+      213: 8221733819929598574
+    second: Hide Gun_55
+  - first:
+      213: -7137664645524644423
+    second: Hide Gun_56
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hide Gun_0
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 8421
+        width: 375
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5687988390c89f020800000000000000
+      internalID: 2376084249645774949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_1
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 8421
+        width: 374
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e859d31ccb3c230800000000000000
+      internalID: 3657974860502896231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_2
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 8421
+        width: 374
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de1cb510536b32a0800000000000000
+      internalID: -6756697620326113576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_3
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 8421
+        width: 373
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2c2a36b596e0a70800000000000000
+      internalID: 8795082963535708909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_4
+      rect:
+        serializedVersion: 2
+        x: 4492
+        y: 8421
+        width: 373
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854cb7c3ef510dcf0800000000000000
+      internalID: -229659399315274664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_5
+      rect:
+        serializedVersion: 2
+        x: 5516
+        y: 8421
+        width: 372
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7feb5ca096183320800000000000000
+      internalID: 2537803200646082426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_6
+      rect:
+        serializedVersion: 2
+        x: 6540
+        y: 8421
+        width: 371
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a602a4050f762740800000000000000
+      internalID: 5126924885337179814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_7
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 7397
+        width: 370
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0e4bc4823da7840800000000000000
+      internalID: 5222718887928586427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_8
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 7397
+        width: 368
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402fe176d487974c0800000000000000
+      internalID: -4289264896255790588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_9
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 7397
+        width: 368
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48ce3f2213dbc460800000000000000
+      internalID: 7263130899120572493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_10
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 7397
+        width: 365
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea8a427ca55902e0800000000000000
+      internalID: -2159100347207218457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_11
+      rect:
+        serializedVersion: 2
+        x: 4492
+        y: 7397
+        width: 365
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d305b14ad6fb5d70800000000000000
+      internalID: 9033084894887347160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_12
+      rect:
+        serializedVersion: 2
+        x: 5516
+        y: 7397
+        width: 363
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfc89aba1271f360800000000000000
+      internalID: 7201662738267426747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_13
+      rect:
+        serializedVersion: 2
+        x: 6540
+        y: 7397
+        width: 364
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df58aea6456b55560800000000000000
+      internalID: 7301942844538390013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_14
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 6374
+        width: 364
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3a3f4fa2c0b0e50800000000000000
+      internalID: 6776523442946810852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_15
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 6374
+        width: 360
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5839381b27f4cd390800000000000000
+      internalID: -7792265901234744443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_16
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 6374
+        width: 359
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf47fbb8fea67f3f0800000000000000
+      internalID: -867106826171222789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_17
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 6374
+        width: 356
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec18f3e2d87ec7bf0800000000000000
+      internalID: -325130479525199410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_18
+      rect:
+        serializedVersion: 2
+        x: 4492
+        y: 6374
+        width: 354
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6d9d12ae77753a0800000000000000
+      internalID: -6676736075079493925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_19
+      rect:
+        serializedVersion: 2
+        x: 5516
+        y: 6374
+        width: 352
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a76352c761ef0740800000000000000
+      internalID: 5120559137101670308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_20
+      rect:
+        serializedVersion: 2
+        x: 6540
+        y: 6374
+        width: 350
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f1c32a20a8e8e00800000000000000
+      internalID: 1048927507140321103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_21
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 5350
+        width: 347
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543de91ba02a821e0800000000000000
+      internalID: -2222348249293991099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_22
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 5350
+        width: 343
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a71424b3b4113c0800000000000000
+      internalID: -4390645443822781841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_23
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 5351
+        width: 335
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6e76873b87d6a30800000000000000
+      internalID: 4210153938875836108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_24
+      rect:
+        serializedVersion: 2
+        x: 3469
+        y: 5351
+        width: 325
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb941ba90281a4b0800000000000000
+      internalID: -5430916697595536412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_25
+      rect:
+        serializedVersion: 2
+        x: 4492
+        y: 5351
+        width: 311
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffc35df73dda6ac0800000000000000
+      internalID: -3861030497973710858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_26
+      rect:
+        serializedVersion: 2
+        x: 5517
+        y: 5351
+        width: 292
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06df830878ae297e0800000000000000
+      internalID: -1760086636655739552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_27
+      rect:
+        serializedVersion: 2
+        x: 6541
+        y: 5351
+        width: 261
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89918a2c0c0976810800000000000000
+      internalID: 1758533337085385112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_28
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 4327
+        width: 285
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9287be2afbeeca0800000000000000
+      internalID: -5985636148272682537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_29
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 4326
+        width: 319
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1ad71d08230f780800000000000000
+      internalID: -8651359355326848578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_30
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 4326
+        width: 341
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d7d66eb4083f710800000000000000
+      internalID: 1725864145689869666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_31
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 4325
+        width: 335
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57fcc0c755677790800000000000000
+      internalID: -7532440424182646946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_32
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 4325
+        width: 317
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89ed47fd70ba7650800000000000000
+      internalID: 6231487089486981516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_33
+      rect:
+        serializedVersion: 2
+        x: 5413
+        y: 4325
+        width: 308
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b862445db4234a0800000000000000
+      internalID: -6615141523310343359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_34
+      rect:
+        serializedVersion: 2
+        x: 6441
+        y: 4325
+        width: 299
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6740dca3e8d1590800000000000000
+      internalID: -7701843404534810941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_35
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 3301
+        width: 285
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d48e6ec54015e60800000000000000
+      internalID: 7949139614343122285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_36
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 3301
+        width: 271
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2da74340b31f4e10800000000000000
+      internalID: 2183985992061922607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_37
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 3301
+        width: 255
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da84c298144754c80800000000000000
+      internalID: -8339131310183528275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_38
+      rect:
+        serializedVersion: 2
+        x: 3421
+        y: 3301
+        width: 232
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b0d3c7b424d9b80800000000000000
+      internalID: -8386474039119639801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_39
+      rect:
+        serializedVersion: 2
+        x: 4467
+        y: 3301
+        width: 210
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ec2a1a76cd2e120800000000000000
+      internalID: 2441756285639773844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_40
+      rect:
+        serializedVersion: 2
+        x: 5510
+        y: 3306
+        width: 191
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741d571789d8021d0800000000000000
+      internalID: -3377544034649779897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_41
+      rect:
+        serializedVersion: 2
+        x: 6546
+        y: 3309
+        width: 178
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eb3c1b89c874e60800000000000000
+      internalID: 7946474654963842613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_42
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2287
+        width: 171
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ddddc31ea12c790800000000000000
+      internalID: -7511411673809429236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_43
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 2287
+        width: 159
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bdc7c8d39329900800000000000000
+      internalID: 689676629453888387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_44
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 2287
+        width: 135
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca163e4de6a14030800000000000000
+      internalID: 3477243925456362176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_45
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 2284
+        width: 130
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddfadb7b1f521630800000000000000
+      internalID: 3896281199275605458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_46
+      rect:
+        serializedVersion: 2
+        x: 4552
+        y: 2282
+        width: 143
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fd81ef8b84f7250800000000000000
+      internalID: 5944549992526569326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_47
+      rect:
+        serializedVersion: 2
+        x: 5579
+        y: 2279
+        width: 145
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea69e3cc60a97e40800000000000000
+      internalID: 5654727196144134888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_48
+      rect:
+        serializedVersion: 2
+        x: 6605
+        y: 2278
+        width: 143
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b773fe3d15d1d1f0800000000000000
+      internalID: -1021801318849480775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_49
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1253
+        width: 140
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fe34abe8db0b1c0800000000000000
+      internalID: -4489880407780364422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_50
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1253
+        width: 139
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0978b67cdeb7360800000000000000
+      internalID: 7168584672648597674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_51
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 1253
+        width: 138
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec012f77815845630800000000000000
+      internalID: 3914900316229865678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_52
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 1253
+        width: 138
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95133cf9ccce67890800000000000000
+      internalID: -7460515369094794919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_53
+      rect:
+        serializedVersion: 2
+        x: 4561
+        y: 1253
+        width: 138
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61b39eae05110ec0800000000000000
+      internalID: -3602575074117045909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_54
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 1254
+        width: 138
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4761f1b4e36e7a7f0800000000000000
+      internalID: -601258870007982476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_55
+      rect:
+        serializedVersion: 2
+        x: 6608
+        y: 1254
+        width: 139
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a18be3957791270800000000000000
+      internalID: 8221733819929598574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hide Gun_56
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 229
+        width: 137
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd93a562dbe1fc90800000000000000
+      internalID: -7137664645524644423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

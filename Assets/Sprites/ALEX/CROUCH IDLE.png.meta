@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 409bee0bccfb69a4298d93565dd4783a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6133195839577728650
+    second: CROUCH IDLE_0
+  - first:
+      213: -8835716620406402852
+    second: CROUCH IDLE_1
+  - first:
+      213: -7738245314797694374
+    second: CROUCH IDLE_2
+  - first:
+      213: -2600362745136013417
+    second: CROUCH IDLE_3
+  - first:
+      213: 6471143806988247173
+    second: CROUCH IDLE_4
+  - first:
+      213: -850338386591728478
+    second: CROUCH IDLE_5
+  - first:
+      213: -6859717049554493639
+    second: CROUCH IDLE_6
+  - first:
+      213: 8471083989876035620
+    second: CROUCH IDLE_7
+  - first:
+      213: 3184901945605573478
+    second: CROUCH IDLE_8
+  - first:
+      213: -5751465298376939568
+    second: CROUCH IDLE_9
+  - first:
+      213: -6662894485553777282
+    second: CROUCH IDLE_10
+  - first:
+      213: -1903301859387910416
+    second: CROUCH IDLE_11
+  - first:
+      213: -8764886335718625682
+    second: CROUCH IDLE_12
+  - first:
+      213: -7041268948719598981
+    second: CROUCH IDLE_13
+  - first:
+      213: -3208870722437141911
+    second: CROUCH IDLE_14
+  - first:
+      213: -7444296423143322261
+    second: CROUCH IDLE_15
+  - first:
+      213: -9170591692108185081
+    second: CROUCH IDLE_16
+  - first:
+      213: -8427481775462738478
+    second: CROUCH IDLE_17
+  - first:
+      213: -3455707448927978252
+    second: CROUCH IDLE_18
+  - first:
+      213: -1885715892654311857
+    second: CROUCH IDLE_19
+  - first:
+      213: -6886124778058040721
+    second: CROUCH IDLE_20
+  - first:
+      213: -688144294415655427
+    second: CROUCH IDLE_21
+  - first:
+      213: -4821734296969232946
+    second: CROUCH IDLE_22
+  - first:
+      213: -1108227599943048598
+    second: CROUCH IDLE_23
+  - first:
+      213: -5922285788603885961
+    second: CROUCH IDLE_24
+  - first:
+      213: -2266658324031732898
+    second: CROUCH IDLE_25
+  - first:
+      213: 5859384098117533838
+    second: CROUCH IDLE_26
+  - first:
+      213: -6241111947032552457
+    second: CROUCH IDLE_27
+  - first:
+      213: -2754217803762540258
+    second: CROUCH IDLE_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CROUCH IDLE_0
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 4326
+        width: 331
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a862febfe1d7d1550800000000000000
+      internalID: 6133195839577728650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_1
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 4326
+        width: 331
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd059a02c8a316580800000000000000
+      internalID: -8835716620406402852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_2
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 4326
+        width: 331
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5217aa92ea3c9490800000000000000
+      internalID: -7738245314797694374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_3
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 4326
+        width: 332
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f12015cd7a9ebd0800000000000000
+      internalID: -2600362745136013417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_4
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 4326
+        width: 332
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580e002c10f1ec950800000000000000
+      internalID: 6471143806988247173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_5
+      rect:
+        serializedVersion: 2
+        x: 5489
+        y: 4327
+        width: 333
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac32502ebdf234f0800000000000000
+      internalID: -850338386591728478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_6
+      rect:
+        serializedVersion: 2
+        x: 6513
+        y: 4327
+        width: 333
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f1d9110b36dc0a0800000000000000
+      internalID: -6859717049554493639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_7
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 3303
+        width: 333
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4205f0fc1065f8570800000000000000
+      internalID: 8471083989876035620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_8
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 3303
+        width: 333
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b4548f17b033c20800000000000000
+      internalID: 3184901945605573478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_9
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 3303
+        width: 334
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7a140a8c0be20b0800000000000000
+      internalID: -5751465298376939568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_10
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 3303
+        width: 334
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7578a454c4a883a0800000000000000
+      internalID: -6662894485553777282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_11
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 3304
+        width: 336
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6d7d20b0d1695e0800000000000000
+      internalID: -1903301859387910416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_12
+      rect:
+        serializedVersion: 2
+        x: 5489
+        y: 3304
+        width: 338
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ee0d6e05edc5680800000000000000
+      internalID: -8764886335718625682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_13
+      rect:
+        serializedVersion: 2
+        x: 6513
+        y: 3304
+        width: 341
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7284978233684e90800000000000000
+      internalID: -7041268948719598981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_14
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 2280
+        width: 342
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aabfa441dc773d0800000000000000
+      internalID: -3208870722437141911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_15
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 2280
+        width: 342
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dc4df38db80b890800000000000000
+      internalID: -7444296423143322261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_16
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 2280
+        width: 340
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7024eb3a1738bb080800000000000000
+      internalID: -9170591692108185081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_17
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 2280
+        width: 338
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d51776d9f19b0b80800000000000000
+      internalID: -8427481775462738478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_18
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 2279
+        width: 335
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcf9f2626cda00d0800000000000000
+      internalID: -3455707448927978252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_19
+      rect:
+        serializedVersion: 2
+        x: 5489
+        y: 2279
+        width: 333
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46f707f26794d5e0800000000000000
+      internalID: -1885715892654311857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_20
+      rect:
+        serializedVersion: 2
+        x: 6513
+        y: 2279
+        width: 332
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ab5d4aff19f60a0800000000000000
+      internalID: -6886124778058040721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_21
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1255
+        width: 331
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd942109683376f0800000000000000
+      internalID: -688144294415655427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_22
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1255
+        width: 330
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdb4db1432c51db0800000000000000
+      internalID: -4821734296969232946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_23
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 1255
+        width: 329
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a626c179ed8ce90f0800000000000000
+      internalID: -1108227599943048598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_24
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 1255
+        width: 329
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776dbefe370dfcda0800000000000000
+      internalID: -5922285788603885961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_25
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 1255
+        width: 330
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5308e873463b80e0800000000000000
+      internalID: -2266658324031732898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_26
+      rect:
+        serializedVersion: 2
+        x: 5489
+        y: 1254
+        width: 330
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e804edafac6b05150800000000000000
+      internalID: 5859384098117533838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_27
+      rect:
+        serializedVersion: 2
+        x: 6513
+        y: 1254
+        width: 330
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb9da140cd1369a0800000000000000
+      internalID: -6241111947032552457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH IDLE_28
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 230
+        width: 331
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e116dacff7d07c9d0800000000000000
+      internalID: -2754217803762540258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

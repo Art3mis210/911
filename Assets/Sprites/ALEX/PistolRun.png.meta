@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: a1e30d1ae10ef73459536ad698d9492c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7600116136824238482
+    second: PistolRun_0
+  - first:
+      213: -4280804678495908042
+    second: PistolRun_1
+  - first:
+      213: -3545967192103336068
+    second: PistolRun_2
+  - first:
+      213: -68793569781253980
+    second: PistolRun_3
+  - first:
+      213: 1017818488878382039
+    second: PistolRun_4
+  - first:
+      213: -3535443192504886473
+    second: PistolRun_5
+  - first:
+      213: 5019663523719651769
+    second: PistolRun_6
+  - first:
+      213: 8575670297210437598
+    second: PistolRun_7
+  - first:
+      213: -3447890440753900391
+    second: PistolRun_8
+  - first:
+      213: 839323501209644548
+    second: PistolRun_9
+  - first:
+      213: -3782024454583620568
+    second: PistolRun_10
+  - first:
+      213: -2650091196698388162
+    second: PistolRun_11
+  - first:
+      213: -8445953531715322053
+    second: PistolRun_12
+  - first:
+      213: -8143393222638143524
+    second: PistolRun_13
+  - first:
+      213: -7053121015537338586
+    second: PistolRun_14
+  - first:
+      213: -6416721057688206643
+    second: PistolRun_15
+  - first:
+      213: 1430656682452958906
+    second: PistolRun_16
+  - first:
+      213: 5652582616296869263
+    second: PistolRun_17
+  - first:
+      213: 7666410198413400950
+    second: PistolRun_18
+  - first:
+      213: -658561965496627798
+    second: PistolRun_19
+  - first:
+      213: 7535244908844993258
+    second: PistolRun_20
+  - first:
+      213: -7500874389055183556
+    second: PistolRun_21
+  - first:
+      213: 3441767315211590350
+    second: PistolRun_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PistolRun_0
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 4344
+        width: 371
+        height: 545
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e80e404a6f68690800000000000000
+      internalID: -7600116136824238482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolRun_1
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 4346
+        width: 404
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fcb6953d68794c0800000000000000
+      internalID: -4280804678495908042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolRun_2
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 4347
+        width: 435
+        height: 545
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77cd7940a13acec0800000000000000
+      internalID: -3545967192103336068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolRun_3
+      rect:
+        serializedVersion: 2
+        x: 3406
+        y: 4347
+        width: 464
+        height: 547
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a87b5edc989b0ff0800000000000000
+      internalID: -68793569781253980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolRun_4
+      rect:
+        serializedVersion: 2
+        x: 4407
+        y: 4347
+        width: 487
+        height: 549
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbbb63e584002e00800000000000000
+      internalID: 1017818488878382039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolRun_5
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 4346
+        width: 496
+        height: 551
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b5c23e5259feec0800000000000000
+      internalID: -3535443192504886473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolRun_6
+      rect:
+        serializedVersion: 2
+        x: 6437
+        y: 4349
+        width: 500
+        height: 545
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1ab47216d69a540800000000000000
+      internalID: 5019663523719651769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolRun_7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 3337
+        width: 490
+        height: 530
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfb81013b6e20770800000000000000
+      internalID: 8575670297210437598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolRun_8
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 3336
+        width: 464
+        height: 527
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994166e69e1a620d0800000000000000
+      internalID: -3447890440753900391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolRun_9
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 3336
+        width: 423
+        height: 525
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eec350740e5ab00800000000000000
+      internalID: 839323501209644548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolRun_10
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 3337
+        width: 382
+        height: 523
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ce3bcebcc838bc0800000000000000
+      internalID: -3782024454583620568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolRun_11
+      rect:
+        serializedVersion: 2
+        x: 4551
+        y: 3334
+        width: 336
+        height: 527
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39176ee81cf83bd0800000000000000
+      internalID: -2650091196698388162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolRun_12
+      rect:
+        serializedVersion: 2
+        x: 5549
+        y: 3332
+        width: 364
+        height: 533
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ff6a0f202f9ca80800000000000000
+      internalID: -8445953531715322053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolRun_13
+      rect:
+        serializedVersion: 2
+        x: 6542
+        y: 3334
+        width: 397
+        height: 535
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd77452720bdcfe80800000000000000
+      internalID: -8143393222638143524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolRun_14
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 2312
+        width: 428
+        height: 537
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627fd0f2ec74e1e90800000000000000
+      internalID: -7053121015537338586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolRun_15
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 2313
+        width: 451
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2c9bdf13a33f6a0800000000000000
+      internalID: -6416721057688206643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolRun_16
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 2314
+        width: 461
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeb5293ca6bad310800000000000000
+      internalID: 1430656682452958906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolRun_17
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 2312
+        width: 463
+        height: 545
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d4cebd0f1027e40800000000000000
+      internalID: 5652582616296869263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolRun_18
+      rect:
+        serializedVersion: 2
+        x: 4437
+        y: 2307
+        width: 457
+        height: 547
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bdcd2057f846a60800000000000000
+      internalID: 7666410198413400950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolRun_19
+      rect:
+        serializedVersion: 2
+        x: 5475
+        y: 2300
+        width: 443
+        height: 550
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad8dffa1615cd6f0800000000000000
+      internalID: -658561965496627798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolRun_20
+      rect:
+        serializedVersion: 2
+        x: 6520
+        y: 2297
+        width: 421
+        height: 549
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeac6473251929860800000000000000
+      internalID: 7535244908844993258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolRun_21
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1273
+        width: 395
+        height: 546
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c356a870c7a87e790800000000000000
+      internalID: -7500874389055183556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolRun_22
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1272
+        width: 371
+        height: 545
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca9cbe432d93cf20800000000000000
+      internalID: 3441767315211590350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

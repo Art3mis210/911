@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 3606b979154edca4db7ed74b7be538ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8865704557152310640
+    second: CROUCH TO STAND_0
+  - first:
+      213: -3784152018699796470
+    second: CROUCH TO STAND_1
+  - first:
+      213: 8937152593965877192
+    second: CROUCH TO STAND_2
+  - first:
+      213: -4027059380322147234
+    second: CROUCH TO STAND_3
+  - first:
+      213: -5528010409782395764
+    second: CROUCH TO STAND_4
+  - first:
+      213: 3020706411935391803
+    second: CROUCH TO STAND_5
+  - first:
+      213: -3788615753722708733
+    second: CROUCH TO STAND_6
+  - first:
+      213: -778820582826102706
+    second: CROUCH TO STAND_7
+  - first:
+      213: 9201875499881697914
+    second: CROUCH TO STAND_8
+  - first:
+      213: -1246424174105517690
+    second: CROUCH TO STAND_9
+  - first:
+      213: 7353756258648777787
+    second: CROUCH TO STAND_10
+  - first:
+      213: -1384078509832079437
+    second: CROUCH TO STAND_11
+  - first:
+      213: -7896508826660523478
+    second: CROUCH TO STAND_12
+  - first:
+      213: -1916832082485342277
+    second: CROUCH TO STAND_13
+  - first:
+      213: -3449133520734657506
+    second: CROUCH TO STAND_14
+  - first:
+      213: 3585751513765102372
+    second: CROUCH TO STAND_15
+  - first:
+      213: -1140955349141548822
+    second: CROUCH TO STAND_16
+  - first:
+      213: 5074177188763919928
+    second: CROUCH TO STAND_17
+  - first:
+      213: 2519151964996876600
+    second: CROUCH TO STAND_18
+  - first:
+      213: -7070328288900557763
+    second: CROUCH TO STAND_19
+  - first:
+      213: -7612055426309882112
+    second: CROUCH TO STAND_20
+  - first:
+      213: -2897802278107952437
+    second: CROUCH TO STAND_21
+  - first:
+      213: 5588804915958201384
+    second: CROUCH TO STAND_22
+  - first:
+      213: 7859978089321676852
+    second: CROUCH TO STAND_23
+  - first:
+      213: -4719582566678432653
+    second: CROUCH TO STAND_24
+  - first:
+      213: 8369839001627761684
+    second: CROUCH TO STAND_25
+  - first:
+      213: 363612257757309146
+    second: CROUCH TO STAND_26
+  - first:
+      213: 8988514160623860383
+    second: CROUCH TO STAND_27
+  - first:
+      213: 5710454601485785549
+    second: CROUCH TO STAND_28
+  - first:
+      213: -4648108173849811373
+    second: CROUCH TO STAND_29
+  - first:
+      213: -3591306876269406719
+    second: CROUCH TO STAND_30
+  - first:
+      213: 4271665357026531012
+    second: CROUCH TO STAND_31
+  - first:
+      213: 3260289609373844624
+    second: CROUCH TO STAND_32
+  - first:
+      213: 221057016552911104
+    second: CROUCH TO STAND_33
+  - first:
+      213: 5426672694848567337
+    second: CROUCH TO STAND_34
+  - first:
+      213: 6968629777708293914
+    second: CROUCH TO STAND_35
+  - first:
+      213: 4414476761304807905
+    second: CROUCH TO STAND_36
+  - first:
+      213: 6210326212748805771
+    second: CROUCH TO STAND_37
+  - first:
+      213: 998300719418519002
+    second: CROUCH TO STAND_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CROUCH TO STAND_0
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 5367
+        width: 318
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09aef538da0b6f480800000000000000
+      internalID: -8865704557152310640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_1
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 5367
+        width: 318
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00425dc9cdfb7bc0800000000000000
+      internalID: -3784152018699796470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_2
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 5367
+        width: 317
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c70cc2eee4270c70800000000000000
+      internalID: 8937152593965877192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_3
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 5367
+        width: 316
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e546e7274d20d18c0800000000000000
+      internalID: -4027059380322147234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_4
+      rect:
+        serializedVersion: 2
+        x: 4544
+        y: 5367
+        width: 314
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c324a22df8843b0800000000000000
+      internalID: -5528010409782395764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_5
+      rect:
+        serializedVersion: 2
+        x: 5574
+        y: 5367
+        width: 310
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30672e2a74bbe920800000000000000
+      internalID: 3020706411935391803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_6
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 5367
+        width: 310
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30db8e08b022c6bc0800000000000000
+      internalID: -3788615753722708733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 4344
+        width: 312
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4033e86ec21135f0800000000000000
+      internalID: -778820582826102706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_8
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 4345
+        width: 314
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7291d57301a3bf70800000000000000
+      internalID: 9201875499881697914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_9
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 4345
+        width: 317
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6812bf641dfc3bee0800000000000000
+      internalID: -1246424174105517690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_10
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 4346
+        width: 319
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34e099fa5acd0660800000000000000
+      internalID: 7353756258648777787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_11
+      rect:
+        serializedVersion: 2
+        x: 4552
+        y: 4346
+        width: 320
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7f430bde3cacce0800000000000000
+      internalID: -1384078509832079437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_12
+      rect:
+        serializedVersion: 2
+        x: 5576
+        y: 4346
+        width: 322
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22b9254f07f96290800000000000000
+      internalID: -7896508826660523478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_13
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 4346
+        width: 323
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf8365706b0665e0800000000000000
+      internalID: -1916832082485342277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 3321
+        width: 324
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14e7b156573220d0800000000000000
+      internalID: -3449133520734657506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_15
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 3321
+        width: 325
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423c9cee00623c130800000000000000
+      internalID: 3585751513765102372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_16
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 3321
+        width: 325
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae016dda7238a20f0800000000000000
+      internalID: -1140955349141548822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_17
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 3321
+        width: 324
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836e9afd4491b6640800000000000000
+      internalID: 5074177188763919928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_18
+      rect:
+        serializedVersion: 2
+        x: 4554
+        y: 3321
+        width: 322
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839bdd87d53d5f220800000000000000
+      internalID: 2519151964996876600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_19
+      rect:
+        serializedVersion: 2
+        x: 5580
+        y: 3321
+        width: 318
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34dfa6a1e521ed90800000000000000
+      internalID: -7070328288900557763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_20
+      rect:
+        serializedVersion: 2
+        x: 6606
+        y: 3323
+        width: 315
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ff6309beb8c5690800000000000000
+      internalID: -7612055426309882112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_21
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2301
+        width: 310
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcace086e20f8c7d0800000000000000
+      internalID: -2897802278107952437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_22
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 2306
+        width: 305
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c35a6d57c6f8d40800000000000000
+      internalID: 5588804915958201384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_23
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 2310
+        width: 301
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4304f54ad60441d60800000000000000
+      internalID: 7859978089321676852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_24
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 2311
+        width: 295
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374710939aca08eb0800000000000000
+      internalID: -4719582566678432653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_25
+      rect:
+        serializedVersion: 2
+        x: 4571
+        y: 2311
+        width: 287
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c9b370a34a72470800000000000000
+      internalID: 8369839001627761684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_26
+      rect:
+        serializedVersion: 2
+        x: 5598
+        y: 2311
+        width: 280
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad82a930c6fcb0500800000000000000
+      internalID: 363612257757309146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_27
+      rect:
+        serializedVersion: 2
+        x: 6626
+        y: 2305
+        width: 275
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9abd82810e9dbc70800000000000000
+      internalID: 8988514160623860383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_28
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1274
+        width: 270
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc91e8b643c9f3f40800000000000000
+      internalID: 5710454601485785549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_29
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1270
+        width: 269
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356a71c1e3a9e7fb0800000000000000
+      internalID: -4648108173849811373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_30
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 1267
+        width: 268
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1065b807c6d192ec0800000000000000
+      internalID: -3591306876269406719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_31
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 1267
+        width: 269
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c698ec8201084b30800000000000000
+      internalID: 4271665357026531012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_32
+      rect:
+        serializedVersion: 2
+        x: 4583
+        y: 1267
+        width: 270
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09400af3020ee3d20800000000000000
+      internalID: 3260289609373844624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_33
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 1267
+        width: 270
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0017eb27f2a511300800000000000000
+      internalID: 221057016552911104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_34
+      rect:
+        serializedVersion: 2
+        x: 6631
+        y: 1267
+        width: 270
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928b2c0701a6f4b40800000000000000
+      internalID: 5426672694848567337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_35
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 243
+        width: 270
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f13878cdb85b060800000000000000
+      internalID: 6968629777708293914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_36
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 243
+        width: 270
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e93acab93f534d30800000000000000
+      internalID: 4414476761304807905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_37
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 243
+        width: 270
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86803a69c28f2650800000000000000
+      internalID: 6210326212748805771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH TO STAND_38
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 243
+        width: 270
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add25ff073daadd00800000000000000
+      internalID: 998300719418519002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

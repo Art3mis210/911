@@ -1,0 +1,1568 @@
+fileFormatVersion: 2
+guid: a674a9f6e42c10a4ba361d84b7d4ed1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8198322854344068983
+    second: Draw Pistol_0
+  - first:
+      213: -8766200181164182048
+    second: Draw Pistol_1
+  - first:
+      213: -8556835080706960999
+    second: Draw Pistol_2
+  - first:
+      213: -2060750456856776887
+    second: Draw Pistol_3
+  - first:
+      213: -7815310323848993795
+    second: Draw Pistol_4
+  - first:
+      213: -7187498726591803934
+    second: Draw Pistol_5
+  - first:
+      213: 480842241271574342
+    second: Draw Pistol_6
+  - first:
+      213: 8124656514649571268
+    second: Draw Pistol_7
+  - first:
+      213: 2251735640111268773
+    second: Draw Pistol_8
+  - first:
+      213: 7343155442869990747
+    second: Draw Pistol_9
+  - first:
+      213: 966971358988853022
+    second: Draw Pistol_10
+  - first:
+      213: 4182874569605447152
+    second: Draw Pistol_11
+  - first:
+      213: -3026045151087217014
+    second: Draw Pistol_12
+  - first:
+      213: 5974353756990727532
+    second: Draw Pistol_13
+  - first:
+      213: 3317858593864898487
+    second: Draw Pistol_14
+  - first:
+      213: 6785010470275509663
+    second: Draw Pistol_15
+  - first:
+      213: 5069824462117286153
+    second: Draw Pistol_16
+  - first:
+      213: -5031536719237881505
+    second: Draw Pistol_17
+  - first:
+      213: 3487150557215067224
+    second: Draw Pistol_18
+  - first:
+      213: 7444504253776238751
+    second: Draw Pistol_19
+  - first:
+      213: -3335320782671374275
+    second: Draw Pistol_20
+  - first:
+      213: 824663341665593724
+    second: Draw Pistol_21
+  - first:
+      213: -785298184239585298
+    second: Draw Pistol_22
+  - first:
+      213: -8849167312738588176
+    second: Draw Pistol_23
+  - first:
+      213: -8731866729624144191
+    second: Draw Pistol_24
+  - first:
+      213: 5499512250780418533
+    second: Draw Pistol_25
+  - first:
+      213: 803222422468322174
+    second: Draw Pistol_26
+  - first:
+      213: -3319749840638905267
+    second: Draw Pistol_27
+  - first:
+      213: -85605809206198841
+    second: Draw Pistol_28
+  - first:
+      213: -5066350469502322793
+    second: Draw Pistol_29
+  - first:
+      213: -6893688945562319174
+    second: Draw Pistol_30
+  - first:
+      213: 2665226557112828846
+    second: Draw Pistol_31
+  - first:
+      213: -8808447161242171073
+    second: Draw Pistol_32
+  - first:
+      213: -3453985546815492493
+    second: Draw Pistol_33
+  - first:
+      213: -1172866728494800302
+    second: Draw Pistol_34
+  - first:
+      213: 3773648505015592654
+    second: Draw Pistol_35
+  - first:
+      213: 6527282395828616829
+    second: Draw Pistol_36
+  - first:
+      213: 3703440558776717948
+    second: Draw Pistol_37
+  - first:
+      213: -6925736919428499697
+    second: Draw Pistol_38
+  - first:
+      213: -9107723569126763188
+    second: Draw Pistol_39
+  - first:
+      213: 7971684970388747675
+    second: Draw Pistol_40
+  - first:
+      213: 807840425039550053
+    second: Draw Pistol_41
+  - first:
+      213: -6113125293828914005
+    second: Draw Pistol_42
+  - first:
+      213: -1250754251702699455
+    second: Draw Pistol_43
+  - first:
+      213: 6461728707150108019
+    second: Draw Pistol_44
+  - first:
+      213: 8463864157199611449
+    second: Draw Pistol_45
+  - first:
+      213: -673611287331381765
+    second: Draw Pistol_46
+  - first:
+      213: 4993781524522921012
+    second: Draw Pistol_47
+  - first:
+      213: -895158088799617873
+    second: Draw Pistol_48
+  - first:
+      213: 8204851220232052948
+    second: Draw Pistol_49
+  - first:
+      213: 7156196369403565138
+    second: Draw Pistol_50
+  - first:
+      213: 680829016106229915
+    second: Draw Pistol_51
+  - first:
+      213: -6405198822525405766
+    second: Draw Pistol_52
+  - first:
+      213: -1750007096622308768
+    second: Draw Pistol_53
+  - first:
+      213: 8028176150708219610
+    second: Draw Pistol_54
+  - first:
+      213: 192551105544029131
+    second: Draw Pistol_55
+  - first:
+      213: 837426196199758298
+    second: Draw Pistol_56
+  - first:
+      213: -4266909593633324480
+    second: Draw Pistol_57
+  - first:
+      213: 5198176831431247143
+    second: Draw Pistol_58
+  - first:
+      213: 6817036450689335399
+    second: Draw Pistol_59
+  - first:
+      213: 2597237046542631849
+    second: Draw Pistol_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Draw Pistol_0
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 8422
+        width: 190
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980fad0fcc4b93e80800000000000000
+      internalID: -8198322854344068983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_1
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 8422
+        width: 192
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e57ebb6163385680800000000000000
+      internalID: -8766200181164182048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_2
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 8422
+        width: 192
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9915cd484d3004980800000000000000
+      internalID: -8556835080706960999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_3
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 8422
+        width: 196
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fe358b06eb663e0800000000000000
+      internalID: -2060750456856776887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_4
+      rect:
+        serializedVersion: 2
+        x: 4522
+        y: 8422
+        width: 200
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3a981faa07a8390800000000000000
+      internalID: -7815310323848993795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_5
+      rect:
+        serializedVersion: 2
+        x: 5542
+        y: 8422
+        width: 205
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed4ce93dffd04c90800000000000000
+      internalID: -7187498726591803934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_6
+      rect:
+        serializedVersion: 2
+        x: 6560
+        y: 8422
+        width: 211
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64faef7887b4ca600800000000000000
+      internalID: 480842241271574342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_7
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 7397
+        width: 218
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf30c5cd0490c070800000000000000
+      internalID: 8124656514649571268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_8
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 7397
+        width: 225
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a34bec62a5cf3f10800000000000000
+      internalID: 2251735640111268773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_9
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 7397
+        width: 232
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55fdb638f028e560800000000000000
+      internalID: 7343155442869990747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_10
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 7397
+        width: 236
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fd188e35f5b6d00800000000000000
+      internalID: 966971358988853022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_11
+      rect:
+        serializedVersion: 2
+        x: 4492
+        y: 7397
+        width: 240
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdf85d524e8c0a30800000000000000
+      internalID: 4182874569605447152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_12
+      rect:
+        serializedVersion: 2
+        x: 5518
+        y: 7397
+        width: 240
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86372fb7f35106d0800000000000000
+      internalID: -3026045151087217014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_13
+      rect:
+        serializedVersion: 2
+        x: 6544
+        y: 7398
+        width: 241
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65e3f7a61b29e250800000000000000
+      internalID: 5974353756990727532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_14
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 6374
+        width: 241
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b75b46ffc66b0e20800000000000000
+      internalID: 3317858593864898487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_15
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 6374
+        width: 240
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9de31ef213392e50800000000000000
+      internalID: 6785010470275509663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_16
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 6374
+        width: 241
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901361abc72ab5640800000000000000
+      internalID: 5069824462117286153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_17
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 6374
+        width: 243
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51ed7713046c2ab0800000000000000
+      internalID: -5031536719237881505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_18
+      rect:
+        serializedVersion: 2
+        x: 4503
+        y: 6374
+        width: 245
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c0c11c4f8d46030800000000000000
+      internalID: 3487150557215067224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_19
+      rect:
+        serializedVersion: 2
+        x: 5526
+        y: 6374
+        width: 250
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9897371d21305760800000000000000
+      internalID: 7444504253776238751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_20
+      rect:
+        serializedVersion: 2
+        x: 6550
+        y: 6374
+        width: 254
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3815e06b6f86b1d0800000000000000
+      internalID: -3335320782671374275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_21
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 5350
+        width: 259
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79a343a0fac17b00800000000000000
+      internalID: 824663341665593724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_22
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 5350
+        width: 261
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7e3ad467f0a15f0800000000000000
+      internalID: -785298184239585298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_23
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 5350
+        width: 263
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9e736c631713580800000000000000
+      internalID: -8849167312738588176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_24
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 5349
+        width: 264
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c673ba097d22d680800000000000000
+      internalID: -8731866729624144191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_25
+      rect:
+        serializedVersion: 2
+        x: 4501
+        y: 5349
+        width: 265
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e10da12141325c40800000000000000
+      internalID: 5499512250780418533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_26
+      rect:
+        serializedVersion: 2
+        x: 5525
+        y: 5349
+        width: 263
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e736ade998e952b00800000000000000
+      internalID: 803222422468322174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_27
+      rect:
+        serializedVersion: 2
+        x: 6548
+        y: 5349
+        width: 262
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44fe85db11ede1d0800000000000000
+      internalID: -3319749840638905267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_28
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 4325
+        width: 263
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdfd8758fddfcef0800000000000000
+      internalID: -85605809206198841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_29
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 4325
+        width: 261
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7973ea53715b0b9b0800000000000000
+      internalID: -5066350469502322793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_30
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 4325
+        width: 260
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab688b7ad62b450a0800000000000000
+      internalID: -6893688945562319174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_31
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 4325
+        width: 259
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3c5a6ce69ccf420800000000000000
+      internalID: 2665226557112828846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_32
+      rect:
+        serializedVersion: 2
+        x: 4508
+        y: 4325
+        width: 255
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39cc5bd9fb12c580800000000000000
+      internalID: -8808447161242171073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_33
+      rect:
+        serializedVersion: 2
+        x: 5535
+        y: 4325
+        width: 252
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37eaab6f17af010d0800000000000000
+      internalID: -3453985546815492493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_34
+      rect:
+        serializedVersion: 2
+        x: 6561
+        y: 4325
+        width: 249
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252613face329bfe0800000000000000
+      internalID: -1172866728494800302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_35
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 3301
+        width: 252
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec663a85251be5430800000000000000
+      internalID: 3773648505015592654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_36
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 3301
+        width: 260
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e760881c0959a50800000000000000
+      internalID: 6527282395828616829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_37
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 3301
+        width: 259
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7219a80193456330800000000000000
+      internalID: 3703440558776717948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_38
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 3300
+        width: 256
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07f7a547f6d2ef90800000000000000
+      internalID: -6925736919428499697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_39
+      rect:
+        serializedVersion: 2
+        x: 4534
+        y: 3300
+        width: 251
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c451fbd2badda9180800000000000000
+      internalID: -9107723569126763188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_40
+      rect:
+        serializedVersion: 2
+        x: 5563
+        y: 3300
+        width: 243
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b957759ae3d11ae60800000000000000
+      internalID: 7971684970388747675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_41
+      rect:
+        serializedVersion: 2
+        x: 6590
+        y: 3300
+        width: 237
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566dea12696063b00800000000000000
+      internalID: 807840425039550053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_42
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2276
+        width: 231
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba44fd91fe0d92ba0800000000000000
+      internalID: -6113125293828914005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_43
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 2276
+        width: 227
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a73f582ad64aee0800000000000000
+      internalID: -1250754251702699455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_44
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 2276
+        width: 225
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37550a0060caca950800000000000000
+      internalID: 6461728707150108019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_45
+      rect:
+        serializedVersion: 2
+        x: 3518
+        y: 2276
+        width: 223
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9363b058b9fa57570800000000000000
+      internalID: 8463864157199611449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_46
+      rect:
+        serializedVersion: 2
+        x: 4542
+        y: 2276
+        width: 220
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd5be56a1ad6a6f0800000000000000
+      internalID: -673611287331381765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_47
+      rect:
+        serializedVersion: 2
+        x: 5564
+        y: 2276
+        width: 219
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ce81f96d97d4540800000000000000
+      internalID: 4993781524522921012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_48
+      rect:
+        serializedVersion: 2
+        x: 6588
+        y: 2276
+        width: 216
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facf7430672c393f0800000000000000
+      internalID: -895158088799617873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_49
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1253
+        width: 215
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0acd0b6bc7dd170800000000000000
+      internalID: 8204851220232052948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_50
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1253
+        width: 214
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2545d3dceaaef4360800000000000000
+      internalID: 7156196369403565138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_51
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1253
+        width: 213
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b906ac9026ac27900800000000000000
+      internalID: 680829016106229915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_52
+      rect:
+        serializedVersion: 2
+        x: 3513
+        y: 1253
+        width: 213
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab57f9b6b992c17a0800000000000000
+      internalID: -6405198822525405766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_53
+      rect:
+        serializedVersion: 2
+        x: 4537
+        y: 1253
+        width: 213
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0622a6b41d9b6b7e0800000000000000
+      internalID: -1750007096622308768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_54
+      rect:
+        serializedVersion: 2
+        x: 5560
+        y: 1253
+        width: 214
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adee9398cafc96f60800000000000000
+      internalID: 8028176150708219610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_55
+      rect:
+        serializedVersion: 2
+        x: 6585
+        y: 1254
+        width: 212
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc38f07d5341ca200800000000000000
+      internalID: 192551105544029131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_56
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 229
+        width: 215
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9d71640b22f9b00800000000000000
+      internalID: 837426196199758298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_57
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 229
+        width: 214
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04287c6e454e8c4c0800000000000000
+      internalID: -4266909593633324480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_58
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 229
+        width: 215
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725002d7942a32840800000000000000
+      internalID: 5198176831431247143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_59
+      rect:
+        serializedVersion: 2
+        x: 3511
+        y: 229
+        width: 216
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7604a30a88afa9e50800000000000000
+      internalID: 6817036450689335399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw Pistol_60
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 229
+        width: 215
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a388a4455d3b0420800000000000000
+      internalID: 2597237046542631849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

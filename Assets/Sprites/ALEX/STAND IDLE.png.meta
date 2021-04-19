@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: 31e1bc4bc6f082b4b8a0310603bc1c67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1305461530774139555
+    second: STAND IDLE_0
+  - first:
+      213: -6512162751768693831
+    second: STAND IDLE_1
+  - first:
+      213: -2027323081949460796
+    second: STAND IDLE_2
+  - first:
+      213: -2017042199452675802
+    second: STAND IDLE_3
+  - first:
+      213: 3716824932773844965
+    second: STAND IDLE_4
+  - first:
+      213: -1475780466517936848
+    second: STAND IDLE_5
+  - first:
+      213: 5047717530859167116
+    second: STAND IDLE_6
+  - first:
+      213: 8709849516914506982
+    second: STAND IDLE_7
+  - first:
+      213: -1024470425681727076
+    second: STAND IDLE_8
+  - first:
+      213: 740583303074915668
+    second: STAND IDLE_9
+  - first:
+      213: -2815083361252279758
+    second: STAND IDLE_10
+  - first:
+      213: -8636290115199365537
+    second: STAND IDLE_11
+  - first:
+      213: 5147911562604048368
+    second: STAND IDLE_12
+  - first:
+      213: -3990186394830051154
+    second: STAND IDLE_13
+  - first:
+      213: -3805948439329335708
+    second: STAND IDLE_14
+  - first:
+      213: 3632721578667274640
+    second: STAND IDLE_15
+  - first:
+      213: 425756924880414104
+    second: STAND IDLE_16
+  - first:
+      213: 7332356842400286172
+    second: STAND IDLE_17
+  - first:
+      213: -14095299593816019
+    second: STAND IDLE_18
+  - first:
+      213: -697532312625298809
+    second: STAND IDLE_19
+  - first:
+      213: 4899316817274064598
+    second: STAND IDLE_20
+  - first:
+      213: 8994141930671321328
+    second: STAND IDLE_21
+  - first:
+      213: -4437463546625405863
+    second: STAND IDLE_22
+  - first:
+      213: -1162245697666981526
+    second: STAND IDLE_23
+  - first:
+      213: 2998079183685772840
+    second: STAND IDLE_24
+  - first:
+      213: 266557205812182469
+    second: STAND IDLE_25
+  - first:
+      213: 3532170591840382267
+    second: STAND IDLE_26
+  - first:
+      213: 1062292623376975581
+    second: STAND IDLE_27
+  - first:
+      213: 1351477775211508748
+    second: STAND IDLE_28
+  - first:
+      213: 7164242945690331117
+    second: STAND IDLE_29
+  - first:
+      213: -3607935765281487243
+    second: STAND IDLE_30
+  - first:
+      213: -8778478094703917366
+    second: STAND IDLE_31
+  - first:
+      213: 7527039172562030148
+    second: STAND IDLE_32
+  - first:
+      213: -3107817438704378773
+    second: STAND IDLE_33
+  - first:
+      213: -188527593622846079
+    second: STAND IDLE_34
+  - first:
+      213: -3347356103456080991
+    second: STAND IDLE_35
+  - first:
+      213: 1626695135958117582
+    second: STAND IDLE_36
+  - first:
+      213: 7233493372326746390
+    second: STAND IDLE_37
+  - first:
+      213: -2652567748118501363
+    second: STAND IDLE_38
+  - first:
+      213: 1672842578778860548
+    second: STAND IDLE_39
+  - first:
+      213: 6867287075317281726
+    second: STAND IDLE_40
+  - first:
+      213: -5592953373842620283
+    second: STAND IDLE_41
+  - first:
+      213: 5621832147753125644
+    second: STAND IDLE_42
+  - first:
+      213: -1321886961413505408
+    second: STAND IDLE_43
+  - first:
+      213: 4624095042440882802
+    second: STAND IDLE_44
+  - first:
+      213: 8163237005826744463
+    second: STAND IDLE_45
+  - first:
+      213: -8610490959084094586
+    second: STAND IDLE_46
+  - first:
+      213: 8329587728558480399
+    second: STAND IDLE_47
+  - first:
+      213: -6655592360658604638
+    second: STAND IDLE_48
+  - first:
+      213: 4244984708143118234
+    second: STAND IDLE_49
+  - first:
+      213: -8575768681159320727
+    second: STAND IDLE_50
+  - first:
+      213: -5899134856251118956
+    second: STAND IDLE_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: STAND IDLE_0
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 7411
+        width: 271
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d054687a112ede0800000000000000
+      internalID: -1305461530774139555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_1
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 7411
+        width: 272
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3fb4dea7620a5a0800000000000000
+      internalID: -6512162751768693831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_2
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 7411
+        width: 272
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6c37fe5608dd3e0800000000000000
+      internalID: -2027323081949460796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_3
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 7411
+        width: 271
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62196ac6ec60204e0800000000000000
+      internalID: -2017042199452675802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_4
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 7411
+        width: 271
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7dc427590d49330800000000000000
+      internalID: 3716824932773844965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_5
+      rect:
+        serializedVersion: 2
+        x: 5511
+        y: 7411
+        width: 271
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035fcb61c79f48be0800000000000000
+      internalID: -1475780466517936848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_6
+      rect:
+        serializedVersion: 2
+        x: 6535
+        y: 7411
+        width: 271
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d5f51b9581d0640800000000000000
+      internalID: 5047717530859167116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_7
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 6387
+        width: 271
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecfbc62df99fd870800000000000000
+      internalID: 8709849516914506982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_8
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 6387
+        width: 272
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91f852639958c1f0800000000000000
+      internalID: -1024470425681727076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_9
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 6387
+        width: 272
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455ad522794174a00800000000000000
+      internalID: 740583303074915668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_10
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 6388
+        width: 274
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23af17f0990dee8d0800000000000000
+      internalID: -2815083361252279758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_11
+      rect:
+        serializedVersion: 2
+        x: 4479
+        y: 6388
+        width: 279
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e0352b5ebb52880800000000000000
+      internalID: -8636290115199365537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_12
+      rect:
+        serializedVersion: 2
+        x: 5498
+        y: 6389
+        width: 284
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffe3289a4e017740800000000000000
+      internalID: 5147911562604048368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_13
+      rect:
+        serializedVersion: 2
+        x: 6518
+        y: 6390
+        width: 288
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8ee846d9200a8c0800000000000000
+      internalID: -3990186394830051154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_14
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 5367
+        width: 292
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46692582f0e8e2bc0800000000000000
+      internalID: -3805948439329335708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_15
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 5367
+        width: 293
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091fb5067050a6230800000000000000
+      internalID: 3632721578667274640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_16
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 5367
+        width: 295
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895e82cdaa798e500800000000000000
+      internalID: 425756924880414104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_17
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 5367
+        width: 296
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd58cad13b3c1c560800000000000000
+      internalID: 7332356842400286172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_18
+      rect:
+        serializedVersion: 2
+        x: 4463
+        y: 5366
+        width: 296
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2835b2566cedcff0800000000000000
+      internalID: -14095299593816019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_19
+      rect:
+        serializedVersion: 2
+        x: 5487
+        y: 5366
+        width: 296
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782cc9eae0ed156f0800000000000000
+      internalID: -697532312625298809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_20
+      rect:
+        serializedVersion: 2
+        x: 6511
+        y: 5366
+        width: 296
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dec7b700beddf340800000000000000
+      internalID: 4899316817274064598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_21
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 4342
+        width: 296
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f03c15de6c91dc70800000000000000
+      internalID: 8994141930671321328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_22
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 4341
+        width: 295
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cc5af3a66fa62c0800000000000000
+      internalID: -4437463546625405863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_23
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 4340
+        width: 294
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6165d022bfdedfe0800000000000000
+      internalID: -1162245697666981526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_24
+      rect:
+        serializedVersion: 2
+        x: 3442
+        y: 4340
+        width: 292
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826651012215b9920800000000000000
+      internalID: 2998079183685772840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_25
+      rect:
+        serializedVersion: 2
+        x: 4467
+        y: 4340
+        width: 291
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd71cccd5003b300800000000000000
+      internalID: 266557205812182469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_26
+      rect:
+        serializedVersion: 2
+        x: 5495
+        y: 4340
+        width: 287
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d2ab4607ac40130800000000000000
+      internalID: 3532170591840382267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_27
+      rect:
+        serializedVersion: 2
+        x: 6521
+        y: 4340
+        width: 285
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd607ef33850ebe00800000000000000
+      internalID: 1062292623376975581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_28
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 3316
+        width: 309
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04315940e961c210800000000000000
+      internalID: 1351477775211508748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_29
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 3316
+        width: 322
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7687650018c6360800000000000000
+      internalID: 7164242945690331117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_30
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 3316
+        width: 327
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57648f189890eedc0800000000000000
+      internalID: -3607935765281487243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_31
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 3316
+        width: 323
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac600a8eea49c2680800000000000000
+      internalID: -8778478094703917366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_32
+      rect:
+        serializedVersion: 2
+        x: 4463
+        y: 3316
+        width: 316
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e820b5f3a657860800000000000000
+      internalID: 7527039172562030148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_33
+      rect:
+        serializedVersion: 2
+        x: 5488
+        y: 3316
+        width: 316
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cd2436180ded4d0800000000000000
+      internalID: -3107817438704378773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_34
+      rect:
+        serializedVersion: 2
+        x: 6512
+        y: 3316
+        width: 320
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18540c70727326df0800000000000000
+      internalID: -188527593622846079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_35
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 2292
+        width: 324
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abb3c4eb5dcb81d0800000000000000
+      internalID: -3347356103456080991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_36
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 2292
+        width: 326
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecca3a88b9e239610800000000000000
+      internalID: 1626695135958117582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_37
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 2292
+        width: 323
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6199daeb5e7826460800000000000000
+      internalID: 7233493372326746390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_38
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 2292
+        width: 308
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d082dbedfaf203bd0800000000000000
+      internalID: -2652567748118501363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_39
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 2291
+        width: 284
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c23495671273710800000000000000
+      internalID: 1672842578778860548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_40
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 2291
+        width: 270
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3fae6e5318d4f50800000000000000
+      internalID: 6867287075317281726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_41
+      rect:
+        serializedVersion: 2
+        x: 6536
+        y: 2291
+        width: 270
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580c9ca0a86d162b0800000000000000
+      internalID: -5592953373842620283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_42
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1267
+        width: 270
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0742b97d82c40e40800000000000000
+      internalID: 5621832147753125644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_43
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1267
+        width: 271
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e3abfefc6b7ade0800000000000000
+      internalID: -1321886961413505408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_44
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1267
+        width: 271
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a655c01f51c2040800000000000000
+      internalID: 4624095042440882802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_45
+      rect:
+        serializedVersion: 2
+        x: 3464
+        y: 1267
+        width: 270
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8060ad5ec4a94170800000000000000
+      internalID: 8163237005826744463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_46
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 1267
+        width: 271
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b7412d714618880800000000000000
+      internalID: -8610490959084094586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_47
+      rect:
+        serializedVersion: 2
+        x: 5511
+        y: 1267
+        width: 272
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c5e2638e3a89370800000000000000
+      internalID: 8329587728558480399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_48
+      rect:
+        serializedVersion: 2
+        x: 6535
+        y: 1267
+        width: 272
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ade325c20692a3a0800000000000000
+      internalID: -6655592360658604638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_49
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 243
+        width: 271
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97f5d5e91739ea30800000000000000
+      internalID: 4244984708143118234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_50
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 243
+        width: 272
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b149322dfbcf880800000000000000
+      internalID: -8575768681159320727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAND IDLE_51
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 243
+        width: 272
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ae60b6a10122ea0800000000000000
+      internalID: -5899134856251118956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

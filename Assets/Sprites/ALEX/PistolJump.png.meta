@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 85271b0a845ff7642a3b128b66427820
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6403069089337602406
+    second: PistolJump_0
+  - first:
+      213: -2927377945264241440
+    second: PistolJump_1
+  - first:
+      213: 2641511456967758941
+    second: PistolJump_2
+  - first:
+      213: -1121701195304086754
+    second: PistolJump_3
+  - first:
+      213: -8568077531238059770
+    second: PistolJump_4
+  - first:
+      213: 5289381738511234568
+    second: PistolJump_5
+  - first:
+      213: 2793262327912202979
+    second: PistolJump_6
+  - first:
+      213: -4022726128661539854
+    second: PistolJump_7
+  - first:
+      213: 2937901422206718737
+    second: PistolJump_8
+  - first:
+      213: -1613643415572727099
+    second: PistolJump_9
+  - first:
+      213: 1761487832867752983
+    second: PistolJump_10
+  - first:
+      213: -1228143422224820388
+    second: PistolJump_11
+  - first:
+      213: 5832069825948500580
+    second: PistolJump_12
+  - first:
+      213: 8015076867070205697
+    second: PistolJump_13
+  - first:
+      213: -332514788623899494
+    second: PistolJump_14
+  - first:
+      213: -111655857474151175
+    second: PistolJump_15
+  - first:
+      213: 6948573976602779150
+    second: PistolJump_16
+  - first:
+      213: -6467366937376020618
+    second: PistolJump_17
+  - first:
+      213: -4176484202892848588
+    second: PistolJump_18
+  - first:
+      213: 3128869973519654701
+    second: PistolJump_19
+  - first:
+      213: -5721324198777147838
+    second: PistolJump_20
+  - first:
+      213: 3756833084680440396
+    second: PistolJump_21
+  - first:
+      213: -5766503285221723818
+    second: PistolJump_22
+  - first:
+      213: 9216958191364568593
+    second: PistolJump_23
+  - first:
+      213: -7572759954005285159
+    second: PistolJump_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PistolJump_0
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 4350
+        width: 374
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661704e69654cd850800000000000000
+      internalID: 6403069089337602406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_1
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 4350
+        width: 405
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e44639c44ddf57d0800000000000000
+      internalID: -2927377945264241440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_2
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 4360
+        width: 424
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5410bebca888a420800000000000000
+      internalID: 2641511456967758941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_3
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 4390
+        width: 432
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13d4c5b4baee60f0800000000000000
+      internalID: -1121701195304086754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_4
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 4426
+        width: 441
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601bc8681e2181980800000000000000
+      internalID: -8568077531238059770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_5
+      rect:
+        serializedVersion: 2
+        x: 5501
+        y: 4470
+        width: 439
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8067665baa8a76940800000000000000
+      internalID: 5289381738511234568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_6
+      rect:
+        serializedVersion: 2
+        x: 6542
+        y: 4519
+        width: 429
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e200b3b949a3c620800000000000000
+      internalID: 2793262327912202979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_7
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 3536
+        width: 414
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3527836e76c28c0800000000000000
+      internalID: -4022726128661539854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_8
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 3562
+        width: 394
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1131fbf17c585c820800000000000000
+      internalID: 2937901422206718737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_9
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 3537
+        width: 378
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cab3acecdf2b99e0800000000000000
+      internalID: -1613643415572727099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_10
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 3510
+        width: 373
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c414ae9df027810800000000000000
+      internalID: 1761487832867752983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_11
+      rect:
+        serializedVersion: 2
+        x: 4555
+        y: 3482
+        width: 366
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c579e018012c4fee0800000000000000
+      internalID: -1228143422224820388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_12
+      rect:
+        serializedVersion: 2
+        x: 5581
+        y: 3451
+        width: 360
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4624fe86b9cafe050800000000000000
+      internalID: 5832069825948500580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_13
+      rect:
+        serializedVersion: 2
+        x: 6608
+        y: 3424
+        width: 349
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f9b25e1f54b3f60800000000000000
+      internalID: 8015076867070205697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_14
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2370
+        width: 336
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94228dbf8ba26bf0800000000000000
+      internalID: -332514788623899494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_15
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 2342
+        width: 319
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc5926d691537ef0800000000000000
+      internalID: -111655857474151175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_16
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 2330
+        width: 303
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e9ee2773b4e6060800000000000000
+      internalID: 6948573976602779150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_17
+      rect:
+        serializedVersion: 2
+        x: 3522
+        y: 2331
+        width: 312
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677a899390c4f36a0800000000000000
+      internalID: -6467366937376020618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_18
+      rect:
+        serializedVersion: 2
+        x: 4513
+        y: 2312
+        width: 334
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4329a84deb52a06c0800000000000000
+      internalID: -4176484202892848588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_19
+      rect:
+        serializedVersion: 2
+        x: 5511
+        y: 2307
+        width: 355
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f5608d9aafb6b20800000000000000
+      internalID: 3128869973519654701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_20
+      rect:
+        serializedVersion: 2
+        x: 6544
+        y: 2302
+        width: 353
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24eaa0f34f5c990b0800000000000000
+      internalID: -5721324198777147838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_21
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1278
+        width: 373
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a00d439c3f22430800000000000000
+      internalID: 3756833084680440396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_22
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1278
+        width: 381
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6517c3870d349ffa0800000000000000
+      internalID: -5766503285221723818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_23
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1278
+        width: 367
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11679e934a639ef70800000000000000
+      internalID: 9216958191364568593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolJump_24
+      rect:
+        serializedVersion: 2
+        x: 3490
+        y: 1278
+        width: 374
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6263ca1f628e690800000000000000
+      internalID: -7572759954005285159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

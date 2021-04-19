@@ -1,0 +1,776 @@
+fileFormatVersion: 2
+guid: 8b5885e662d247348a1121da7d2ed766
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3451395769914976833
+    second: PISTOLCROUCHTOSTAND_0
+  - first:
+      213: -5325828117307436928
+    second: PISTOLCROUCHTOSTAND_1
+  - first:
+      213: 2997490274152010479
+    second: PISTOLCROUCHTOSTAND_2
+  - first:
+      213: 128264852916062478
+    second: PISTOLCROUCHTOSTAND_3
+  - first:
+      213: 2581182226344279024
+    second: PISTOLCROUCHTOSTAND_4
+  - first:
+      213: 6005254638389942067
+    second: PISTOLCROUCHTOSTAND_5
+  - first:
+      213: 1011632341881126236
+    second: PISTOLCROUCHTOSTAND_6
+  - first:
+      213: -4028326838171403991
+    second: PISTOLCROUCHTOSTAND_7
+  - first:
+      213: -727039843594490368
+    second: PISTOLCROUCHTOSTAND_8
+  - first:
+      213: -4327214392284781588
+    second: PISTOLCROUCHTOSTAND_9
+  - first:
+      213: 3571558934212942184
+    second: PISTOLCROUCHTOSTAND_10
+  - first:
+      213: 6638723597930892235
+    second: PISTOLCROUCHTOSTAND_11
+  - first:
+      213: 5999861612266744601
+    second: PISTOLCROUCHTOSTAND_12
+  - first:
+      213: 5075147907853992654
+    second: PISTOLCROUCHTOSTAND_13
+  - first:
+      213: -868929685954044444
+    second: PISTOLCROUCHTOSTAND_14
+  - first:
+      213: 2834957872875095174
+    second: PISTOLCROUCHTOSTAND_15
+  - first:
+      213: -1630868348727738638
+    second: PISTOLCROUCHTOSTAND_16
+  - first:
+      213: -1101023040192048404
+    second: PISTOLCROUCHTOSTAND_17
+  - first:
+      213: 1884826766220748971
+    second: PISTOLCROUCHTOSTAND_18
+  - first:
+      213: -4788582987106726307
+    second: PISTOLCROUCHTOSTAND_19
+  - first:
+      213: -9067598072382409421
+    second: PISTOLCROUCHTOSTAND_20
+  - first:
+      213: 8545685862485282946
+    second: PISTOLCROUCHTOSTAND_21
+  - first:
+      213: 5310241067744686709
+    second: PISTOLCROUCHTOSTAND_22
+  - first:
+      213: 3416274508388490212
+    second: PISTOLCROUCHTOSTAND_23
+  - first:
+      213: -5827418959945133097
+    second: PISTOLCROUCHTOSTAND_24
+  - first:
+      213: 8605396531793271407
+    second: PISTOLCROUCHTOSTAND_25
+  - first:
+      213: 365208333983492806
+    second: PISTOLCROUCHTOSTAND_26
+  - first:
+      213: -3285015972718746151
+    second: PISTOLCROUCHTOSTAND_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_0
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 4319
+        width: 326
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a611d9a22d5ef20800000000000000
+      internalID: 3451395769914976833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_1
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 4319
+        width: 326
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0805a157b8bd616b0800000000000000
+      internalID: -5325828117307436928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_2
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 4319
+        width: 326
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2d480e589399920800000000000000
+      internalID: 2997490274152010479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_3
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 4318
+        width: 326
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09ca334430b7c100800000000000000
+      internalID: 128264852916062478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_4
+      rect:
+        serializedVersion: 2
+        x: 4433
+        y: 4318
+        width: 326
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb7dc52f8332d320800000000000000
+      internalID: 2581182226344279024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_5
+      rect:
+        serializedVersion: 2
+        x: 5457
+        y: 4318
+        width: 326
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337dff2c643f65350800000000000000
+      internalID: 6005254638389942067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_6
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 4318
+        width: 328
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dfe1d414a0a0e00800000000000000
+      internalID: 1011632341881126236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 3295
+        width: 324
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929fe9b65128818c0800000000000000
+      internalID: -4028326838171403991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_8
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 3297
+        width: 316
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00eaef04d1909e5f0800000000000000
+      internalID: -727039843594490368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_9
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 3295
+        width: 321
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce368e0df65a2f3c0800000000000000
+      internalID: -4327214392284781588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_10
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 3294
+        width: 330
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86992208de9b09130800000000000000
+      internalID: 3571558934212942184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_11
+      rect:
+        serializedVersion: 2
+        x: 4385
+        y: 3295
+        width: 339
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb8ca850fb712c50800000000000000
+      internalID: 6638723597930892235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_12
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 3300
+        width: 339
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b69a4095ac34350800000000000000
+      internalID: 5999861612266744601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_13
+      rect:
+        serializedVersion: 2
+        x: 6444
+        y: 3303
+        width: 333
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec24436022c8e6640800000000000000
+      internalID: 5075147907853992654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2283
+        width: 325
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eddaeded01f0f3f0800000000000000
+      internalID: -868929685954044444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_15
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 2287
+        width: 291
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684cae54a2bc75720800000000000000
+      internalID: 2834957872875095174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_16
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 2292
+        width: 245
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2feb7a6a0edfd59e0800000000000000
+      internalID: -1630868348727738638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_17
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 2298
+        width: 206
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce215dfd06168b0f0800000000000000
+      internalID: -1101023040192048404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_18
+      rect:
+        serializedVersion: 2
+        x: 4555
+        y: 2302
+        width: 200
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba86cb725ff382a10800000000000000
+      internalID: 1884826766220748971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_19
+      rect:
+        serializedVersion: 2
+        x: 5580
+        y: 2298
+        width: 200
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e460ce4298b8db0800000000000000
+      internalID: -4788582987106726307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_20
+      rect:
+        serializedVersion: 2
+        x: 6604
+        y: 2297
+        width: 198
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33531a9689b692280800000000000000
+      internalID: -9067598072382409421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_21
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1273
+        width: 194
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2805383d300689670800000000000000
+      internalID: 8545685862485282946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_22
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1274
+        width: 183
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572fc92cd14c1b940800000000000000
+      internalID: 5310241067744686709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_23
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 1274
+        width: 178
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebd7bfa09b096f20800000000000000
+      internalID: 3416274508388490212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_24
+      rect:
+        serializedVersion: 2
+        x: 3531
+        y: 1274
+        width: 179
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d31817b459d02fa0800000000000000
+      internalID: -5827418959945133097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_25
+      rect:
+        serializedVersion: 2
+        x: 4554
+        y: 1274
+        width: 183
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a9ae46d828c6770800000000000000
+      internalID: 8605396531793271407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_26
+      rect:
+        serializedVersion: 2
+        x: 5578
+        y: 1274
+        width: 185
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca29187b0b711500800000000000000
+      internalID: 365208333983492806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOLCROUCHTOSTAND_27
+      rect:
+        serializedVersion: 2
+        x: 6602
+        y: 1274
+        width: 185
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d56d98a0674962d0800000000000000
+      internalID: -3285015972718746151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

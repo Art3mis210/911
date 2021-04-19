@@ -1,0 +1,1088 @@
+fileFormatVersion: 2
+guid: c2771f7b25bfabe48b0da50540fbaea3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2223273553276349208
+    second: Pistol Stand Idle_0
+  - first:
+      213: -7997919963057743476
+    second: Pistol Stand Idle_1
+  - first:
+      213: -5520646698820618524
+    second: Pistol Stand Idle_2
+  - first:
+      213: 8387371674549405197
+    second: Pistol Stand Idle_3
+  - first:
+      213: -5534225364012282142
+    second: Pistol Stand Idle_4
+  - first:
+      213: -1142002195376405035
+    second: Pistol Stand Idle_5
+  - first:
+      213: -6179313309324448168
+    second: Pistol Stand Idle_6
+  - first:
+      213: 9091592776230162789
+    second: Pistol Stand Idle_7
+  - first:
+      213: 2680288219047956200
+    second: Pistol Stand Idle_8
+  - first:
+      213: -396312065366467308
+    second: Pistol Stand Idle_9
+  - first:
+      213: -5783857108512021572
+    second: Pistol Stand Idle_10
+  - first:
+      213: -773078925038401387
+    second: Pistol Stand Idle_11
+  - first:
+      213: 4084969101497992103
+    second: Pistol Stand Idle_12
+  - first:
+      213: -1361187623799349188
+    second: Pistol Stand Idle_13
+  - first:
+      213: -5416714132910627530
+    second: Pistol Stand Idle_14
+  - first:
+      213: -9049326229118943204
+    second: Pistol Stand Idle_15
+  - first:
+      213: -7567752190880364982
+    second: Pistol Stand Idle_16
+  - first:
+      213: -2232594975955061970
+    second: Pistol Stand Idle_17
+  - first:
+      213: -6334485072890422759
+    second: Pistol Stand Idle_18
+  - first:
+      213: -8915525217873041410
+    second: Pistol Stand Idle_19
+  - first:
+      213: -3802151439887644065
+    second: Pistol Stand Idle_20
+  - first:
+      213: 4867670857434302725
+    second: Pistol Stand Idle_21
+  - first:
+      213: 8870780158893267131
+    second: Pistol Stand Idle_22
+  - first:
+      213: -4929108476114487266
+    second: Pistol Stand Idle_23
+  - first:
+      213: -6859618178293017662
+    second: Pistol Stand Idle_24
+  - first:
+      213: 9170034590039616444
+    second: Pistol Stand Idle_25
+  - first:
+      213: -3767823316500905962
+    second: Pistol Stand Idle_26
+  - first:
+      213: 375173151015354960
+    second: Pistol Stand Idle_27
+  - first:
+      213: -1648983674398126863
+    second: Pistol Stand Idle_28
+  - first:
+      213: 3542730199947995382
+    second: Pistol Stand Idle_29
+  - first:
+      213: 3703172082238709934
+    second: Pistol Stand Idle_30
+  - first:
+      213: 4161233262481296952
+    second: Pistol Stand Idle_31
+  - first:
+      213: -161570832212280817
+    second: Pistol Stand Idle_32
+  - first:
+      213: 1331102087079528912
+    second: Pistol Stand Idle_33
+  - first:
+      213: 7972190217837779041
+    second: Pistol Stand Idle_34
+  - first:
+      213: -1700491651201640611
+    second: Pistol Stand Idle_35
+  - first:
+      213: -1183172558422403244
+    second: Pistol Stand Idle_36
+  - first:
+      213: -8710821873284462015
+    second: Pistol Stand Idle_37
+  - first:
+      213: -2105735712924558056
+    second: Pistol Stand Idle_38
+  - first:
+      213: 898992195711383766
+    second: Pistol Stand Idle_39
+  - first:
+      213: -51020724138805788
+    second: Pistol Stand Idle_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pistol Stand Idle_0
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 5353
+        width: 357
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bae8d6487aade10800000000000000
+      internalID: 2223273553276349208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_1
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 5353
+        width: 358
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8910fb1b2ea10190800000000000000
+      internalID: -7997919963057743476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_2
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 5353
+        width: 358
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e63d5ab319b263b0800000000000000
+      internalID: -5520646698820618524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_3
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 5353
+        width: 358
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06c0bc891ee56470800000000000000
+      internalID: 8387371674549405197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_4
+      rect:
+        serializedVersion: 2
+        x: 4492
+        y: 5353
+        width: 357
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee471f5a5b7233b0800000000000000
+      internalID: -5534225364012282142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_5
+      rect:
+        serializedVersion: 2
+        x: 5516
+        y: 5353
+        width: 357
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d58fdbcd0bc620f0800000000000000
+      internalID: -1142002195376405035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_6
+      rect:
+        serializedVersion: 2
+        x: 6540
+        y: 5353
+        width: 357
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e6fd9d84bae3aa0800000000000000
+      internalID: -6179313309324448168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 4329
+        width: 357
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561d4bde573db2e70800000000000000
+      internalID: 9091592776230162789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_8
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 4329
+        width: 357
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee84083feb423520800000000000000
+      internalID: 2680288219047956200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_9
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 4329
+        width: 357
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d51abb644008af0800000000000000
+      internalID: -396312065366467308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_10
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 4329
+        width: 357
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3e58f9a9c9bbfa0800000000000000
+      internalID: -5783857108512021572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_11
+      rect:
+        serializedVersion: 2
+        x: 4492
+        y: 4329
+        width: 357
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598ceb940d87545f0800000000000000
+      internalID: -773078925038401387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_12
+      rect:
+        serializedVersion: 2
+        x: 5516
+        y: 4329
+        width: 357
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a30c3531c9b0b830800000000000000
+      internalID: 4084969101497992103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_13
+      rect:
+        serializedVersion: 2
+        x: 6540
+        y: 4329
+        width: 357
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3028ca61171c1de0800000000000000
+      internalID: -1361187623799349188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_14
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 3305
+        width: 357
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6352602f137f3d4b0800000000000000
+      internalID: -5416714132910627530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_15
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 3305
+        width: 357
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c108db07db55a6280800000000000000
+      internalID: -9049326229118943204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_16
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 3305
+        width: 357
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4644626a71f9f690800000000000000
+      internalID: -7567752190880364982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_17
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 3305
+        width: 357
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2370eab2ba3401e0800000000000000
+      internalID: -2232594975955061970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_18
+      rect:
+        serializedVersion: 2
+        x: 4492
+        y: 3305
+        width: 357
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a1a5343636718a0800000000000000
+      internalID: -6334485072890422759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_19
+      rect:
+        serializedVersion: 2
+        x: 5516
+        y: 3305
+        width: 357
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7e3a20d01b54480800000000000000
+      internalID: -8915525217873041410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_20
+      rect:
+        serializedVersion: 2
+        x: 6540
+        y: 3305
+        width: 357
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ac14bf86b0c3bc0800000000000000
+      internalID: -3802151439887644065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_21
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2281
+        width: 357
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50984e4dad07d8340800000000000000
+      internalID: 4867670857434302725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_22
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 2281
+        width: 357
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb89a6b1e875b1b70800000000000000
+      internalID: 8870780158893267131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_23
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 2281
+        width: 357
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1834ddd4f9489bb0800000000000000
+      internalID: -4929108476114487266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_24
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 2281
+        width: 357
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c358045c9dbdc0a0800000000000000
+      internalID: -6859618178293017662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_25
+      rect:
+        serializedVersion: 2
+        x: 4492
+        y: 2281
+        width: 357
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb2b5defd1824f70800000000000000
+      internalID: 9170034590039616444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_26
+      rect:
+        serializedVersion: 2
+        x: 5516
+        y: 2281
+        width: 357
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610878b08a006bbc0800000000000000
+      internalID: -3767823316500905962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_27
+      rect:
+        serializedVersion: 2
+        x: 6540
+        y: 2281
+        width: 357
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052c88b3ef1e43500800000000000000
+      internalID: 375173151015354960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_28
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1257
+        width: 357
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcc417b512ad19e0800000000000000
+      internalID: -1648983674398126863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_29
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1257
+        width: 357
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8e2feb85e4a2130800000000000000
+      internalID: 3542730199947995382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_30
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 1257
+        width: 356
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea06bf7736f446330800000000000000
+      internalID: 3703172082238709934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_31
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 1257
+        width: 356
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83eccb5ea9bafb930800000000000000
+      internalID: 4161233262481296952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_32
+      rect:
+        serializedVersion: 2
+        x: 4492
+        y: 1257
+        width: 356
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a3ce32f2cf1cdf0800000000000000
+      internalID: -161570832212280817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_33
+      rect:
+        serializedVersion: 2
+        x: 5516
+        y: 1257
+        width: 357
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d90824bb46097210800000000000000
+      internalID: 1331102087079528912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_34
+      rect:
+        serializedVersion: 2
+        x: 6540
+        y: 1257
+        width: 357
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1689010c3c8e2ae60800000000000000
+      internalID: 7972190217837779041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_35
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 233
+        width: 357
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57db925ad3a668e0800000000000000
+      internalID: -1700491651201640611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_36
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 233
+        width: 357
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4571e3ba3d6849fe0800000000000000
+      internalID: -1183172558422403244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_37
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 233
+        width: 357
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a4d2d78a1fc1780800000000000000
+      internalID: -8710821873284462015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_38
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 233
+        width: 357
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d1748968ce6c2e0800000000000000
+      internalID: -2105735712924558056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_39
+      rect:
+        serializedVersion: 2
+        x: 4492
+        y: 233
+        width: 357
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8b93193acd97c00800000000000000
+      internalID: 898992195711383766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol Stand Idle_40
+      rect:
+        serializedVersion: 2
+        x: 5516
+        y: 233
+        width: 357
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5f585fbecba4ff0800000000000000
+      internalID: -51020724138805788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

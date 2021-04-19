@@ -1,0 +1,2000 @@
+fileFormatVersion: 2
+guid: a013189f0f3966f43b966235071eea92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8351194216307470824
+    second: PistolMelee_0
+  - first:
+      213: 4704743140433758355
+    second: PistolMelee_1
+  - first:
+      213: 7396120663758408090
+    second: PistolMelee_2
+  - first:
+      213: -7576433435805866635
+    second: PistolMelee_3
+  - first:
+      213: -8711209256341972407
+    second: PistolMelee_4
+  - first:
+      213: -9200409527836414637
+    second: PistolMelee_5
+  - first:
+      213: 6757500913225510157
+    second: PistolMelee_6
+  - first:
+      213: 5404149244905274956
+    second: PistolMelee_7
+  - first:
+      213: -5898034230792156189
+    second: PistolMelee_8
+  - first:
+      213: -7161027629347247702
+    second: PistolMelee_9
+  - first:
+      213: -3660457771919615543
+    second: PistolMelee_10
+  - first:
+      213: 1712615449675376194
+    second: PistolMelee_11
+  - first:
+      213: 1412007016031520782
+    second: PistolMelee_12
+  - first:
+      213: -4249534350016831024
+    second: PistolMelee_13
+  - first:
+      213: -6539378274037479136
+    second: PistolMelee_14
+  - first:
+      213: -3284319198596463053
+    second: PistolMelee_15
+  - first:
+      213: -1649850052351186234
+    second: PistolMelee_16
+  - first:
+      213: 141910999715983770
+    second: PistolMelee_17
+  - first:
+      213: 2670629633189291892
+    second: PistolMelee_18
+  - first:
+      213: 1190258172245403168
+    second: PistolMelee_19
+  - first:
+      213: -4170484227378701724
+    second: PistolMelee_20
+  - first:
+      213: -3607456663525327860
+    second: PistolMelee_21
+  - first:
+      213: 3409768946545569633
+    second: PistolMelee_22
+  - first:
+      213: 5104590436684441768
+    second: PistolMelee_23
+  - first:
+      213: 6285919654492778609
+    second: PistolMelee_24
+  - first:
+      213: -8707735031159660886
+    second: PistolMelee_25
+  - first:
+      213: 2210057130644044289
+    second: PistolMelee_26
+  - first:
+      213: 1179471527685851405
+    second: PistolMelee_27
+  - first:
+      213: 2175583680574470274
+    second: PistolMelee_28
+  - first:
+      213: -8662348128787440828
+    second: PistolMelee_29
+  - first:
+      213: 6782970247053648208
+    second: PistolMelee_30
+  - first:
+      213: 7813927263254282397
+    second: PistolMelee_31
+  - first:
+      213: -7545950164169120263
+    second: PistolMelee_32
+  - first:
+      213: 5377158242114538247
+    second: PistolMelee_33
+  - first:
+      213: 5667908594007903101
+    second: PistolMelee_34
+  - first:
+      213: -3491351460700138146
+    second: PistolMelee_35
+  - first:
+      213: -2844196580520853689
+    second: PistolMelee_36
+  - first:
+      213: 1800069104933060998
+    second: PistolMelee_37
+  - first:
+      213: -8581544377867100425
+    second: PistolMelee_38
+  - first:
+      213: 1577759647026609678
+    second: PistolMelee_39
+  - first:
+      213: 6258836917033282277
+    second: PistolMelee_40
+  - first:
+      213: -7131930998405827544
+    second: PistolMelee_41
+  - first:
+      213: 5230999915290177208
+    second: PistolMelee_42
+  - first:
+      213: -3473744937094246796
+    second: PistolMelee_43
+  - first:
+      213: 5551339868344557979
+    second: PistolMelee_44
+  - first:
+      213: -6457278453496057387
+    second: PistolMelee_45
+  - first:
+      213: 5770580323357215343
+    second: PistolMelee_46
+  - first:
+      213: 8581241262479546889
+    second: PistolMelee_47
+  - first:
+      213: 8904819216694856289
+    second: PistolMelee_48
+  - first:
+      213: -5798437094702434497
+    second: PistolMelee_49
+  - first:
+      213: -1130342697075196545
+    second: PistolMelee_50
+  - first:
+      213: 8865605937881066727
+    second: PistolMelee_51
+  - first:
+      213: 9137510955538121996
+    second: PistolMelee_52
+  - first:
+      213: 4292185307609127256
+    second: PistolMelee_53
+  - first:
+      213: -1651063476326070020
+    second: PistolMelee_54
+  - first:
+      213: -6937995249631010196
+    second: PistolMelee_55
+  - first:
+      213: 7013721354703002510
+    second: PistolMelee_56
+  - first:
+      213: 3647740419198169058
+    second: PistolMelee_57
+  - first:
+      213: 9208084745555504066
+    second: PistolMelee_58
+  - first:
+      213: -3183235471948782932
+    second: PistolMelee_59
+  - first:
+      213: -3627026179719136276
+    second: PistolMelee_60
+  - first:
+      213: 9107871173498038636
+    second: PistolMelee_61
+  - first:
+      213: 7845719118226756009
+    second: PistolMelee_62
+  - first:
+      213: 618820163826934677
+    second: PistolMelee_63
+  - first:
+      213: -3223609958329629110
+    second: PistolMelee_64
+  - first:
+      213: 6713678650575649745
+    second: PistolMelee_65
+  - first:
+      213: 4748063025843003353
+    second: PistolMelee_66
+  - first:
+      213: -667502038842473085
+    second: PistolMelee_67
+  - first:
+      213: 7148767916365556339
+    second: PistolMelee_68
+  - first:
+      213: 2845722447416398153
+    second: PistolMelee_69
+  - first:
+      213: 8749996773904002935
+    second: PistolMelee_70
+  - first:
+      213: -9131777620414505613
+    second: PistolMelee_71
+  - first:
+      213: -7327134247029603557
+    second: PistolMelee_72
+  - first:
+      213: 3079932274871057361
+    second: PistolMelee_73
+  - first:
+      213: -6123032817025218444
+    second: PistolMelee_74
+  - first:
+      213: -1283432041728796217
+    second: PistolMelee_75
+  - first:
+      213: 1774031639109178846
+    second: PistolMelee_76
+  - first:
+      213: -3408156407485360390
+    second: PistolMelee_77
+  - first:
+      213: -1061723072629720620
+    second: PistolMelee_78
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PistolMelee_0
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 11504
+        width: 351
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1bd49a4e665e370800000000000000
+      internalID: 8351194216307470824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_1
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 11504
+        width: 350
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398820d95fa9a4140800000000000000
+      internalID: 4704743140433758355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_2
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 11505
+        width: 347
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a990f3fae8c44a660800000000000000
+      internalID: 7396120663758408090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_3
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 11506
+        width: 344
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575266a8ee91bd690800000000000000
+      internalID: -7576433435805866635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_4
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 11505
+        width: 342
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a54a7d5519b1780800000000000000
+      internalID: -8711209256341972407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_5
+      rect:
+        serializedVersion: 2
+        x: 5541
+        y: 11506
+        width: 341
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35de031c744915080800000000000000
+      internalID: -9200409527836414637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_6
+      rect:
+        serializedVersion: 2
+        x: 6564
+        y: 11506
+        width: 344
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d2f2e174777cd50800000000000000
+      internalID: 6757500913225510157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_7
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 10481
+        width: 348
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e36c71b156ffa40800000000000000
+      internalID: 5404149244905274956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_8
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 10481
+        width: 347
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb0a80cd19f52ea0800000000000000
+      internalID: -5898034230792156189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_9
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 10483
+        width: 340
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9eff5df4bee9c90800000000000000
+      internalID: -7161027629347247702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_10
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 10481
+        width: 326
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9d965ec01733dc0800000000000000
+      internalID: -3660457771919615543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_11
+      rect:
+        serializedVersion: 2
+        x: 4508
+        y: 10480
+        width: 294
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2462fba7dae64c710800000000000000
+      internalID: 1712615449675376194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_12
+      rect:
+        serializedVersion: 2
+        x: 5534
+        y: 10478
+        width: 243
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e080be266e4789310800000000000000
+      internalID: 1412007016031520782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_13
+      rect:
+        serializedVersion: 2
+        x: 6562
+        y: 10475
+        width: 210
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d12d6e060f9605c0800000000000000
+      internalID: -4249534350016831024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 9449
+        width: 206
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029c61c5b167f35a0800000000000000
+      internalID: -6539378274037479136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_15
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 9449
+        width: 205
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33689a60711cb62d0800000000000000
+      internalID: -3284319198596463053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_16
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 9449
+        width: 215
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caa2f06e1e8a19e0800000000000000
+      internalID: -1649850052351186234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_17
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 9449
+        width: 253
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91bac76d4b28f100800000000000000
+      internalID: 141910999715983770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_18
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 9449
+        width: 264
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47721e4708bff0520800000000000000
+      internalID: 2670629633189291892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_19
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 9449
+        width: 258
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02661bb5085a48010800000000000000
+      internalID: 1190258172245403168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_20
+      rect:
+        serializedVersion: 2
+        x: 6537
+        y: 9449
+        width: 251
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a19bdf0b67f16c0800000000000000
+      internalID: -4170484227378701724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_21
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 8425
+        width: 252
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cf4f3174dbfedc0800000000000000
+      internalID: -3607456663525327860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_22
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 8425
+        width: 251
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fa1098acee15f20800000000000000
+      internalID: 3409768946545569633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_23
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 8425
+        width: 244
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8ae66f4f527d640800000000000000
+      internalID: 5104590436684441768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_24
+      rect:
+        serializedVersion: 2
+        x: 3488
+        y: 8433
+        width: 223
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17030bc1f921c3750800000000000000
+      internalID: 6285919654492778609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_25
+      rect:
+        serializedVersion: 2
+        x: 4568
+        y: 8434
+        width: 166
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaed08def19e72780800000000000000
+      internalID: -8707735031159660886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_26
+      rect:
+        serializedVersion: 2
+        x: 5604
+        y: 8437
+        width: 152
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a7b5d3043bbae10800000000000000
+      internalID: 2210057130644044289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_27
+      rect:
+        serializedVersion: 2
+        x: 6636
+        y: 8438
+        width: 185
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d090766fa135e5010800000000000000
+      internalID: 1179471527685851405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_28
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 7411
+        width: 250
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28837cba4d9313e10800000000000000
+      internalID: 2175583680574470274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_29
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 7411
+        width: 269
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bdade954829c780800000000000000
+      internalID: -8662348128787440828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_30
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 7414
+        width: 248
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0512da18083f12e50800000000000000
+      internalID: 6782970247053648208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_31
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 7415
+        width: 236
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90030b2275a07c60800000000000000
+      internalID: 7813927263254282397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_32
+      rect:
+        serializedVersion: 2
+        x: 4566
+        y: 7414
+        width: 224
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f526eb4e46674790800000000000000
+      internalID: -7545950164169120263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_33
+      rect:
+        serializedVersion: 2
+        x: 5579
+        y: 7412
+        width: 208
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b0d4a8ee08f9a40800000000000000
+      internalID: 5377158242114538247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_34
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 7412
+        width: 212
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b893d16d478ae40800000000000000
+      internalID: 5667908594007903101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_35
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 6388
+        width: 216
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e555dee285a3c8fc0800000000000000
+      internalID: -3491351460700138146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_36
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 6389
+        width: 219
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f7caa77426788d0800000000000000
+      internalID: -2844196580520853689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_37
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 6391
+        width: 219
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681c0b250512bf810800000000000000
+      internalID: 1800069104933060998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_38
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 6391
+        width: 217
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe1bf4fada38e880800000000000000
+      internalID: -8581544377867100425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_39
+      rect:
+        serializedVersion: 2
+        x: 4542
+        y: 6391
+        width: 216
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e77f52a0455e510800000000000000
+      internalID: 1577759647026609678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_40
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 6389
+        width: 215
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaaedae30bdbd650800000000000000
+      internalID: 6258836917033282277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_41
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 6388
+        width: 212
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8247c652b8a460d90800000000000000
+      internalID: -7131930998405827544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_42
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 5365
+        width: 210
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be28fa35be389840800000000000000
+      internalID: 5230999915290177208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_43
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 5363
+        width: 209
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e8f286267cacfc0800000000000000
+      internalID: -3473744937094246796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_44
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 5363
+        width: 209
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b912420b2325a0d40800000000000000
+      internalID: 5551339868344557979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_45
+      rect:
+        serializedVersion: 2
+        x: 3521
+        y: 5363
+        width: 208
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1759b65732366a0800000000000000
+      internalID: -6457278453496057387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_46
+      rect:
+        serializedVersion: 2
+        x: 4544
+        y: 5363
+        width: 208
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ac091fa38351050800000000000000
+      internalID: 5770580323357215343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_47
+      rect:
+        serializedVersion: 2
+        x: 5565
+        y: 5363
+        width: 210
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a940e7671b61770800000000000000
+      internalID: 8581241262479546889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_48
+      rect:
+        serializedVersion: 2
+        x: 6587
+        y: 5365
+        width: 213
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a4b28d5e5449b70800000000000000
+      internalID: 8904819216694856289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_49
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 4342
+        width: 222
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3730dd0f20d78fa0800000000000000
+      internalID: -5798437094702434497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_50
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 4343
+        width: 238
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d306a4e473050f0800000000000000
+      internalID: -1130342697075196545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_51
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 4342
+        width: 261
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecaef5e0a5f80b70800000000000000
+      internalID: 8865605937881066727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_52
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 4342
+        width: 286
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05071c2dc5fece70800000000000000
+      internalID: 9137510955538121996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_53
+      rect:
+        serializedVersion: 2
+        x: 4523
+        y: 4342
+        width: 304
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859513adbc7e09b30800000000000000
+      internalID: 4292185307609127256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_54
+      rect:
+        serializedVersion: 2
+        x: 5545
+        y: 4342
+        width: 317
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf886f7148e3619e0800000000000000
+      internalID: -1651063476326070020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_55
+      rect:
+        serializedVersion: 2
+        x: 6569
+        y: 4342
+        width: 325
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62656c541a47bf90800000000000000
+      internalID: -6937995249631010196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_56
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3319
+        width: 330
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bd4ac696eb55160800000000000000
+      internalID: 7013721354703002510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_57
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 3319
+        width: 334
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef242fa5906f9230800000000000000
+      internalID: 3647740419198169058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_58
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 3317
+        width: 335
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb67802a40b9cf70800000000000000
+      internalID: 9208084745555504066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_59
+      rect:
+        serializedVersion: 2
+        x: 3494
+        y: 3316
+        width: 336
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2e11a2430e2d3d0800000000000000
+      internalID: -3183235471948782932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_60
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 3314
+        width: 337
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb7cc608e63aadc0800000000000000
+      internalID: -3627026179719136276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_61
+      rect:
+        serializedVersion: 2
+        x: 5541
+        y: 3314
+        width: 338
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69ee54a398a56e70800000000000000
+      internalID: 9107871173498038636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_62
+      rect:
+        serializedVersion: 2
+        x: 6564
+        y: 3314
+        width: 341
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1956938f791ec60800000000000000
+      internalID: 7845719118226756009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_63
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2290
+        width: 342
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593e0cc09ad769800800000000000000
+      internalID: 618820163826934677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_64
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 2290
+        width: 344
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46c95382df6343d0800000000000000
+      internalID: -3223609958329629110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_65
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 2290
+        width: 347
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db7faf7927cb2d50800000000000000
+      internalID: 6713678650575649745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_66
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 2290
+        width: 346
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfd98a6a2284e140800000000000000
+      internalID: 4748063025843003353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_67
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 2290
+        width: 348
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38502f7ae6e8cb6f0800000000000000
+      internalID: -667502038842473085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_68
+      rect:
+        serializedVersion: 2
+        x: 5540
+        y: 2290
+        width: 349
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37aadac4b86853360800000000000000
+      internalID: 7148767916365556339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_69
+      rect:
+        serializedVersion: 2
+        x: 6564
+        y: 2290
+        width: 350
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9411c971d790e7720800000000000000
+      internalID: 2845722447416398153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_70
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1267
+        width: 349
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fac56d4bb3e6970800000000000000
+      internalID: 8749996773904002935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_71
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1267
+        width: 350
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dd45fe2a8654180800000000000000
+      internalID: -9131777620414505613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_72
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 1266
+        width: 351
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b138330293ac05a90800000000000000
+      internalID: -7327134247029603557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_73
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 1265
+        width: 350
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db33f7f51e1eba20800000000000000
+      internalID: 3079932274871057361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_74
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 1265
+        width: 351
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4780729181e960ba0800000000000000
+      internalID: -6123032817025218444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_75
+      rect:
+        serializedVersion: 2
+        x: 5541
+        y: 1265
+        width: 350
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c99663ab55503ee0800000000000000
+      internalID: -1283432041728796217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_76
+      rect:
+        serializedVersion: 2
+        x: 6565
+        y: 1265
+        width: 350
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed518656060ae9810800000000000000
+      internalID: 1774031639109178846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_77
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 241
+        width: 351
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af61dd8fdcbc3b0d0800000000000000
+      internalID: -3408156407485360390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolMelee_78
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 241
+        width: 351
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9b11e9d700441f0800000000000000
+      internalID: -1061723072629720620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

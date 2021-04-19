@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 38fdf78c5a6358b4e8ba3469f9c46a32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4020165963374588644
+    second: CROUCHED WALK_0
+  - first:
+      213: -5177939320778029267
+    second: CROUCHED WALK_1
+  - first:
+      213: -4859739179969509042
+    second: CROUCHED WALK_2
+  - first:
+      213: -4297225255314654232
+    second: CROUCHED WALK_3
+  - first:
+      213: -9065899289790052959
+    second: CROUCHED WALK_4
+  - first:
+      213: -6680493507655289321
+    second: CROUCHED WALK_5
+  - first:
+      213: -5782425189807519529
+    second: CROUCHED WALK_6
+  - first:
+      213: 6316305298869371022
+    second: CROUCHED WALK_7
+  - first:
+      213: -5415561891996248369
+    second: CROUCHED WALK_8
+  - first:
+      213: 1655040414526115497
+    second: CROUCHED WALK_9
+  - first:
+      213: -6785829342304925505
+    second: CROUCHED WALK_10
+  - first:
+      213: -1293971808348626297
+    second: CROUCHED WALK_11
+  - first:
+      213: 5246652564460690134
+    second: CROUCHED WALK_12
+  - first:
+      213: 3656833562199882160
+    second: CROUCHED WALK_13
+  - first:
+      213: -4004570419659067612
+    second: CROUCHED WALK_14
+  - first:
+      213: 7315681326164476004
+    second: CROUCHED WALK_15
+  - first:
+      213: 579785238492062758
+    second: CROUCHED WALK_16
+  - first:
+      213: 696411920815669482
+    second: CROUCHED WALK_17
+  - first:
+      213: 1451326214969223014
+    second: CROUCHED WALK_18
+  - first:
+      213: 4077143320128852521
+    second: CROUCHED WALK_19
+  - first:
+      213: 344314232731018082
+    second: CROUCHED WALK_20
+  - first:
+      213: -6635130707962234875
+    second: CROUCHED WALK_21
+  - first:
+      213: 442045507532718173
+    second: CROUCHED WALK_22
+  - first:
+      213: 5037457591178465100
+    second: CROUCHED WALK_23
+  - first:
+      213: -1689819725283684328
+    second: CROUCHED WALK_24
+  - first:
+      213: 6882276775892687392
+    second: CROUCHED WALK_25
+  - first:
+      213: 2225885954704345868
+    second: CROUCHED WALK_26
+  - first:
+      213: -1302224552714871660
+    second: CROUCHED WALK_27
+  - first:
+      213: 8358827025404161358
+    second: CROUCHED WALK_28
+  - first:
+      213: 8966025624671129447
+    second: CROUCHED WALK_29
+  - first:
+      213: 4537832664532723970
+    second: CROUCHED WALK_30
+  - first:
+      213: 3393383595804974097
+    second: CROUCHED WALK_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CROUCHED WALK_0
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 4355
+        width: 292
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d01f62b508538c0800000000000000
+      internalID: -4020165963374588644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_1
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 4355
+        width: 292
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d278f742f934428b0800000000000000
+      internalID: -5177939320778029267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_2
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 4357
+        width: 290
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e498edcb6fcbe8cb0800000000000000
+      internalID: -4859739179969509042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_3
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 4356
+        width: 292
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebf121e5603d54c0800000000000000
+      internalID: -4297225255314654232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_4
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 4356
+        width: 295
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5099e01a47f2280800000000000000
+      internalID: -9065899289790052959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_5
+      rect:
+        serializedVersion: 2
+        x: 5551
+        y: 4356
+        width: 300
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71637efac8e1a43a0800000000000000
+      internalID: -6680493507655289321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_6
+      rect:
+        serializedVersion: 2
+        x: 6562
+        y: 4356
+        width: 321
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8804d2de2b0cfa0800000000000000
+      internalID: -5782425189807519529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_7
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3331
+        width: 340
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80c600443608a750800000000000000
+      internalID: 6316305298869371022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_8
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 3331
+        width: 359
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6db60f62f08d4b0800000000000000
+      internalID: -5415561891996248369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_9
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 3332
+        width: 376
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae8ebcfc72e7f610800000000000000
+      internalID: 1655040414526115497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_10
+      rect:
+        serializedVersion: 2
+        x: 3433
+        y: 3331
+        width: 388
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb80e718a24e3d1a0800000000000000
+      internalID: -6785829342304925505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_11
+      rect:
+        serializedVersion: 2
+        x: 4448
+        y: 3331
+        width: 394
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782a20efe73ea0ee0800000000000000
+      internalID: -1293971808348626297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_12
+      rect:
+        serializedVersion: 2
+        x: 5465
+        y: 3333
+        width: 396
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da529c95badfc840800000000000000
+      internalID: 5246652564460690134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_13
+      rect:
+        serializedVersion: 2
+        x: 6498
+        y: 3334
+        width: 383
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b976a500ceafb230800000000000000
+      internalID: 3656833562199882160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_14
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2314
+        width: 370
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f2f22ab68ec68c0800000000000000
+      internalID: -4004570419659067612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_15
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 2316
+        width: 345
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4600effe765868560800000000000000
+      internalID: 7315681326164476004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_16
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 2314
+        width: 318
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624a5524a9fcb0800800000000000000
+      internalID: 579785238492062758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_17
+      rect:
+        serializedVersion: 2
+        x: 3509
+        y: 2305
+        width: 291
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0c095c3f62aa900800000000000000
+      internalID: 696411920815669482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_18
+      rect:
+        serializedVersion: 2
+        x: 4532
+        y: 2304
+        width: 291
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667e378c085242410800000000000000
+      internalID: 1451326214969223014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_19
+      rect:
+        serializedVersion: 2
+        x: 5555
+        y: 2307
+        width: 290
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92213ae7f3ce49830800000000000000
+      internalID: 4077143320128852521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_20
+      rect:
+        serializedVersion: 2
+        x: 6581
+        y: 2304
+        width: 288
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2632b0d68ff37c400800000000000000
+      internalID: 344314232731018082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_21
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1284
+        width: 287
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508ff9986c74be3a0800000000000000
+      internalID: -6635130707962234875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_22
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1280
+        width: 291
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d508b0b0c06722600800000000000000
+      internalID: 442045507532718173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_23
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 1278
+        width: 303
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f89455df4a8e540800000000000000
+      internalID: 5037457591178465100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_24
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 1278
+        width: 318
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8109404b9ed8c88e0800000000000000
+      internalID: -1689819725283684328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_25
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 1282
+        width: 331
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a11098342c28f50800000000000000
+      internalID: 6882276775892687392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_26
+      rect:
+        serializedVersion: 2
+        x: 5535
+        y: 1283
+        width: 331
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b0fa88b7fe3ee10800000000000000
+      internalID: 2225885954704345868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_27
+      rect:
+        serializedVersion: 2
+        x: 6558
+        y: 1283
+        width: 330
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c53a53ba19dede0800000000000000
+      internalID: -1302224552714871660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_28
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 259
+        width: 327
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d662484e4800470800000000000000
+      internalID: 8358827025404161358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_29
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 259
+        width: 320
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f82953dc8bd6c70800000000000000
+      internalID: 8966025624671129447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_30
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 259
+        width: 311
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20923a314ce99fe30800000000000000
+      internalID: 4537832664532723970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCHED WALK_31
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 260
+        width: 301
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cd796c668b71f20800000000000000
+      internalID: 3393383595804974097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
