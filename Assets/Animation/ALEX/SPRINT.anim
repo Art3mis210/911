@@ -131,111 +131,111 @@ AnimationClip:
     functionName: Move
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 25
+    floatParameter: 60
     intParameter: 0
     messageOptions: 0
   - time: 0.04
     functionName: Move
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 40
+    floatParameter: 60
     intParameter: 0
     messageOptions: 0
   - time: 0.08
     functionName: Move
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 40
+    floatParameter: 60
     intParameter: 0
     messageOptions: 0
   - time: 0.12
     functionName: Move
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 40
+    floatParameter: 60
     intParameter: 0
     messageOptions: 0
   - time: 0.16
     functionName: Move
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 40
+    floatParameter: 60
     intParameter: 0
     messageOptions: 0
   - time: 0.2
     functionName: Move
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 40
+    floatParameter: 60
     intParameter: 0
     messageOptions: 0
   - time: 0.24
     functionName: Move
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 40
+    floatParameter: 60
     intParameter: 0
     messageOptions: 0
   - time: 0.28
     functionName: Move
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 40
+    floatParameter: 60
     intParameter: 0
     messageOptions: 0
   - time: 0.32
     functionName: Move
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 40
+    floatParameter: 60
     intParameter: 0
     messageOptions: 0
   - time: 0.36
     functionName: Move
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 40
+    floatParameter: 60
     intParameter: 0
     messageOptions: 0
   - time: 0.4
     functionName: Move
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 40
+    floatParameter: 60
     intParameter: 0
     messageOptions: 0
   - time: 0.44
     functionName: Move
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 40
+    floatParameter: 60
     intParameter: 0
     messageOptions: 0
   - time: 0.48
     functionName: Move
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 40
+    floatParameter: 60
     intParameter: 0
     messageOptions: 0
   - time: 0.52
     functionName: Move
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 40
+    floatParameter: 60
     intParameter: 0
     messageOptions: 0
   - time: 0.56
     functionName: Move
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 40
+    floatParameter: 60
     intParameter: 0
     messageOptions: 0
   - time: 0.6
     functionName: Move
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 40
+    floatParameter: 60
     intParameter: 0
     messageOptions: 0

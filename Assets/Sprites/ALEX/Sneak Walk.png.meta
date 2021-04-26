@@ -1,0 +1,776 @@
+fileFormatVersion: 2
+guid: d92b7832accfd4b44aaf0794801669f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8065851898475573698
+    second: Sneak Walk_0
+  - first:
+      213: 2289969768246992658
+    second: Sneak Walk_1
+  - first:
+      213: -5240061409107126968
+    second: Sneak Walk_2
+  - first:
+      213: -5812029523490242194
+    second: Sneak Walk_3
+  - first:
+      213: 1772978466913873581
+    second: Sneak Walk_4
+  - first:
+      213: 3569126620021912514
+    second: Sneak Walk_5
+  - first:
+      213: 1223679105354628128
+    second: Sneak Walk_6
+  - first:
+      213: -6449947458726226794
+    second: Sneak Walk_7
+  - first:
+      213: 2092142804225498557
+    second: Sneak Walk_8
+  - first:
+      213: 7095759193534212537
+    second: Sneak Walk_9
+  - first:
+      213: -8774522900389239915
+    second: Sneak Walk_10
+  - first:
+      213: 2525767774398187232
+    second: Sneak Walk_11
+  - first:
+      213: -8447490731898730376
+    second: Sneak Walk_12
+  - first:
+      213: -962989251944772421
+    second: Sneak Walk_13
+  - first:
+      213: 8249002744417338074
+    second: Sneak Walk_14
+  - first:
+      213: -4954541046027453041
+    second: Sneak Walk_15
+  - first:
+      213: 2293625138620353587
+    second: Sneak Walk_16
+  - first:
+      213: -3863229413950030328
+    second: Sneak Walk_17
+  - first:
+      213: -5472381118951094270
+    second: Sneak Walk_18
+  - first:
+      213: 4225314681810492423
+    second: Sneak Walk_19
+  - first:
+      213: -8145360333033654022
+    second: Sneak Walk_20
+  - first:
+      213: 8367632015022128475
+    second: Sneak Walk_21
+  - first:
+      213: 8586824643046531654
+    second: Sneak Walk_22
+  - first:
+      213: 4624774488045421865
+    second: Sneak Walk_23
+  - first:
+      213: -4960510654869359592
+    second: Sneak Walk_24
+  - first:
+      213: -6963949454398313239
+    second: Sneak Walk_25
+  - first:
+      213: 8927784236802510782
+    second: Sneak Walk_26
+  - first:
+      213: -3375505455714874254
+    second: Sneak Walk_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sneak Walk_0
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 4339
+        width: 478
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1fb832199afef60800000000000000
+      internalID: 8065851898475573698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_1
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 4339
+        width: 478
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fdeb61f5b97cf10800000000000000
+      internalID: 2289969768246992658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_2
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 4342
+        width: 473
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845dfe459ef8747b0800000000000000
+      internalID: -5240061409107126968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_3
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 4342
+        width: 468
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61084c11f5875fa0800000000000000
+      internalID: -5812029523490242194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_4
+      rect:
+        serializedVersion: 2
+        x: 4496
+        y: 4345
+        width: 463
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae61d2a582ea9810800000000000000
+      internalID: 1772978466913873581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_5
+      rect:
+        serializedVersion: 2
+        x: 5524
+        y: 4343
+        width: 464
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3fbc830c5188130800000000000000
+      internalID: 3569126620021912514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_6
+      rect:
+        serializedVersion: 2
+        x: 6522
+        y: 4346
+        width: 495
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cfab9b9a16bf010800000000000000
+      internalID: 1223679105354628128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3323
+        width: 523
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69490b6a5fe2d76a0800000000000000
+      internalID: -6449947458726226794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_8
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 3323
+        width: 548
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd1049bbc8c80d10800000000000000
+      internalID: 2092142804225498557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_9
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 3322
+        width: 574
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9a15e3463397260800000000000000
+      internalID: 7095759193534212537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_10
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 3317
+        width: 588
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593e4c859e1aa3680800000000000000
+      internalID: -8774522900389239915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_11
+      rect:
+        serializedVersion: 2
+        x: 4375
+        y: 3315
+        width: 590
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e60222a8645d0320800000000000000
+      internalID: 2525767774398187232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_12
+      rect:
+        serializedVersion: 2
+        x: 5418
+        y: 3319
+        width: 574
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87885c1afeb74ca80800000000000000
+      internalID: -8447490731898730376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_13
+      rect:
+        serializedVersion: 2
+        x: 6475
+        y: 3320
+        width: 544
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc0053a066c2a2f0800000000000000
+      internalID: -962989251944772421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_14
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2283
+        width: 501
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2c73c7a485a7270800000000000000
+      internalID: 8249002744417338074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_15
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 2287
+        width: 486
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8df07e3b2fed3bb0800000000000000
+      internalID: -4954541046027453041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_16
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 2271
+        width: 489
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c4f5359e794df10800000000000000
+      internalID: 2293625138620353587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_17
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 2274
+        width: 493
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80efaa7f05d036ac0800000000000000
+      internalID: -3863229413950030328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_18
+      rect:
+        serializedVersion: 2
+        x: 4483
+        y: 2294
+        width: 495
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2088d51cd523e04b0800000000000000
+      internalID: -5472381118951094270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_19
+      rect:
+        serializedVersion: 2
+        x: 5508
+        y: 2296
+        width: 500
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c9e81015553aa30800000000000000
+      internalID: 4225314681810492423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_20
+      rect:
+        serializedVersion: 2
+        x: 6533
+        y: 2295
+        width: 504
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8b8fddeedd5fe80800000000000000
+      internalID: -8145360333033654022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_21
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1266
+        width: 505
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d749aebfccf1470800000000000000
+      internalID: 8367632015022128475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_22
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1260
+        width: 506
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642eb5594878a2770800000000000000
+      internalID: 8586824643046531654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_23
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 1267
+        width: 521
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9258c3ec4ef7e2040800000000000000
+      internalID: 4624774488045421865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_24
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 1267
+        width: 510
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814b8ff57d9b82bb0800000000000000
+      internalID: -4960510654869359592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_25
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 1266
+        width: 496
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec20d82ed41b5f90800000000000000
+      internalID: -6963949454398313239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_26
+      rect:
+        serializedVersion: 2
+        x: 5509
+        y: 1266
+        width: 491
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf02f1467cd5eb70800000000000000
+      internalID: 8927784236802510782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sneak Walk_27
+      rect:
+        serializedVersion: 2
+        x: 6533
+        y: 1266
+        width: 485
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cc8b61cabc721d0800000000000000
+      internalID: -3375505455714874254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

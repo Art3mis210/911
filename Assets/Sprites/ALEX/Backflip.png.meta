@@ -1,0 +1,1712 @@
+fileFormatVersion: 2
+guid: a2bed58f4c97db0459103c1fd9553dab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3160524917735481447
+    second: Backflip_0
+  - first:
+      213: 423465548434175073
+    second: Backflip_1
+  - first:
+      213: -9201131934265722060
+    second: Backflip_2
+  - first:
+      213: -1889317094453721597
+    second: Backflip_3
+  - first:
+      213: -2751323025847122340
+    second: Backflip_4
+  - first:
+      213: 5579537125394271447
+    second: Backflip_5
+  - first:
+      213: 6832943082957419968
+    second: Backflip_6
+  - first:
+      213: 41464657526524283
+    second: Backflip_7
+  - first:
+      213: 8784238887848431354
+    second: Backflip_8
+  - first:
+      213: 8498786728676728890
+    second: Backflip_9
+  - first:
+      213: -6827834644271110529
+    second: Backflip_10
+  - first:
+      213: 6892993983257302550
+    second: Backflip_11
+  - first:
+      213: 6706235183053860914
+    second: Backflip_12
+  - first:
+      213: 8985762585562820303
+    second: Backflip_13
+  - first:
+      213: -8409644269520194748
+    second: Backflip_14
+  - first:
+      213: 6683583180982956032
+    second: Backflip_15
+  - first:
+      213: -8531700094411844584
+    second: Backflip_16
+  - first:
+      213: -2480158295361245267
+    second: Backflip_17
+  - first:
+      213: -1906690229014222604
+    second: Backflip_18
+  - first:
+      213: -321145273757659689
+    second: Backflip_19
+  - first:
+      213: -8861341606378240785
+    second: Backflip_20
+  - first:
+      213: 6466520648642168780
+    second: Backflip_21
+  - first:
+      213: -2085133081257331433
+    second: Backflip_22
+  - first:
+      213: 8420599240513640471
+    second: Backflip_23
+  - first:
+      213: 565717826123810655
+    second: Backflip_24
+  - first:
+      213: 3831566446469722380
+    second: Backflip_25
+  - first:
+      213: 2351203569899037241
+    second: Backflip_26
+  - first:
+      213: -5029135431563228618
+    second: Backflip_27
+  - first:
+      213: -5183770018556608924
+    second: Backflip_28
+  - first:
+      213: 6022605208155476265
+    second: Backflip_29
+  - first:
+      213: 3787028208968197837
+    second: Backflip_30
+  - first:
+      213: -6107308231600580896
+    second: Backflip_31
+  - first:
+      213: 91097298897203582
+    second: Backflip_32
+  - first:
+      213: 9127487044145402892
+    second: Backflip_33
+  - first:
+      213: -5041819010286670708
+    second: Backflip_34
+  - first:
+      213: -4272751807467603611
+    second: Backflip_35
+  - first:
+      213: -121914212795037948
+    second: Backflip_36
+  - first:
+      213: -5512573866018668300
+    second: Backflip_37
+  - first:
+      213: -5232023230382024378
+    second: Backflip_38
+  - first:
+      213: 7066525409175219342
+    second: Backflip_39
+  - first:
+      213: 2627527772517601634
+    second: Backflip_40
+  - first:
+      213: -951135034417145659
+    second: Backflip_41
+  - first:
+      213: 7775465965786355121
+    second: Backflip_42
+  - first:
+      213: -6715734194326518181
+    second: Backflip_43
+  - first:
+      213: -8506975213585297081
+    second: Backflip_44
+  - first:
+      213: -809881350699473439
+    second: Backflip_45
+  - first:
+      213: 4360587917829875166
+    second: Backflip_46
+  - first:
+      213: 9132484774605385118
+    second: Backflip_47
+  - first:
+      213: 6444959841409726381
+    second: Backflip_48
+  - first:
+      213: -3150908530779157442
+    second: Backflip_49
+  - first:
+      213: -233455248589272376
+    second: Backflip_50
+  - first:
+      213: 1858724952986752331
+    second: Backflip_51
+  - first:
+      213: -3916615033008495963
+    second: Backflip_52
+  - first:
+      213: 6672523989374046878
+    second: Backflip_53
+  - first:
+      213: 3949835552280853991
+    second: Backflip_54
+  - first:
+      213: 6213947206040173002
+    second: Backflip_55
+  - first:
+      213: 8236902437861554976
+    second: Backflip_56
+  - first:
+      213: 6097729941166898623
+    second: Backflip_57
+  - first:
+      213: 2960880673469144731
+    second: Backflip_58
+  - first:
+      213: -1090658064680039623
+    second: Backflip_59
+  - first:
+      213: -8340867362521033709
+    second: Backflip_60
+  - first:
+      213: -2955012613556076830
+    second: Backflip_61
+  - first:
+      213: 8059772363582779610
+    second: Backflip_62
+  - first:
+      213: -5002646418315457068
+    second: Backflip_63
+  - first:
+      213: -795965643018807788
+    second: Backflip_64
+  - first:
+      213: 3342194428447039285
+    second: Backflip_65
+  - first:
+      213: 7978832969519219665
+    second: Backflip_66
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Backflip_0
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 9458
+        width: 273
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760e461eaa07cdb20800000000000000
+      internalID: 3160524917735481447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_1
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 9461
+        width: 275
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164f8053ca370e500800000000000000
+      internalID: 423465548434175073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_2
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 9462
+        width: 274
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bb69661430f4080800000000000000
+      internalID: -9201131934265722060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_3
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 9463
+        width: 280
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3064305dc1cc7c5e0800000000000000
+      internalID: -1889317094453721597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_4
+      rect:
+        serializedVersion: 2
+        x: 4476
+        y: 9463
+        width: 308
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56870ef84651d9d0800000000000000
+      internalID: -2751323025847122340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_5
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 9463
+        width: 336
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcca32347f7e6d40800000000000000
+      internalID: 5579537125394271447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_6
+      rect:
+        serializedVersion: 2
+        x: 6522
+        y: 9463
+        width: 363
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5b32e088d73de50800000000000000
+      internalID: 6832943082957419968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 8438
+        width: 370
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b790a96e2ef439000800000000000000
+      internalID: 41464657526524283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_8
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 8438
+        width: 366
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afec0644ab2e7e970800000000000000
+      internalID: 8784238887848431354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_9
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 8438
+        width: 359
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30a4905081c1f570800000000000000
+      internalID: 8498786728676728890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_10
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 8438
+        width: 351
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f766d130198ae31a0800000000000000
+      internalID: -6827834644271110529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_11
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 8438
+        width: 355
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616d4f2d185d8af50800000000000000
+      internalID: 6892993983257302550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_12
+      rect:
+        serializedVersion: 2
+        x: 5464
+        y: 8438
+        width: 338
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230f62a2e55511d50800000000000000
+      internalID: 6706235183053860914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_13
+      rect:
+        serializedVersion: 2
+        x: 6525
+        y: 8438
+        width: 274
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcea7748677d3bc70800000000000000
+      internalID: 8985762585562820303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_14
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 7416
+        width: 274
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44379d3d711fa4b80800000000000000
+      internalID: -8409644269520194748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_15
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 7417
+        width: 287
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000b341fd7bd0cc50800000000000000
+      internalID: 6683583180982956032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_16
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 7417
+        width: 285
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8145a6e87ff499980800000000000000
+      internalID: -8531700094411844584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_17
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 7417
+        width: 283
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf214abb25b49dd0800000000000000
+      internalID: -2480158295361245267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_18
+      rect:
+        serializedVersion: 2
+        x: 4450
+        y: 7416
+        width: 303
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f826eab6531a85e0800000000000000
+      internalID: -1906690229014222604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_19
+      rect:
+        serializedVersion: 2
+        x: 5459
+        y: 7416
+        width: 323
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd016433101b8bf0800000000000000
+      internalID: -321145273757659689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_20
+      rect:
+        serializedVersion: 2
+        x: 6455
+        y: 7411
+        width: 356
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe48f6622c0360580800000000000000
+      internalID: -8861341606378240785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_21
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 6404
+        width: 404
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc78b03d442bdb950800000000000000
+      internalID: 6466520648642168780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_22
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 6453
+        width: 415
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715bd36928e1013e0800000000000000
+      internalID: -2085133081257331433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_23
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 6514
+        width: 443
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7185dbe156afbd470800000000000000
+      internalID: 8420599240513640471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_24
+      rect:
+        serializedVersion: 2
+        x: 3323
+        y: 6574
+        width: 438
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5747359d55d9d700800000000000000
+      internalID: 565717826123810655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_25
+      rect:
+        serializedVersion: 2
+        x: 4350
+        y: 6643
+        width: 451
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01322fe1657c2530800000000000000
+      internalID: 3831566446469722380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_26
+      rect:
+        serializedVersion: 2
+        x: 5364
+        y: 6722
+        width: 511
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932667a803721a020800000000000000
+      internalID: 2351203569899037241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_27
+      rect:
+        serializedVersion: 2
+        x: 6381
+        y: 6769
+        width: 541
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ac75278fbe43ab0800000000000000
+      internalID: -5029135431563228618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_28
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 5731
+        width: 524
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46efc9602ac8f08b0800000000000000
+      internalID: -5183770018556608924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_29
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 5691
+        width: 462
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92156861787949350800000000000000
+      internalID: 6022605208155476265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_30
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 5653
+        width: 390
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6eeed671a3e8430800000000000000
+      internalID: 3787028208968197837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_31
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 5617
+        width: 306
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6d0a1758b7e3ba0800000000000000
+      internalID: -6107308231600580896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_32
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 5591
+        width: 232
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71f3ccb284a34100800000000000000
+      internalID: 91097298897203582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_33
+      rect:
+        serializedVersion: 2
+        x: 5523
+        y: 5576
+        width: 220
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04544e6b195bae70800000000000000
+      internalID: 9127487044145402892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_34
+      rect:
+        serializedVersion: 2
+        x: 6504
+        y: 5566
+        width: 297
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c2d06a25cd70ab0800000000000000
+      internalID: -5041819010286670708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_35
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 4536
+        width: 378
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5693c7e7ed224b4c0800000000000000
+      internalID: -4272751807467603611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_36
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 4534
+        width: 445
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407c74d5bafde4ef0800000000000000
+      internalID: -121914212795037948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_37
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 4537
+        width: 489
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f00bd596476f73b0800000000000000
+      internalID: -5512573866018668300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_38
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 4427
+        width: 489
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649dc78a79e1467b0800000000000000
+      internalID: -5232023230382024378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_39
+      rect:
+        serializedVersion: 2
+        x: 4458
+        y: 4351
+        width: 463
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c292a6b67511260800000000000000
+      internalID: 7066525409175219342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_40
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 4338
+        width: 430
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261926e769ad67420800000000000000
+      internalID: 2627527772517601634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_41
+      rect:
+        serializedVersion: 2
+        x: 6531
+        y: 4341
+        width: 405
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8132cb9b3ecc2f0800000000000000
+      internalID: -951135034417145659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_42
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 3317
+        width: 390
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5d5d5891108eb60800000000000000
+      internalID: 7775465965786355121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_43
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 3316
+        width: 384
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56493de45becc2a0800000000000000
+      internalID: -6715734194326518181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_44
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 3314
+        width: 379
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74112397d1721f980800000000000000
+      internalID: -8506975213585297081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_45
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 3314
+        width: 374
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e52855d339b2c4f0800000000000000
+      internalID: -809881350699473439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_46
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 3314
+        width: 367
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed52c1e9b9be38c30800000000000000
+      internalID: 4360587917829875166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_47
+      rect:
+        serializedVersion: 2
+        x: 5509
+        y: 3314
+        width: 361
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d640b348a1dbe70800000000000000
+      internalID: 9132484774605385118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_48
+      rect:
+        serializedVersion: 2
+        x: 6534
+        y: 3314
+        width: 358
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da772e234d8117950800000000000000
+      internalID: 6444959841409726381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_49
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2291
+        width: 357
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c092fa269b544d0800000000000000
+      internalID: -3150908530779157442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_50
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 2291
+        width: 353
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cac2e430b992ccf0800000000000000
+      internalID: -233455248589272376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_51
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 2291
+        width: 343
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b451eed2f748bc910800000000000000
+      internalID: 1858724952986752331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_52
+      rect:
+        serializedVersion: 2
+        x: 3462
+        y: 2292
+        width: 329
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2e29be06365a9c0800000000000000
+      internalID: -3916615033008495963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_53
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 2292
+        width: 314
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9299ed3731999c50800000000000000
+      internalID: 6672523989374046878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_54
+      rect:
+        serializedVersion: 2
+        x: 5511
+        y: 2292
+        width: 294
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edb8e6f182a0d630800000000000000
+      internalID: 3949835552280853991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_55
+      rect:
+        serializedVersion: 2
+        x: 6535
+        y: 2292
+        width: 277
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac93e0d9f006c3650800000000000000
+      internalID: 6213947206040173002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_56
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1267
+        width: 275
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b7942502b5f4270800000000000000
+      internalID: 8236902437861554976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_57
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1267
+        width: 274
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd3487031d7f9450800000000000000
+      internalID: 6097729941166898623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_58
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 1267
+        width: 274
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e927cf849271920800000000000000
+      internalID: 2960880673469144731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_59
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 1267
+        width: 274
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bc45bc4443dd0f0800000000000000
+      internalID: -1090658064680039623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_60
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 1267
+        width: 274
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314d84a53594f3c80800000000000000
+      internalID: -8340867362521033709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_61
+      rect:
+        serializedVersion: 2
+        x: 5511
+        y: 1267
+        width: 274
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eef03e2fafadf6d0800000000000000
+      internalID: -2955012613556076830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_62
+      rect:
+        serializedVersion: 2
+        x: 6535
+        y: 1267
+        width: 274
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0bcdd13401adf60800000000000000
+      internalID: 8059772363582779610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_63
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 242
+        width: 273
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd4d637697039ab0800000000000000
+      internalID: -5002646418315457068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_64
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 242
+        width: 274
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416d272077924f4f0800000000000000
+      internalID: -795965643018807788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_65
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 242
+        width: 274
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f10edff1cd16e20800000000000000
+      internalID: 3342194428447039285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backflip_66
+      rect:
+        serializedVersion: 2
+        x: 3462
+        y: 242
+        width: 274
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d34e56ef428abe60800000000000000
+      internalID: 7978832969519219665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

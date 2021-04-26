@@ -5,15 +5,16 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     public float speed = 10f;
-    private float h;
     private Rigidbody2D rigidBody;
     private SpriteRenderer sp;
     private Animator animator;
+    public GameObject Drone;
 
     // Start is called before the first frame update
     void Start()
     {
         rigidBody = GetComponent<Rigidbody2D>();
+
         sp = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
     }
@@ -21,24 +22,28 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        /*  h = Input.GetAxis("Horizontal");
-
-          if (h != 0)
-              sp.flipX = h < 0;
-          rigidBody.velocity = new Vector2(h*speed, rigidBody.velocity.y);*/
         Movement();
-
         Vector2 S = gameObject.GetComponent<SpriteRenderer>().sprite.bounds.size;
         gameObject.GetComponent<BoxCollider2D>().size = S;
-        gameObject.GetComponent<BoxCollider2D>().offset = new Vector2((S.x / 2), 0);
+        if (Input.GetKey(KeyCode.Escape))
+            Application.Quit();
+        if(Input.GetKeyDown(KeyCode.Tab))
+        {
+            var drone=Instantiate(Drone, new Vector2(transform.position.x+1,transform.position.y+1), Quaternion.identity);
+            drone.GetComponent<Drone>().player = this;
+            rigidBody.constraints= RigidbodyConstraints2D.FreezePositionX | RigidbodyConstraints2D.FreezePositionY | RigidbodyConstraints2D.FreezeRotation;
+            enabled = false;
+        }
+
     }
     private void Movement()
     {
-        if (animator.GetBool("Jump") == false)
+
+        if(animator.GetBool("Pistol") == false && animator.GetBool("Stand") == true && animator.GetBool("Flip") == false)
         {
-            if (Input.GetKeyDown(KeyCode.Space))
+            if(Input.GetKey(KeyCode.B))
             {
-                animator.SetBool("Jump", true);
+                animator.SetBool("Flip", true);
             }
         }
         if (Input.GetKey(KeyCode.D))
@@ -69,12 +74,32 @@ public class Player : MonoBehaviour
             animator.SetBool("Sprint", true);
 
         }
-        if(Input.GetKey(KeyCode.Alpha1))
+        if(Input.GetKeyDown(KeyCode.Alpha1))
         {
-            if (animator.GetBool("Pistol")==false)
+            if (animator.GetBool("Pistol")==false && animator.GetBool("Stand") == true)
                 animator.SetBool("Pistol", true);
             else
                 animator.SetBool("Pistol", false);
+        }
+        if (animator.GetBool("Jump") == false && animator.GetBool("Stand") == true)
+        {
+            if (Input.GetKeyDown(KeyCode.Space))
+            {
+                animator.SetBool("Jump", true);
+            }
+        }
+        if (animator.GetBool("Pistol") == true)
+        {
+            if (Input.GetMouseButton(0))
+            {
+                animator.SetBool("Shoot", true);
+            }
+            else
+                animator.SetBool("Shoot", false);
+            if (Input.GetMouseButton(1))
+            {
+                animator.SetBool("Melee", true);
+            }
         }
     }
     public void Move(float speed)
@@ -87,14 +112,36 @@ public class Player : MonoBehaviour
                 transform.Translate(speed * Vector3.right * 0.01f);
         }
 
-        // transform.position = new Vector3(transform.position.x + (speed*h), transform.position.y, transform.position.z);
-        //rigidBody.velocity = new Vector2((speed * h), 0);
-        // rigidBody.velocity=(new Vector2(10*speed * h, 0));
 
     }
     public void StopJump()
     {
         animator.SetBool("Jump", false);
+    }
+    public void Unfreeze()
+    {
+        rigidBody.constraints = RigidbodyConstraints2D.None;
+        rigidBody.constraints = RigidbodyConstraints2D.FreezeRotation;
+    }
+    public void StopMelee()
+    {
+        animator.SetBool("Melee", false);
+    }
+    public void StopFlip()
+    {
+        animator.SetBool("Flip", false);
+    }
+    public void StopCrouch()
+    {
+        animator.SetBool("Stand", true);
+    }
+    public void StopSprint()
+    {
+        animator.SetBool("Sprint", false);
+    }
+    public void StopAnimation(string parameter)
+    {
+        animator.SetBool(parameter, false);
     }
     public void Jump(float speed)
     {

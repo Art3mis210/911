@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: 124f6b70ed6a2d248bab66a774d446b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7723992620084394886
+    second: PISTOL STAND TO CROUCH_0
+  - first:
+      213: 3495434667433041931
+    second: PISTOL STAND TO CROUCH_1
+  - first:
+      213: 5943756365862646469
+    second: PISTOL STAND TO CROUCH_2
+  - first:
+      213: -5668620927682979717
+    second: PISTOL STAND TO CROUCH_3
+  - first:
+      213: -4187192705411852189
+    second: PISTOL STAND TO CROUCH_4
+  - first:
+      213: -6287032265364127116
+    second: PISTOL STAND TO CROUCH_5
+  - first:
+      213: 838164857490666245
+    second: PISTOL STAND TO CROUCH_6
+  - first:
+      213: 7862058234257891619
+    second: PISTOL STAND TO CROUCH_7
+  - first:
+      213: -5778307071030019136
+    second: PISTOL STAND TO CROUCH_8
+  - first:
+      213: 9165355144241953029
+    second: PISTOL STAND TO CROUCH_9
+  - first:
+      213: -5312720093119677086
+    second: PISTOL STAND TO CROUCH_10
+  - first:
+      213: -1746499437100539632
+    second: PISTOL STAND TO CROUCH_11
+  - first:
+      213: -6217260687088867974
+    second: PISTOL STAND TO CROUCH_12
+  - first:
+      213: 2516043125467574279
+    second: PISTOL STAND TO CROUCH_13
+  - first:
+      213: 6844689517762748723
+    second: PISTOL STAND TO CROUCH_14
+  - first:
+      213: -6726612801440095808
+    second: PISTOL STAND TO CROUCH_15
+  - first:
+      213: -6765749775128895669
+    second: PISTOL STAND TO CROUCH_16
+  - first:
+      213: -6463584153815497155
+    second: PISTOL STAND TO CROUCH_17
+  - first:
+      213: 2323648242652609168
+    second: PISTOL STAND TO CROUCH_18
+  - first:
+      213: -6185470152382944911
+    second: PISTOL STAND TO CROUCH_19
+  - first:
+      213: 8225642965107813645
+    second: PISTOL STAND TO CROUCH_20
+  - first:
+      213: -5271184037531406342
+    second: PISTOL STAND TO CROUCH_21
+  - first:
+      213: -9009249047838395907
+    second: PISTOL STAND TO CROUCH_22
+  - first:
+      213: 5458130667380079388
+    second: PISTOL STAND TO CROUCH_23
+  - first:
+      213: -6047986711936500701
+    second: PISTOL STAND TO CROUCH_24
+  - first:
+      213: -1305548906664343749
+    second: PISTOL STAND TO CROUCH_25
+  - first:
+      213: -539808232535280227
+    second: PISTOL STAND TO CROUCH_26
+  - first:
+      213: -3063305559122331627
+    second: PISTOL STAND TO CROUCH_27
+  - first:
+      213: 6066396526148172106
+    second: PISTOL STAND TO CROUCH_28
+  - first:
+      213: 6781893685585684701
+    second: PISTOL STAND TO CROUCH_29
+  - first:
+      213: 3673367783622604378
+    second: PISTOL STAND TO CROUCH_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_0
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 4329
+        width: 367
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a748120b2addec490800000000000000
+      internalID: -7723992620084394886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_1
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 4329
+        width: 367
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00aee77f47428030800000000000000
+      internalID: 3495434667433041931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_2
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 4329
+        width: 367
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2b5b26ce67c7250800000000000000
+      internalID: 5943756365862646469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_3
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 4330
+        width: 368
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b785c17cc430551b0800000000000000
+      internalID: -5668620927682979717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_4
+      rect:
+        serializedVersion: 2
+        x: 4477
+        y: 4332
+        width: 384
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368d1db4b6a14e5c0800000000000000
+      internalID: -4187192705411852189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_5
+      rect:
+        serializedVersion: 2
+        x: 5481
+        y: 4332
+        width: 405
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4724d8bf679ffb8a0800000000000000
+      internalID: -6287032265364127116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4331
+        width: 426
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50372f14f72c1ab00800000000000000
+      internalID: 838164857490666245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_7
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 3310
+        width: 444
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32160602f44ab1d60800000000000000
+      internalID: 7862058234257891619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_8
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 3309
+        width: 454
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbb02c65545fcfa0800000000000000
+      internalID: -5778307071030019136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_9
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 3305
+        width: 458
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50937dc81f1e13f70800000000000000
+      internalID: 9165355144241953029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_10
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 3303
+        width: 455
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d758a293d6546b0800000000000000
+      internalID: -5312720093119677086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_11
+      rect:
+        serializedVersion: 2
+        x: 4414
+        y: 3305
+        width: 447
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011e33be30033c7e0800000000000000
+      internalID: -1746499437100539632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_12
+      rect:
+        serializedVersion: 2
+        x: 5444
+        y: 3308
+        width: 438
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a752116785ad7b9a0800000000000000
+      internalID: -6217260687088867974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_13
+      rect:
+        serializedVersion: 2
+        x: 6475
+        y: 3309
+        width: 428
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700fe0d54e7cae220800000000000000
+      internalID: 2516043125467574279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2284
+        width: 421
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331a6180ad83dfe50800000000000000
+      internalID: 6844689517762748723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_15
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2283
+        width: 416
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c16194db4546a2a0800000000000000
+      internalID: -6726612801440095808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_16
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 2283
+        width: 412
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f534e0d6a3b12a0800000000000000
+      internalID: -6765749775128895669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_17
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 2283
+        width: 407
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36cbf7257cbc46a0800000000000000
+      internalID: -6463584153815497155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_18
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 2279
+        width: 402
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09af446f3c14f3020800000000000000
+      internalID: 2323648242652609168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_19
+      rect:
+        serializedVersion: 2
+        x: 5471
+        y: 2275
+        width: 395
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179ee6e1babc82aa0800000000000000
+      internalID: -6185470152382944911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_20
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 2274
+        width: 390
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d217802ba572270800000000000000
+      internalID: 8225642965107813645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1251
+        width: 387
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff2b39bb0ef8d6b0800000000000000
+      internalID: -5271184037531406342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_22
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1253
+        width: 385
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1f09a59b7b8f280800000000000000
+      internalID: -9009249047838395907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_23
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1253
+        width: 385
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bfade6cec2fbb40800000000000000
+      internalID: 5458130667380079388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_24
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 1253
+        width: 384
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cfdbc012c311ca0800000000000000
+      internalID: -6047986711936500701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_25
+      rect:
+        serializedVersion: 2
+        x: 4448
+        y: 1253
+        width: 383
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b374f5dbf22c1ede0800000000000000
+      internalID: -1305548906664343749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_26
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 1253
+        width: 382
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9537e4c5473288f0800000000000000
+      internalID: -539808232535280227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_27
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 1252
+        width: 382
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518b806f2d3fc75d0800000000000000
+      internalID: -3063305559122331627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_28
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 228
+        width: 381
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49b9b7df7b203450800000000000000
+      internalID: 6066396526148172106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_29
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 229
+        width: 381
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8acc100602e1e50800000000000000
+      internalID: 6781893685585684701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL STAND TO CROUCH_30
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 229
+        width: 381
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a567030798c6af230800000000000000
+      internalID: 3673367783622604378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
