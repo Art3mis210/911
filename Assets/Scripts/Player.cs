@@ -9,6 +9,7 @@ public class Player : MonoBehaviour
     private SpriteRenderer sp;
     private Animator animator;
     public GameObject Drone;
+    public GameObject Camera;
 
     // Start is called before the first frame update
     void Start()
@@ -33,6 +34,10 @@ public class Player : MonoBehaviour
             drone.GetComponent<Drone>().player = this;
             rigidBody.constraints= RigidbodyConstraints2D.FreezePositionX | RigidbodyConstraints2D.FreezePositionY | RigidbodyConstraints2D.FreezeRotation;
             enabled = false;
+        }
+        if(Input.GetKeyDown(KeyCode.N))
+        {
+            Camera.GetComponent<DeferredNightVisionEffect>().enabled = !Camera.GetComponent<DeferredNightVisionEffect>().enabled;
         }
 
     }
