@@ -101,6 +101,9 @@ public class Player : MonoBehaviour
             }
             else
                 animator.SetBool("Shoot", false);
+        }
+        if((animator.GetBool("Pistol") == true) || (animator.GetBool("Stand") == true && animator.GetBool("Move") == false))
+        {
             if (Input.GetMouseButton(1))
             {
                 animator.SetBool("Melee", true);

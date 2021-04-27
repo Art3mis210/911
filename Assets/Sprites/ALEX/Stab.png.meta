@@ -1,0 +1,1712 @@
+fileFormatVersion: 2
+guid: 401fdd4555011744895d3db66df2cdb8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5312497963641247122
+    second: Stab_0
+  - first:
+      213: -8777645829736586006
+    second: Stab_1
+  - first:
+      213: -5757303661533080252
+    second: Stab_2
+  - first:
+      213: 1106354227851715564
+    second: Stab_3
+  - first:
+      213: 4695096557114757017
+    second: Stab_4
+  - first:
+      213: 8673684361383507288
+    second: Stab_5
+  - first:
+      213: 5066903125391187717
+    second: Stab_6
+  - first:
+      213: 5037305615835230733
+    second: Stab_7
+  - first:
+      213: -4431972810945673157
+    second: Stab_8
+  - first:
+      213: -159036685010877133
+    second: Stab_9
+  - first:
+      213: 4657834033898049865
+    second: Stab_10
+  - first:
+      213: -8390627067033008146
+    second: Stab_11
+  - first:
+      213: 3701191068936603054
+    second: Stab_12
+  - first:
+      213: 8849377697976870437
+    second: Stab_13
+  - first:
+      213: -4553144842947418884
+    second: Stab_14
+  - first:
+      213: 4784035279305950646
+    second: Stab_15
+  - first:
+      213: -6448828654601569440
+    second: Stab_16
+  - first:
+      213: 7463218958121639154
+    second: Stab_17
+  - first:
+      213: -268146237340754848
+    second: Stab_18
+  - first:
+      213: -237906558465322379
+    second: Stab_19
+  - first:
+      213: 1429699217585248400
+    second: Stab_20
+  - first:
+      213: 1444326203992685650
+    second: Stab_21
+  - first:
+      213: 3446733646012406309
+    second: Stab_22
+  - first:
+      213: -7342997696832112217
+    second: Stab_23
+  - first:
+      213: 5025969827082252347
+    second: Stab_24
+  - first:
+      213: -3627344386813836890
+    second: Stab_25
+  - first:
+      213: -3018438222006555596
+    second: Stab_26
+  - first:
+      213: -501822356853063900
+    second: Stab_27
+  - first:
+      213: 4460409708680476072
+    second: Stab_28
+  - first:
+      213: 3009229547993176758
+    second: Stab_29
+  - first:
+      213: 1332253537435332208
+    second: Stab_30
+  - first:
+      213: -6892016944600113554
+    second: Stab_31
+  - first:
+      213: -3610752303765754563
+    second: Stab_32
+  - first:
+      213: -9134777617919629992
+    second: Stab_33
+  - first:
+      213: 4374996792933164755
+    second: Stab_34
+  - first:
+      213: 9129022344585409388
+    second: Stab_35
+  - first:
+      213: -8696939783855523325
+    second: Stab_36
+  - first:
+      213: -6580870104958070915
+    second: Stab_37
+  - first:
+      213: 1584024495136615160
+    second: Stab_38
+  - first:
+      213: -5662292196944793075
+    second: Stab_39
+  - first:
+      213: 845172058916862323
+    second: Stab_40
+  - first:
+      213: -2424405022462473730
+    second: Stab_41
+  - first:
+      213: -8245409344577078632
+    second: Stab_42
+  - first:
+      213: 4978285953082177097
+    second: Stab_43
+  - first:
+      213: -8518854659582307685
+    second: Stab_44
+  - first:
+      213: -6841032625219836138
+    second: Stab_45
+  - first:
+      213: 3762980521079843301
+    second: Stab_46
+  - first:
+      213: 296147304710756227
+    second: Stab_47
+  - first:
+      213: 7540653053359741234
+    second: Stab_48
+  - first:
+      213: -3745327505365716793
+    second: Stab_49
+  - first:
+      213: -2151692903238836486
+    second: Stab_50
+  - first:
+      213: 5285909364605771447
+    second: Stab_51
+  - first:
+      213: -503022384590372895
+    second: Stab_52
+  - first:
+      213: -3688307833306944712
+    second: Stab_53
+  - first:
+      213: 472701062627341140
+    second: Stab_54
+  - first:
+      213: 6032249870549547473
+    second: Stab_55
+  - first:
+      213: -3717666236469270589
+    second: Stab_56
+  - first:
+      213: -66551512184216246
+    second: Stab_57
+  - first:
+      213: 7809350981750527335
+    second: Stab_58
+  - first:
+      213: 422967344905316291
+    second: Stab_59
+  - first:
+      213: -5196998208509164946
+    second: Stab_60
+  - first:
+      213: 4099840491450526197
+    second: Stab_61
+  - first:
+      213: 3748015863159701858
+    second: Stab_62
+  - first:
+      213: 6417896439122688695
+    second: Stab_63
+  - first:
+      213: -5015629824242157183
+    second: Stab_64
+  - first:
+      213: -6828910876715532614
+    second: Stab_65
+  - first:
+      213: 1603344162440922609
+    second: Stab_66
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stab_0
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 9448
+        width: 279
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a6d27bf373646b0800000000000000
+      internalID: -5312497963641247122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_1
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 9448
+        width: 280
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4ac52bf998f2680800000000000000
+      internalID: -8777645829736586006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_2
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 9448
+        width: 284
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445d346c2d2f910b0800000000000000
+      internalID: -5757303661533080252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_3
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 9448
+        width: 300
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce36adafe4f8a5f00800000000000000
+      internalID: 1106354227851715564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_4
+      rect:
+        serializedVersion: 2
+        x: 4467
+        y: 9448
+        width: 324
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f0cf86175582140800000000000000
+      internalID: 4695096557114757017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_5
+      rect:
+        serializedVersion: 2
+        x: 5489
+        y: 9448
+        width: 339
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855ff16b8fd1f5870800000000000000
+      internalID: 8673684361383507288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_6
+      rect:
+        serializedVersion: 2
+        x: 6512
+        y: 9448
+        width: 328
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f12440c81415640800000000000000
+      internalID: 5066903125391187717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_7
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 8423
+        width: 306
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0270f0d4ca18e540800000000000000
+      internalID: 5037305615835230733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_8
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 8426
+        width: 290
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38c465c5387e72c0800000000000000
+      internalID: -4431972810945673157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_9
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 8429
+        width: 290
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335cba34afcfacdf0800000000000000
+      internalID: -159036685010877133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_10
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 8431
+        width: 293
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941d7352063f3a040800000000000000
+      internalID: 4657834033898049865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_11
+      rect:
+        serializedVersion: 2
+        x: 4460
+        y: 8431
+        width: 344
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee748b253218e8b80800000000000000
+      internalID: -8390627067033008146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_12
+      rect:
+        serializedVersion: 2
+        x: 5481
+        y: 8429
+        width: 392
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea580dddaa54d5330800000000000000
+      internalID: 3701191068936603054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_13
+      rect:
+        serializedVersion: 2
+        x: 6505
+        y: 8426
+        width: 424
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526ec2b512e4fca70800000000000000
+      internalID: 8849377697976870437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_14
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 7397
+        width: 435
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4a73193eaffc0c0800000000000000
+      internalID: -4553144842947418884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_15
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 7393
+        width: 437
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5c7f75dbe446240800000000000000
+      internalID: 4784035279305950646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_16
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 7391
+        width: 434
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bfc1981882186a0800000000000000
+      internalID: -6448828654601569440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_17
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 7389
+        width: 432
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc1dcfb91ea29760800000000000000
+      internalID: 7463218958121639154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_18
+      rect:
+        serializedVersion: 2
+        x: 4468
+        y: 7391
+        width: 430
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c5277fa6a574cf0800000000000000
+      internalID: -268146237340754848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_19
+      rect:
+        serializedVersion: 2
+        x: 5492
+        y: 7392
+        width: 429
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57250fcde39c2bcf0800000000000000
+      internalID: -237906558465322379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_20
+      rect:
+        serializedVersion: 2
+        x: 6517
+        y: 7393
+        width: 426
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09892df0ddf47d310800000000000000
+      internalID: 1429699217585248400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_21
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 6369
+        width: 424
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cb5c8b7074b0410800000000000000
+      internalID: 1444326203992685650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_22
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 6369
+        width: 424
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ad4fd4df145df20800000000000000
+      internalID: 3446733646012406309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_23
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 6369
+        width: 424
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a97fc5ef7e681a90800000000000000
+      internalID: -7342997696832112217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_24
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 6371
+        width: 425
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30b113dde4dfb540800000000000000
+      internalID: 5025969827082252347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_25
+      rect:
+        serializedVersion: 2
+        x: 4467
+        y: 6372
+        width: 426
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a144f9af7519adc0800000000000000
+      internalID: -3627344386813836890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_26
+      rect:
+        serializedVersion: 2
+        x: 5489
+        y: 6371
+        width: 430
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c66d0fd6a5c16d0800000000000000
+      internalID: -3018438222006555596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_27
+      rect:
+        serializedVersion: 2
+        x: 6506
+        y: 6369
+        width: 438
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f7c67a93b2909f0800000000000000
+      internalID: -501822356853063900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_28
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 5344
+        width: 437
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a57a9e6ffe86ed30800000000000000
+      internalID: 4460409708680476072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_29
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 5343
+        width: 426
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba1ebf845ee2c920800000000000000
+      internalID: 3009229547993176758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_30
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 5344
+        width: 398
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e2791a88d1d7210800000000000000
+      internalID: 1332253537435332208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_31
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 5346
+        width: 336
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e1327ba13aa50a0800000000000000
+      internalID: -6892016944600113554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_32
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 5348
+        width: 288
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d6e1a09e704edc0800000000000000
+      internalID: -3610752303765754563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_33
+      rect:
+        serializedVersion: 2
+        x: 5499
+        y: 5354
+        width: 278
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85526b59720ca3180800000000000000
+      internalID: -9134777617919629992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_34
+      rect:
+        serializedVersion: 2
+        x: 6527
+        y: 5358
+        width: 289
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d62148476c17bc30800000000000000
+      internalID: 4374996792933164755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_35
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 4334
+        width: 311
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63fd9b647dc0be70800000000000000
+      internalID: 9129022344585409388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_36
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 4333
+        width: 327
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a345e48534e4780800000000000000
+      internalID: -8696939783855523325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_37
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 4333
+        width: 330
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f8cf8a18d0ca4a0800000000000000
+      internalID: -6580870104958070915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_38
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 4333
+        width: 326
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faa224c2e59bf510800000000000000
+      internalID: 1584024495136615160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_39
+      rect:
+        serializedVersion: 2
+        x: 4478
+        y: 4333
+        width: 319
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02b3aa3f3f7b61b0800000000000000
+      internalID: -5662292196944793075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_40
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 4333
+        width: 314
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37933d97287aabb00800000000000000
+      internalID: 845172058916862323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_41
+      rect:
+        serializedVersion: 2
+        x: 6525
+        y: 4331
+        width: 312
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef983742a78ca5ed0800000000000000
+      internalID: -2424405022462473730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_42
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 3306
+        width: 312
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89afbcc13eb629d80800000000000000
+      internalID: -8245409344577078632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_43
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 3305
+        width: 310
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946b7cfb2bc661540800000000000000
+      internalID: 4978285953082177097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_44
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 3304
+        width: 310
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b925a6a62d2f6c980800000000000000
+      internalID: -8518854659582307685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_45
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 3304
+        width: 309
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617e9ec9215cf01a0800000000000000
+      internalID: -6841032625219836138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_46
+      rect:
+        serializedVersion: 2
+        x: 4476
+        y: 3304
+        width: 307
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9ada7c8dac83430800000000000000
+      internalID: 3762980521079843301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_47
+      rect:
+        serializedVersion: 2
+        x: 5496
+        y: 3304
+        width: 310
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387597297602c1400800000000000000
+      internalID: 296147304710756227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_48
+      rect:
+        serializedVersion: 2
+        x: 6519
+        y: 3304
+        width: 308
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239d8fbfff7c5a860800000000000000
+      internalID: 7540653053359741234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_49
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2281
+        width: 308
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c03d2b3a7ce50cc0800000000000000
+      internalID: -3745327505365716793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_50
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 2281
+        width: 302
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe58b464b6a322e0800000000000000
+      internalID: -2151692903238836486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_51
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 2281
+        width: 297
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bedc38af825b5940800000000000000
+      internalID: 5285909364605771447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_52
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 2281
+        width: 289
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efbb6c6ec7e409f0800000000000000
+      internalID: -503022384590372895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_53
+      rect:
+        serializedVersion: 2
+        x: 4474
+        y: 2282
+        width: 281
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83be27d219f70dcc0800000000000000
+      internalID: -3688307833306944712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_54
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 2282
+        width: 278
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4533adaac1f5f8600800000000000000
+      internalID: 472701062627341140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_55
+      rect:
+        serializedVersion: 2
+        x: 6524
+        y: 2282
+        width: 278
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9708a0c4bd6b350800000000000000
+      internalID: 6032249870549547473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_56
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1258
+        width: 279
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c729c54142386cc0800000000000000
+      internalID: -3717666236469270589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_57
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1257
+        width: 279
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45aef490cf831ff0800000000000000
+      internalID: -66551512184216246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_58
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 1257
+        width: 279
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76596999753606c60800000000000000
+      internalID: 7809350981750527335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_59
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 1257
+        width: 280
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7eba82f8eaed500800000000000000
+      internalID: 422967344905316291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_60
+      rect:
+        serializedVersion: 2
+        x: 4476
+        y: 1257
+        width: 279
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62487b0aad80e7b0800000000000000
+      internalID: -5196998208509164946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_61
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 1257
+        width: 278
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9eba0843f85e830800000000000000
+      internalID: 4099840491450526197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_62
+      rect:
+        serializedVersion: 2
+        x: 6524
+        y: 1257
+        width: 278
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261c928d190a30430800000000000000
+      internalID: 3748015863159701858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_63
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 233
+        width: 279
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baf623dec2f01950800000000000000
+      internalID: 6417896439122688695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_64
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 233
+        width: 279
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189f031bf37e46ab0800000000000000
+      internalID: -5015629824242157183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_65
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 233
+        width: 279
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeb19e1db5da31a0800000000000000
+      internalID: -6828910876715532614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stab_66
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 233
+        width: 279
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5ccf65509304610800000000000000
+      internalID: 1603344162440922609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
