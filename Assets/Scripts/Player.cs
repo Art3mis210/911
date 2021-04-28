@@ -10,6 +10,7 @@ public class Player : MonoBehaviour
     private Animator animator;
     public GameObject Drone;
     public GameObject Camera;
+    public bool MeleeComplete;
 
     // Start is called before the first frame update
     void Start()
@@ -18,6 +19,7 @@ public class Player : MonoBehaviour
 
         sp = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
+        MeleeComplete = false;
     }
 
     // Update is called once per frame
@@ -102,13 +104,17 @@ public class Player : MonoBehaviour
             else
                 animator.SetBool("Shoot", false);
         }
-        if((animator.GetBool("Pistol") == true) || (animator.GetBool("Stand") == true && animator.GetBool("Move") == false))
+        if(animator.GetBool("Pistol") == true || animator.GetBool("Move") == false)
         {
             if (Input.GetMouseButton(1))
             {
                 animator.SetBool("Melee", true);
             }
         }
+    }
+    public void SetMeleeComplete()
+    {
+        MeleeComplete = true;
     }
     public void Move(float speed)
     {

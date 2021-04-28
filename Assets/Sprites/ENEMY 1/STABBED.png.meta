@@ -1,0 +1,2108 @@
+fileFormatVersion: 2
+guid: 7d3edb533c9e330429ee7642130c62c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6529070356395792316
+    second: STABBED_0
+  - first:
+      213: -722088628786835562
+    second: STABBED_1
+  - first:
+      213: 267904505129689686
+    second: STABBED_2
+  - first:
+      213: 6213486348293026552
+    second: STABBED_3
+  - first:
+      213: -6077997716065729029
+    second: STABBED_4
+  - first:
+      213: 6465336805411420305
+    second: STABBED_5
+  - first:
+      213: 6714992817644752426
+    second: STABBED_6
+  - first:
+      213: 8127065825572249854
+    second: STABBED_7
+  - first:
+      213: 6288077636706704254
+    second: STABBED_8
+  - first:
+      213: 6024533308899848030
+    second: STABBED_9
+  - first:
+      213: -4304548006774626569
+    second: STABBED_10
+  - first:
+      213: -571879125520564724
+    second: STABBED_11
+  - first:
+      213: -3510588126538960619
+    second: STABBED_12
+  - first:
+      213: -3020700903294539889
+    second: STABBED_13
+  - first:
+      213: -2783331888454031415
+    second: STABBED_14
+  - first:
+      213: -2372058691805191393
+    second: STABBED_15
+  - first:
+      213: 1874588802716985064
+    second: STABBED_16
+  - first:
+      213: -3186842594072144571
+    second: STABBED_17
+  - first:
+      213: -4473410952666202061
+    second: STABBED_18
+  - first:
+      213: 487925889805051805
+    second: STABBED_19
+  - first:
+      213: 119033588209129987
+    second: STABBED_20
+  - first:
+      213: -5438686969136964133
+    second: STABBED_21
+  - first:
+      213: 6873554404551751806
+    second: STABBED_22
+  - first:
+      213: 5349530553462099192
+    second: STABBED_23
+  - first:
+      213: 7661017725167577318
+    second: STABBED_24
+  - first:
+      213: -6719047809972019850
+    second: STABBED_25
+  - first:
+      213: 5020989887574829236
+    second: STABBED_26
+  - first:
+      213: -8909033535576850314
+    second: STABBED_27
+  - first:
+      213: -5628812267938725567
+    second: STABBED_28
+  - first:
+      213: 1896114835483620419
+    second: STABBED_29
+  - first:
+      213: 4314809953348404581
+    second: STABBED_30
+  - first:
+      213: -5805380220650953971
+    second: STABBED_31
+  - first:
+      213: 5171250222800520361
+    second: STABBED_32
+  - first:
+      213: 7718724250612933103
+    second: STABBED_33
+  - first:
+      213: -2080012657629253046
+    second: STABBED_34
+  - first:
+      213: 3946122864608356791
+    second: STABBED_35
+  - first:
+      213: 7806758132547378229
+    second: STABBED_36
+  - first:
+      213: -2716992270147222231
+    second: STABBED_37
+  - first:
+      213: -5400042159525719301
+    second: STABBED_38
+  - first:
+      213: -6943708073838097848
+    second: STABBED_39
+  - first:
+      213: 605775133529445858
+    second: STABBED_40
+  - first:
+      213: 5697662711552961838
+    second: STABBED_41
+  - first:
+      213: -108104703182249984
+    second: STABBED_42
+  - first:
+      213: -2088061206934034163
+    second: STABBED_43
+  - first:
+      213: -126164558533257128
+    second: STABBED_44
+  - first:
+      213: -3989010666597130364
+    second: STABBED_45
+  - first:
+      213: -6334944417837726338
+    second: STABBED_46
+  - first:
+      213: 6083601149754294068
+    second: STABBED_47
+  - first:
+      213: 2863290622798326747
+    second: STABBED_48
+  - first:
+      213: -2071006204178246863
+    second: STABBED_49
+  - first:
+      213: -6347602873698777693
+    second: STABBED_50
+  - first:
+      213: 5875419355978792621
+    second: STABBED_51
+  - first:
+      213: -436087759725985808
+    second: STABBED_52
+  - first:
+      213: -6798267529419878336
+    second: STABBED_53
+  - first:
+      213: 6355181160969683697
+    second: STABBED_54
+  - first:
+      213: -267343369421250752
+    second: STABBED_55
+  - first:
+      213: 84412774949425828
+    second: STABBED_56
+  - first:
+      213: 3904991384440899372
+    second: STABBED_57
+  - first:
+      213: 2616215395895865408
+    second: STABBED_58
+  - first:
+      213: -1785962197242074785
+    second: STABBED_59
+  - first:
+      213: -8595508801234826761
+    second: STABBED_60
+  - first:
+      213: -648224205707896658
+    second: STABBED_61
+  - first:
+      213: 7924433894937828182
+    second: STABBED_62
+  - first:
+      213: 1863014273440989286
+    second: STABBED_63
+  - first:
+      213: -3591806306305286296
+    second: STABBED_64
+  - first:
+      213: 8568697441532943287
+    second: STABBED_65
+  - first:
+      213: -6601926211732112621
+    second: STABBED_66
+  - first:
+      213: -3678225668286802072
+    second: STABBED_67
+  - first:
+      213: -2286438822645016194
+    second: STABBED_68
+  - first:
+      213: -6894885042109855550
+    second: STABBED_69
+  - first:
+      213: 6202426642862078555
+    second: STABBED_70
+  - first:
+      213: 5325015815272983409
+    second: STABBED_71
+  - first:
+      213: -668033838015637482
+    second: STABBED_72
+  - first:
+      213: 2529983530176234938
+    second: STABBED_73
+  - first:
+      213: 4078293985313598468
+    second: STABBED_74
+  - first:
+      213: 4086416537976564848
+    second: STABBED_75
+  - first:
+      213: 8541535556830515896
+    second: STABBED_76
+  - first:
+      213: 7215903507490490838
+    second: STABBED_77
+  - first:
+      213: 1763775849967882014
+    second: STABBED_78
+  - first:
+      213: -2690195566472177820
+    second: STABBED_79
+  - first:
+      213: -5549224483450594500
+    second: STABBED_80
+  - first:
+      213: 7903448238356506888
+    second: STABBED_81
+  - first:
+      213: 7870903151630121395
+    second: STABBED_82
+  - first:
+      213: 4364954943985288610
+    second: STABBED_83
+  - first:
+      213: 1411169908728214205
+    second: STABBED_84
+  - first:
+      213: 1545527768808438310
+    second: STABBED_85
+  - first:
+      213: -6792415591025333695
+    second: STABBED_86
+  - first:
+      213: -3669184610320616596
+    second: STABBED_87
+  - first:
+      213: 8459598437648772907
+    second: STABBED_88
+  - first:
+      213: 4092244672193638468
+    second: STABBED_89
+  - first:
+      213: -2097787087892385567
+    second: STABBED_90
+  - first:
+      213: 8850023018315837036
+    second: STABBED_91
+  - first:
+      213: -1333664551566558859
+    second: STABBED_92
+  - first:
+      213: -2356260929521279983
+    second: STABBED_93
+  - first:
+      213: 6064297692012271381
+    second: STABBED_94
+  - first:
+      213: 2663783186060046281
+    second: STABBED_95
+  - first:
+      213: 8683097715238891815
+    second: STABBED_96
+  - first:
+      213: 8598677445002035946
+    second: STABBED_97
+  - first:
+      213: 5640349049245038613
+    second: STABBED_98
+  - first:
+      213: -4883609406058248695
+    second: STABBED_99
+  - first:
+      213: -1313811441719088302
+    second: STABBED_100
+  - first:
+      213: 7167939425324272147
+    second: STABBED_101
+  - first:
+      213: -4048661020364192594
+    second: STABBED_102
+  - first:
+      213: 7081294834173806346
+    second: STABBED_103
+  - first:
+      213: -7970824053297459520
+    second: STABBED_104
+  - first:
+      213: 8881677275222196862
+    second: STABBED_105
+  - first:
+      213: -1821755529268834632
+    second: STABBED_106
+  - first:
+      213: -7805672367019026339
+    second: STABBED_107
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: STABBED_0
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 7401
+        width: 315
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7118a85eaeb9a50800000000000000
+      internalID: 6529070356395792316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_2
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 7401
+        width: 315
+        height: 541
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6526bfd5ab9c7b300800000000000000
+      internalID: 267904505129689686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_4
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 7401
+        width: 315
+        height: 541
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf54444a74d96aba0800000000000000
+      internalID: -6077997716065729029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_6
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 7401
+        width: 315
+        height: 541
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ec30dd362703d50800000000000000
+      internalID: 6714992817644752426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_8
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 7401
+        width: 315
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b1bff7b4db34750800000000000000
+      internalID: 6288077636706704254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_10
+      rect:
+        serializedVersion: 2
+        x: 5552
+        y: 7401
+        width: 315
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f62591f46c2344c0800000000000000
+      internalID: -4304548006774626569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_12
+      rect:
+        serializedVersion: 2
+        x: 6576
+        y: 7401
+        width: 315
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511f0f4e2b2e74fc0800000000000000
+      internalID: -3510588126538960619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_14
+      rect:
+        serializedVersion: 2
+        x: 7598
+        y: 7401
+        width: 315
+        height: 534
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c72ea8e46e9f59d0800000000000000
+      internalID: -2783331888454031415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_16
+      rect:
+        serializedVersion: 2
+        x: 8622
+        y: 7401
+        width: 315
+        height: 525
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6eed58590e30a10800000000000000
+      internalID: 1874588802716985064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_18
+      rect:
+        serializedVersion: 2
+        x: 9644
+        y: 7402
+        width: 315
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3304dff80704be1c0800000000000000
+      internalID: -4473410952666202061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_20
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 6379
+        width: 315
+        height: 509
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a9b85fa64e6a100800000000000000
+      internalID: 119033588209129987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_22
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 6379
+        width: 315
+        height: 505
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78f0a33055c36f50800000000000000
+      internalID: 6873554404551751806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_24
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 6379
+        width: 315
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8a59ef707615a60800000000000000
+      internalID: 7661017725167577318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_26
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 6379
+        width: 315
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8e9bd43b32ea540800000000000000
+      internalID: 5020989887574829236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_28
+      rect:
+        serializedVersion: 2
+        x: 4527
+        y: 6380
+        width: 315
+        height: 495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141c626a01172e1b0800000000000000
+      internalID: -5628812267938725567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_30
+      rect:
+        serializedVersion: 2
+        x: 5552
+        y: 6381
+        width: 315
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565c6aeaac841eb30800000000000000
+      internalID: 4314809953348404581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_32
+      rect:
+        serializedVersion: 2
+        x: 6579
+        y: 6381
+        width: 315
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a44faedda8f3c740800000000000000
+      internalID: 5171250222800520361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_34
+      rect:
+        serializedVersion: 2
+        x: 7607
+        y: 6382
+        width: 315
+        height: 488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4231bd128f4223e0800000000000000
+      internalID: -2080012657629253046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_36
+      rect:
+        serializedVersion: 2
+        x: 8633
+        y: 6382
+        width: 315
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cd0e9d82d275c60800000000000000
+      internalID: 7806758132547378229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_38
+      rect:
+        serializedVersion: 2
+        x: 9662
+        y: 6383
+        width: 315
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2165d34423f05b0800000000000000
+      internalID: -5400042159525719301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_40
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 5360
+        width: 315
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e599cf3645286800800000000000000
+      internalID: 605775133529445858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_42
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 5363
+        width: 315
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000e540685fef7ef0800000000000000
+      internalID: -108104703182249984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_44
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 5365
+        width: 315
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8589161a006cf3ef0800000000000000
+      internalID: -126164558533257128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_46
+      rect:
+        serializedVersion: 2
+        x: 3531
+        y: 5365
+        width: 315
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7540fead91c518a0800000000000000
+      internalID: -6334944417837726338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_48
+      rect:
+        serializedVersion: 2
+        x: 4558
+        y: 5367
+        width: 315
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbe99ca6a37cb720800000000000000
+      internalID: 2863290622798326747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_50
+      rect:
+        serializedVersion: 2
+        x: 5586
+        y: 5367
+        width: 315
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a58fe141d8c8e7a0800000000000000
+      internalID: -6347602873698777693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_52
+      rect:
+        serializedVersion: 2
+        x: 6614
+        y: 5368
+        width: 315
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fff2a63e74b2f9f0800000000000000
+      internalID: -436087759725985808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_54
+      rect:
+        serializedVersion: 2
+        x: 7643
+        y: 5369
+        width: 315
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f24ade3893223850800000000000000
+      internalID: 6355181160969683697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_56
+      rect:
+        serializedVersion: 2
+        x: 8673
+        y: 5359
+        width: 259
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a29d59b8f4eb2100800000000000000
+      internalID: 84412774949425828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_57
+      rect:
+        serializedVersion: 2
+        x: 9706
+        y: 5359
+        width: 250
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c278f8089f0513630800000000000000
+      internalID: 3904991384440899372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_58
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 4335
+        width: 241
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040f7409a0aae4420800000000000000
+      internalID: 2616215395895865408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_59
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 4334
+        width: 230
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f592c1318dcf637e0800000000000000
+      internalID: -1785962197242074785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_60
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 4334
+        width: 225
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f987a6494e96b880800000000000000
+      internalID: -8595508801234826761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_61
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 4335
+        width: 228
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea898f3f48b0107f0800000000000000
+      internalID: -648224205707896658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_62
+      rect:
+        serializedVersion: 2
+        x: 4609
+        y: 4335
+        width: 243
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b95d954ae39fd60800000000000000
+      internalID: 7924433894937828182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_63
+      rect:
+        serializedVersion: 2
+        x: 5633
+        y: 4335
+        width: 265
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660ceeb6c91cad910800000000000000
+      internalID: 1863014273440989286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_64
+      rect:
+        serializedVersion: 2
+        x: 6658
+        y: 4334
+        width: 274
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f5aa2d137572ec0800000000000000
+      internalID: -3591806306305286296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_65
+      rect:
+        serializedVersion: 2
+        x: 7681
+        y: 4334
+        width: 272
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb9e569ce02ae670800000000000000
+      internalID: 8568697441532943287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_66
+      rect:
+        serializedVersion: 2
+        x: 8703
+        y: 4335
+        width: 271
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bfd54c61f3164a0800000000000000
+      internalID: -6601926211732112621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_67
+      rect:
+        serializedVersion: 2
+        x: 9727
+        y: 4335
+        width: 282
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8679a062e3154fcc0800000000000000
+      internalID: -3678225668286802072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3311
+        width: 302
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79d49f3100f440e0800000000000000
+      internalID: -2286438822645016194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_69
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 3310
+        width: 321
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c843e9b5927050a0800000000000000
+      internalID: -6894885042109855550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_70
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 3309
+        width: 339
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a76397b22731650800000000000000
+      internalID: 6202426642862078555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_71
+      rect:
+        serializedVersion: 2
+        x: 3590
+        y: 3306
+        width: 356
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17beeacbba146e940800000000000000
+      internalID: 5325015815272983409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_72
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 3302
+        width: 390
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618132383caaab6f0800000000000000
+      internalID: -668033838015637482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_73
+      rect:
+        serializedVersion: 2
+        x: 5641
+        y: 3299
+        width: 432
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab54eb3cd9e4c1320800000000000000
+      internalID: 2529983530176234938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_74
+      rect:
+        serializedVersion: 2
+        x: 6666
+        y: 3295
+        width: 475
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40caa3c95c2099830800000000000000
+      internalID: 4078293985313598468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_75
+      rect:
+        serializedVersion: 2
+        x: 7692
+        y: 3293
+        width: 499
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cef56c03ed5b830800000000000000
+      internalID: 4086416537976564848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_76
+      rect:
+        serializedVersion: 2
+        x: 8718
+        y: 3290
+        width: 496
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2504d7551a98670800000000000000
+      internalID: 8541535556830515896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_77
+      rect:
+        serializedVersion: 2
+        x: 9746
+        y: 3289
+        width: 493
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d94771320a042460800000000000000
+      internalID: 7215903507490490838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_78
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2263
+        width: 489
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f8fb86ac03a7810800000000000000
+      internalID: 1763775849967882014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_79
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 2261
+        width: 483
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4675814b2618aaad0800000000000000
+      internalID: -2690195566472177820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_80
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 2259
+        width: 475
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bd60dbbb13df2b0800000000000000
+      internalID: -5549224483450594500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_81
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 2259
+        width: 475
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8092deb6c40bead60800000000000000
+      internalID: 7903448238356506888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_82
+      rect:
+        serializedVersion: 2
+        x: 4643
+        y: 2259
+        width: 476
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b97a6ee6b01b3d60800000000000000
+      internalID: 7870903151630121395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_83
+      rect:
+        serializedVersion: 2
+        x: 5668
+        y: 2261
+        width: 475
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a504d0256f639c30800000000000000
+      internalID: 4364954943985288610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_84
+      rect:
+        serializedVersion: 2
+        x: 6692
+        y: 2262
+        width: 475
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db237772e8b759310800000000000000
+      internalID: 1411169908728214205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_85
+      rect:
+        serializedVersion: 2
+        x: 7716
+        y: 2262
+        width: 475
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a34523151d27510800000000000000
+      internalID: 1545527768808438310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_86
+      rect:
+        serializedVersion: 2
+        x: 8739
+        y: 2259
+        width: 475
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a2c1af10e7cb1a0800000000000000
+      internalID: -6792415591025333695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_87
+      rect:
+        serializedVersion: 2
+        x: 9763
+        y: 2258
+        width: 476
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63728e7900741dc0800000000000000
+      internalID: -3669184610320616596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_88
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1232
+        width: 475
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f218a45f7866570800000000000000
+      internalID: 8459598437648772907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_89
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1231
+        width: 475
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440361409d29ac830800000000000000
+      internalID: 4092244672193638468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_90
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 1230
+        width: 475
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0f5c312c923e2e0800000000000000
+      internalID: -2097787087892385567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_91
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 1231
+        width: 475
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eeeb4bb0991da70800000000000000
+      internalID: 8850023018315837036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_92
+      rect:
+        serializedVersion: 2
+        x: 4643
+        y: 1232
+        width: 476
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579385a082fdd7de0800000000000000
+      internalID: -1333664551566558859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_93
+      rect:
+        serializedVersion: 2
+        x: 5668
+        y: 1234
+        width: 475
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c90c92b21ec4fd0800000000000000
+      internalID: -2356260929521279983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_94
+      rect:
+        serializedVersion: 2
+        x: 6692
+        y: 1236
+        width: 475
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517dc90fe96b82450800000000000000
+      internalID: 6064297692012271381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_95
+      rect:
+        serializedVersion: 2
+        x: 7716
+        y: 1237
+        width: 475
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf64c3c1b8a7f420800000000000000
+      internalID: 2663783186060046281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_96
+      rect:
+        serializedVersion: 2
+        x: 8739
+        y: 1239
+        width: 475
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721f1d2fd5f808870800000000000000
+      internalID: 8683097715238891815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_97
+      rect:
+        serializedVersion: 2
+        x: 9763
+        y: 1226
+        width: 476
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae282871493a45770800000000000000
+      internalID: 8598677445002035946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_98
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 209
+        width: 475
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5187671939b864e40800000000000000
+      internalID: 5640349049245038613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_99
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 211
+        width: 475
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9064422ae1fe93cb0800000000000000
+      internalID: -4883609406058248695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_100
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 211
+        width: 475
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b6d72647764cde0800000000000000
+      internalID: -1313811441719088302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_101
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 208
+        width: 475
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a88f11ee2a97360800000000000000
+      internalID: 7167939425324272147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_102
+      rect:
+        serializedVersion: 2
+        x: 4643
+        y: 206
+        width: 476
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4c831b04440d7c0800000000000000
+      internalID: -4048661020364192594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_103
+      rect:
+        serializedVersion: 2
+        x: 5666
+        y: 204
+        width: 477
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a070db42220d54260800000000000000
+      internalID: 7081294834173806346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_104
+      rect:
+        serializedVersion: 2
+        x: 6689
+        y: 206
+        width: 478
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cec01831c1f16190800000000000000
+      internalID: -7970824053297459520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_105
+      rect:
+        serializedVersion: 2
+        x: 7713
+        y: 208
+        width: 478
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e724747bc6e024b70800000000000000
+      internalID: 8881677275222196862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_106
+      rect:
+        serializedVersion: 2
+        x: 8737
+        y: 209
+        width: 477
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bec35a8ff2d7b6e0800000000000000
+      internalID: -1821755529268834632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STABBED_107
+      rect:
+        serializedVersion: 2
+        x: 9762
+        y: 209
+        width: 477
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d589fb2a65eaca390800000000000000
+      internalID: -7805672367019026339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

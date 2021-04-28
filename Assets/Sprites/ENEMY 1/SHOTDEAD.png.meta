@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: 3bd2b3bd6f59d924e9ee8e95c90f75a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1276231555676645509
+    second: SHOTDEAD_0
+  - first:
+      213: 4430800637959061769
+    second: SHOTDEAD_1
+  - first:
+      213: 6652714853100102384
+    second: SHOTDEAD_2
+  - first:
+      213: 2692042367100280673
+    second: SHOTDEAD_3
+  - first:
+      213: 67997884312611591
+    second: SHOTDEAD_4
+  - first:
+      213: 1690505220501903078
+    second: SHOTDEAD_5
+  - first:
+      213: 7314090983705257231
+    second: SHOTDEAD_6
+  - first:
+      213: -3299718554118998955
+    second: SHOTDEAD_7
+  - first:
+      213: 7835189258223965470
+    second: SHOTDEAD_8
+  - first:
+      213: 143727541686373019
+    second: SHOTDEAD_9
+  - first:
+      213: 8774188505002955854
+    second: SHOTDEAD_10
+  - first:
+      213: 684681565964068763
+    second: SHOTDEAD_11
+  - first:
+      213: 2018859595406305379
+    second: SHOTDEAD_12
+  - first:
+      213: 5733090714306735549
+    second: SHOTDEAD_13
+  - first:
+      213: 6918564314263134614
+    second: SHOTDEAD_14
+  - first:
+      213: -2756009564432996097
+    second: SHOTDEAD_15
+  - first:
+      213: 3678462840995406958
+    second: SHOTDEAD_16
+  - first:
+      213: 2181819909104076146
+    second: SHOTDEAD_17
+  - first:
+      213: 3189513949317837671
+    second: SHOTDEAD_18
+  - first:
+      213: 832853198356112128
+    second: SHOTDEAD_19
+  - first:
+      213: 1324087114937369452
+    second: SHOTDEAD_20
+  - first:
+      213: -3384502980787347317
+    second: SHOTDEAD_21
+  - first:
+      213: -5685230248087619123
+    second: SHOTDEAD_22
+  - first:
+      213: 1062815606769095582
+    second: SHOTDEAD_23
+  - first:
+      213: -5279500393274891937
+    second: SHOTDEAD_24
+  - first:
+      213: 3780544055590015787
+    second: SHOTDEAD_25
+  - first:
+      213: 6083498776537908213
+    second: SHOTDEAD_26
+  - first:
+      213: -843176570713884802
+    second: SHOTDEAD_27
+  - first:
+      213: 3702079861361467948
+    second: SHOTDEAD_28
+  - first:
+      213: 8905679571453163381
+    second: SHOTDEAD_29
+  - first:
+      213: -5782697017205334657
+    second: SHOTDEAD_30
+  - first:
+      213: 2044321619125052380
+    second: SHOTDEAD_31
+  - first:
+      213: 6921705538718556956
+    second: SHOTDEAD_32
+  - first:
+      213: -7792107655828329004
+    second: SHOTDEAD_33
+  - first:
+      213: 2056540221773500567
+    second: SHOTDEAD_34
+  - first:
+      213: -7082025889774248529
+    second: SHOTDEAD_35
+  - first:
+      213: -4364211966872906596
+    second: SHOTDEAD_36
+  - first:
+      213: 7208643218633035123
+    second: SHOTDEAD_37
+  - first:
+      213: 342524352616778700
+    second: SHOTDEAD_38
+  - first:
+      213: -4926667000199066709
+    second: SHOTDEAD_39
+  - first:
+      213: -619927296123280105
+    second: SHOTDEAD_40
+  - first:
+      213: 5767550575143253142
+    second: SHOTDEAD_41
+  - first:
+      213: 6156463207379481021
+    second: SHOTDEAD_42
+  - first:
+      213: 7868803744460466851
+    second: SHOTDEAD_43
+  - first:
+      213: -3417947724861866843
+    second: SHOTDEAD_44
+  - first:
+      213: -2314627525237739825
+    second: SHOTDEAD_45
+  - first:
+      213: 7116421662231465534
+    second: SHOTDEAD_46
+  - first:
+      213: 9054740656684084093
+    second: SHOTDEAD_47
+  - first:
+      213: -4824542787902931136
+    second: SHOTDEAD_48
+  - first:
+      213: 4929972365817023874
+    second: SHOTDEAD_49
+  - first:
+      213: -9216853464643759284
+    second: SHOTDEAD_50
+  - first:
+      213: 4932353298839458622
+    second: SHOTDEAD_51
+  - first:
+      213: 3160776809616856497
+    second: SHOTDEAD_52
+  - first:
+      213: 6458918799511381843
+    second: SHOTDEAD_53
+  - first:
+      213: -5952490224706469050
+    second: SHOTDEAD_54
+  - first:
+      213: -143109066531598041
+    second: SHOTDEAD_55
+  - first:
+      213: 1463476677292652786
+    second: SHOTDEAD_56
+  - first:
+      213: -3315555765645047696
+    second: SHOTDEAD_57
+  - first:
+      213: -1251257157214994821
+    second: SHOTDEAD_58
+  - first:
+      213: 31054880281008792
+    second: SHOTDEAD_59
+  - first:
+      213: -1565506038240085820
+    second: SHOTDEAD_60
+  - first:
+      213: -659488435107130904
+    second: SHOTDEAD_61
+  - first:
+      213: 6112491081061413371
+    second: SHOTDEAD_62
+  - first:
+      213: -765436686166168171
+    second: SHOTDEAD_63
+  - first:
+      213: -618244546447085961
+    second: SHOTDEAD_64
+  - first:
+      213: -4717907797467902083
+    second: SHOTDEAD_65
+  - first:
+      213: -6260313295839787584
+    second: SHOTDEAD_66
+  - first:
+      213: 522595073993484781
+    second: SHOTDEAD_67
+  - first:
+      213: -4193835876016480244
+    second: SHOTDEAD_68
+  - first:
+      213: 3290134174677712180
+    second: SHOTDEAD_69
+  - first:
+      213: -7688652790440286291
+    second: SHOTDEAD_70
+  - first:
+      213: -2092714657937407772
+    second: SHOTDEAD_71
+  - first:
+      213: 3527570742767248384
+    second: SHOTDEAD_72
+  - first:
+      213: -6740723857563722657
+    second: SHOTDEAD_73
+  - first:
+      213: -9152404067542727372
+    second: SHOTDEAD_74
+  - first:
+      213: -3486787038636077704
+    second: SHOTDEAD_75
+  - first:
+      213: -1200172004788887893
+    second: SHOTDEAD_76
+  - first:
+      213: -2400526452558951934
+    second: SHOTDEAD_77
+  - first:
+      213: -9099682342912689273
+    second: SHOTDEAD_78
+  - first:
+      213: -5127747549924907129
+    second: SHOTDEAD_79
+  - first:
+      213: 3691902491939637050
+    second: SHOTDEAD_80
+  - first:
+      213: 377804586247450788
+    second: SHOTDEAD_81
+  - first:
+      213: -7919296038414504140
+    second: SHOTDEAD_82
+  - first:
+      213: 5426017772811917288
+    second: SHOTDEAD_83
+  - first:
+      213: -7002525714360471305
+    second: SHOTDEAD_84
+  - first:
+      213: -1596652952838799390
+    second: SHOTDEAD_85
+  - first:
+      213: 7882545201432819270
+    second: SHOTDEAD_86
+  - first:
+      213: -8242857767497240987
+    second: SHOTDEAD_87
+  - first:
+      213: 8732086696801772985
+    second: SHOTDEAD_88
+  - first:
+      213: -7205234272415108061
+    second: SHOTDEAD_89
+  - first:
+      213: 440592204090541672
+    second: SHOTDEAD_90
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SHOTDEAD_0
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 8428
+        width: 302
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77dfb0792ae94ee0800000000000000
+      internalID: -1276231555676645509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_1
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 8428
+        width: 304
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901cf1074bd5d7d30800000000000000
+      internalID: 4430800637959061769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_2
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 8428
+        width: 307
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f22ffa49e0335c50800000000000000
+      internalID: 6652714853100102384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_3
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 8428
+        width: 306
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f5053154e0c5520800000000000000
+      internalID: 2692042367100280673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_4
+      rect:
+        serializedVersion: 2
+        x: 4496
+        y: 8428
+        width: 306
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b6eeb27b391f000800000000000000
+      internalID: 67997884312611591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_5
+      rect:
+        serializedVersion: 2
+        x: 5513
+        y: 8429
+        width: 298
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e695f69a81e57710800000000000000
+      internalID: 1690505220501903078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_6
+      rect:
+        serializedVersion: 2
+        x: 6535
+        y: 8429
+        width: 283
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05a3aa7ffed08560800000000000000
+      internalID: 7314090983705257231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_7
+      rect:
+        serializedVersion: 2
+        x: 7558
+        y: 8430
+        width: 265
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554b8fa257b0532d0800000000000000
+      internalID: -3299718554118998955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_8
+      rect:
+        serializedVersion: 2
+        x: 8581
+        y: 8430
+        width: 266
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1555642e1f2cbc60800000000000000
+      internalID: 7835189258223965470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_9
+      rect:
+        serializedVersion: 2
+        x: 9611
+        y: 8430
+        width: 261
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a08aa007f9ef100800000000000000
+      internalID: 143727541686373019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_10
+      rect:
+        serializedVersion: 2
+        x: 10642
+        y: 8430
+        width: 253
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44540925fd24c970800000000000000
+      internalID: 8774188505002955854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 7409
+        width: 260
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97eb83b14a708900800000000000000
+      internalID: 684681565964068763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_12
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 7410
+        width: 264
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368e49b0b1e640c10800000000000000
+      internalID: 2018859595406305379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_13
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 7413
+        width: 264
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbde75321a7009f40800000000000000
+      internalID: 5733090714306735549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_14
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 7413
+        width: 269
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6912953769da30060800000000000000
+      internalID: 6918564314263134614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_15
+      rect:
+        serializedVersion: 2
+        x: 4534
+        y: 7414
+        width: 274
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8646237efa0c9d0800000000000000
+      internalID: -2756009564432996097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_16
+      rect:
+        serializedVersion: 2
+        x: 5564
+        y: 7413
+        width: 278
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64610de6768c0330800000000000000
+      internalID: 3678462840995406958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_17
+      rect:
+        serializedVersion: 2
+        x: 6595
+        y: 7413
+        width: 281
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2750606c5a1674e10800000000000000
+      internalID: 2181819909104076146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_18
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 7413
+        width: 285
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7633e33c90e634c20800000000000000
+      internalID: 3189513949317837671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_19
+      rect:
+        serializedVersion: 2
+        x: 8654
+        y: 7413
+        width: 286
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003601e3293ee8b00800000000000000
+      internalID: 832853198356112128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_20
+      rect:
+        serializedVersion: 2
+        x: 9681
+        y: 7414
+        width: 288
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c638389373a106210800000000000000
+      internalID: 1324087114937369452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_21
+      rect:
+        serializedVersion: 2
+        x: 10707
+        y: 7413
+        width: 290
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b806be88874d701d0800000000000000
+      internalID: -3384502980787347317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_22
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 6390
+        width: 292
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc97e6406310a11b0800000000000000
+      internalID: -5685230248087619123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_23
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 6390
+        width: 293
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93963fc921efbe00800000000000000
+      internalID: 1062815606769095582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_24
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 6389
+        width: 297
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51a0534d527bb6b0800000000000000
+      internalID: -5279500393274891937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_25
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 6389
+        width: 301
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b235823d9c0377430800000000000000
+      internalID: 3780544055590015787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_26
+      rect:
+        serializedVersion: 2
+        x: 4578
+        y: 6389
+        width: 306
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3c01fc7edec6450800000000000000
+      internalID: 6083498776537908213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_27
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 6389
+        width: 312
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77baa3506f6c44f0800000000000000
+      internalID: -843176570713884802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_28
+      rect:
+        serializedVersion: 2
+        x: 6631
+        y: 6389
+        width: 322
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22e39af40e606330800000000000000
+      internalID: 3702079861361467948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_29
+      rect:
+        serializedVersion: 2
+        x: 7657
+        y: 6389
+        width: 332
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5773bebc264579b70800000000000000
+      internalID: 8905679571453163381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_30
+      rect:
+        serializedVersion: 2
+        x: 8681
+        y: 6389
+        width: 347
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dd3cd63bbbfbfa0800000000000000
+      internalID: -5782697017205334657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_31
+      rect:
+        serializedVersion: 2
+        x: 9704
+        y: 6389
+        width: 364
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3a99a6ea3ee5c10800000000000000
+      internalID: 2044321619125052380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_32
+      rect:
+        serializedVersion: 2
+        x: 10728
+        y: 6389
+        width: 380
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c136c23c386de0060800000000000000
+      internalID: 6921705538718556956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_33
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 5364
+        width: 396
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd20c21f5fdcd390800000000000000
+      internalID: -7792107655828329004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_34
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 5364
+        width: 412
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790dc198f6c4a8c10800000000000000
+      internalID: 2056540221773500567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_35
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 5364
+        width: 426
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadd2e5b9f697bd90800000000000000
+      internalID: -7082025889774248529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_36
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 5366
+        width: 442
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c941806b6543f63c0800000000000000
+      internalID: -4364211966872906596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_37
+      rect:
+        serializedVersion: 2
+        x: 4582
+        y: 5366
+        width: 457
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d862770de3a0460800000000000000
+      internalID: 7208643218633035123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_38
+      rect:
+        serializedVersion: 2
+        x: 5605
+        y: 5365
+        width: 469
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbc4ac7514e0c400800000000000000
+      internalID: 342524352616778700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_39
+      rect:
+        serializedVersion: 2
+        x: 6628
+        y: 5366
+        width: 481
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babce764776f0abb0800000000000000
+      internalID: -4926667000199066709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_40
+      rect:
+        serializedVersion: 2
+        x: 7651
+        y: 5366
+        width: 492
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715e000a8639567f0800000000000000
+      internalID: -619927296123280105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_41
+      rect:
+        serializedVersion: 2
+        x: 8674
+        y: 5367
+        width: 503
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6947387b0b47a0050800000000000000
+      internalID: 5767550575143253142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_42
+      rect:
+        serializedVersion: 2
+        x: 9699
+        y: 5367
+        width: 510
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1bd943ba6207550800000000000000
+      internalID: 6156463207379481021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_43
+      rect:
+        serializedVersion: 2
+        x: 10724
+        y: 5367
+        width: 515
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa64db905b933d60800000000000000
+      internalID: 7868803744460466851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_44
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 4344
+        width: 515
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acf0ce37a20190d0800000000000000
+      internalID: -3417947724861866843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_45
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 4333
+        width: 513
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceecda778ac0efd0800000000000000
+      internalID: -2314627525237739825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_46
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 4297
+        width: 498
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e83312ccb92c260800000000000000
+      internalID: 7116421662231465534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_47
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 4252
+        width: 469
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b21f637a6e8ad70800000000000000
+      internalID: 9054740656684084093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_48
+      rect:
+        serializedVersion: 2
+        x: 4611
+        y: 4219
+        width: 429
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f7f5b55e7cb0db0800000000000000
+      internalID: -4824542787902931136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_49
+      rect:
+        serializedVersion: 2
+        x: 5649
+        y: 4197
+        width: 413
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d04012fb7ca6440800000000000000
+      internalID: 4929972365817023874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_50
+      rect:
+        serializedVersion: 2
+        x: 6690
+        y: 4186
+        width: 421
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43941d5b98271080800000000000000
+      internalID: -9216853464643759284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_51
+      rect:
+        serializedVersion: 2
+        x: 7729
+        y: 4185
+        width: 417
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e335d0c413d337440800000000000000
+      internalID: 4932353298839458622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_52
+      rect:
+        serializedVersion: 2
+        x: 8764
+        y: 4189
+        width: 407
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5518703c55ddb20800000000000000
+      internalID: 3160776809616856497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_53
+      rect:
+        serializedVersion: 2
+        x: 9795
+        y: 4189
+        width: 398
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357e7f56d60b2a950800000000000000
+      internalID: 6458918799511381843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_54
+      rect:
+        serializedVersion: 2
+        x: 10830
+        y: 4187
+        width: 396
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643c263ada1846da0800000000000000
+      internalID: -5952490224706469050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_55
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 3163
+        width: 398
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7211f3def03930ef0800000000000000
+      internalID: -143109066531598041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_56
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 3162
+        width: 396
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8f81fb8405f4410800000000000000
+      internalID: 1463476677292652786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_57
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 3161
+        width: 389
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0788ab30997ccf1d0800000000000000
+      internalID: -3315555765645047696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_58
+      rect:
+        serializedVersion: 2
+        x: 3691
+        y: 3160
+        width: 387
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ef885be34a2aee0800000000000000
+      internalID: -1251257157214994821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_59
+      rect:
+        serializedVersion: 2
+        x: 4717
+        y: 3160
+        width: 385
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a11b3cf345e6000800000000000000
+      internalID: 31054880281008792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_60
+      rect:
+        serializedVersion: 2
+        x: 5740
+        y: 3162
+        width: 385
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c878f87d84364ae0800000000000000
+      internalID: -1565506038240085820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_61
+      rect:
+        serializedVersion: 2
+        x: 6764
+        y: 3163
+        width: 384
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e116fb23c609d6f0800000000000000
+      internalID: -659488435107130904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_62
+      rect:
+        serializedVersion: 2
+        x: 7789
+        y: 3164
+        width: 383
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1b86bb04ee3d450800000000000000
+      internalID: 6112491081061413371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_63
+      rect:
+        serializedVersion: 2
+        x: 8810
+        y: 3165
+        width: 387
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d630fa36f9065f0800000000000000
+      internalID: -765436686166168171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_64
+      rect:
+        serializedVersion: 2
+        x: 9836
+        y: 3166
+        width: 386
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ee2b05cdd8b67f0800000000000000
+      internalID: -618244546447085961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_65
+      rect:
+        serializedVersion: 2
+        x: 10860
+        y: 3166
+        width: 387
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f41e0dadf968eb0800000000000000
+      internalID: -4717907797467902083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_66
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 2140
+        width: 386
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c580dad936ee19a0800000000000000
+      internalID: -6260313295839787584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_67
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 2140
+        width: 388
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de920c27371a04700800000000000000
+      internalID: 522595073993484781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_68
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 2138
+        width: 388
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00afbb9d708cc5c0800000000000000
+      internalID: -4193835876016480244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_69
+      rect:
+        serializedVersion: 2
+        x: 3693
+        y: 2136
+        width: 387
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43db9099997e8ad20800000000000000
+      internalID: 3290134174677712180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_70
+      rect:
+        serializedVersion: 2
+        x: 4716
+        y: 2136
+        width: 390
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7ad78f50b6c4590800000000000000
+      internalID: -7688652790440286291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_71
+      rect:
+        serializedVersion: 2
+        x: 5740
+        y: 2136
+        width: 390
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e043653b1f25f2e0800000000000000
+      internalID: -2092714657937407772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_72
+      rect:
+        serializedVersion: 2
+        x: 6764
+        y: 2136
+        width: 392
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004e3b296e274f030800000000000000
+      internalID: 3527570742767248384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_73
+      rect:
+        serializedVersion: 2
+        x: 7789
+        y: 2136
+        width: 392
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cd9ec8d532472a0800000000000000
+      internalID: -6740723857563722657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_74
+      rect:
+        serializedVersion: 2
+        x: 8813
+        y: 2136
+        width: 392
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4358649fdf02cf080800000000000000
+      internalID: -9152404067542727372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_75
+      rect:
+        serializedVersion: 2
+        x: 9836
+        y: 2136
+        width: 393
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d09a289a17c9fc0800000000000000
+      internalID: -3486787038636077704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_76
+      rect:
+        serializedVersion: 2
+        x: 10860
+        y: 2135
+        width: 392
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae9031abe1285fe0800000000000000
+      internalID: -1200172004788887893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_77
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1110
+        width: 392
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a8b41f8ed9faed0800000000000000
+      internalID: -2400526452558951934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_78
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1109
+        width: 392
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b7bcd0f1f67b180800000000000000
+      internalID: -9099682342912689273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_79
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 1109
+        width: 390
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787a8d475c496d8b0800000000000000
+      internalID: -5127747549924907129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_80
+      rect:
+        serializedVersion: 2
+        x: 3694
+        y: 1109
+        width: 390
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37017181c54c3330800000000000000
+      internalID: 3691902491939637050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_81
+      rect:
+        serializedVersion: 2
+        x: 4718
+        y: 1109
+        width: 390
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0facdf44b3e3500800000000000000
+      internalID: 377804586247450788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_82
+      rect:
+        serializedVersion: 2
+        x: 5742
+        y: 1109
+        width: 390
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f25271632091290800000000000000
+      internalID: -7919296038414504140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_83
+      rect:
+        serializedVersion: 2
+        x: 6766
+        y: 1109
+        width: 390
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e719658a661d4b40800000000000000
+      internalID: 5426017772811917288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_84
+      rect:
+        serializedVersion: 2
+        x: 7790
+        y: 1109
+        width: 390
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f07109b6f702de90800000000000000
+      internalID: -7002525714360471305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_85
+      rect:
+        serializedVersion: 2
+        x: 8814
+        y: 1109
+        width: 390
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eff67c499c87d9e0800000000000000
+      internalID: -1596652952838799390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_86
+      rect:
+        serializedVersion: 2
+        x: 9839
+        y: 1109
+        width: 389
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646fc51e81d646d60800000000000000
+      internalID: 7882545201432819270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_87
+      rect:
+        serializedVersion: 2
+        x: 10862
+        y: 1109
+        width: 390
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ee142788c7b9d80800000000000000
+      internalID: -8242857767497240987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_88
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 86
+        width: 391
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5a8ce069a9e2970800000000000000
+      internalID: 8732086696801772985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_89
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 86
+        width: 390
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3243a3daa9dd10c90800000000000000
+      internalID: -7205234272415108061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOTDEAD_90
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 86
+        width: 390
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8668f97764c4d1600800000000000000
+      internalID: 440592204090541672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
