@@ -11,23 +11,26 @@ public class Player : MonoBehaviour
     public GameObject Drone;
     public GameObject Camera;
     public bool MeleeComplete;
+    private BoxCollider2D boxC;
+    public bool Dead;
 
     // Start is called before the first frame update
     void Start()
     {
         rigidBody = GetComponent<Rigidbody2D>();
-
+        Dead = false;
         sp = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
         MeleeComplete = false;
+        boxC = GetComponent<BoxCollider2D>();
     }
 
     // Update is called once per frame
     void Update()
     {
         Movement();
-        Vector2 S = gameObject.GetComponent<SpriteRenderer>().sprite.bounds.size;
-        gameObject.GetComponent<BoxCollider2D>().size = S;
+        Vector2 S = sp.sprite.bounds.size;
+        boxC.size = S;
         if (Input.GetKey(KeyCode.Escape))
             Application.Quit();
         if(Input.GetKeyDown(KeyCode.Tab))
@@ -127,6 +130,13 @@ public class Player : MonoBehaviour
         }
 
 
+    }
+    public void TurnColliderOff()
+    {
+        Destroy(rigidBody);
+        Destroy(boxC);
+        enabled = false;
+        Dead = true;
     }
     public void StopJump()
     {

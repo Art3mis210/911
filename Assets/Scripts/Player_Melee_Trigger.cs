@@ -13,9 +13,9 @@ public class Player_Melee_Trigger : MonoBehaviour
     void Update()
     {
         if (Alex.GetComponent<SpriteRenderer>().flipX == true)
-            transform.localScale = new Vector2(-1, 1);
+            transform.position = new Vector2(Alex.transform.position.x - 1, Alex.transform.position.y + 0.5f);
         else
-            transform.localScale = new Vector2(1, 1);
+            transform.position = new Vector2(Alex.transform.position.x + 1, Alex.transform.position.y + 0.5f);
     }
     private void OnTriggerStay2D(Collider2D collision)
     {

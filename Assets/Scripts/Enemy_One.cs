@@ -12,6 +12,7 @@ public class Enemy_One : MonoBehaviour
     public bool FoundPlayer=false;
     private int stopMoving;
     public bool Dead;
+    public GameObject Alex;
     void Start()
     {
         rigidBody = GetComponent<Rigidbody2D>();
@@ -27,14 +28,51 @@ public class Enemy_One : MonoBehaviour
     {
         S = sp.sprite.bounds.size;
         boxC.size = S;
+        if (FoundPlayer==true)
+        {
+            if (transform.position.x - Alex.transform.position.x < 0)
+            {
+                sp.flipX = true;
+            }
+            else
+                sp.flipX = false;
+            if(Mathf.Abs(transform.position.x - Alex.transform.position.x) <= 5)
+            {
+                animator.SetBool("SHOOT", false);
+                animator.SetBool("WALK", false);
+                animator.SetBool("SPRINT", false);
+                animator.SetBool("MELEE", true);
+            }
+            else if (Mathf.Abs(transform.position.x-Alex.transform.position.x)<=15)
+            {
+                animator.SetBool("SPRINT", false);
+                animator.SetBool("WALK", false);
+                animator.SetBool("SHOOT", true);
+            }
+            else
+            {
+                animator.SetBool("SHOOT", false);
+                animator.SetBool("MELEE", false);
+                animator.SetBool("WALK", true);
+                animator.SetBool("SPRINT", true);
+                
+            }
+        }
+        else
+        {
+            animator.SetBool("SHOOT", false);
+            animator.SetBool("MELEE", false);
+            animator.SetBool("SPRINT", false);
+            animator.SetBool("WALK",true);
+        }
 
     }
     public void Move(float speed)
     {
         if (sp.flipX == true)
-            transform.Translate(speed * Vector3.left * 0.01f);
-        else
             transform.Translate(speed * Vector3.right * 0.01f);
+        else
+            transform.Translate(speed * Vector3.left * 0.01f);
     }
     public void StopMoving()
     {
@@ -65,6 +103,15 @@ public class Enemy_One : MonoBehaviour
     public void Died()
     {
         Dead = true;
+    }
+    public void KillAlex()
+    {
+        if (FoundPlayer == true)
+        {
+            Alex.GetComponent<Animator>().SetBool("Death", true);
+            FoundPlayer = false;
+            gameObject.transform.GetChild(0).GetComponent<BoxCollider2D>().enabled = false;
+        }
     }
     public void TurnColliderOff()
     {
