@@ -109,7 +109,7 @@ public class Enemy_One : MonoBehaviour
     }
     public void KillAlex()
     {
-        if (FoundPlayer == true && Mathf.Abs(transform.position.x - Alex.transform.position.x) <= 5 && Dead==false)
+        if (FoundPlayer == true && Mathf.Abs(transform.position.x - Alex.transform.position.x) <= 5)
         {
             
             Alex.GetComponent<Animator>().SetBool("Death", true);
