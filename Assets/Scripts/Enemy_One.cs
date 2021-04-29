@@ -13,6 +13,7 @@ public class Enemy_One : MonoBehaviour
     private int stopMoving;
     public bool Dead;
     public GameObject Alex;
+    public bool StayIdle;
     void Start()
     {
         rigidBody = GetComponent<Rigidbody2D>();
@@ -28,28 +29,30 @@ public class Enemy_One : MonoBehaviour
     {
         S = sp.sprite.bounds.size;
         boxC.size = S;
-        if (FoundPlayer==true)
+        if (FoundPlayer==true && StayIdle==false)
         {
             if (transform.position.x - Alex.transform.position.x < 0)
             {
-                sp.flipX = true;
+                sp.flipX = false;
             }
             else
-                sp.flipX = false;
+                sp.flipX = true;
             if(Mathf.Abs(transform.position.x - Alex.transform.position.x) <= 5)
             {
+                animator.SetBool("MELEE", true);
                 animator.SetBool("SHOOT", false);
                 animator.SetBool("WALK", false);
                 animator.SetBool("SPRINT", false);
-                animator.SetBool("MELEE", true);
+                
             }
             else if (Mathf.Abs(transform.position.x-Alex.transform.position.x)<=15)
             {
+                animator.SetBool("MELEE", false);
                 animator.SetBool("SPRINT", false);
                 animator.SetBool("WALK", false);
                 animator.SetBool("SHOOT", true);
             }
-            else
+            else 
             {
                 animator.SetBool("SHOOT", false);
                 animator.SetBool("MELEE", false);
@@ -63,22 +66,21 @@ public class Enemy_One : MonoBehaviour
             animator.SetBool("SHOOT", false);
             animator.SetBool("MELEE", false);
             animator.SetBool("SPRINT", false);
-            animator.SetBool("WALK",true);
         }
 
     }
     public void Move(float speed)
     {
         if (sp.flipX == true)
-            transform.Translate(speed * Vector3.right * 0.01f);
-        else
             transform.Translate(speed * Vector3.left * 0.01f);
+        else
+            transform.Translate(speed * Vector3.right * 0.01f);
     }
     public void StopMoving()
     {
         if (FoundPlayer == false)
         {
-            if (stopMoving == 2)
+            if (stopMoving == 3)
             {
                 animator.SetBool("WALK", false);
                 stopMoving = 0;
@@ -90,14 +92,15 @@ public class Enemy_One : MonoBehaviour
     }
     public void StartMoving()
     {
-        if (FoundPlayer == false)
+        if (FoundPlayer == false && StayIdle==false)
         {
             animator.SetBool("WALK", true);
         }
+        
     }
     public void TurnAround()
     {
-        if (FoundPlayer == false)
+        if (FoundPlayer == false && StayIdle == false)
             sp.flipX = !sp.flipX;
     }
     public void Died()
@@ -106,7 +109,7 @@ public class Enemy_One : MonoBehaviour
     }
     public void KillAlex()
     {
-        if (FoundPlayer == true)
+        if (FoundPlayer == true && Mathf.Abs(transform.position.x - Alex.transform.position.x) <= 5)
         {
             Alex.GetComponent<Animator>().SetBool("Death", true);
             FoundPlayer = false;

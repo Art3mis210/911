@@ -28,6 +28,7 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //Camera.transform.position = new Vector3(gameObject.transform.position.x + 5, Camera.transform.position.y, Camera.transform.position.z);
         Movement();
         Vector2 S = sp.sprite.bounds.size;
         boxC.size = S;
@@ -119,6 +120,12 @@ public class Player : MonoBehaviour
     {
         MeleeComplete = true;
     }
+    public void TurnColliderOff()
+    {
+        Destroy(rigidBody);
+        Destroy(boxC);
+        enabled = false;
+    }
     public void Move(float speed)
     {
         if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.A))
@@ -131,13 +138,6 @@ public class Player : MonoBehaviour
 
 
     }
-    public void TurnColliderOff()
-    {
-        Destroy(rigidBody);
-        Destroy(boxC);
-        enabled = false;
-        Dead = true;
-    }
     public void StopJump()
     {
         animator.SetBool("Jump", false);
@@ -146,6 +146,10 @@ public class Player : MonoBehaviour
     {
         rigidBody.constraints = RigidbodyConstraints2D.None;
         rigidBody.constraints = RigidbodyConstraints2D.FreezeRotation;
+    }
+    public void Freeze()
+    {
+        rigidBody.constraints = RigidbodyConstraints2D.FreezeAll;
     }
     public void StopMelee()
     {
@@ -174,10 +178,13 @@ public class Player : MonoBehaviour
 
     public void JumpMove(float speed)
     {
-
-            if (sp.flipX == true)
-                transform.Translate(speed * Vector3.left * 0.01f);
-            else
-                transform.Translate(speed * Vector3.right * 0.01f);
+        if (sp.flipX == true)
+            transform.Translate(speed * Vector3.left * 0.01f);
+        else
+            transform.Translate(speed * Vector3.right * 0.01f);
+    }
+    public void TurnScriptOff()
+    {
+        enabled = false;
     }
 }

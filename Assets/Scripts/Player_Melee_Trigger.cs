@@ -6,6 +6,7 @@ public class Player_Melee_Trigger : MonoBehaviour
 {
     public GameObject Alex;
     private Player player;
+   
     void Start()
     {
         player = Alex.GetComponent<Player>();
