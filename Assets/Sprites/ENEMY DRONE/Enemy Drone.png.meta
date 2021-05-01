@@ -1,0 +1,1544 @@
+fileFormatVersion: 2
+guid: 3c1eb5f91efa39f46a6723012bd1ab41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1798122451442380774
+    second: Enemy Drone_0
+  - first:
+      213: 3114033150964213525
+    second: Enemy Drone_1
+  - first:
+      213: 5540090672686720449
+    second: Enemy Drone_2
+  - first:
+      213: -8630221185344005680
+    second: Enemy Drone_3
+  - first:
+      213: 7659428223418247264
+    second: Enemy Drone_4
+  - first:
+      213: 1680805432939605761
+    second: Enemy Drone_5
+  - first:
+      213: -4924521232895191817
+    second: Enemy Drone_6
+  - first:
+      213: 2571520522109504787
+    second: Enemy Drone_7
+  - first:
+      213: 5244218485600178454
+    second: Enemy Drone_8
+  - first:
+      213: -734163554473060244
+    second: Enemy Drone_9
+  - first:
+      213: 1212651339199984615
+    second: Enemy Drone_10
+  - first:
+      213: 106507197230034790
+    second: Enemy Drone_11
+  - first:
+      213: -9033302642299285231
+    second: Enemy Drone_12
+  - first:
+      213: 5358970430177739890
+    second: Enemy Drone_13
+  - first:
+      213: -9096264486012258202
+    second: Enemy Drone_14
+  - first:
+      213: 1974539221749959134
+    second: Enemy Drone_15
+  - first:
+      213: 6336706264072573967
+    second: Enemy Drone_16
+  - first:
+      213: 7705655571996072088
+    second: Enemy Drone_17
+  - first:
+      213: 1494949080448450095
+    second: Enemy Drone_18
+  - first:
+      213: -2649872439199631004
+    second: Enemy Drone_19
+  - first:
+      213: 7735459637706727522
+    second: Enemy Drone_20
+  - first:
+      213: -7022599059709321164
+    second: Enemy Drone_21
+  - first:
+      213: -7370838265118980970
+    second: Enemy Drone_22
+  - first:
+      213: -8803506634390263635
+    second: Enemy Drone_23
+  - first:
+      213: -7497087280061676941
+    second: Enemy Drone_24
+  - first:
+      213: -9168030315094274788
+    second: Enemy Drone_25
+  - first:
+      213: -2972036952703376489
+    second: Enemy Drone_26
+  - first:
+      213: 5659780293434809006
+    second: Enemy Drone_27
+  - first:
+      213: 3220673863464542951
+    second: Enemy Drone_28
+  - first:
+      213: -4298738175367513533
+    second: Enemy Drone_29
+  - first:
+      213: -6466994982782752308
+    second: Enemy Drone_30
+  - first:
+      213: -8614312488599878230
+    second: Enemy Drone_31
+  - first:
+      213: -4486427420329929380
+    second: Enemy Drone_32
+  - first:
+      213: 7483899989037825680
+    second: Enemy Drone_33
+  - first:
+      213: 2242127598478404163
+    second: Enemy Drone_34
+  - first:
+      213: -8308808352042579444
+    second: Enemy Drone_35
+  - first:
+      213: -876090043642979074
+    second: Enemy Drone_36
+  - first:
+      213: -866655499981762189
+    second: Enemy Drone_37
+  - first:
+      213: -1335323292422497442
+    second: Enemy Drone_38
+  - first:
+      213: -632261189894672381
+    second: Enemy Drone_39
+  - first:
+      213: 629646330647924146
+    second: Enemy Drone_40
+  - first:
+      213: -8412303641687598527
+    second: Enemy Drone_41
+  - first:
+      213: 4794210579713503897
+    second: Enemy Drone_42
+  - first:
+      213: 3145134443004910776
+    second: Enemy Drone_43
+  - first:
+      213: 5659429276048958305
+    second: Enemy Drone_44
+  - first:
+      213: 5150793070944271380
+    second: Enemy Drone_45
+  - first:
+      213: -1552610480311650682
+    second: Enemy Drone_46
+  - first:
+      213: 3281388418433998517
+    second: Enemy Drone_47
+  - first:
+      213: -4948249863763326122
+    second: Enemy Drone_48
+  - first:
+      213: 3805605338320903306
+    second: Enemy Drone_49
+  - first:
+      213: -7382659137758500075
+    second: Enemy Drone_50
+  - first:
+      213: 2544899645931258385
+    second: Enemy Drone_51
+  - first:
+      213: 8378383852399714412
+    second: Enemy Drone_52
+  - first:
+      213: -1443635374898609560
+    second: Enemy Drone_53
+  - first:
+      213: -1942300379227213985
+    second: Enemy Drone_54
+  - first:
+      213: -2153226372356253017
+    second: Enemy Drone_55
+  - first:
+      213: 2801247299235999984
+    second: Enemy Drone_56
+  - first:
+      213: 4876091130049264730
+    second: Enemy Drone_57
+  - first:
+      213: 1102410113238731988
+    second: Enemy Drone_58
+  - first:
+      213: -3637879321087217127
+    second: Enemy Drone_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy Drone_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 8470
+        width: 614
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efa0ecb7d634f810800000000000000
+      internalID: 1798122451442380774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_1
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 8470
+        width: 615
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5172306e6a4473b20800000000000000
+      internalID: 3114033150964213525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_2
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 8471
+        width: 615
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c562f83d1b52ec40800000000000000
+      internalID: 5540090672686720449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_3
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 8472
+        width: 615
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9158a8e8b4b3880800000000000000
+      internalID: -8630221185344005680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_4
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 8473
+        width: 615
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06822774361cb4a60800000000000000
+      internalID: 7659428223418247264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_5
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 8474
+        width: 615
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f69eec2ab635710800000000000000
+      internalID: 1680805432939605761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_6
+      rect:
+        serializedVersion: 2
+        x: 6383
+        y: 8476
+        width: 616
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4d968a70698abb0800000000000000
+      internalID: -4924521232895191817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 7454
+        width: 614
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dc6f45a40efa320800000000000000
+      internalID: 2571520522109504787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_8
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 7455
+        width: 615
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6115cb67de437c840800000000000000
+      internalID: 5244218485600178454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_9
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 7457
+        width: 615
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c685890132abfc5f0800000000000000
+      internalID: -734163554473060244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_10
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 7458
+        width: 616
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3ba65d7f334d010800000000000000
+      internalID: 1212651339199984615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_11
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 7459
+        width: 615
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f2be84bb36a7100800000000000000
+      internalID: 106507197230034790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_12
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 7460
+        width: 615
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11157297b1343a280800000000000000
+      internalID: -9033302642299285231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_13
+      rect:
+        serializedVersion: 2
+        x: 6383
+        y: 7462
+        width: 616
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27401949633ee5a40800000000000000
+      internalID: 5358970430177739890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 6438
+        width: 614
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668fc30e4a393c180800000000000000
+      internalID: -9096264486012258202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_15
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 6439
+        width: 615
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed98b7be5f8f66b10800000000000000
+      internalID: 1974539221749959134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_16
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 6439
+        width: 615
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04d90c16c080f750800000000000000
+      internalID: 6336706264072573967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_17
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 6439
+        width: 615
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898d55a9aecffea60800000000000000
+      internalID: 7705655571996072088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_18
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 6439
+        width: 615
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e3d61a4402fb410800000000000000
+      internalID: 1494949080448450095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_19
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 6439
+        width: 615
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46978616e03c93bd0800000000000000
+      internalID: -2649872439199631004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_20
+      rect:
+        serializedVersion: 2
+        x: 6383
+        y: 6438
+        width: 616
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260a1e76e8fd95b60800000000000000
+      internalID: 7735459637706727522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 5414
+        width: 614
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430a80ecc57ba8e90800000000000000
+      internalID: -7022599059709321164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_22
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 5413
+        width: 615
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6940ab676a585b990800000000000000
+      internalID: -7370838265118980970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_23
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 5413
+        width: 615
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8af57eb59a3d580800000000000000
+      internalID: -8803506634390263635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_24
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 5412
+        width: 615
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37203dd07def4f790800000000000000
+      internalID: -7497087280061676941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_25
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 5411
+        width: 615
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d0bc2b00d94c080800000000000000
+      internalID: -9168030315094274788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_26
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 5411
+        width: 615
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793e7c6532431c6d0800000000000000
+      internalID: -2972036952703376489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_27
+      rect:
+        serializedVersion: 2
+        x: 6383
+        y: 5410
+        width: 616
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa10f8a0349b8e40800000000000000
+      internalID: 5659780293434809006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4385
+        width: 614
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e26031a0d122bc20800000000000000
+      internalID: 3220673863464542951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_29
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 4384
+        width: 615
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34afecab760d754c0800000000000000
+      internalID: -4298738175367513533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_30
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 4384
+        width: 615
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc92007a35e9046a0800000000000000
+      internalID: -6466994982782752308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_31
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 4382
+        width: 616
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa50bc4ae60d37880800000000000000
+      internalID: -8614312488599878230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_32
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 4381
+        width: 615
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5599a408020db1c0800000000000000
+      internalID: -4486427420329929380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_33
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 4380
+        width: 615
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e362d73672cd760800000000000000
+      internalID: 7483899989037825680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_34
+      rect:
+        serializedVersion: 2
+        x: 6383
+        y: 4380
+        width: 616
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34aa768eb23ad1f10800000000000000
+      internalID: 2242127598478404163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3355
+        width: 614
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a04b563de21bc80800000000000000
+      internalID: -8308808352042579444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_36
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 3354
+        width: 615
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc576d3fb087d3f0800000000000000
+      internalID: -876090043642979074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_37
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 3353
+        width: 615
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371d2fc1a6509f3f0800000000000000
+      internalID: -866655499981762189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_38
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 3353
+        width: 616
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b1ad65a8af77de0800000000000000
+      internalID: -1335323292422497442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_39
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 3352
+        width: 615
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300ff033cc1c937f0800000000000000
+      internalID: -632261189894672381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_40
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 3351
+        width: 615
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdc5607004fcb800800000000000000
+      internalID: 629646330647924146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_41
+      rect:
+        serializedVersion: 2
+        x: 6383
+        y: 3351
+        width: 616
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a5c7e786e714b80800000000000000
+      internalID: -8412303641687598527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2326
+        width: 615
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9923e361f15788240800000000000000
+      internalID: 4794210579713503897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_43
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 2326
+        width: 615
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc572ebc13c5ab20800000000000000
+      internalID: 3145134443004910776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_44
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 2325
+        width: 615
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163285e01f45a8e40800000000000000
+      internalID: 5659429276048958305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_45
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 2325
+        width: 616
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c3d29020b4b7740800000000000000
+      internalID: 5150793070944271380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_46
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 2325
+        width: 615
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686b9768ef4047ae0800000000000000
+      internalID: -1552610480311650682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_47
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 2325
+        width: 615
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bed6da8165d98d20800000000000000
+      internalID: 3281388418433998517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_48
+      rect:
+        serializedVersion: 2
+        x: 6383
+        y: 2325
+        width: 616
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b038247f8445bb0800000000000000
+      internalID: -4948249863763326122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1302
+        width: 614
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c92f964e930d430800000000000000
+      internalID: 3805605338320903306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_50
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1302
+        width: 615
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bec1411a68b8990800000000000000
+      internalID: -7382659137758500075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_51
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1303
+        width: 615
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11200c89ebc415320800000000000000
+      internalID: 2544899645931258385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_52
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 1303
+        width: 616
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60672229bff54470800000000000000
+      internalID: 8378383852399714412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_53
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 1304
+        width: 615
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8620bf5764d27fbe0800000000000000
+      internalID: -1443635374898609560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_54
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 1306
+        width: 615
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f2e0988109b05e0800000000000000
+      internalID: -1942300379227213985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_55
+      rect:
+        serializedVersion: 2
+        x: 6383
+        y: 1307
+        width: 616
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aad3bac5043e12e0800000000000000
+      internalID: -2153226372356253017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_56
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 284
+        width: 614
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0fbf6b39700e620800000000000000
+      internalID: 2801247299235999984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_57
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 285
+        width: 615
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cf4035c0b5ba340800000000000000
+      internalID: 4876091130049264730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_58
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 285
+        width: 615
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc846c382c8c4f00800000000000000
+      internalID: 1102410113238731988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Drone_59
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 286
+        width: 616
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9127bd22808a38dc0800000000000000
+      internalID: -3637879321087217127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
