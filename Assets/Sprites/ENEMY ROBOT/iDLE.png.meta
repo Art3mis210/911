@@ -1,0 +1,2264 @@
+fileFormatVersion: 2
+guid: de6c61ccaceddb644886401a8ff6822f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4258029860312167874
+    second: iDLE_0
+  - first:
+      213: -6135351162786011497
+    second: iDLE_1
+  - first:
+      213: 733810947641071172
+    second: iDLE_2
+  - first:
+      213: 2511086104743486943
+    second: iDLE_3
+  - first:
+      213: 7061496333863912660
+    second: iDLE_4
+  - first:
+      213: 2096073415638405302
+    second: iDLE_5
+  - first:
+      213: -378846181763284059
+    second: iDLE_6
+  - first:
+      213: 4768281414066512187
+    second: iDLE_7
+  - first:
+      213: -4538800686762374792
+    second: iDLE_8
+  - first:
+      213: -7476301280820187286
+    second: iDLE_9
+  - first:
+      213: -6886476380657262556
+    second: iDLE_10
+  - first:
+      213: 3242596969560117261
+    second: iDLE_11
+  - first:
+      213: -4478533996076425375
+    second: iDLE_12
+  - first:
+      213: 7999789931464452370
+    second: iDLE_13
+  - first:
+      213: -5885324033899875988
+    second: iDLE_14
+  - first:
+      213: 1131769325674257739
+    second: iDLE_15
+  - first:
+      213: 3214098867688072427
+    second: iDLE_16
+  - first:
+      213: 822196060068190136
+    second: iDLE_17
+  - first:
+      213: -5983979007944364150
+    second: iDLE_18
+  - first:
+      213: -1382331476778119968
+    second: iDLE_19
+  - first:
+      213: -9191967733548922720
+    second: iDLE_20
+  - first:
+      213: 1710341772283234279
+    second: iDLE_21
+  - first:
+      213: -7854923806273610916
+    second: iDLE_22
+  - first:
+      213: 4884784334706298821
+    second: iDLE_23
+  - first:
+      213: 6773187984933357962
+    second: iDLE_24
+  - first:
+      213: 7249523642129795381
+    second: iDLE_25
+  - first:
+      213: -5767064586885168870
+    second: iDLE_26
+  - first:
+      213: -8974355702832080154
+    second: iDLE_27
+  - first:
+      213: 6991946216239676951
+    second: iDLE_28
+  - first:
+      213: -8822650532252976689
+    second: iDLE_29
+  - first:
+      213: -942323585886885448
+    second: iDLE_30
+  - first:
+      213: -7865312865295964343
+    second: iDLE_31
+  - first:
+      213: -143831887270971549
+    second: iDLE_32
+  - first:
+      213: -3341756574981362013
+    second: iDLE_33
+  - first:
+      213: 5051178022405331321
+    second: iDLE_34
+  - first:
+      213: -1888479947976950459
+    second: iDLE_35
+  - first:
+      213: -3392852342205486889
+    second: iDLE_36
+  - first:
+      213: 2174896139494324669
+    second: iDLE_37
+  - first:
+      213: -4092085972020609450
+    second: iDLE_38
+  - first:
+      213: -6630806789344641664
+    second: iDLE_39
+  - first:
+      213: 8901896624965772618
+    second: iDLE_40
+  - first:
+      213: 902071146091994919
+    second: iDLE_41
+  - first:
+      213: 7764751509270898345
+    second: iDLE_42
+  - first:
+      213: 5590992932664458153
+    second: iDLE_43
+  - first:
+      213: 1505313038586274492
+    second: iDLE_44
+  - first:
+      213: -4184786784497522719
+    second: iDLE_45
+  - first:
+      213: 1073592757738804913
+    second: iDLE_46
+  - first:
+      213: 6522117268719504776
+    second: iDLE_47
+  - first:
+      213: 6056834345336839825
+    second: iDLE_48
+  - first:
+      213: 2088839933361470034
+    second: iDLE_49
+  - first:
+      213: -2099903244278762370
+    second: iDLE_50
+  - first:
+      213: -8199022925929306600
+    second: iDLE_51
+  - first:
+      213: -2226639420356584025
+    second: iDLE_52
+  - first:
+      213: 6011125866089742234
+    second: iDLE_53
+  - first:
+      213: -3751747766589717077
+    second: iDLE_54
+  - first:
+      213: -4041054850477273045
+    second: iDLE_55
+  - first:
+      213: 8643640987400404917
+    second: iDLE_56
+  - first:
+      213: -2445892379614966651
+    second: iDLE_57
+  - first:
+      213: -7103759110336962764
+    second: iDLE_58
+  - first:
+      213: -1376541545351428753
+    second: iDLE_59
+  - first:
+      213: 4080582797855438554
+    second: iDLE_60
+  - first:
+      213: -6888317486983455057
+    second: iDLE_61
+  - first:
+      213: 532819287489615365
+    second: iDLE_62
+  - first:
+      213: 5767769987012658523
+    second: iDLE_63
+  - first:
+      213: 7872213947950854595
+    second: iDLE_64
+  - first:
+      213: 3297649248473327093
+    second: iDLE_65
+  - first:
+      213: 1124401964195828242
+    second: iDLE_66
+  - first:
+      213: 2297572342897229649
+    second: iDLE_67
+  - first:
+      213: 6201669744206762240
+    second: iDLE_68
+  - first:
+      213: -3163840540063203697
+    second: iDLE_69
+  - first:
+      213: -2664206264916356091
+    second: iDLE_70
+  - first:
+      213: 6242321477100552862
+    second: iDLE_71
+  - first:
+      213: 6938184092630615442
+    second: iDLE_72
+  - first:
+      213: 2276249064080074990
+    second: iDLE_73
+  - first:
+      213: 6840693973003232075
+    second: iDLE_74
+  - first:
+      213: -190058959918804246
+    second: iDLE_75
+  - first:
+      213: 3364520076392454950
+    second: iDLE_76
+  - first:
+      213: -4802217136886814092
+    second: iDLE_77
+  - first:
+      213: 1313667198864979323
+    second: iDLE_78
+  - first:
+      213: 669693171540590929
+    second: iDLE_79
+  - first:
+      213: -2396492768231725260
+    second: iDLE_80
+  - first:
+      213: 1224270206488644764
+    second: iDLE_81
+  - first:
+      213: 2295570130213365876
+    second: iDLE_82
+  - first:
+      213: 7871703796054480783
+    second: iDLE_83
+  - first:
+      213: -6911864059225422248
+    second: iDLE_84
+  - first:
+      213: 7602053521624567348
+    second: iDLE_85
+  - first:
+      213: 7681211409713391691
+    second: iDLE_86
+  - first:
+      213: -7930877070378460087
+    second: iDLE_87
+  - first:
+      213: 8484334198831460073
+    second: iDLE_88
+  - first:
+      213: 1035799185523230693
+    second: iDLE_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: iDLE_0
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 12526
+        width: 109
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a461de66078e4c0800000000000000
+      internalID: -4258029860312167874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_1
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 12526
+        width: 108
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7962cd9bf9adadaa0800000000000000
+      internalID: -6135351162786011497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_2
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 12526
+        width: 109
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44650724b250f2a00800000000000000
+      internalID: 733810947641071172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_3
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 12526
+        width: 109
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5a7a9028b29d220800000000000000
+      internalID: 2511086104743486943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_4
+      rect:
+        serializedVersion: 2
+        x: 4554
+        y: 12525
+        width: 109
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d48ea290897ff160800000000000000
+      internalID: 7061496333863912660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_5
+      rect:
+        serializedVersion: 2
+        x: 5578
+        y: 12525
+        width: 109
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b054428aafb61d10800000000000000
+      internalID: 2096073415638405302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_6
+      rect:
+        serializedVersion: 2
+        x: 6603
+        y: 12525
+        width: 108
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a38c77a7611ebaf0800000000000000
+      internalID: -378846181763284059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 11501
+        width: 107
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b312882cea65c2240800000000000000
+      internalID: 4768281414066512187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_8
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 11501
+        width: 108
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879ca3fa2d0f201c0800000000000000
+      internalID: -4538800686762374792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_9
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 11501
+        width: 109
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f2ae2a897de3890800000000000000
+      internalID: -7476301280820187286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_10
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 11501
+        width: 112
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4206ec8c7325e60a0800000000000000
+      internalID: -6886476380657262556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_11
+      rect:
+        serializedVersion: 2
+        x: 4551
+        y: 11501
+        width: 115
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00936883c4000d20800000000000000
+      internalID: 3242596969560117261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_12
+      rect:
+        serializedVersion: 2
+        x: 5575
+        y: 11503
+        width: 116
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f9a511f0d09d1c0800000000000000
+      internalID: -4478533996076425375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_13
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 11503
+        width: 115
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2196fa6de86f40f60800000000000000
+      internalID: 7999789931464452370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_14
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 10478
+        width: 112
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61345319f0235ea0800000000000000
+      internalID: -5885324033899875988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_15
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 10479
+        width: 111
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d5f70943ad4bf00800000000000000
+      internalID: 1131769325674257739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_16
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 10479
+        width: 110
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4688124e5ca9c20800000000000000
+      internalID: 3214098867688072427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_17
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 10479
+        width: 108
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b71710e5f6096b00800000000000000
+      internalID: 822196060068190136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_18
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 10479
+        width: 111
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fe418fbc2a4fca0800000000000000
+      internalID: -5983979007944364150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_19
+      rect:
+        serializedVersion: 2
+        x: 5580
+        y: 10477
+        width: 112
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec8cc488d8f0dce0800000000000000
+      internalID: -1382331476778119968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_20
+      rect:
+        serializedVersion: 2
+        x: 6603
+        y: 10477
+        width: 112
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8c6f62c029f6080800000000000000
+      internalID: -9191967733548922720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_21
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 9453
+        width: 117
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e74475b7ca5cb710800000000000000
+      internalID: 1710341772283234279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_22
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 9453
+        width: 125
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b5d455a64bdf290800000000000000
+      internalID: -7854923806273610916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_23
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 9453
+        width: 140
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfcf82c87d3ac340800000000000000
+      internalID: 4884784334706298821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_24
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 9453
+        width: 160
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8985ee16923ffd50800000000000000
+      internalID: 6773187984933357962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_25
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 9453
+        width: 178
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53941f7c75b7b9460800000000000000
+      internalID: 7249523642129795381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_26
+      rect:
+        serializedVersion: 2
+        x: 5524
+        y: 9453
+        width: 194
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1189fd305547ffa0800000000000000
+      internalID: -5767064586885168870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_27
+      rect:
+        serializedVersion: 2
+        x: 6538
+        y: 9452
+        width: 207
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea51b4590fa47380800000000000000
+      internalID: -8974355702832080154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_28
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 8430
+        width: 214
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e3a9be902680160800000000000000
+      internalID: 6991946216239676951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_29
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 8430
+        width: 216
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc976a7d516af8580800000000000000
+      internalID: -8822650532252976689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_30
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 8430
+        width: 208
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b96db7f0b13ce2f0800000000000000
+      internalID: -942323585886885448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_31
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 8428
+        width: 192
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94769b80f9bc8d290800000000000000
+      internalID: -7865312865295964343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_32
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 8428
+        width: 170
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367f6db19a1010ef0800000000000000
+      internalID: -143831887270971549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_33
+      rect:
+        serializedVersion: 2
+        x: 5547
+        y: 8428
+        width: 149
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aee866b912bf91d0800000000000000
+      internalID: -3341756574981362013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_34
+      rect:
+        serializedVersion: 2
+        x: 6589
+        y: 8428
+        width: 125
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979daba26a3691640800000000000000
+      internalID: 5051178022405331321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_35
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 7404
+        width: 111
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54db26f2e75cac5e0800000000000000
+      internalID: -1888479947976950459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_36
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 7403
+        width: 110
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d86d7755ca2ae0d0800000000000000
+      internalID: -3392852342205486889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_37
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 7403
+        width: 110
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db97de90488ce2e10800000000000000
+      internalID: 2174896139494324669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_38
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 7404
+        width: 111
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e3a5f3d7df537c0800000000000000
+      internalID: -4092085972020609450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_39
+      rect:
+        serializedVersion: 2
+        x: 4553
+        y: 7404
+        width: 112
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d3dda4b54aaf3a0800000000000000
+      internalID: -6630806789344641664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_40
+      rect:
+        serializedVersion: 2
+        x: 5575
+        y: 7404
+        width: 113
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45655ee0d3e98b70800000000000000
+      internalID: 8901896624965772618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_41
+      rect:
+        serializedVersion: 2
+        x: 6598
+        y: 7404
+        width: 119
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f51f09decc48c00800000000000000
+      internalID: 902071146091994919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_42
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 6381
+        width: 124
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a62547bb50f1cb60800000000000000
+      internalID: 7764751509270898345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_43
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 6381
+        width: 131
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab3f2d2372379d40800000000000000
+      internalID: 5590992932664458153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_44
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 6381
+        width: 136
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2e2bcab32f3e410800000000000000
+      internalID: 1505313038586274492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_45
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 6381
+        width: 144
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7a6496796ace5c0800000000000000
+      internalID: -4184786784497522719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_46
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 6381
+        width: 149
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6147eccea26ee00800000000000000
+      internalID: 1073592757738804913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_47
+      rect:
+        serializedVersion: 2
+        x: 5557
+        y: 6381
+        width: 153
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d8779a917338a50800000000000000
+      internalID: 6522117268719504776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_48
+      rect:
+        serializedVersion: 2
+        x: 6581
+        y: 6381
+        width: 154
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e10312fb23e0450800000000000000
+      internalID: 6056834345336839825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_49
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 5357
+        width: 155
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a39ac2adc0dfc10800000000000000
+      internalID: 2088839933361470034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_50
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 5357
+        width: 151
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74f2160025abd2e0800000000000000
+      internalID: -2099903244278762370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_51
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 5358
+        width: 148
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81623b2d618373e80800000000000000
+      internalID: -8199022925929306600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_52
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 5359
+        width: 139
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad93c29e336911e0800000000000000
+      internalID: -2226639420356584025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_53
+      rect:
+        serializedVersion: 2
+        x: 4546
+        y: 5360
+        width: 128
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ff07c702fcb6350800000000000000
+      internalID: 6011125866089742234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_54
+      rect:
+        serializedVersion: 2
+        x: 5576
+        y: 5360
+        width: 116
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba50e8da84d1febc0800000000000000
+      internalID: -3751747766589717077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_55
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 5359
+        width: 107
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20de6f160a4be7c0800000000000000
+      internalID: -4041054850477273045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_56
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 4333
+        width: 106
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bff10c9ea164f770800000000000000
+      internalID: 8643640987400404917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_57
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 4333
+        width: 106
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c0732f6d17e0ed0800000000000000
+      internalID: -2445892379614966651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_58
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 4333
+        width: 105
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f9b6af9b06a6d90800000000000000
+      internalID: -7103759110336962764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_59
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 4332
+        width: 106
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65c2caf1ca85ece0800000000000000
+      internalID: -1376541545351428753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_60
+      rect:
+        serializedVersion: 2
+        x: 4554
+        y: 4332
+        width: 106
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad63ebe4f6421a830800000000000000
+      internalID: 4080582797855438554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_61
+      rect:
+        serializedVersion: 2
+        x: 5578
+        y: 4332
+        width: 107
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae5d30ddb7c760a0800000000000000
+      internalID: -6888317486983455057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_62
+      rect:
+        serializedVersion: 2
+        x: 6602
+        y: 4332
+        width: 107
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5069b48a154f46700800000000000000
+      internalID: 532819287489615365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_63
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 3308
+        width: 108
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b558c068e3c3b0050800000000000000
+      internalID: 5767769987012658523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_64
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 3308
+        width: 109
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c17c7b70e8bf3d60800000000000000
+      internalID: 7872213947950854595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_65
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 3309
+        width: 109
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f52611158a93cd20800000000000000
+      internalID: 3297649248473327093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_66
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 3309
+        width: 109
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212d4ac01adaa9f00800000000000000
+      internalID: 1124401964195828242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_67
+      rect:
+        serializedVersion: 2
+        x: 4553
+        y: 3311
+        width: 108
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fb6207fdd92ef10800000000000000
+      internalID: 2297572342897229649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_68
+      rect:
+        serializedVersion: 2
+        x: 5578
+        y: 3311
+        width: 107
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0015bb546c1c01650800000000000000
+      internalID: 6201669744206762240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_69
+      rect:
+        serializedVersion: 2
+        x: 6601
+        y: 3311
+        width: 108
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e7d83aac7c714d0800000000000000
+      internalID: -3163840540063203697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_70
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2286
+        width: 109
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5045a438486d60bd0800000000000000
+      internalID: -2664206264916356091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_71
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 2286
+        width: 108
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92ce586f4e21a650800000000000000
+      internalID: 6242321477100552862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_72
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 2286
+        width: 110
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29583831ca1694060800000000000000
+      internalID: 6938184092630615442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_73
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 2286
+        width: 109
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8eec4b67cd69f10800000000000000
+      internalID: 2276249064080074990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_74
+      rect:
+        serializedVersion: 2
+        x: 4553
+        y: 2286
+        width: 110
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b436306cce60fee50800000000000000
+      internalID: 6840693973003232075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_75
+      rect:
+        serializedVersion: 2
+        x: 5576
+        y: 2286
+        width: 111
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2d8a70266cc5df0800000000000000
+      internalID: -190058959918804246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_76
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 2287
+        width: 111
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bda09fe2d21be20800000000000000
+      internalID: 3364520076392454950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_77
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1262
+        width: 110
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a619d05f81b5db0800000000000000
+      internalID: -4802217136886814092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_78
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1262
+        width: 110
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75fd657b551b3210800000000000000
+      internalID: 1313667198864979323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_79
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 1262
+        width: 109
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1518e2e246a3b4900800000000000000
+      internalID: 669693171540590929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_80
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 1262
+        width: 109
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43761c24682fdbed0800000000000000
+      internalID: -2396492768231725260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_81
+      rect:
+        serializedVersion: 2
+        x: 4553
+        y: 1262
+        width: 108
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c89de244b7df010800000000000000
+      internalID: 1224270206488644764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_82
+      rect:
+        serializedVersion: 2
+        x: 5576
+        y: 1262
+        width: 109
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4786d58fed08bdf10800000000000000
+      internalID: 2295570130213365876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_83
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 1263
+        width: 109
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87dbec75e8ed3d60800000000000000
+      internalID: 7871703796054480783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_84
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 238
+        width: 108
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856441e32402410a0800000000000000
+      internalID: -6911864059225422248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_85
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 238
+        width: 107
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e80f7866bef7960800000000000000
+      internalID: 7602053521624567348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_86
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 238
+        width: 107
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48e4a09415299a60800000000000000
+      internalID: 7681211409713391691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_87
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 238
+        width: 107
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c1dc6f25ddfe190800000000000000
+      internalID: -7930877070378460087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_88
+      rect:
+        serializedVersion: 2
+        x: 4553
+        y: 239
+        width: 107
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee2c0d70096eb570800000000000000
+      internalID: 8484334198831460073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iDLE_89
+      rect:
+        serializedVersion: 2
+        x: 5576
+        y: 239
+        width: 109
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e740cf0fd5ef5e00800000000000000
+      internalID: 1035799185523230693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
