@@ -20,19 +20,9 @@ public class Player_Melee_Trigger : MonoBehaviour
     }
     private void OnTriggerStay2D(Collider2D collision)
     {
-        if(collision.gameObject.name=="ENEMY 1")
+        if(collision.gameObject.tag=="ENEMY")
         {
-            if (Alex.GetComponent<Animator>().GetBool("Melee")==true && player.MeleeComplete==true && collision.gameObject.GetComponent<Enemy_One>().Dead==false)
-            {
-                Physics2D.IgnoreCollision(Alex.GetComponent<BoxCollider2D>(), collision.gameObject.GetComponent<BoxCollider2D>(), true);
-                collision.gameObject.GetComponent<Animator>().SetBool("STABBED", true);
-                player.MeleeComplete = false;
-
-            }
-        }
-        else if(collision.gameObject.name == "ENEMY ROBOT")
-        {
-            if (Alex.GetComponent<Animator>().GetBool("Melee") == true && player.MeleeComplete == true && collision.gameObject.GetComponent<Enemy_Robot>().Dead == false)
+            if (Alex.GetComponent<Animator>().GetBool("Melee")==true && player.MeleeComplete==true && collision.gameObject.GetComponent<Enemy>().Dead==false)
             {
                 Physics2D.IgnoreCollision(Alex.GetComponent<BoxCollider2D>(), collision.gameObject.GetComponent<BoxCollider2D>(), true);
                 collision.gameObject.GetComponent<Animator>().SetBool("STABBED", true);

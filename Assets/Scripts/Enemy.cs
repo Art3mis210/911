@@ -2,18 +2,19 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Enemy_Robot : MonoBehaviour
+public class Enemy : MonoBehaviour
 {
     private Rigidbody2D rigidBody;
     private SpriteRenderer sp;
     private Animator animator;
     private BoxCollider2D boxC;
     private Vector2 S;
-    public bool FoundPlayer = false;
+    public bool FoundPlayer=false;
     private int stopMoving;
     public bool Dead;
     public GameObject Alex;
     public bool StayIdle;
+    public int WalkArea;
     void Start()
     {
         rigidBody = GetComponent<Rigidbody2D>();
@@ -29,6 +30,67 @@ public class Enemy_Robot : MonoBehaviour
     {
         S = sp.sprite.bounds.size;
         boxC.size = S;
+        if(gameObject.name=="ENEMY 1")
+        {
+            EnemyOne();
+        }
+        else if(gameObject.name=="ENEMY ROBOT")
+        {
+            EnemyRobot();
+        }
+        
+
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "ENEMY")
+        {
+            Physics2D.IgnoreCollision(boxC, collision.gameObject.GetComponent<BoxCollider2D>(), true);
+        }
+    }
+    private void EnemyOne()
+    {
+        if (FoundPlayer == true && StayIdle == false)
+        {
+            if (transform.position.x - Alex.transform.position.x < 0)
+            {
+                sp.flipX = false;
+            }
+            else
+                sp.flipX = true;
+            if (Mathf.Abs(transform.position.x - Alex.transform.position.x) <= 5)
+            {
+                animator.SetBool("MELEE", true);
+                animator.SetBool("SHOOT", false);
+                animator.SetBool("WALK", false);
+                animator.SetBool("SPRINT", false);
+
+            }
+            else if (Mathf.Abs(transform.position.x - Alex.transform.position.x) <= 15)
+            {
+                animator.SetBool("MELEE", false);
+                animator.SetBool("SPRINT", false);
+                animator.SetBool("WALK", false);
+                animator.SetBool("SHOOT", true);
+            }
+            else
+            {
+                animator.SetBool("SHOOT", false);
+                animator.SetBool("MELEE", false);
+                animator.SetBool("WALK", true);
+                animator.SetBool("SPRINT", true);
+
+            }
+        }
+        else
+        {
+            animator.SetBool("SHOOT", false);
+            animator.SetBool("MELEE", false);
+            animator.SetBool("SPRINT", false);
+        }
+    }
+    private void EnemyRobot()
+    {
         if (FoundPlayer == true && StayIdle == false)
         {
             if (transform.position.x - Alex.transform.position.x < 0)
@@ -57,7 +119,6 @@ public class Enemy_Robot : MonoBehaviour
             animator.SetBool("MELEE", false);
             animator.SetBool("SPRINT", false);
         }
-
     }
     public void Move(float speed)
     {
@@ -70,7 +131,7 @@ public class Enemy_Robot : MonoBehaviour
     {
         if (FoundPlayer == false)
         {
-            if (stopMoving == 3)
+            if (stopMoving == WalkArea)
             {
                 animator.SetBool("WALK", false);
                 stopMoving = 0;
@@ -82,11 +143,11 @@ public class Enemy_Robot : MonoBehaviour
     }
     public void StartMoving()
     {
-        if (FoundPlayer == false && StayIdle == false)
+        if (FoundPlayer == false && StayIdle==false)
         {
             animator.SetBool("WALK", true);
         }
-
+        
     }
     public void TurnAround()
     {
@@ -101,7 +162,7 @@ public class Enemy_Robot : MonoBehaviour
     {
         if (FoundPlayer == true && Mathf.Abs(transform.position.x - Alex.transform.position.x) <= 5)
         {
-
+            
             Alex.GetComponent<Animator>().SetBool("Death", true);
             FoundPlayer = false;
             gameObject.transform.GetChild(0).GetComponent<BoxCollider2D>().enabled = false;
@@ -109,9 +170,12 @@ public class Enemy_Robot : MonoBehaviour
     }
     public void TurnColliderOff()
     {
+        Destroy(gameObject.transform.GetChild(0).gameObject);
+        Destroy(gameObject.transform.GetChild(1).gameObject);
         Destroy(rigidBody);
         Destroy(boxC);
         enabled = false;
+        
     }
 
     public void StopAnimation(string parameter)
@@ -119,4 +183,3 @@ public class Enemy_Robot : MonoBehaviour
         animator.SetBool(parameter, false);
     }
 }
-

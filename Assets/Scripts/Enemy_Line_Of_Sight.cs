@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Enemy_Robot_LOS : MonoBehaviour
+public class Enemy_Line_Of_Sight : MonoBehaviour
 {
     public GameObject Enemy;
     private void Update()
@@ -14,10 +14,9 @@ public class Enemy_Robot_LOS : MonoBehaviour
     }
     private void OnTriggerStay2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "Player")
+        if(collision.gameObject.tag=="Player")
         {
-            Enemy.GetComponent<Enemy_Robot>().FoundPlayer = true;
-            Destroy(gameObject);
+            Enemy.GetComponent<Enemy>().FoundPlayer = true;
         }
     }
 }
