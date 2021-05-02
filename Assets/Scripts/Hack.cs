@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using UnityEngine.Video;
 
 public class Hack : MonoBehaviour
 {
@@ -12,18 +13,24 @@ public class Hack : MonoBehaviour
     public Text Entered_password;
     public Text Check_password;
     public Text Orignal_password;
+    public VideoPlayer HUDLOAD;
+    public GameObject HUD;
     void Start()
     {
         orignal_password = Random.Range(1000, 9999).ToString();
         entered_password = "";
-        Orignal_password.text = orignal_password;
-
+      
 
     }
-
     // Update is called once per frame
     void Update()
     {
+        if ((HUDLOAD.frame) > 0 && (HUDLOAD.isPlaying == false))
+        {
+            HUDLOAD.enabled = false;
+            Orignal_password.text = orignal_password;
+            HUD.GetComponent<SpriteRenderer>().enabled = true;
+        }
         Entered_password.text = entered_password;
     }
     public void AddDigit(string Digit)
