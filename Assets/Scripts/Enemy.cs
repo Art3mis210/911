@@ -30,7 +30,7 @@ public class Enemy : MonoBehaviour
     {
         S = sp.sprite.bounds.size;
         boxC.size = S;
-        if(gameObject.name=="ENEMY 1")
+        if(gameObject.name=="ENEMY 1" || gameObject.name == "ENEMY HAZARD UNIT")
         {
             EnemyOne();
         }
