@@ -34,7 +34,8 @@ public class Enemy_Drone_Hack : MonoBehaviour
     {
         Drone.GetComponent<Animator>().enabled = false;
         Drone.GetComponent<Rigidbody2D>().gravityScale = 1;
-        enabled = false;
         Time.timeScale = 1;
+        enabled = false;
+        
     }
 }

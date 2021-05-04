@@ -14,6 +14,8 @@ public class Player : MonoBehaviour
     public bool MeleeComplete;
     private BoxCollider2D boxC;
     public bool Dead;
+    public int health;
+    public GameObject Bullet;
 
     // Start is called before the first frame update
     void Start()
@@ -187,5 +189,31 @@ public class Player : MonoBehaviour
     public void TurnScriptOff()
     {
         enabled = false;
+    }
+    public void Fire()
+    {
+        if (sp.flipX == false)
+        {
+            Bullet.GetComponent<SpriteRenderer>().flipX = false;
+            Instantiate(Bullet, new Vector3(gameObject.transform.position.x + 3.5f, gameObject.transform.position.y + 2, 0), Quaternion.identity);
+        }
+        else
+        {
+            Bullet.GetComponent<SpriteRenderer>().flipX = true;
+            Instantiate(Bullet, new Vector3(gameObject.transform.position.x - 3.5f, gameObject.transform.position.y + 2, 0), Quaternion.identity);
+        }
+    }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "BULLET")
+        {
+            Destroy(collision.gameObject);
+            health -= 2;
+            if (health <= 0 && Dead==false)
+            {
+                animator.SetBool("Death", true);
+                Dead = true;
+            }
+        }
     }
 }

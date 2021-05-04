@@ -8,6 +8,8 @@ public class Enemy_Sound_Detection : MonoBehaviour
     public GameObject EnemyParent;
     private void Update()
     {
+        if (EnemyParent.GetComponent<Enemy>().FoundPlayer == true)
+            Destroy(gameObject);
         if (EnemyParent.GetComponent<SpriteRenderer>().flipX == true)
             transform.position = new Vector2(EnemyParent.transform.position.x + 8, EnemyParent.transform.position.y + 1);
         else

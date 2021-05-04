@@ -15,6 +15,9 @@ public class Enemy : MonoBehaviour
     public GameObject Alex;
     public bool StayIdle;
     public int WalkArea;
+    public bool Rest;
+    public int health;
+    public GameObject Bullet;
     void Start()
     {
         rigidBody = GetComponent<Rigidbody2D>();
@@ -23,6 +26,8 @@ public class Enemy : MonoBehaviour
         boxC = GetComponent<BoxCollider2D>();
         stopMoving = 0;
         Dead = false;
+        if (gameObject.name == "ENEMY HAZARD UNIT")
+            Rest = false;
     }
 
     // Update is called once per frame
@@ -52,6 +57,7 @@ public class Enemy : MonoBehaviour
     {
         if (FoundPlayer == true && StayIdle == false)
         {
+            
             if (transform.position.x - Alex.transform.position.x < 0)
             {
                 sp.flipX = false;
@@ -80,6 +86,11 @@ public class Enemy : MonoBehaviour
                 animator.SetBool("WALK", true);
                 animator.SetBool("SPRINT", true);
 
+            }
+            if (Alex.GetComponent<Player>().Dead == true)
+            {
+                animator.SetBool("SHOOT", false);
+                FoundPlayer = false;
             }
         }
         else
@@ -170,16 +181,52 @@ public class Enemy : MonoBehaviour
     }
     public void TurnColliderOff()
     {
-        Destroy(gameObject.transform.GetChild(0).gameObject);
-        Destroy(gameObject.transform.GetChild(1).gameObject);
+    //    Destroy(gameObject.transform.GetChild(0).gameObject);
+    //    Destroy(gameObject.transform.GetChild(1).gameObject);
         Destroy(rigidBody);
         Destroy(boxC);
         enabled = false;
         
     }
-
     public void StopAnimation(string parameter)
     {
         animator.SetBool(parameter, false);
+    }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.gameObject.tag=="BULLET")
+        {
+            Destroy(collision.gameObject);
+            health-=2;
+            if (health <= 0 && Dead==false)
+            {
+               // boxC.size = new Vector2(1, 1);
+                if(gameObject.name!="ENEMY ROBOT")
+                    animator.SetBool("DEATH", true);
+                else
+                {
+                        animator.SetBool("STABBED", true);
+                }
+                Dead = true;
+               // enabled = false;
+            }
+            else
+            {
+                FoundPlayer = true;
+            }
+        }
+    }
+    public void Fire()
+    {
+        if (sp.flipX == false)
+        {
+            Bullet.GetComponent<SpriteRenderer>().flipX = false;
+            Instantiate(Bullet, new Vector3(gameObject.transform.position.x + 3.5f, gameObject.transform.position.y + 2, 0), Quaternion.identity);
+        }
+        else
+        {
+            Bullet.GetComponent<SpriteRenderer>().flipX = true;
+            Instantiate(Bullet, new Vector3(gameObject.transform.position.x - 3.5f, gameObject.transform.position.y + 2, 0), Quaternion.identity);
+        }
     }
 }
