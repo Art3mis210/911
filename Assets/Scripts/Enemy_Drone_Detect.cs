@@ -6,16 +6,29 @@ public class Enemy_Drone_Detect : MonoBehaviour
 {
     // Start is called before the first frame update
     public GameObject Drone;
+    public GameObject DroneHackRange;
     public GameObject Bullet;
+    private bool RotateDrone;
     void Start()
     {
-        
+        RotateDrone = false;
+    }
+    private void Update()
+    {
+        if (DroneHackRange.GetComponent<Enemy_Drone_Hack>().Hacked == true)
+            Destroy(gameObject);
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.tag=="Player")
+        if(collision.tag=="Player" )
         {
-            //  Drone.transform.rotation = Quaternion.Euler(0, 0, 90);
+            if (RotateDrone == false)
+            {
+                Drone.transform.rotation = Quaternion.Euler(0, 0, 90);
+            //    gameObject.transform.rotation = Quaternion.Euler(0, 0, 0);
+            //   Drone.transform.GetChild(0).transform.rotation = Quaternion.Euler(0, 0, 0);
+                RotateDrone = true;
+            }
             Fire();
         }
     }

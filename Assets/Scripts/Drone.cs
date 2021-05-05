@@ -33,6 +33,7 @@ public class Drone : MonoBehaviour
         {
             player.enabled = true;
             player.Unfreeze();
+            player.DroneMode = false;
             rigidBody.constraints = RigidbodyConstraints2D.FreezeRotation;
             Destroy(gameObject);
         }

@@ -44,18 +44,26 @@ public class Bullet : MonoBehaviour
         rigidBody2D.velocity = new Vector2(speedX, speedY);
     }
 
- /*   private void OnTriggerEnter2D(Collider2D collision)
-    {
 
-        if (collision.gameObject.tag == "Player")
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "GROUND")
         {
-            collision.gameObject.GetComponent<Player>().health--;
             Destroy(gameObject);
         }
-        else if (collision.gameObject.tag == "Enemy")
-        {
-            collision.gameObject.GetComponent<Enemy>().health--;
-            Destroy(gameObject);
-        }
-    } */
+    }
+    /*   private void OnTriggerEnter2D(Collider2D collision)
+       {
+
+           if (collision.gameObject.tag == "Player")
+           {
+               collision.gameObject.GetComponent<Player>().health--;
+               Destroy(gameObject);
+           }
+           else if (collision.gameObject.tag == "Enemy")
+           {
+               collision.gameObject.GetComponent<Enemy>().health--;
+               Destroy(gameObject);
+           }
+       } */
 }

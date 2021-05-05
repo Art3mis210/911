@@ -16,6 +16,7 @@ public class Player : MonoBehaviour
     public bool Dead;
     public int health;
     public GameObject Bullet;
+    public bool DroneMode;
 
     // Start is called before the first frame update
     void Start()
@@ -26,28 +27,20 @@ public class Player : MonoBehaviour
         animator = GetComponent<Animator>();
         MeleeComplete = false;
         boxC = GetComponent<BoxCollider2D>();
+        DroneMode = false;
     }
 
     // Update is called once per frame
     void Update()
     {
         //Camera.transform.position = new Vector3(gameObject.transform.position.x + 5, Camera.transform.position.y, Camera.transform.position.z);
-        Movement();
+        if(DroneMode==false && Dead==false)
+            Movement();
         Vector2 S = sp.sprite.bounds.size;
         boxC.size = S;
         if (Input.GetKey(KeyCode.Escape))
             Application.Quit();
-        if(Input.GetKeyDown(KeyCode.Tab))
-        {
-            var drone=Instantiate(Drone, new Vector2(transform.position.x+1,transform.position.y+1), Quaternion.identity);
-            drone.GetComponent<Drone>().player = this;
-            rigidBody.constraints= RigidbodyConstraints2D.FreezePositionX | RigidbodyConstraints2D.FreezePositionY | RigidbodyConstraints2D.FreezeRotation;
-            enabled = false;
-        }
-        if(Input.GetKeyDown(KeyCode.N))
-        {
-            Camera.GetComponent<DeferredNightVisionEffect>().enabled = !Camera.GetComponent<DeferredNightVisionEffect>().enabled;
-        }
+
 
     }
     private void Movement()
@@ -117,6 +110,16 @@ public class Player : MonoBehaviour
             {
                 animator.SetBool("Melee", true);
             }
+        }
+        if (Input.GetKeyDown(KeyCode.Tab))
+        {
+            var drone = Instantiate(Drone, new Vector2(transform.position.x + 1, transform.position.y + 1), Quaternion.identity);
+            drone.GetComponent<Drone>().player = this;
+            DroneMode = true;
+        }
+        if (Input.GetKeyDown(KeyCode.N))
+        {
+            Camera.GetComponent<DeferredNightVisionEffect>().enabled = !Camera.GetComponent<DeferredNightVisionEffect>().enabled;
         }
     }
     public void SetMeleeComplete()

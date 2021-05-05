@@ -181,8 +181,10 @@ public class Enemy : MonoBehaviour
     }
     public void TurnColliderOff()
     {
-        Destroy(gameObject.transform.GetChild(0).gameObject);
-        Destroy(gameObject.transform.GetChild(1).gameObject);
+        if(transform.childCount>=1)  
+            Destroy(gameObject.transform.GetChild(0).gameObject);
+        if(transform.childCount == 1)
+            Destroy(gameObject.transform.GetChild(0).gameObject);
         Destroy(rigidBody);
         Destroy(boxC);
         gameObject.GetComponent<Enemy>().enabled = false;
@@ -197,7 +199,8 @@ public class Enemy : MonoBehaviour
         if(collision.gameObject.tag=="BULLET")
         {
             Destroy(collision.gameObject);
-            health-=2;
+            if(collision.gameObject.GetComponent<Bullet>().EnemyMode==false && collision.gameObject.GetComponent<Bullet>().DroneMode == false)
+                health-=2;
             if (health <= 0 && Dead==false)
             {
                 // boxC.size = new Vector2(1, 1);

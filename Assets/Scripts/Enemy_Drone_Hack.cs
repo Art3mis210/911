@@ -8,9 +8,11 @@ public class Enemy_Drone_Hack : MonoBehaviour
     // Start is called before the first frame update
     public GameObject Drone;
     private BoxCollider2D boxC;
+    public bool Hacked;
     private void Start()
     {
         boxC = GetComponent<BoxCollider2D>();
+        Hacked = false;
     }
     private void Update()
     {
@@ -27,6 +29,7 @@ public class Enemy_Drone_Hack : MonoBehaviour
             Physics2D.IgnoreCollision(collision.gameObject.GetComponent<BoxCollider2D>(), Drone.GetComponent<BoxCollider2D>(), true);
             SceneManager.LoadScene("HACK", LoadSceneMode.Additive);
             boxC.enabled = false;
+            Hacked = true;
             
         }
     }
@@ -35,8 +38,5 @@ public class Enemy_Drone_Hack : MonoBehaviour
         Drone.GetComponent<Animator>().enabled = false;
         Drone.GetComponent<Rigidbody2D>().gravityScale = 1;
         Time.timeScale = 1;
-        Destroy(Drone.transform.GetChild(0).gameObject);
-        Destroy(Drone.transform.GetChild(1).gameObject);
-
     }
 }

@@ -164,6 +164,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32249c9130eea434aa955f7ce93d5959, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DroneMode: 1
+  DroneMode: 0
   EnemyMode: 0
-  PlayerMode: 0
+  PlayerMode: 1
