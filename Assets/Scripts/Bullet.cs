@@ -7,22 +7,41 @@ public class Bullet : MonoBehaviour
     // Start is called before the first frame update
     private Rigidbody2D rigidBody2D;
     private SpriteRenderer sp;
-    private int speed;
+    private int speedX;
+    private int speedY;
+    public bool DroneMode;
+    public bool EnemyMode;
+    public bool PlayerMode;
     void Start()
     {
         rigidBody2D = GetComponent<Rigidbody2D>();
         sp = GetComponent<SpriteRenderer>();
-        if (sp.flipX == false)
-            speed = 100;
-        else
-            speed = -100;
+        if(DroneMode==true)
+        {
+            transform.rotation= Quaternion.Euler(0, 0, 90);
+            speedX = 0;
+            speedY = -100;
+        }
+        if(EnemyMode==true || PlayerMode==true)
+        {
+            if (sp.flipX == false)
+            {
+                speedX = 100;
+                speedY = 0;
+            }
+            else
+            {
+                speedX = -100;
+                speedY = 0;
+            }
+        }
 
     }
 
     // Update is called once per frame
     void Update()
     {
-        rigidBody2D.velocity = new Vector2(speed, 0);
+        rigidBody2D.velocity = new Vector2(speedX, speedY);
     }
 
  /*   private void OnTriggerEnter2D(Collider2D collision)

@@ -192,6 +192,9 @@ public class Player : MonoBehaviour
     }
     public void Fire()
     {
+        Bullet.GetComponent<Bullet>().DroneMode = false;
+        Bullet.GetComponent<Bullet>().EnemyMode = false;
+        Bullet.GetComponent<Bullet>().PlayerMode = true;
         if (sp.flipX == false)
         {
             Bullet.GetComponent<SpriteRenderer>().flipX = false;

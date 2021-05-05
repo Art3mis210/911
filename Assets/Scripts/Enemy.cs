@@ -181,11 +181,11 @@ public class Enemy : MonoBehaviour
     }
     public void TurnColliderOff()
     {
-    //    Destroy(gameObject.transform.GetChild(0).gameObject);
-    //    Destroy(gameObject.transform.GetChild(1).gameObject);
+        Destroy(gameObject.transform.GetChild(0).gameObject);
+        Destroy(gameObject.transform.GetChild(1).gameObject);
         Destroy(rigidBody);
         Destroy(boxC);
-        enabled = false;
+        gameObject.GetComponent<Enemy>().enabled = false;
         
     }
     public void StopAnimation(string parameter)
@@ -200,8 +200,9 @@ public class Enemy : MonoBehaviour
             health-=2;
             if (health <= 0 && Dead==false)
             {
-               // boxC.size = new Vector2(1, 1);
-                if(gameObject.name!="ENEMY ROBOT")
+                // boxC.size = new Vector2(1, 1);
+                Physics2D.IgnoreCollision(boxC, Alex.gameObject.GetComponent<BoxCollider2D>(), true);
+                if (gameObject.name!="ENEMY ROBOT")
                     animator.SetBool("DEATH", true);
                 else
                 {
@@ -218,6 +219,9 @@ public class Enemy : MonoBehaviour
     }
     public void Fire()
     {
+        Bullet.GetComponent<Bullet>().EnemyMode = true;
+        Bullet.GetComponent<Bullet>().DroneMode = false;
+        Bullet.GetComponent<Bullet>().PlayerMode = false;
         if (sp.flipX == false)
         {
             Bullet.GetComponent<SpriteRenderer>().flipX = false;
