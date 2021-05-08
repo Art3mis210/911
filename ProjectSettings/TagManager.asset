@@ -8,6 +8,8 @@ TagManager:
   - LINE OF SIGHT
   - BULLET
   - GROUND
+  - EDRONE
+  - PDRONE
   layers:
   - Default
   - TransparentFX

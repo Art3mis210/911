@@ -17,6 +17,10 @@ public class Enemy_Drone_Detect : MonoBehaviour
     {
         if (DroneHackRange.GetComponent<Enemy_Drone_Hack>().Hacked == true)
             Destroy(gameObject);
+        if (Drone.GetComponent<EnemyDrone>().destroyed == true)
+        {
+            Destroy(gameObject);
+        }
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -37,6 +41,6 @@ public class Enemy_Drone_Detect : MonoBehaviour
         Bullet.GetComponent<Bullet>().DroneMode = true;
         Bullet.GetComponent<Bullet>().EnemyMode = false;
         Bullet.GetComponent<Bullet>().PlayerMode = false;
-        Instantiate(Bullet, new Vector3(Drone.transform.position.x, Drone.transform.position.y-1, 0), Quaternion.identity);
+        Instantiate(Bullet, new Vector3(Drone.transform.position.x, Drone.transform.position.y-2, 0), Quaternion.identity);
     }
 }

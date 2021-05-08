@@ -50,6 +50,10 @@ public class Enemy : MonoBehaviour
     {
         if (collision.gameObject.tag == "ENEMY")
         {
+            if(collision.gameObject.GetComponent<Enemy>().Dead==true)
+            {
+                FoundPlayer = true;
+            }
             Physics2D.IgnoreCollision(boxC, collision.gameObject.GetComponent<BoxCollider2D>(), true);
         }
     }

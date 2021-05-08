@@ -16,7 +16,7 @@ public class Player : MonoBehaviour
     public bool Dead;
     public int health;
     public GameObject Bullet;
-    public bool DroneMode;
+    public bool Control;
 
     // Start is called before the first frame update
     void Start()
@@ -27,20 +27,21 @@ public class Player : MonoBehaviour
         animator = GetComponent<Animator>();
         MeleeComplete = false;
         boxC = GetComponent<BoxCollider2D>();
-        DroneMode = false;
+        Control = true;
     }
 
     // Update is called once per frame
     void Update()
     {
         //Camera.transform.position = new Vector3(gameObject.transform.position.x + 5, Camera.transform.position.y, Camera.transform.position.z);
-        if(DroneMode==false && Dead==false)
+        if(Control==true && Dead==false && SceneManager.sceneCount == 1)
             Movement();
         Vector2 S = sp.sprite.bounds.size;
         boxC.size = S;
         if (Input.GetKey(KeyCode.Escape))
             Application.Quit();
-
+        if (Control == true && Camera.activeInHierarchy == false)
+            Camera.SetActive(true);
 
     }
     private void Movement()
@@ -113,9 +114,12 @@ public class Player : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.Tab))
         {
-            var drone = Instantiate(Drone, new Vector2(transform.position.x + 1, transform.position.y + 1), Quaternion.identity);
+            var drone = Instantiate(Drone, new Vector2(transform.position.x + 1, transform.position.y+2), Quaternion.identity);
             drone.GetComponent<Drone>().player = this;
-            DroneMode = true;
+            animator.SetBool("Sprint", false);
+            animator.SetBool("Move", false);
+            Control = false;
+            Camera.SetActive(false);
         }
         if (Input.GetKeyDown(KeyCode.N))
         {

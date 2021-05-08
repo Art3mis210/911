@@ -47,7 +47,7 @@ public class Hack : MonoBehaviour
         {
             Check_password.text = "  Success";
             SceneManager.UnloadSceneAsync("HACK");
-            Time.timeScale = 0.1f;
+            Time.timeScale = 0.5f;
         }
         else
             Check_password.text = "Incorrect";

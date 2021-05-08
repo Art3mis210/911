@@ -16,27 +16,30 @@ public class Enemy_Drone_Hack : MonoBehaviour
     }
     private void Update()
     {
-        if(Time.timeScale==0.1f && GameObject.Find("HACK KEYPAD")==false)
+        if(Time.timeScale==0.5f && SceneManager.sceneCount==1 && Hacked==true)
         {
             DestroyDrone();
         }
     }
     private void OnTriggerStay2D(Collider2D collision)
     {
-        if(collision.gameObject.tag=="Player" && Input.GetKey(KeyCode.H))
+        if((collision.gameObject.tag=="Player"|| collision.gameObject.tag == "PDRONE") && Input.GetKey(KeyCode.H) && Hacked==false)
         {
+            
+            Debug.Log("Drone HAcked");
             Time.timeScale = 0;
             Physics2D.IgnoreCollision(collision.gameObject.GetComponent<BoxCollider2D>(), Drone.GetComponent<BoxCollider2D>(), true);
             SceneManager.LoadScene("HACK", LoadSceneMode.Additive);
             boxC.enabled = false;
             Hacked = true;
-            
         }
     }
     private void DestroyDrone()
     {
+        Drone.GetComponent<Rigidbody2D>().constraints= RigidbodyConstraints2D.None;
         Drone.GetComponent<Animator>().enabled = false;
         Drone.GetComponent<Rigidbody2D>().gravityScale = 1;
         Time.timeScale = 1;
+        Destroy(gameObject);
     }
 }

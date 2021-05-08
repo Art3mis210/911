@@ -945,7 +945,7 @@ GameObject:
   - component: {fileID: 493832548}
   - component: {fileID: 493832547}
   m_Layer: 0
-  m_Name: Main Camera 2
+  m_Name: HACK CAMERA
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
