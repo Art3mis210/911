@@ -40,7 +40,7 @@ public class Hack_Enemy_Robot : MonoBehaviour
     {
         Robot.gameObject.GetComponent<Animator>().SetBool("STABBED", true);
         Time.timeScale = 1;
-     //   Destroy(gameObject);
+        Destroy(gameObject);
        // Debug.Log("ABC");
        // enabled = false;
         

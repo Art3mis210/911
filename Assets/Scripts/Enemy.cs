@@ -56,6 +56,20 @@ public class Enemy : MonoBehaviour
             }
             Physics2D.IgnoreCollision(boxC, collision.gameObject.GetComponent<BoxCollider2D>(), true);
         }
+        if (collision.gameObject.tag == "Player")
+        {
+            Animator an = Alex.GetComponent<Animator>();
+            if (an.GetBool("Jump") == true || an.GetBool("Flip") == true || an.GetBool("Slide") == true)
+            {
+                Physics2D.IgnoreCollision(boxC, Alex.GetComponent<BoxCollider2D>(),true);
+                Invoke("CollideWithAlex", 1);
+            }
+
+        }
+    }
+    private void CollideWithAlex()
+    {
+        Physics2D.IgnoreCollision(boxC, Alex.gameObject.GetComponent<BoxCollider2D>(),false);
     }
     private void EnemyOne()
     {
@@ -180,7 +194,7 @@ public class Enemy : MonoBehaviour
             
             Alex.GetComponent<Animator>().SetBool("Death", true);
             FoundPlayer = false;
-            gameObject.transform.GetChild(0).GetComponent<BoxCollider2D>().enabled = false;
+            //gameObject.transform.GetChild(0).GetComponent<BoxCollider2D>().enabled = false;
         }
     }
     public void TurnColliderOff()

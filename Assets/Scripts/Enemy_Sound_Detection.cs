@@ -10,10 +10,7 @@ public class Enemy_Sound_Detection : MonoBehaviour
     {
         if (EnemyParent.GetComponent<Enemy>().FoundPlayer == true)
             Destroy(gameObject);
-        if (EnemyParent.GetComponent<SpriteRenderer>().flipX == true)
-            transform.position = new Vector2(EnemyParent.transform.position.x + 8, EnemyParent.transform.position.y + 1);
-        else
-            transform.position = new Vector2(EnemyParent.transform.position.x - 8, EnemyParent.transform.position.y + 1);
+        
     }
     private void OnTriggerStay2D(Collider2D collision)
     {
@@ -27,6 +24,18 @@ public class Enemy_Sound_Detection : MonoBehaviour
                 {
                     enemyScript.FoundPlayer = true;
                 }
+            }
+        }
+        if(collision.gameObject.tag=="PDRONE" && Input.GetKeyDown(KeyCode.Q) && EnemyParent.GetComponent<Enemy>().FoundPlayer==false)
+        {
+            EnemyParent.GetComponent<Animator>().SetBool("WALK", false);
+            if(collision.gameObject.GetComponent<Transform>().position.x<EnemyParent.gameObject.GetComponent<Transform>().position.x)
+            {
+                EnemyParent.GetComponent<SpriteRenderer>().flipX = true;
+            }
+            else
+            {
+                EnemyParent.GetComponent<SpriteRenderer>().flipX = false;
             }
         }
     }

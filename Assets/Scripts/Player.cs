@@ -112,6 +112,14 @@ public class Player : MonoBehaviour
                 animator.SetBool("Melee", true);
             }
         }
+        if(animator.GetBool("Pistol") == false && animator.GetBool("Sprint") == true)
+        {
+            if (Input.GetKeyDown(KeyCode.Q))
+            {
+                animator.SetBool("Slide", true);
+            }
+        }
+
         if (Input.GetKeyDown(KeyCode.Tab))
         {
             var drone = Instantiate(Drone, new Vector2(transform.position.x + 1, transform.position.y+2), Quaternion.identity);
@@ -148,10 +156,6 @@ public class Player : MonoBehaviour
 
 
     }
-    public void StopJump()
-    {
-        animator.SetBool("Jump", false);
-    }
     public void Unfreeze()
     {
         rigidBody.constraints = RigidbodyConstraints2D.None;
@@ -160,22 +164,6 @@ public class Player : MonoBehaviour
     public void Freeze()
     {
         rigidBody.constraints = RigidbodyConstraints2D.FreezeAll;
-    }
-    public void StopMelee()
-    {
-        animator.SetBool("Melee", false);
-    }
-    public void StopFlip()
-    {
-        animator.SetBool("Flip", false);
-    }
-    public void StopCrouch()
-    {
-        animator.SetBool("Stand", true);
-    }
-    public void StopSprint()
-    {
-        animator.SetBool("Sprint", false);
     }
     public void StopAnimation(string parameter)
     {
@@ -226,4 +214,6 @@ public class Player : MonoBehaviour
             }
         }
     }
+
+
 }

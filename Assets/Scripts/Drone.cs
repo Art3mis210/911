@@ -21,7 +21,7 @@ public class Drone : MonoBehaviour
         rigidBody = GetComponent<Rigidbody2D>();
         sprite = GetComponent<SpriteRenderer>();
         speed = 10;
-        Ammo = 10;
+        Ammo = 5;
         Control = true;
     }
 
