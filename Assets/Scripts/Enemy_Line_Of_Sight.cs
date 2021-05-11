@@ -10,9 +10,15 @@ public class Enemy_Line_Of_Sight : MonoBehaviour
         if (Enemy.GetComponent<Enemy>().FoundPlayer == true)
             Destroy(gameObject);
         if (Enemy.GetComponent<SpriteRenderer>().flipX == true)
-            transform.position = new Vector2(Enemy.transform.position.x - 3, Enemy.transform.position.y + 1);
+        {
+            transform.position = new Vector2(Enemy.transform.position.x - 4, Enemy.transform.position.y + 2);
+            gameObject.GetComponent<SpriteRenderer>().flipY = true;
+        }
         else
-            transform.position = new Vector2(Enemy.transform.position.x + 3, Enemy.transform.position.y + 1);
+        {
+            transform.position = new Vector2(Enemy.transform.position.x + 4, Enemy.transform.position.y + 2);
+            gameObject.GetComponent<SpriteRenderer>().flipY = false;
+        }
     }
     private void OnTriggerStay2D(Collider2D collision)
     {

@@ -17,6 +17,7 @@ public class Player : MonoBehaviour
     public int health;
     public GameObject Bullet;
     public bool Control;
+    public Animator BloodEffect;
 
     // Start is called before the first frame update
     void Start()
@@ -84,7 +85,7 @@ public class Player : MonoBehaviour
         }
         if(Input.GetKeyDown(KeyCode.Alpha1))
         {
-            if (animator.GetBool("Pistol")==false && animator.GetBool("Stand") == true)
+            if (animator.GetBool("Pistol")==false)
                 animator.SetBool("Pistol", true);
             else
                 animator.SetBool("Pistol", false);
@@ -110,13 +111,6 @@ public class Player : MonoBehaviour
             if (Input.GetMouseButton(1))
             {
                 animator.SetBool("Melee", true);
-            }
-        }
-        if(animator.GetBool("Pistol") == false && animator.GetBool("Sprint") == true)
-        {
-            if (Input.GetKeyDown(KeyCode.Q))
-            {
-                animator.SetBool("Slide", true);
             }
         }
 
@@ -185,6 +179,10 @@ public class Player : MonoBehaviour
     {
         enabled = false;
     }
+    public void SetDeadTrue()
+    {
+        Dead = true;
+    }
     public void Fire()
     {
         Bullet.GetComponent<Bullet>().DroneMode = false;
@@ -207,10 +205,16 @@ public class Player : MonoBehaviour
         {
             Destroy(collision.gameObject);
             health -= 2;
+            
             if (health <= 0 && Dead==false)
             {
                 animator.SetBool("Death", true);
+                BloodEffect.Play("DEATH EFFECT");
                 Dead = true;
+            }
+            else
+            {
+                BloodEffect.Play("BLOOD EFFECT");
             }
         }
     }

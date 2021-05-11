@@ -3331,7 +3331,7 @@ PrefabInstance:
     - target: {fileID: 3865439718286411890, guid: 58b2202830c41e64b977ee8d2e1e7c59,
         type: 3}
       propertyPath: m_FlipX
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3865439718286411890, guid: 58b2202830c41e64b977ee8d2e1e7c59,
         type: 3}

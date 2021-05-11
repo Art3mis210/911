@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: e5ee8a418e0c1234094a91055747667f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5641443231287419537
+    second: pistol crouch walk_0
+  - first:
+      213: -3405495963327123544
+    second: pistol crouch walk_1
+  - first:
+      213: -3412353487882139270
+    second: pistol crouch walk_2
+  - first:
+      213: -4408312085325307246
+    second: pistol crouch walk_3
+  - first:
+      213: 7570671008368785854
+    second: pistol crouch walk_4
+  - first:
+      213: -872002133463887537
+    second: pistol crouch walk_5
+  - first:
+      213: -4167737239323335933
+    second: pistol crouch walk_6
+  - first:
+      213: -5820672970579196202
+    second: pistol crouch walk_7
+  - first:
+      213: 1749980308480309631
+    second: pistol crouch walk_8
+  - first:
+      213: 7936050619135087730
+    second: pistol crouch walk_9
+  - first:
+      213: -4573136444984941435
+    second: pistol crouch walk_10
+  - first:
+      213: -7276157092587169838
+    second: pistol crouch walk_11
+  - first:
+      213: 7695632692063421939
+    second: pistol crouch walk_12
+  - first:
+      213: 1726180152523177526
+    second: pistol crouch walk_13
+  - first:
+      213: -1526380051922219771
+    second: pistol crouch walk_14
+  - first:
+      213: -782162996591246800
+    second: pistol crouch walk_15
+  - first:
+      213: -6970272946530925410
+    second: pistol crouch walk_16
+  - first:
+      213: -3577121479845748150
+    second: pistol crouch walk_17
+  - first:
+      213: 2542012863123437128
+    second: pistol crouch walk_18
+  - first:
+      213: -8014081375604835428
+    second: pistol crouch walk_19
+  - first:
+      213: 795647003365227823
+    second: pistol crouch walk_20
+  - first:
+      213: -8079928224125554012
+    second: pistol crouch walk_21
+  - first:
+      213: -8848758881550885796
+    second: pistol crouch walk_22
+  - first:
+      213: 874045286471821649
+    second: pistol crouch walk_23
+  - first:
+      213: 8250082275375320090
+    second: pistol crouch walk_24
+  - first:
+      213: 9104817173685955916
+    second: pistol crouch walk_25
+  - first:
+      213: 8954527110597867096
+    second: pistol crouch walk_26
+  - first:
+      213: -9199453345589496083
+    second: pistol crouch walk_27
+  - first:
+      213: 6674956106891336242
+    second: pistol crouch walk_28
+  - first:
+      213: 3757499400030118691
+    second: pistol crouch walk_29
+  - first:
+      213: 8526846910448639419
+    second: pistol crouch walk_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pistol crouch walk_0
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 4340
+        width: 312
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1922b6daabe6a4e40800000000000000
+      internalID: 5641443231287419537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_1
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 4340
+        width: 313
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af2cd5e67f3db0d0800000000000000
+      internalID: -3405495963327123544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_2
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 4339
+        width: 314
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7948ba0592e4a0d0800000000000000
+      internalID: -3412353487882139270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_3
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 4339
+        width: 314
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292af1fb38782d2c0800000000000000
+      internalID: -4408312085325307246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_4
+      rect:
+        serializedVersion: 2
+        x: 4462
+        y: 4339
+        width: 319
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb97b25cb2d601960800000000000000
+      internalID: 7570671008368785854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_5
+      rect:
+        serializedVersion: 2
+        x: 5464
+        y: 4339
+        width: 343
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41908ffda606e3f0800000000000000
+      internalID: -872002133463887537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_6
+      rect:
+        serializedVersion: 2
+        x: 6467
+        y: 4339
+        width: 387
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30327fcff093926c0800000000000000
+      internalID: -4167737239323335933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_7
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3315
+        width: 414
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6c8e2c5c0d83fa0800000000000000
+      internalID: -5820672970579196202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_8
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 3314
+        width: 427
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79b5ea91dd294810800000000000000
+      internalID: 1749980308480309631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_9
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 3314
+        width: 434
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274d019bdf3822e60800000000000000
+      internalID: 7936050619135087730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_10
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 3314
+        width: 442
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584a74ff1a4f880c0800000000000000
+      internalID: -4573136444984941435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_11
+      rect:
+        serializedVersion: 2
+        x: 4333
+        y: 3309
+        width: 461
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7176ecca5e50b90800000000000000
+      internalID: -7276157092587169838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_12
+      rect:
+        serializedVersion: 2
+        x: 5345
+        y: 3316
+        width: 472
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5c25409216cca60800000000000000
+      internalID: 7695632692063421939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_13
+      rect:
+        serializedVersion: 2
+        x: 6387
+        y: 3315
+        width: 454
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e3979f3bf94f710800000000000000
+      internalID: 1726180152523177526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2291
+        width: 410
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d0fec0e6531dae0800000000000000
+      internalID: -1526380051922219771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_15
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2287
+        width: 364
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03249bf06e23525f0800000000000000
+      internalID: -782162996591246800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_16
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 2287
+        width: 322
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94428a6fad944f90800000000000000
+      internalID: -6970272946530925410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_17
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 2287
+        width: 313
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42ef5b67f28b5ec0800000000000000
+      internalID: -3577121479845748150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_18
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 2295
+        width: 312
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84632f81b3b074320800000000000000
+      internalID: 2542012863123437128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_19
+      rect:
+        serializedVersion: 2
+        x: 5513
+        y: 2303
+        width: 312
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bfff5037348c090800000000000000
+      internalID: -8014081375604835428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_20
+      rect:
+        serializedVersion: 2
+        x: 6526
+        y: 2305
+        width: 325
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d303aebb4ba0b00800000000000000
+      internalID: 795647003365227823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_21
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1282
+        width: 348
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2f756e6145edf80800000000000000
+      internalID: -8079928224125554012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_22
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1283
+        width: 373
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c93121ea4e23580800000000000000
+      internalID: -8848758881550885796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_23
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 1279
+        width: 392
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159e1c1ae8b312c00800000000000000
+      internalID: 874045286471821649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_24
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 1272
+        width: 400
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c0e7f5e1e2e7270800000000000000
+      internalID: 8250082275375320090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_25
+      rect:
+        serializedVersion: 2
+        x: 4394
+        y: 1267
+        width: 408
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d6d66eafeca5e70800000000000000
+      internalID: 9104817173685955916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_26
+      rect:
+        serializedVersion: 2
+        x: 5438
+        y: 1267
+        width: 385
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8567ac6c6fed44c70800000000000000
+      internalID: 8954527110597867096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_27
+      rect:
+        serializedVersion: 2
+        x: 6487
+        y: 1267
+        width: 359
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6fb584ce9f45080800000000000000
+      internalID: -9199453345589496083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_28
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 243
+        width: 326
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a159ab63532ac50800000000000000
+      internalID: 6674956106891336242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_29
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 243
+        width: 310
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323e986dbc1552430800000000000000
+      internalID: 3757499400030118691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol crouch walk_30
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 244
+        width: 311
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd9d6f7612755670800000000000000
+      internalID: 8526846910448639419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

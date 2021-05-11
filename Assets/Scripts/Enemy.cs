@@ -35,6 +35,8 @@ public class Enemy : MonoBehaviour
     {
         S = sp.sprite.bounds.size;
         boxC.size = S;
+        if (Alex.GetComponent<Player>().Dead == true && FoundPlayer == true)
+            FoundPlayer = false;
         if(gameObject.name=="ENEMY 1" || gameObject.name == "ENEMY HAZARD UNIT")
         {
             EnemyOne();
@@ -59,12 +61,16 @@ public class Enemy : MonoBehaviour
         if (collision.gameObject.tag == "Player")
         {
             Animator an = Alex.GetComponent<Animator>();
-            if (an.GetBool("Jump") == true || an.GetBool("Flip") == true || an.GetBool("Slide") == true)
+            if (an.GetBool("Jump") == true || an.GetBool("Flip") == true )
             {
                 Physics2D.IgnoreCollision(boxC, Alex.GetComponent<BoxCollider2D>(),true);
                 Invoke("CollideWithAlex", 1);
             }
 
+        }
+        if (collision.gameObject.tag == "PDRONE")
+        {
+            Physics2D.IgnoreCollision(boxC, collision.gameObject.GetComponent<BoxCollider2D>(), true);
         }
     }
     private void CollideWithAlex()
@@ -189,10 +195,11 @@ public class Enemy : MonoBehaviour
     }
     public void KillAlex()
     {
-        if (FoundPlayer == true && Mathf.Abs(transform.position.x - Alex.transform.position.x) <= 5)
+        if (FoundPlayer == true && Mathf.Abs(transform.position.x - Alex.transform.position.x) <= 5 && Alex.GetComponent<Player>().Dead==false)
         {
             
             Alex.GetComponent<Animator>().SetBool("Death", true);
+            Alex.GetComponent<Player>().BloodEffect.Play("DEATH EFFECT");
             FoundPlayer = false;
             //gameObject.transform.GetChild(0).GetComponent<BoxCollider2D>().enabled = false;
         }
