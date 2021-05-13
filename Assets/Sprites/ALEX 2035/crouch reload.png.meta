@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: 73074ae64e9dd2040b5741812ca9ba0f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6172416168248836891
+    second: crouch reload_0
+  - first:
+      213: 7010176429153213177
+    second: crouch reload_1
+  - first:
+      213: -4384036591265901009
+    second: crouch reload_2
+  - first:
+      213: -610571098667836307
+    second: crouch reload_3
+  - first:
+      213: 1517885917269163769
+    second: crouch reload_4
+  - first:
+      213: 2360043677649003952
+    second: crouch reload_5
+  - first:
+      213: -2344431764573318231
+    second: crouch reload_6
+  - first:
+      213: -5106931760554156952
+    second: crouch reload_7
+  - first:
+      213: -5407339280096979987
+    second: crouch reload_8
+  - first:
+      213: 7094750207641980204
+    second: crouch reload_9
+  - first:
+      213: -73288923921495473
+    second: crouch reload_10
+  - first:
+      213: -712385568170678915
+    second: crouch reload_11
+  - first:
+      213: -8959103266647803941
+    second: crouch reload_12
+  - first:
+      213: 7018745319239641784
+    second: crouch reload_13
+  - first:
+      213: -2126367959196478785
+    second: crouch reload_14
+  - first:
+      213: -4131652530014322775
+    second: crouch reload_15
+  - first:
+      213: -8796771661443728284
+    second: crouch reload_16
+  - first:
+      213: -2498060343852179037
+    second: crouch reload_17
+  - first:
+      213: -170945473273952101
+    second: crouch reload_18
+  - first:
+      213: 1173709460107964162
+    second: crouch reload_19
+  - first:
+      213: -1113228124965779373
+    second: crouch reload_20
+  - first:
+      213: 3964343980670217760
+    second: crouch reload_21
+  - first:
+      213: -2107564717544422461
+    second: crouch reload_22
+  - first:
+      213: 8855468245047003560
+    second: crouch reload_23
+  - first:
+      213: -4084201131655507392
+    second: crouch reload_24
+  - first:
+      213: -5772801359910226761
+    second: crouch reload_25
+  - first:
+      213: 3737461766149693063
+    second: crouch reload_26
+  - first:
+      213: -3699470385168225923
+    second: crouch reload_27
+  - first:
+      213: 4492875278779289211
+    second: crouch reload_28
+  - first:
+      213: 1962132417593864623
+    second: crouch reload_29
+  - first:
+      213: -6996376329821437119
+    second: crouch reload_30
+  - first:
+      213: -2722756281097055886
+    second: crouch reload_31
+  - first:
+      213: -2939363797793916037
+    second: crouch reload_32
+  - first:
+      213: 3981515514296487005
+    second: crouch reload_33
+  - first:
+      213: 6794317252484082676
+    second: crouch reload_34
+  - first:
+      213: 6279374663122299383
+    second: crouch reload_35
+  - first:
+      213: -5246949033131980701
+    second: crouch reload_36
+  - first:
+      213: -5047778816170338450
+    second: crouch reload_37
+  - first:
+      213: -2851340793013514434
+    second: crouch reload_38
+  - first:
+      213: -3252841521953266474
+    second: crouch reload_39
+  - first:
+      213: -7513798130178771191
+    second: crouch reload_40
+  - first:
+      213: 9063592908185264030
+    second: crouch reload_41
+  - first:
+      213: -5952391515655749312
+    second: crouch reload_42
+  - first:
+      213: -6806250979145177507
+    second: crouch reload_43
+  - first:
+      213: -1029989189246966889
+    second: crouch reload_44
+  - first:
+      213: -7758478143631592255
+    second: crouch reload_45
+  - first:
+      213: -2143955358666188054
+    second: crouch reload_46
+  - first:
+      213: -6261962277978020703
+    second: crouch reload_47
+  - first:
+      213: 3465269713174090187
+    second: crouch reload_48
+  - first:
+      213: -3354532032330445254
+    second: crouch reload_49
+  - first:
+      213: 685446667010469886
+    second: crouch reload_50
+  - first:
+      213: 3530670983083223430
+    second: crouch reload_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crouch reload_0
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 6375
+        width: 394
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec76a5a23c275aa0800000000000000
+      internalID: -6172416168248836891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_1
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 6374
+        width: 392
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa5e702256294160800000000000000
+      internalID: 7010176429153213177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_2
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 6374
+        width: 376
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f261847a2f5c823c0800000000000000
+      internalID: -4384036591265901009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_3
+      rect:
+        serializedVersion: 2
+        x: 3497
+        y: 6382
+        width: 341
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c98c912d0d687f0800000000000000
+      internalID: -610571098667836307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_4
+      rect:
+        serializedVersion: 2
+        x: 4522
+        y: 6390
+        width: 329
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe756c133d901510800000000000000
+      internalID: 1517885917269163769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_5
+      rect:
+        serializedVersion: 2
+        x: 5546
+        y: 6390
+        width: 329
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5eca4883f80c020800000000000000
+      internalID: 2360043677649003952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_6
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 6390
+        width: 327
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a317704bb7e67fd0800000000000000
+      internalID: -2344431764573318231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_7
+      rect:
+        serializedVersion: 2
+        x: 7594
+        y: 6390
+        width: 327
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c52081f988029b0800000000000000
+      internalID: -5106931760554156952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_8
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 5366
+        width: 324
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de39dc5f29545f4b0800000000000000
+      internalID: -5407339280096979987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_9
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 5366
+        width: 319
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d01a869bd957260800000000000000
+      internalID: 7094750207641980204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_10
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 5366
+        width: 320
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a40bbac10abfef0800000000000000
+      internalID: -73288923921495473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_11
+      rect:
+        serializedVersion: 2
+        x: 3494
+        y: 5366
+        width: 319
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d756212a9191d16f0800000000000000
+      internalID: -712385568170678915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_12
+      rect:
+        serializedVersion: 2
+        x: 4520
+        y: 5366
+        width: 317
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd77a6ddb0fdaa380800000000000000
+      internalID: -8959103266647803941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_13
+      rect:
+        serializedVersion: 2
+        x: 5546
+        y: 5366
+        width: 315
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bae6325ea7976160800000000000000
+      internalID: 7018745319239641784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_14
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 5366
+        width: 317
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2525a6b9f9d72e0800000000000000
+      internalID: -2126367959196478785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_15
+      rect:
+        serializedVersion: 2
+        x: 7594
+        y: 5366
+        width: 322
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aff6251aeb69a6c0800000000000000
+      internalID: -4131652530014322775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_16
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 4342
+        width: 332
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c7c6df7c69be580800000000000000
+      internalID: -8796771661443728284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_17
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 4342
+        width: 340
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a163314a5b155dd0800000000000000
+      internalID: -2498060343852179037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_18
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 4342
+        width: 342
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b988b8d6ffda0adf0800000000000000
+      internalID: -170945473273952101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_19
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 4342
+        width: 342
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f204f098ad94010800000000000000
+      internalID: 1173709460107964162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_20
+      rect:
+        serializedVersion: 2
+        x: 4516
+        y: 4342
+        width: 339
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358c0712be40d80f0800000000000000
+      internalID: -1113228124965779373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_21
+      rect:
+        serializedVersion: 2
+        x: 5543
+        y: 4342
+        width: 341
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e6e4fa8dd240730800000000000000
+      internalID: 3964343980670217760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_22
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 4342
+        width: 347
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c34e954e0d60c2e0800000000000000
+      internalID: -2107564717544422461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_23
+      rect:
+        serializedVersion: 2
+        x: 7594
+        y: 4342
+        width: 359
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a947c95371f4ea70800000000000000
+      internalID: 8855468245047003560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_24
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 3318
+        width: 365
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042dc64b5b00257c0800000000000000
+      internalID: -4084201131655507392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_25
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 3318
+        width: 364
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4b8afafb3e2efa0800000000000000
+      internalID: -5772801359910226761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_26
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 3318
+        width: 358
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ed4f4aca12ed330800000000000000
+      internalID: 3737461766149693063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_27
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 3318
+        width: 348
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7968fa0947d8acc0800000000000000
+      internalID: -3699470385168225923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_28
+      rect:
+        serializedVersion: 2
+        x: 4522
+        y: 3318
+        width: 338
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e06c30346e95e30800000000000000
+      internalID: 4492875278779289211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_29
+      rect:
+        serializedVersion: 2
+        x: 5546
+        y: 3315
+        width: 332
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1f5f8b905ea3b10800000000000000
+      internalID: 1962132417593864623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_30
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 3310
+        width: 323
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143ca02ebc0e7ee90800000000000000
+      internalID: -6996376329821437119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_31
+      rect:
+        serializedVersion: 2
+        x: 7594
+        y: 3307
+        width: 314
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2711f3f8693d63ad0800000000000000
+      internalID: -2722756281097055886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_32
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 2282
+        width: 303
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bb9d603384537d0800000000000000
+      internalID: -2939363797793916037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_33
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 2283
+        width: 295
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c4959e34f214730800000000000000
+      internalID: 3981515514296487005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_34
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 2283
+        width: 296
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb2f951b834a4e50800000000000000
+      internalID: 6794317252484082676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_35
+      rect:
+        serializedVersion: 2
+        x: 3497
+        y: 2284
+        width: 296
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f92efe8cf1d42750800000000000000
+      internalID: 6279374663122299383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_36
+      rect:
+        serializedVersion: 2
+        x: 4520
+        y: 2283
+        width: 301
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368c69567a71f27b0800000000000000
+      internalID: -5246949033131980701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_37
+      rect:
+        serializedVersion: 2
+        x: 5543
+        y: 2286
+        width: 303
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67dc6539efa2f9b0800000000000000
+      internalID: -5047778816170338450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_38
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 2293
+        width: 296
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f49d2e7a00e68d0800000000000000
+      internalID: -2851340793013514434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_39
+      rect:
+        serializedVersion: 2
+        x: 7594
+        y: 2294
+        width: 293
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4a55dbed59bd2d0800000000000000
+      internalID: -3252841521953266474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_40
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1270
+        width: 296
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90733b01960a9b790800000000000000
+      internalID: -7513798130178771191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_41
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1267
+        width: 295
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fd121aab958cd70800000000000000
+      internalID: 9063592908185264030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_42
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1262
+        width: 294
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0414a41247bd46da0800000000000000
+      internalID: -5952391515655749312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_43
+      rect:
+        serializedVersion: 2
+        x: 3497
+        y: 1257
+        width: 315
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56a5e7abc65b81a0800000000000000
+      internalID: -6806250979145177507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_44
+      rect:
+        serializedVersion: 2
+        x: 4520
+        y: 1252
+        width: 359
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793217c1a4eb4b1f0800000000000000
+      internalID: -1029989189246966889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_45
+      rect:
+        serializedVersion: 2
+        x: 5544
+        y: 1250
+        width: 386
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4f43b0c39545490800000000000000
+      internalID: -7758478143631592255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_46
+      rect:
+        serializedVersion: 2
+        x: 6568
+        y: 1249
+        width: 395
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea1860e5f32f32e0800000000000000
+      internalID: -2143955358666188054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_47
+      rect:
+        serializedVersion: 2
+        x: 7592
+        y: 1250
+        width: 398
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a469384c7a0919a0800000000000000
+      internalID: -6261962277978020703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_48
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 228
+        width: 397
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc159a0c17c171030800000000000000
+      internalID: 3465269713174090187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_49
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 229
+        width: 396
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e4641c3ee4271d0800000000000000
+      internalID: -3354532032330445254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_50
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 231
+        width: 396
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff62abac12338900800000000000000
+      internalID: 685446667010469886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch reload_51
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 231
+        width: 395
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68964758d867ff030800000000000000
+      internalID: 3530670983083223430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: ffd1c8a629ad3bb45aefee037abb34ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8119474550634427089
+    second: crouch shoot_0
+  - first:
+      213: 6966081579304184482
+    second: crouch shoot_1
+  - first:
+      213: 6673741965597290820
+    second: crouch shoot_2
+  - first:
+      213: 3079576221047379357
+    second: crouch shoot_3
+  - first:
+      213: -6014366534199666177
+    second: crouch shoot_4
+  - first:
+      213: 602632050953852967
+    second: crouch shoot_5
+  - first:
+      213: -2586947233756120599
+    second: crouch shoot_6
+  - first:
+      213: -631223845529391488
+    second: crouch shoot_7
+  - first:
+      213: -8687157781088260604
+    second: crouch shoot_8
+  - first:
+      213: 2399618737812511818
+    second: crouch shoot_9
+  - first:
+      213: -8396092104859591160
+    second: crouch shoot_10
+  - first:
+      213: -2434089359299212226
+    second: crouch shoot_11
+  - first:
+      213: 6166488258383073508
+    second: crouch shoot_12
+  - first:
+      213: -3191512409513297715
+    second: crouch shoot_13
+  - first:
+      213: 206021847509961430
+    second: crouch shoot_14
+  - first:
+      213: 2160305333364221864
+    second: crouch shoot_15
+  - first:
+      213: 1780689096584162667
+    second: crouch shoot_16
+  - first:
+      213: -3539886521573279741
+    second: crouch shoot_17
+  - first:
+      213: -5199069115173181329
+    second: crouch shoot_18
+  - first:
+      213: 2785320113148858873
+    second: crouch shoot_19
+  - first:
+      213: -4019981621238350198
+    second: crouch shoot_20
+  - first:
+      213: 5143241589695068820
+    second: crouch shoot_21
+  - first:
+      213: -981751463701667217
+    second: crouch shoot_22
+  - first:
+      213: 4239631731776972674
+    second: crouch shoot_23
+  - first:
+      213: 1253863979623162983
+    second: crouch shoot_24
+  - first:
+      213: 63425196395951193
+    second: crouch shoot_25
+  - first:
+      213: -6792375102152818943
+    second: crouch shoot_26
+  - first:
+      213: -8775218790962105070
+    second: crouch shoot_27
+  - first:
+      213: -1398814833687837603
+    second: crouch shoot_28
+  - first:
+      213: 6633447901712829691
+    second: crouch shoot_29
+  - first:
+      213: -3802103707680511574
+    second: crouch shoot_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crouch shoot_0
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 4327
+        width: 393
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d4c9e3ae4d15f80800000000000000
+      internalID: -8119474550634427089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_1
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 4328
+        width: 392
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa61dad94e7ca060800000000000000
+      internalID: 6966081579304184482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_2
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 4327
+        width: 391
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4413b0e65f4ed9c50800000000000000
+      internalID: 6673741965597290820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_3
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 4331
+        width: 386
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95d44ab14adcba20800000000000000
+      internalID: 3079576221047379357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_4
+      rect:
+        serializedVersion: 2
+        x: 4519
+        y: 4335
+        width: 383
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9180ca08da88ca0800000000000000
+      internalID: -6014366534199666177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_5
+      rect:
+        serializedVersion: 2
+        x: 5543
+        y: 4335
+        width: 381
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7289e5f48aafc5800800000000000000
+      internalID: 602632050953852967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_6
+      rect:
+        serializedVersion: 2
+        x: 6567
+        y: 4335
+        width: 378
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e979477231591cd0800000000000000
+      internalID: -2586947233756120599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_7
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 3311
+        width: 375
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ee671c1417d37f0800000000000000
+      internalID: -631223845529391488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_8
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 3311
+        width: 373
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ea67e4604017780800000000000000
+      internalID: -8687157781088260604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_9
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 3311
+        width: 371
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c9faf37882d4120800000000000000
+      internalID: 2399618737812511818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_10
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 3311
+        width: 370
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ed16c07b61b7b80800000000000000
+      internalID: -8396092104859591160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_11
+      rect:
+        serializedVersion: 2
+        x: 4519
+        y: 3310
+        width: 369
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c8963cf90683ed0800000000000000
+      internalID: -2434089359299212226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_12
+      rect:
+        serializedVersion: 2
+        x: 5543
+        y: 3310
+        width: 368
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e05a884664c39550800000000000000
+      internalID: 6166488258383073508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_13
+      rect:
+        serializedVersion: 2
+        x: 6567
+        y: 3310
+        width: 368
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc875b67f5875b3d0800000000000000
+      internalID: -3191512409513297715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_14
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2286
+        width: 369
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da0dcc57cfebd200800000000000000
+      internalID: 206021847509961430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_15
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 2286
+        width: 370
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a76e814142fafd10800000000000000
+      internalID: 2160305333364221864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_16
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 2286
+        width: 372
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d6f418c4746b810800000000000000
+      internalID: 1780689096584162667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_17
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 2286
+        width: 374
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3087e68b6fbcfdec0800000000000000
+      internalID: -3539886521573279741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_18
+      rect:
+        serializedVersion: 2
+        x: 4519
+        y: 2285
+        width: 376
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68e5638f2239d7b0800000000000000
+      internalID: -5199069115173181329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_19
+      rect:
+        serializedVersion: 2
+        x: 5543
+        y: 2285
+        width: 377
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f11df9b2e177a620800000000000000
+      internalID: 2785320113148858873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_20
+      rect:
+        serializedVersion: 2
+        x: 6567
+        y: 2284
+        width: 379
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e3d76a3082638c0800000000000000
+      internalID: -4019981621238350198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_21
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1259
+        width: 381
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a3acbc9f6706740800000000000000
+      internalID: 5143241589695068820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_22
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1259
+        width: 382
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62a75cce3e1062f0800000000000000
+      internalID: -981751463701667217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_23
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1258
+        width: 384
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2876a07f89236da30800000000000000
+      internalID: 4239631731776972674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_24
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 1258
+        width: 386
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764a81e65ae966110800000000000000
+      internalID: 1253863979623162983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_25
+      rect:
+        serializedVersion: 2
+        x: 4520
+        y: 1257
+        width: 387
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9547dfc41e451e000800000000000000
+      internalID: 63425196395951193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_26
+      rect:
+        serializedVersion: 2
+        x: 5544
+        y: 1256
+        width: 388
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f39f605d2acb1a0800000000000000
+      internalID: -6792375102152818943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_27
+      rect:
+        serializedVersion: 2
+        x: 6568
+        y: 1256
+        width: 389
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215fe52b009283680800000000000000
+      internalID: -8775218790962105070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_28
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 232
+        width: 390
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d544d7be159669ce0800000000000000
+      internalID: -1398814833687837603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_29
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 231
+        width: 390
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc47a998bdbe0c50800000000000000
+      internalID: 6633447901712829691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouch shoot_30
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 231
+        width: 391
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9e18082d63c3bc0800000000000000
+      internalID: -3802103707680511574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

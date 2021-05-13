@@ -1,0 +1,1208 @@
+fileFormatVersion: 2
+guid: 141d276eca26a6345b156b91fc35375c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5355723429099724485
+    second: stand to crouch_0
+  - first:
+      213: 6386316277810736964
+    second: stand to crouch_1
+  - first:
+      213: -8543297220522102672
+    second: stand to crouch_2
+  - first:
+      213: -236406231847473516
+    second: stand to crouch_3
+  - first:
+      213: 6897645036251822071
+    second: stand to crouch_4
+  - first:
+      213: -4649691604804191280
+    second: stand to crouch_5
+  - first:
+      213: 401511999504115632
+    second: stand to crouch_6
+  - first:
+      213: 9067927716412476229
+    second: stand to crouch_7
+  - first:
+      213: 2375905692553493914
+    second: stand to crouch_8
+  - first:
+      213: -8972199084477995349
+    second: stand to crouch_9
+  - first:
+      213: 7192728829296464258
+    second: stand to crouch_10
+  - first:
+      213: -1788341833475424411
+    second: stand to crouch_11
+  - first:
+      213: 8817381257645368935
+    second: stand to crouch_12
+  - first:
+      213: 6432770937262679091
+    second: stand to crouch_13
+  - first:
+      213: -7132477748150185107
+    second: stand to crouch_14
+  - first:
+      213: 4948363058239558711
+    second: stand to crouch_15
+  - first:
+      213: -8283848356723651766
+    second: stand to crouch_16
+  - first:
+      213: -4053284405248723108
+    second: stand to crouch_17
+  - first:
+      213: 6010708375308776389
+    second: stand to crouch_18
+  - first:
+      213: 3226009238919189887
+    second: stand to crouch_19
+  - first:
+      213: 2113510576001329649
+    second: stand to crouch_20
+  - first:
+      213: 4894598452128663152
+    second: stand to crouch_21
+  - first:
+      213: 5369542887212208504
+    second: stand to crouch_22
+  - first:
+      213: -5425890000168914084
+    second: stand to crouch_23
+  - first:
+      213: -4245800906389855771
+    second: stand to crouch_24
+  - first:
+      213: -4097896493534744771
+    second: stand to crouch_25
+  - first:
+      213: -2462942011729313536
+    second: stand to crouch_26
+  - first:
+      213: -7844349752834806104
+    second: stand to crouch_27
+  - first:
+      213: 2805351121304948463
+    second: stand to crouch_28
+  - first:
+      213: 837396353072698267
+    second: stand to crouch_29
+  - first:
+      213: -1664466493586762133
+    second: stand to crouch_30
+  - first:
+      213: -7293951313271231354
+    second: stand to crouch_31
+  - first:
+      213: -6900535722188985842
+    second: stand to crouch_32
+  - first:
+      213: 7425337097084487792
+    second: stand to crouch_33
+  - first:
+      213: 4046806262971475520
+    second: stand to crouch_34
+  - first:
+      213: 6089512093296175932
+    second: stand to crouch_35
+  - first:
+      213: -7666272744469374706
+    second: stand to crouch_36
+  - first:
+      213: -2687715466075308770
+    second: stand to crouch_37
+  - first:
+      213: 3016008317679571104
+    second: stand to crouch_38
+  - first:
+      213: 6666221474149945265
+    second: stand to crouch_39
+  - first:
+      213: -1815615161666851289
+    second: stand to crouch_40
+  - first:
+      213: 604110157008669635
+    second: stand to crouch_41
+  - first:
+      213: 5560244466372981228
+    second: stand to crouch_42
+  - first:
+      213: 2398881710141116070
+    second: stand to crouch_43
+  - first:
+      213: 6712365083342161981
+    second: stand to crouch_44
+  - first:
+      213: -8946781010936077378
+    second: stand to crouch_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stand to crouch_0
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 5365
+        width: 349
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b312645cae5aca5b0800000000000000
+      internalID: -5355723429099724485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_1
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 5364
+        width: 349
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f243a81d0c0a850800000000000000
+      internalID: 6386316277810736964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_2
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 5363
+        width: 351
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070b238317c107980800000000000000
+      internalID: -8543297220522102672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_3
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 5363
+        width: 351
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49eea00e8cd18bcf0800000000000000
+      internalID: -236406231847473516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_4
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 5363
+        width: 352
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7b68c7d9b59bf50800000000000000
+      internalID: 6897645036251822071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_5
+      rect:
+        serializedVersion: 2
+        x: 5541
+        y: 5363
+        width: 354
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbb78cde1af87fb0800000000000000
+      internalID: -4649691604804191280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_6
+      rect:
+        serializedVersion: 2
+        x: 6565
+        y: 5363
+        width: 356
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7ef774905729500800000000000000
+      internalID: 401511999504115632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_7
+      rect:
+        serializedVersion: 2
+        x: 7589
+        y: 5364
+        width: 359
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b4fa1d630c7dd70800000000000000
+      internalID: 9067927716412476229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_8
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 4340
+        width: 362
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dba78a3a9e8f020800000000000000
+      internalID: 2375905692553493914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_9
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 4340
+        width: 365
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6aa9b28785c7380800000000000000
+      internalID: -8972199084477995349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_10
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 4340
+        width: 369
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2815de3f2c4b1d360800000000000000
+      internalID: 7192728829296464258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_11
+      rect:
+        serializedVersion: 2
+        x: 3494
+        y: 4340
+        width: 372
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ff9b6d3988e27e0800000000000000
+      internalID: -1788341833475424411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_12
+      rect:
+        serializedVersion: 2
+        x: 4518
+        y: 4340
+        width: 376
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766a32f8981ad5a70800000000000000
+      internalID: 8817381257645368935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_13
+      rect:
+        serializedVersion: 2
+        x: 5542
+        y: 4341
+        width: 380
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334affcc51bc54950800000000000000
+      internalID: 6432770937262679091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_14
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 4341
+        width: 383
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63512d0749540d90800000000000000
+      internalID: -7132477748150185107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_15
+      rect:
+        serializedVersion: 2
+        x: 7591
+        y: 4341
+        width: 383
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734d802ebfd1ca440800000000000000
+      internalID: 4948363058239558711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_16
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 3317
+        width: 385
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b884c2fcbd90d80800000000000000
+      internalID: -8283848356723651766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_17
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 3317
+        width: 387
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57f4830f47dfb7c0800000000000000
+      internalID: -4053284405248723108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_18
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 3311
+        width: 390
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3beb6db635a6350800000000000000
+      internalID: 6010708375308776389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_19
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 3307
+        width: 392
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7518e78f4615cc20800000000000000
+      internalID: 3226009238919189887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_20
+      rect:
+        serializedVersion: 2
+        x: 4519
+        y: 3304
+        width: 393
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f92797cba2b45d10800000000000000
+      internalID: 2113510576001329649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_21
+      rect:
+        serializedVersion: 2
+        x: 5543
+        y: 3303
+        width: 395
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0764e490c5b1de340800000000000000
+      internalID: 4894598452128663152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_22
+      rect:
+        serializedVersion: 2
+        x: 6567
+        y: 3302
+        width: 397
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871528e8ec2748a40800000000000000
+      internalID: 5369542887212208504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_23
+      rect:
+        serializedVersion: 2
+        x: 7591
+        y: 3303
+        width: 399
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53769ddacd53b4b0800000000000000
+      internalID: -5425890000168914084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_24
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2279
+        width: 399
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1e9932292e315c0800000000000000
+      internalID: -4245800906389855771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_25
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 2279
+        width: 399
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fea88c9d85127c0800000000000000
+      internalID: -4097896493534744771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_26
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 2280
+        width: 398
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0010d702a4fd1ddd0800000000000000
+      internalID: -2462942011729313536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_27
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 2280
+        width: 398
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeab500675432390800000000000000
+      internalID: -7844349752834806104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_28
+      rect:
+        serializedVersion: 2
+        x: 4519
+        y: 2281
+        width: 398
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee00af3bfb9ee620800000000000000
+      internalID: 2805351121304948463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_29
+      rect:
+        serializedVersion: 2
+        x: 5543
+        y: 2280
+        width: 398
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b931b11eb870f9b00800000000000000
+      internalID: 837396353072698267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_30
+      rect:
+        serializedVersion: 2
+        x: 6567
+        y: 2280
+        width: 398
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b669835fa80a6e8e0800000000000000
+      internalID: -1664466493586762133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_31
+      rect:
+        serializedVersion: 2
+        x: 7591
+        y: 2280
+        width: 397
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c6973fceda6ca90800000000000000
+      internalID: -7293951313271231354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_32
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1256
+        width: 397
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a280f325f5c30a0800000000000000
+      internalID: -6900535722188985842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_33
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1255
+        width: 397
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0784049afb81c0760800000000000000
+      internalID: 7425337097084487792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_34
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 1255
+        width: 397
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046ad33fad4292830800000000000000
+      internalID: 4046806262971475520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_35
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 1255
+        width: 397
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b2d583cfa428450800000000000000
+      internalID: 6089512093296175932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_36
+      rect:
+        serializedVersion: 2
+        x: 4519
+        y: 1255
+        width: 397
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09d4aa7e8deb9590800000000000000
+      internalID: -7666272744469374706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_37
+      rect:
+        serializedVersion: 2
+        x: 5543
+        y: 1255
+        width: 398
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1df143160153bad0800000000000000
+      internalID: -2687715466075308770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_38
+      rect:
+        serializedVersion: 2
+        x: 6567
+        y: 1256
+        width: 398
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a01aeed5930bd920800000000000000
+      internalID: 3016008317679571104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_39
+      rect:
+        serializedVersion: 2
+        x: 7591
+        y: 1256
+        width: 398
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfc9c09c1d238c50800000000000000
+      internalID: 6666221474149945265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_40
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 232
+        width: 398
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ea80841a3adc6e0800000000000000
+      internalID: -1815615161666851289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_41
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 232
+        width: 398
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb05b1bcfa326800800000000000000
+      internalID: 604110157008669635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_42
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 231
+        width: 398
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce13e7af1e4f92d40800000000000000
+      internalID: 5560244466372981228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_43
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 231
+        width: 398
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae842f943a8a4120800000000000000
+      internalID: 2398881710141116070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_44
+      rect:
+        serializedVersion: 2
+        x: 4519
+        y: 231
+        width: 398
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38485bca7c172d50800000000000000
+      internalID: 6712365083342161981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to crouch_45
+      rect:
+        serializedVersion: 2
+        x: 5543
+        y: 231
+        width: 398
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3e1f79216a6d380800000000000000
+      internalID: -8946781010936077378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

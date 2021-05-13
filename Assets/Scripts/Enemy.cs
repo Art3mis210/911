@@ -72,6 +72,8 @@ public class Enemy : MonoBehaviour
         {
             Physics2D.IgnoreCollision(boxC, collision.gameObject.GetComponent<BoxCollider2D>(), true);
         }
+        if (collision.gameObject.tag == "RIGHT BOUND")
+            sp.flipX = !sp.flipX;
     }
     private void CollideWithAlex()
     {

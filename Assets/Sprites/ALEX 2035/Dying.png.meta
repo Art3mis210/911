@@ -1,0 +1,2240 @@
+fileFormatVersion: 2
+guid: 85625948a8d2a9e4e9167220283bcb6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1696035957728390161
+    second: Dying_0
+  - first:
+      213: 5966049027011578701
+    second: Dying_1
+  - first:
+      213: 7066051119365129051
+    second: Dying_2
+  - first:
+      213: 1472727819937242052
+    second: Dying_3
+  - first:
+      213: -8931253946334322236
+    second: Dying_4
+  - first:
+      213: -2263788774785607426
+    second: Dying_5
+  - first:
+      213: 4110606291435444657
+    second: Dying_6
+  - first:
+      213: -5315950768213896313
+    second: Dying_7
+  - first:
+      213: -6249636578027622931
+    second: Dying_8
+  - first:
+      213: -1550714600642797583
+    second: Dying_9
+  - first:
+      213: 9116486842806472905
+    second: Dying_10
+  - first:
+      213: 3571849115487703351
+    second: Dying_11
+  - first:
+      213: -3384162211687954921
+    second: Dying_12
+  - first:
+      213: -4703824266068686432
+    second: Dying_13
+  - first:
+      213: -1181471701394915784
+    second: Dying_14
+  - first:
+      213: 6795506962589735596
+    second: Dying_15
+  - first:
+      213: -1325144270918127343
+    second: Dying_16
+  - first:
+      213: 7271611539351791519
+    second: Dying_17
+  - first:
+      213: -8157927980840574677
+    second: Dying_18
+  - first:
+      213: -514816092335785016
+    second: Dying_19
+  - first:
+      213: 6296041994508147807
+    second: Dying_20
+  - first:
+      213: -2626134763126182745
+    second: Dying_21
+  - first:
+      213: -8253588356600562356
+    second: Dying_22
+  - first:
+      213: -5356804812977204679
+    second: Dying_23
+  - first:
+      213: 3404850885825193923
+    second: Dying_24
+  - first:
+      213: -9140146562497773183
+    second: Dying_25
+  - first:
+      213: -9154685474515687053
+    second: Dying_26
+  - first:
+      213: -2031254625944642220
+    second: Dying_27
+  - first:
+      213: -6984805088905277716
+    second: Dying_28
+  - first:
+      213: 4766637203535541131
+    second: Dying_29
+  - first:
+      213: 7347195288680073460
+    second: Dying_30
+  - first:
+      213: -5179544642074320788
+    second: Dying_31
+  - first:
+      213: -3949846004603945821
+    second: Dying_32
+  - first:
+      213: -4664379066998275621
+    second: Dying_33
+  - first:
+      213: 3800069108902971066
+    second: Dying_34
+  - first:
+      213: 3659817909833328480
+    second: Dying_35
+  - first:
+      213: 1930542767308409299
+    second: Dying_36
+  - first:
+      213: -3579839306434006369
+    second: Dying_37
+  - first:
+      213: -2284508730365034032
+    second: Dying_38
+  - first:
+      213: -8119620912151852534
+    second: Dying_39
+  - first:
+      213: 2938822504572091818
+    second: Dying_40
+  - first:
+      213: 7798932759393140482
+    second: Dying_41
+  - first:
+      213: 6862767499827065234
+    second: Dying_42
+  - first:
+      213: -9017245320156230434
+    second: Dying_43
+  - first:
+      213: -7931764078395099975
+    second: Dying_44
+  - first:
+      213: -4583560670769849342
+    second: Dying_45
+  - first:
+      213: -6666461797645437048
+    second: Dying_46
+  - first:
+      213: -6281817811708068404
+    second: Dying_47
+  - first:
+      213: -6054724883938276842
+    second: Dying_48
+  - first:
+      213: -5431705110967521477
+    second: Dying_49
+  - first:
+      213: 692421884900956987
+    second: Dying_50
+  - first:
+      213: -5190784859135883109
+    second: Dying_51
+  - first:
+      213: -8104413331091149257
+    second: Dying_52
+  - first:
+      213: 4559045214548022750
+    second: Dying_53
+  - first:
+      213: 3404229138475836364
+    second: Dying_54
+  - first:
+      213: 9078982850100980312
+    second: Dying_55
+  - first:
+      213: 7738369421129477987
+    second: Dying_56
+  - first:
+      213: -8955159745578137292
+    second: Dying_57
+  - first:
+      213: -1120833863997877644
+    second: Dying_58
+  - first:
+      213: 1853041089933650681
+    second: Dying_59
+  - first:
+      213: -1534861305365951760
+    second: Dying_60
+  - first:
+      213: 4270691256025965198
+    second: Dying_61
+  - first:
+      213: -2472617738149197014
+    second: Dying_62
+  - first:
+      213: -22809827070312992
+    second: Dying_63
+  - first:
+      213: -4793034383359603049
+    second: Dying_64
+  - first:
+      213: 5360989823989890707
+    second: Dying_65
+  - first:
+      213: -2105116488447221844
+    second: Dying_66
+  - first:
+      213: -2462786858725809546
+    second: Dying_67
+  - first:
+      213: 2281473059220736804
+    second: Dying_68
+  - first:
+      213: 810080005546522911
+    second: Dying_69
+  - first:
+      213: 7786896327666866469
+    second: Dying_70
+  - first:
+      213: -6949529409911382660
+    second: Dying_71
+  - first:
+      213: -6564800062170143463
+    second: Dying_72
+  - first:
+      213: -1730633777578263988
+    second: Dying_73
+  - first:
+      213: -8596528635748104121
+    second: Dying_74
+  - first:
+      213: -9038768522707727563
+    second: Dying_75
+  - first:
+      213: -1806794295948756441
+    second: Dying_76
+  - first:
+      213: 4782297015195418467
+    second: Dying_77
+  - first:
+      213: 7905354050581532714
+    second: Dying_78
+  - first:
+      213: 7560938769163027484
+    second: Dying_79
+  - first:
+      213: -4156725734804168708
+    second: Dying_80
+  - first:
+      213: -9095976670229523381
+    second: Dying_81
+  - first:
+      213: 192506007950670843
+    second: Dying_82
+  - first:
+      213: 7053506603425613763
+    second: Dying_83
+  - first:
+      213: -3688009161818567898
+    second: Dying_84
+  - first:
+      213: -7360486245205140420
+    second: Dying_85
+  - first:
+      213: -650812843036108094
+    second: Dying_86
+  - first:
+      213: 684979073937058898
+    second: Dying_87
+  - first:
+      213: -3431835374963882722
+    second: Dying_88
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dying_0
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 8435
+        width: 351
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ca0b2b7b7898710800000000000000
+      internalID: 1696035957728390161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_1
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 8435
+        width: 351
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b07970bf9abc250800000000000000
+      internalID: 5966049027011578701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_2
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 8435
+        width: 351
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5382863e08af0260800000000000000
+      internalID: 7066051119365129051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_3
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 8435
+        width: 351
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbd13e362e207410800000000000000
+      internalID: 1472727819937242052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_4
+      rect:
+        serializedVersion: 2
+        x: 4739
+        y: 8435
+        width: 350
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1efe90bdfcd0480800000000000000
+      internalID: -8931253946334322236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_5
+      rect:
+        serializedVersion: 2
+        x: 5763
+        y: 8435
+        width: 342
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef813687a186590e0800000000000000
+      internalID: -2263788774785607426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_6
+      rect:
+        serializedVersion: 2
+        x: 6786
+        y: 8435
+        width: 328
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9de74a4aecb0930800000000000000
+      internalID: 4110606291435444657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_7
+      rect:
+        serializedVersion: 2
+        x: 7803
+        y: 8435
+        width: 319
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783552101f2f936b0800000000000000
+      internalID: -5315950768213896313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_8
+      rect:
+        serializedVersion: 2
+        x: 8821
+        y: 8435
+        width: 307
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded206fe4a4d449a0800000000000000
+      internalID: -6249636578027622931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_9
+      rect:
+        serializedVersion: 2
+        x: 9838
+        y: 8435
+        width: 300
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff9ca86941ca7ae0800000000000000
+      internalID: -1550714600642797583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_10
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 7412
+        width: 297
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c090097b74448e70800000000000000
+      internalID: 9116486842806472905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_11
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 7412
+        width: 295
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73110f798d1c19130800000000000000
+      internalID: 3571849115487703351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_12
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 7412
+        width: 294
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7160a06066a0901d0800000000000000
+      internalID: -3384162211687954921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_13
+      rect:
+        serializedVersion: 2
+        x: 3667
+        y: 7412
+        width: 292
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a90d1f70c8a8beb0800000000000000
+      internalID: -4703824266068686432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_14
+      rect:
+        serializedVersion: 2
+        x: 4684
+        y: 7412
+        width: 290
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83efd2e4fb19a9fe0800000000000000
+      internalID: -1181471701394915784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_15
+      rect:
+        serializedVersion: 2
+        x: 5703
+        y: 7412
+        width: 288
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caadadd049d7e4e50800000000000000
+      internalID: 6795506962589735596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_16
+      rect:
+        serializedVersion: 2
+        x: 6722
+        y: 7412
+        width: 285
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111f7c77e442c9de0800000000000000
+      internalID: -1325144270918127343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_17
+      rect:
+        serializedVersion: 2
+        x: 7741
+        y: 7412
+        width: 282
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97e1bb1b24f9e460800000000000000
+      internalID: 7271611539351791519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_18
+      rect:
+        serializedVersion: 2
+        x: 8757
+        y: 7412
+        width: 284
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2127c659b739ce80800000000000000
+      internalID: -8157927980840574677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_19
+      rect:
+        serializedVersion: 2
+        x: 9769
+        y: 7412
+        width: 289
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbbbabdd710bd8f0800000000000000
+      internalID: -514816092335785016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_20
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 6388
+        width: 291
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c999d06d8006750800000000000000
+      internalID: 6296041994508147807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_21
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 6388
+        width: 294
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac2f87c8581e8bd0800000000000000
+      internalID: -2626134763126182745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_22
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 6393
+        width: 296
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4df58a7e1d557d80800000000000000
+      internalID: -8253588356600562356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_23
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 6394
+        width: 296
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9321467776ec8a5b0800000000000000
+      internalID: -5356804812977204679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_24
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 6394
+        width: 296
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7e8ca47d5704f20800000000000000
+      internalID: 3404850885825193923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_25
+      rect:
+        serializedVersion: 2
+        x: 5609
+        y: 6395
+        width: 295
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1810053c02da72180800000000000000
+      internalID: -9140146562497773183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_26
+      rect:
+        serializedVersion: 2
+        x: 6623
+        y: 6397
+        width: 295
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3796015801604f080800000000000000
+      internalID: -9154685474515687053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_27
+      rect:
+        serializedVersion: 2
+        x: 7638
+        y: 6399
+        width: 296
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d53340ea88fc3e0800000000000000
+      internalID: -2031254625944642220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_28
+      rect:
+        serializedVersion: 2
+        x: 8654
+        y: 6404
+        width: 295
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceec57a57ccf01f90800000000000000
+      internalID: -6984805088905277716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_29
+      rect:
+        serializedVersion: 2
+        x: 9668
+        y: 6409
+        width: 295
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83b5e9284f762240800000000000000
+      internalID: 4766637203535541131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_30
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 5388
+        width: 292
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8033d103b76f560800000000000000
+      internalID: 7347195288680073460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_31
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 5390
+        width: 288
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60e1e6279f8e18b0800000000000000
+      internalID: -5179544642074320788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_32
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 5393
+        width: 281
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acf51a6cf35f29c0800000000000000
+      internalID: -3949846004603945821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_33
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 5390
+        width: 278
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1ccc593fbc44fb0800000000000000
+      internalID: -4664379066998275621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_34
+      rect:
+        serializedVersion: 2
+        x: 4491
+        y: 5387
+        width: 288
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6c81e88be8cb430800000000000000
+      internalID: 3800069108902971066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_35
+      rect:
+        serializedVersion: 2
+        x: 5496
+        y: 5384
+        width: 315
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0676a3a9ff84ac230800000000000000
+      internalID: 3659817909833328480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_36
+      rect:
+        serializedVersion: 2
+        x: 6501
+        y: 5388
+        width: 343
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d90e1d1b6aaaca10800000000000000
+      internalID: 1930542767308409299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_37
+      rect:
+        serializedVersion: 2
+        x: 7507
+        y: 5395
+        width: 366
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92350b1e1bd15ec0800000000000000
+      internalID: -3579839306434006369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_38
+      rect:
+        serializedVersion: 2
+        x: 8507
+        y: 5402
+        width: 385
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d14050e96bcb40e0800000000000000
+      internalID: -2284508730365034032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_39
+      rect:
+        serializedVersion: 2
+        x: 9494
+        y: 5404
+        width: 407
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a0b5ccccf415f80800000000000000
+      internalID: -8119620912151852534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_40
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 4383
+        width: 421
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad71f25f7bc8c820800000000000000
+      internalID: 2938822504572091818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_41
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 4387
+        width: 448
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ff8ce26006b3c60800000000000000
+      internalID: 7798932759393140482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_42
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 4388
+        width: 454
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291b94b3ea27d3f50800000000000000
+      internalID: 6862767499827065234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_43
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 4381
+        width: 458
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcc88f182f4cd280800000000000000
+      internalID: -9017245320156230434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_44
+      rect:
+        serializedVersion: 2
+        x: 4269
+        y: 4369
+        width: 460
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b47e015896bce190800000000000000
+      internalID: -7931764078395099975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_45
+      rect:
+        serializedVersion: 2
+        x: 5287
+        y: 4366
+        width: 456
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cdf4ccadbe360c0800000000000000
+      internalID: -4583560670769849342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_46
+      rect:
+        serializedVersion: 2
+        x: 6306
+        y: 4363
+        width: 453
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887b1a2c058fb73a0800000000000000
+      internalID: -6666461797645437048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_47
+      rect:
+        serializedVersion: 2
+        x: 7328
+        y: 4363
+        width: 449
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd3b659bff72d8a0800000000000000
+      internalID: -6281817811708068404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_48
+      rect:
+        serializedVersion: 2
+        x: 8246
+        y: 4362
+        width: 551
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a04202ccb49fba0800000000000000
+      internalID: -6054724883938276842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_49
+      rect:
+        serializedVersion: 2
+        x: 9214
+        y: 4361
+        width: 605
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f6b10eaf4be94b0800000000000000
+      internalID: -5431705110967521477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3337
+        width: 604
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b5a34290afb9900800000000000000
+      internalID: 692421884900956987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_51
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 3333
+        width: 609
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98cabd2ca0a6f7b0800000000000000
+      internalID: -5190784859135883109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_52
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 3332
+        width: 611
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e2f5fa307578f80800000000000000
+      internalID: -8104413331091149257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_53
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 3329
+        width: 615
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed55410c77bf44f30800000000000000
+      internalID: 4559045214548022750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_54
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 3327
+        width: 619
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3e2e47d504e3f20800000000000000
+      internalID: 3404229138475836364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_55
+      rect:
+        serializedVersion: 2
+        x: 5118
+        y: 3324
+        width: 624
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ae126bcc60ffd70800000000000000
+      internalID: 9078982850100980312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_56
+      rect:
+        serializedVersion: 2
+        x: 6142
+        y: 3322
+        width: 632
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fea272df5346b60800000000000000
+      internalID: 7738369421129477987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_57
+      rect:
+        serializedVersion: 2
+        x: 7167
+        y: 3306
+        width: 641
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43900f968a1e8b380800000000000000
+      internalID: -8955159745578137292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_58
+      rect:
+        serializedVersion: 2
+        x: 8191
+        y: 3301
+        width: 643
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4729d240a8ff170f0800000000000000
+      internalID: -1120833863997877644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_59
+      rect:
+        serializedVersion: 2
+        x: 9214
+        y: 3302
+        width: 643
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faa2bfad0357b910800000000000000
+      internalID: 1853041089933650681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2288
+        width: 646
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa8b2a56c313bae0800000000000000
+      internalID: -1534861305365951760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_61
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 2287
+        width: 650
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e826bccf11b844b30800000000000000
+      internalID: 4270691256025965198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_62
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 2282
+        width: 652
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b8944844f7fadd0800000000000000
+      internalID: -2472617738149197014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_63
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 2277
+        width: 653
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edf5184596feaff0800000000000000
+      internalID: -22809827070312992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_64
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 2278
+        width: 654
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e0e977f98bb7db0800000000000000
+      internalID: -4793034383359603049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_65
+      rect:
+        serializedVersion: 2
+        x: 5118
+        y: 2278
+        width: 654
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39eb66757df066a40800000000000000
+      internalID: 5360989823989890707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_66
+      rect:
+        serializedVersion: 2
+        x: 6142
+        y: 2277
+        width: 653
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf194705bf19c2e0800000000000000
+      internalID: -2105116488447221844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_67
+      rect:
+        serializedVersion: 2
+        x: 7167
+        y: 2277
+        width: 651
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672e520866c62ddd0800000000000000
+      internalID: -2462786858725809546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_68
+      rect:
+        serializedVersion: 2
+        x: 8191
+        y: 2277
+        width: 651
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bc97bd8ab69af10800000000000000
+      internalID: 2281473059220736804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_69
+      rect:
+        serializedVersion: 2
+        x: 9214
+        y: 2277
+        width: 651
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f193f3a197bfd3b00800000000000000
+      internalID: 810080005546522911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 648
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529906904fc901c60800000000000000
+      internalID: 7786896327666866469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1253
+        width: 649
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d1a1662df4e8f90800000000000000
+      internalID: -6949529409911382660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_72
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1254
+        width: 650
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915e2e0102525e4a0800000000000000
+      internalID: -6564800062170143463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_73
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 231
+        width: 651
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ab723afbd8bf7e0800000000000000
+      internalID: -1730633777578263988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_74
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1254
+        width: 649
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748c2cc80cef2b880800000000000000
+      internalID: -8596528635748104121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_75
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 231
+        width: 650
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b06050be7df8280800000000000000
+      internalID: -9038768522707727563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_76
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 231
+        width: 650
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ab5cf192afce6e0800000000000000
+      internalID: -1806794295948756441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_77
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 1254
+        width: 649
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f32213cc12e5240800000000000000
+      internalID: 4782297015195418467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_78
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 231
+        width: 650
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a209b98ef9575bd60800000000000000
+      internalID: 7905354050581532714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_79
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 1254
+        width: 650
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14017040c9dde860800000000000000
+      internalID: 7560938769163027484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_80
+      rect:
+        serializedVersion: 2
+        x: 5118
+        y: 1254
+        width: 650
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffd54ca7f75056c0800000000000000
+      internalID: -4156725734804168708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_81
+      rect:
+        serializedVersion: 2
+        x: 5118
+        y: 231
+        width: 650
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b449ab5396994c180800000000000000
+      internalID: -9095976670229523381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_82
+      rect:
+        serializedVersion: 2
+        x: 6142
+        y: 231
+        width: 651
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb370db13beba200800000000000000
+      internalID: 192506007950670843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_83
+      rect:
+        serializedVersion: 2
+        x: 6142
+        y: 1254
+        width: 650
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c74e0e72e613e160800000000000000
+      internalID: 7053506603425613763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_84
+      rect:
+        serializedVersion: 2
+        x: 7167
+        y: 231
+        width: 650
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b0b6d053f81dcc0800000000000000
+      internalID: -3688009161818567898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_85
+      rect:
+        serializedVersion: 2
+        x: 7167
+        y: 1254
+        width: 650
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c166ce1cc4ad990800000000000000
+      internalID: -7360486245205140420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_86
+      rect:
+        serializedVersion: 2
+        x: 8191
+        y: 231
+        width: 650
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca129bda29d7f6f0800000000000000
+      internalID: -650812843036108094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_87
+      rect:
+        serializedVersion: 2
+        x: 8191
+        y: 1254
+        width: 650
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c289ca6d8818900800000000000000
+      internalID: 684979073937058898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_88
+      rect:
+        serializedVersion: 2
+        x: 9210
+        y: 1258
+        width: 650
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1588abb8ebaf50d0800000000000000
+      internalID: -3431835374963882722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

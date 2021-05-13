@@ -18,6 +18,7 @@ public class Player : MonoBehaviour
     public GameObject Bullet;
     public bool Control;
     public Animator BloodEffect;
+    public bool WalkMode;
 
     // Start is called before the first frame update
     void Start()
@@ -48,85 +49,104 @@ public class Player : MonoBehaviour
     private void Movement()
     {
 
-        if(animator.GetBool("Pistol") == false && animator.GetBool("Stand") == true && animator.GetBool("Flip") == false)
+        if (WalkMode == false)
         {
-            if(Input.GetKey(KeyCode.B))
+            if (animator.GetBool("Pistol") == false && animator.GetBool("Stand") == true && animator.GetBool("Flip") == false)
             {
-                animator.SetBool("Flip", true);
+                if (Input.GetKey(KeyCode.B))
+                {
+                    animator.SetBool("Flip", true);
+                }
             }
-        }
-        if (Input.GetKey(KeyCode.D))
-        {
-            sp.flipX = false;
-            animator.SetBool("Move", true);
-
-        }
-        else if (Input.GetKey(KeyCode.A))
-        {
-            sp.flipX = true;
-            animator.SetBool("Move", true);
-        }
-        else
-        {
-            //  Move(0);
-            animator.SetBool("Move", false);
-            animator.SetBool("Sprint", false);
-
-        }
-        if ((Input.GetKeyDown(KeyCode.LeftControl)))
-        {
-            animator.SetBool("Stand", !animator.GetBool("Stand"));
-
-        }
-        if ((Input.GetKey(KeyCode.LeftShift)) && animator.GetBool("Move") == true)
-        {
-            animator.SetBool("Sprint", true);
-
-        }
-        if(Input.GetKeyDown(KeyCode.Alpha1))
-        {
-            if (animator.GetBool("Pistol")==false)
-                animator.SetBool("Pistol", true);
-            else
-                animator.SetBool("Pistol", false);
-        }
-        if (animator.GetBool("Jump") == false && animator.GetBool("Stand") == true)
-        {
-            if (Input.GetKeyDown(KeyCode.Space))
+            if (Input.GetKey(KeyCode.D))
             {
-                animator.SetBool("Jump", true);
+                sp.flipX = false;
+                animator.SetBool("Move", true);
+
             }
-        }
-        if (animator.GetBool("Pistol") == true)
-        {
-            if (Input.GetMouseButton(0))
+            else if (Input.GetKey(KeyCode.A))
             {
-                animator.SetBool("Shoot", true);
+                sp.flipX = true;
+                animator.SetBool("Move", true);
             }
             else
-                animator.SetBool("Shoot", false);
-        }
-        if(animator.GetBool("Pistol") == true || animator.GetBool("Move") == false)
-        {
-            if (Input.GetMouseButton(1))
             {
-                animator.SetBool("Melee", true);
+                //  Move(0);
+                animator.SetBool("Move", false);
+                animator.SetBool("Sprint", false);
+
+            }
+            if ((Input.GetKeyDown(KeyCode.LeftControl)))
+            {
+                animator.SetBool("Stand", !animator.GetBool("Stand"));
+
+            }
+            if ((Input.GetKey(KeyCode.LeftShift)) && animator.GetBool("Move") == true)
+            {
+                animator.SetBool("Sprint", true);
+
+            }
+            if (Input.GetKeyDown(KeyCode.Alpha1))
+            {
+                if (animator.GetBool("Pistol") == false)
+                    animator.SetBool("Pistol", true);
+                else
+                    animator.SetBool("Pistol", false);
+            }
+            if (animator.GetBool("Jump") == false && animator.GetBool("Stand") == true)
+            {
+                if (Input.GetKeyDown(KeyCode.Space))
+                {
+                    animator.SetBool("Jump", true);
+                }
+            }
+            if (animator.GetBool("Pistol") == true)
+            {
+                if (Input.GetMouseButton(0))
+                {
+                    animator.SetBool("Shoot", true);
+                }
+                else
+                    animator.SetBool("Shoot", false);
+            }
+            if (animator.GetBool("Pistol") == true || animator.GetBool("Move") == false)
+            {
+                if (Input.GetMouseButton(1))
+                {
+                    animator.SetBool("Melee", true);
+                }
+            }
+
+            if (Input.GetKeyDown(KeyCode.Tab))
+            {
+                var drone = Instantiate(Drone, new Vector2(transform.position.x + 1, transform.position.y + 2), Quaternion.identity);
+                drone.GetComponent<Drone>().player = this;
+                animator.SetBool("Sprint", false);
+                animator.SetBool("Move", false);
+                Control = false;
+                Camera.SetActive(false);
+            }
+            if (Input.GetKeyDown(KeyCode.N))
+            {
+                Camera.GetComponent<DeferredNightVisionEffect>().enabled = !Camera.GetComponent<DeferredNightVisionEffect>().enabled;
             }
         }
+        else if(WalkMode==true)
+        {   if (Input.GetKey(KeyCode.D))
+            {
+                sp.flipX = false;
+                animator.SetBool("Move", true);
 
-        if (Input.GetKeyDown(KeyCode.Tab))
-        {
-            var drone = Instantiate(Drone, new Vector2(transform.position.x + 1, transform.position.y+2), Quaternion.identity);
-            drone.GetComponent<Drone>().player = this;
-            animator.SetBool("Sprint", false);
-            animator.SetBool("Move", false);
-            Control = false;
-            Camera.SetActive(false);
+            }
+            else
+            {
+                //  Move(0);
+                animator.SetBool("Move", false);
+                animator.SetBool("Sprint", false);
+
+            }
         }
-        if (Input.GetKeyDown(KeyCode.N))
-        {
-            Camera.GetComponent<DeferredNightVisionEffect>().enabled = !Camera.GetComponent<DeferredNightVisionEffect>().enabled;
-        }
+        
     }
     public void SetMeleeComplete()
     {

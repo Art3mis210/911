@@ -1,0 +1,2240 @@
+fileFormatVersion: 2
+guid: 3243004973f46a24590c30249a3c8a1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5736259838776104942
+    second: Stand Reload_0
+  - first:
+      213: -7093950705288622650
+    second: Stand Reload_1
+  - first:
+      213: 1036209932755796461
+    second: Stand Reload_2
+  - first:
+      213: -8030147584095044022
+    second: Stand Reload_3
+  - first:
+      213: -6529423459647694235
+    second: Stand Reload_4
+  - first:
+      213: 7939576640785234096
+    second: Stand Reload_5
+  - first:
+      213: -4769157824355695086
+    second: Stand Reload_6
+  - first:
+      213: -8259525378600006858
+    second: Stand Reload_7
+  - first:
+      213: -7251049620866456969
+    second: Stand Reload_8
+  - first:
+      213: -6721192033243229972
+    second: Stand Reload_9
+  - first:
+      213: 5999901116121345984
+    second: Stand Reload_10
+  - first:
+      213: 5808474930656392734
+    second: Stand Reload_11
+  - first:
+      213: 1609024872993250490
+    second: Stand Reload_12
+  - first:
+      213: 6343649792177593805
+    second: Stand Reload_13
+  - first:
+      213: 6017325148048774283
+    second: Stand Reload_14
+  - first:
+      213: 3737263792900990787
+    second: Stand Reload_15
+  - first:
+      213: 419797807213917920
+    second: Stand Reload_16
+  - first:
+      213: -1947702365993537455
+    second: Stand Reload_17
+  - first:
+      213: 3539301673635513665
+    second: Stand Reload_18
+  - first:
+      213: -1143834156571757809
+    second: Stand Reload_19
+  - first:
+      213: 5080109863023379335
+    second: Stand Reload_20
+  - first:
+      213: -4615309353801865353
+    second: Stand Reload_21
+  - first:
+      213: 5989622616203448629
+    second: Stand Reload_22
+  - first:
+      213: 2235734143190991196
+    second: Stand Reload_23
+  - first:
+      213: 198733012859427374
+    second: Stand Reload_24
+  - first:
+      213: -8600102658714055797
+    second: Stand Reload_25
+  - first:
+      213: 5387672105134589969
+    second: Stand Reload_26
+  - first:
+      213: -2770714780938589694
+    second: Stand Reload_27
+  - first:
+      213: -3382056629923413751
+    second: Stand Reload_28
+  - first:
+      213: 5728646225414217957
+    second: Stand Reload_29
+  - first:
+      213: 5705396755957040488
+    second: Stand Reload_30
+  - first:
+      213: 3026173909369640794
+    second: Stand Reload_31
+  - first:
+      213: 57267564242833150
+    second: Stand Reload_32
+  - first:
+      213: -7891629985148281915
+    second: Stand Reload_33
+  - first:
+      213: -4793327382185340905
+    second: Stand Reload_34
+  - first:
+      213: 6696132043191765378
+    second: Stand Reload_35
+  - first:
+      213: 3590784530926069267
+    second: Stand Reload_36
+  - first:
+      213: -3848565146937153263
+    second: Stand Reload_37
+  - first:
+      213: 6032467961364196590
+    second: Stand Reload_38
+  - first:
+      213: -2401860673141063946
+    second: Stand Reload_39
+  - first:
+      213: 1187385250592695025
+    second: Stand Reload_40
+  - first:
+      213: 4969114206615696733
+    second: Stand Reload_41
+  - first:
+      213: 8816609140600431737
+    second: Stand Reload_42
+  - first:
+      213: 3507038443575373043
+    second: Stand Reload_43
+  - first:
+      213: -110767361879263846
+    second: Stand Reload_44
+  - first:
+      213: 1536491211414317613
+    second: Stand Reload_45
+  - first:
+      213: 3029746290840450775
+    second: Stand Reload_46
+  - first:
+      213: -305604324156977247
+    second: Stand Reload_47
+  - first:
+      213: 7816755015331045619
+    second: Stand Reload_48
+  - first:
+      213: 6878561008083673907
+    second: Stand Reload_49
+  - first:
+      213: -4114655240799450144
+    second: Stand Reload_50
+  - first:
+      213: 7023146436131510929
+    second: Stand Reload_51
+  - first:
+      213: 3540766529748120658
+    second: Stand Reload_52
+  - first:
+      213: 2455759715641574116
+    second: Stand Reload_53
+  - first:
+      213: 4768587974489855487
+    second: Stand Reload_54
+  - first:
+      213: 4982506553300474471
+    second: Stand Reload_55
+  - first:
+      213: -1437975435064792759
+    second: Stand Reload_56
+  - first:
+      213: 3765326335968600141
+    second: Stand Reload_57
+  - first:
+      213: 4609790994553479208
+    second: Stand Reload_58
+  - first:
+      213: 6785307638289325943
+    second: Stand Reload_59
+  - first:
+      213: -2577640473236446677
+    second: Stand Reload_60
+  - first:
+      213: 4980025616434291408
+    second: Stand Reload_61
+  - first:
+      213: -8185138427539592058
+    second: Stand Reload_62
+  - first:
+      213: -6524942988236701540
+    second: Stand Reload_63
+  - first:
+      213: 5303889599046493891
+    second: Stand Reload_64
+  - first:
+      213: 2369542316925065286
+    second: Stand Reload_65
+  - first:
+      213: 7507204012378281152
+    second: Stand Reload_66
+  - first:
+      213: -6385159773118980952
+    second: Stand Reload_67
+  - first:
+      213: -7108951517191548408
+    second: Stand Reload_68
+  - first:
+      213: -8789810967524155226
+    second: Stand Reload_69
+  - first:
+      213: -5652623628511613972
+    second: Stand Reload_70
+  - first:
+      213: 4389460145407587667
+    second: Stand Reload_71
+  - first:
+      213: -1703682855682167402
+    second: Stand Reload_72
+  - first:
+      213: 4818380229360790413
+    second: Stand Reload_73
+  - first:
+      213: -6817610015369694328
+    second: Stand Reload_74
+  - first:
+      213: -6263813010840727854
+    second: Stand Reload_75
+  - first:
+      213: -3184449125363975729
+    second: Stand Reload_76
+  - first:
+      213: 7912552164361367070
+    second: Stand Reload_77
+  - first:
+      213: 2559496858618585433
+    second: Stand Reload_78
+  - first:
+      213: 962918031651993976
+    second: Stand Reload_79
+  - first:
+      213: 8766259955777728
+    second: Stand Reload_80
+  - first:
+      213: 3268534218944886958
+    second: Stand Reload_81
+  - first:
+      213: -5011268939559027102
+    second: Stand Reload_82
+  - first:
+      213: -5641843026036556375
+    second: Stand Reload_83
+  - first:
+      213: -1465494992131057669
+    second: Stand Reload_84
+  - first:
+      213: 2538823416691752969
+    second: Stand Reload_85
+  - first:
+      213: 584020545465318599
+    second: Stand Reload_86
+  - first:
+      213: -2868452816403095200
+    second: Stand Reload_87
+  - first:
+      213: 6737114274443821651
+    second: Stand Reload_88
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stand Reload_0
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 8435
+        width: 353
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7d69d6ee94b9f40800000000000000
+      internalID: 5736259838776104942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_1
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 8435
+        width: 358
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdc32d3b693d8d90800000000000000
+      internalID: -7093950705288622650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_2
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 8435
+        width: 360
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de104aa917b516e00800000000000000
+      internalID: 1036209932755796461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_3
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 8435
+        width: 357
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ebd0c515f2f8090800000000000000
+      internalID: -8030147584095044022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_4
+      rect:
+        serializedVersion: 2
+        x: 4515
+        y: 8435
+        width: 352
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ad89335f3d265a0800000000000000
+      internalID: -6529423459647694235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_5
+      rect:
+        serializedVersion: 2
+        x: 5539
+        y: 8435
+        width: 345
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b83efc93ea0f2e60800000000000000
+      internalID: 7939576640785234096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_6
+      rect:
+        serializedVersion: 2
+        x: 6563
+        y: 8435
+        width: 340
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21601811a3c80ddb0800000000000000
+      internalID: -4769157824355695086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_7
+      rect:
+        serializedVersion: 2
+        x: 7587
+        y: 8435
+        width: 335
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b0933dd65406d80800000000000000
+      internalID: -8259525378600006858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_8
+      rect:
+        serializedVersion: 2
+        x: 8611
+        y: 8435
+        width: 331
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772268b99c81f5b90800000000000000
+      internalID: -7251049620866456969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_9
+      rect:
+        serializedVersion: 2
+        x: 9634
+        y: 8435
+        width: 330
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce01a57c47789b2a0800000000000000
+      internalID: -6721192033243229972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_10
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 7412
+        width: 328
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfe1e9b64ee34350800000000000000
+      internalID: 5999901116121345984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_11
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 7412
+        width: 325
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e163980cc29db9050800000000000000
+      internalID: 5808474930656392734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_12
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 7412
+        width: 321
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcd785d897645610800000000000000
+      internalID: 1609024872993250490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_13
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 7412
+        width: 317
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdd93a30eb290850800000000000000
+      internalID: 6343649792177593805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_14
+      rect:
+        serializedVersion: 2
+        x: 4514
+        y: 7412
+        width: 317
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84d87b4755d18350800000000000000
+      internalID: 6017325148048774283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_15
+      rect:
+        serializedVersion: 2
+        x: 5538
+        y: 7412
+        width: 314
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347eac76e9d6dd330800000000000000
+      internalID: 3737263792900990787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_16
+      rect:
+        serializedVersion: 2
+        x: 6563
+        y: 7412
+        width: 311
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e63978a1eb63d500800000000000000
+      internalID: 419797807213917920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_17
+      rect:
+        serializedVersion: 2
+        x: 7587
+        y: 7412
+        width: 309
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15074ca740f58f4e0800000000000000
+      internalID: -1947702365993537455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_18
+      rect:
+        serializedVersion: 2
+        x: 8611
+        y: 7412
+        width: 307
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1458df1ce102e1130800000000000000
+      internalID: 3539301673635513665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_19
+      rect:
+        serializedVersion: 2
+        x: 9634
+        y: 7412
+        width: 305
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03f49715e84020f0800000000000000
+      internalID: -1143834156571757809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_20
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 6388
+        width: 303
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783877d310d208640800000000000000
+      internalID: 5080109863023379335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_21
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 6388
+        width: 299
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7772a1e789023ffb0800000000000000
+      internalID: -4615309353801865353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_22
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 6388
+        width: 295
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531d379f80a6f1350800000000000000
+      internalID: 5989622616203448629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_23
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 6388
+        width: 290
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c518c199b5ce60f10800000000000000
+      internalID: 2235734143190991196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_24
+      rect:
+        serializedVersion: 2
+        x: 4514
+        y: 6388
+        width: 285
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a11ac4f9a02c200800000000000000
+      internalID: 198733012859427374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_25
+      rect:
+        serializedVersion: 2
+        x: 5538
+        y: 6388
+        width: 283
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bc47b723c46a880800000000000000
+      internalID: -8600102658714055797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_26
+      rect:
+        serializedVersion: 2
+        x: 6563
+        y: 6388
+        width: 280
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11804d80c3bd4ca40800000000000000
+      internalID: 5387672105134589969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_27
+      rect:
+        serializedVersion: 2
+        x: 7587
+        y: 6388
+        width: 280
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a2b3c26917c89d0800000000000000
+      internalID: -2770714780938589694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_28
+      rect:
+        serializedVersion: 2
+        x: 8611
+        y: 6388
+        width: 280
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901092bf9658011d0800000000000000
+      internalID: -3382056629923413751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_29
+      rect:
+        serializedVersion: 2
+        x: 9634
+        y: 6388
+        width: 280
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e062bde36d308f40800000000000000
+      internalID: 5728646225414217957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_30
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 5363
+        width: 279
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8654c7dfe14ad2f40800000000000000
+      internalID: 5705396755957040488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_31
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 5363
+        width: 274
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57588023212ff920800000000000000
+      internalID: 3026173909369640794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_32
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 5363
+        width: 271
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe88d7db847bc000800000000000000
+      internalID: 57267564242833150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_33
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 5363
+        width: 268
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb5a64175c4b7290800000000000000
+      internalID: -7891629985148281915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_34
+      rect:
+        serializedVersion: 2
+        x: 4514
+        y: 5363
+        width: 265
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71090bc542eaa7db0800000000000000
+      internalID: -4793327382185340905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_35
+      rect:
+        serializedVersion: 2
+        x: 5538
+        y: 5363
+        width: 260
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2894e8b9d907dec50800000000000000
+      internalID: 6696132043191765378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_36
+      rect:
+        serializedVersion: 2
+        x: 6563
+        y: 5363
+        width: 250
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316e0de818705d130800000000000000
+      internalID: 3590784530926069267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_37
+      rect:
+        serializedVersion: 2
+        x: 7587
+        y: 5363
+        width: 244
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119acd1b366279ac0800000000000000
+      internalID: -3848565146937153263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_38
+      rect:
+        serializedVersion: 2
+        x: 8611
+        y: 5363
+        width: 247
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeca90446a1a7b350800000000000000
+      internalID: 6032467961364196590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_39
+      rect:
+        serializedVersion: 2
+        x: 9633
+        y: 5363
+        width: 263
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe32718170eaaed0800000000000000
+      internalID: -2401860673141063946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_40
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 4339
+        width: 261
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2ad1928907a7010800000000000000
+      internalID: 1187385250592695025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_41
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 4339
+        width: 251
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55fcad1b07d5f440800000000000000
+      internalID: 4969114206615696733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_42
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 4339
+        width: 240
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97463fc0d43ea5a70800000000000000
+      internalID: 8816609140600431737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_43
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 4339
+        width: 241
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fce2f222e08ba030800000000000000
+      internalID: 3507038443575373043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_44
+      rect:
+        serializedVersion: 2
+        x: 4508
+        y: 4339
+        width: 246
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95ba76dba9767ef0800000000000000
+      internalID: -110767361879263846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_45
+      rect:
+        serializedVersion: 2
+        x: 5531
+        y: 4339
+        width: 245
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a2cd8bd96b25510800000000000000
+      internalID: 1536491211414317613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_46
+      rect:
+        serializedVersion: 2
+        x: 6554
+        y: 4339
+        width: 254
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d63a110332db0a20800000000000000
+      internalID: 3029746290840450775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_47
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 4339
+        width: 264
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afccc08c7642cbf0800000000000000
+      internalID: -305604324156977247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_48
+      rect:
+        serializedVersion: 2
+        x: 8603
+        y: 4339
+        width: 269
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f06f018541ba7c60800000000000000
+      internalID: 7816755015331045619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_49
+      rect:
+        serializedVersion: 2
+        x: 9628
+        y: 4339
+        width: 276
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3332eaceace857f50800000000000000
+      internalID: 6878561008083673907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_50
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 3316
+        width: 285
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb03fedbdec5e6c0800000000000000
+      internalID: -4114655240799450144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_51
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 3316
+        width: 295
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a5b23397a377160800000000000000
+      internalID: 7023146436131510929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_52
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 3316
+        width: 308
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254ba362664532130800000000000000
+      internalID: 3540766529748120658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_53
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 3316
+        width: 321
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2c780437c941220800000000000000
+      internalID: 2455759715641574116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_54
+      rect:
+        serializedVersion: 2
+        x: 4504
+        y: 3316
+        width: 331
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5daab6f7d6d2240800000000000000
+      internalID: 4768587974489855487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_55
+      rect:
+        serializedVersion: 2
+        x: 5528
+        y: 3316
+        width: 336
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ad780df4b652540800000000000000
+      internalID: 4982506553300474471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_56
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 3316
+        width: 340
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949a935e5f84b0ce0800000000000000
+      internalID: -1437975435064792759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_57
+      rect:
+        serializedVersion: 2
+        x: 7576
+        y: 3316
+        width: 344
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40e4de5a50214430800000000000000
+      internalID: 3765326335968600141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_58
+      rect:
+        serializedVersion: 2
+        x: 8599
+        y: 3316
+        width: 349
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820a72f5c7449ff30800000000000000
+      internalID: 4609790994553479208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_59
+      rect:
+        serializedVersion: 2
+        x: 9624
+        y: 3316
+        width: 352
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fdaffc8514a2e50800000000000000
+      internalID: 6785307638289325943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_60
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2292
+        width: 352
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22621285a16a3cd0800000000000000
+      internalID: -2577640473236446677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_61
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 2292
+        width: 355
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d269efa9ea9c1540800000000000000
+      internalID: 4980025616434291408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_62
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 2292
+        width: 358
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c6a1587fb886e80800000000000000
+      internalID: -8185138427539592058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_63
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 2292
+        width: 356
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90c97e3ceeb275a0800000000000000
+      internalID: -6524942988236701540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_64
+      rect:
+        serializedVersion: 2
+        x: 4515
+        y: 2292
+        width: 359
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c62e073d733b9940800000000000000
+      internalID: 5303889599046493891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_65
+      rect:
+        serializedVersion: 2
+        x: 5539
+        y: 2292
+        width: 360
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6481390de2e42e020800000000000000
+      internalID: 2369542316925065286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_66
+      rect:
+        serializedVersion: 2
+        x: 6563
+        y: 2292
+        width: 360
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4d13e3642fe2860800000000000000
+      internalID: 7507204012378281152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_67
+      rect:
+        serializedVersion: 2
+        x: 7587
+        y: 2292
+        width: 357
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac1121340b5367a0800000000000000
+      internalID: -6385159773118980952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_68
+      rect:
+        serializedVersion: 2
+        x: 8611
+        y: 2292
+        width: 353
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802d25c824ee75d90800000000000000
+      internalID: -7108951517191548408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_69
+      rect:
+        serializedVersion: 2
+        x: 9636
+        y: 2292
+        width: 348
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0e3e5de71540680800000000000000
+      internalID: -8789810967524155226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_70
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1268
+        width: 345
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebe59d32c8dd81b0800000000000000
+      internalID: -5652623628511613972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_71
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1268
+        width: 343
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355f0c2febe7aec30800000000000000
+      internalID: 4389460145407587667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_72
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 1268
+        width: 342
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d2421287d4b58e0800000000000000
+      internalID: -1703682855682167402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_73
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 1268
+        width: 343
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ba0db2a435ed240800000000000000
+      internalID: 4818380229360790413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_74
+      rect:
+        serializedVersion: 2
+        x: 4516
+        y: 1268
+        width: 342
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8837eb0ffcbf261a0800000000000000
+      internalID: -6817610015369694328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_75
+      rect:
+        serializedVersion: 2
+        x: 5539
+        y: 1268
+        width: 344
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de4e55f0477219a0800000000000000
+      internalID: -6263813010840727854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_76
+      rect:
+        serializedVersion: 2
+        x: 6563
+        y: 1268
+        width: 346
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9706574609ec3d0800000000000000
+      internalID: -3184449125363975729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_77
+      rect:
+        serializedVersion: 2
+        x: 7587
+        y: 1268
+        width: 346
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ee18f55480fcd60800000000000000
+      internalID: 7912552164361367070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_78
+      rect:
+        serializedVersion: 2
+        x: 8611
+        y: 1268
+        width: 347
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95160b505d8258320800000000000000
+      internalID: 2559496858618585433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_79
+      rect:
+        serializedVersion: 2
+        x: 9635
+        y: 1268
+        width: 347
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8797f6819d8fc5d00800000000000000
+      internalID: 962918031651993976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_80
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 243
+        width: 347
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c04ca2fdd42f1000800000000000000
+      internalID: 8766259955777728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_81
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 243
+        width: 346
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea83b600e8a2c5d20800000000000000
+      internalID: 3268534218944886958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_82
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 243
+        width: 347
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eb2a74375647ab0800000000000000
+      internalID: -5011268939559027102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_83
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 243
+        width: 347
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad739ad8a524b1b0800000000000000
+      internalID: -5641843026036556375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_84
+      rect:
+        serializedVersion: 2
+        x: 4515
+        y: 243
+        width: 347
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf71ae5b11489abe0800000000000000
+      internalID: -1465494992131057669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_85
+      rect:
+        serializedVersion: 2
+        x: 5539
+        y: 243
+        width: 347
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9000b5b3276bb3320800000000000000
+      internalID: 2538823416691752969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_86
+      rect:
+        serializedVersion: 2
+        x: 6563
+        y: 243
+        width: 346
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc7df1879bda1800800000000000000
+      internalID: 584020545465318599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_87
+      rect:
+        serializedVersion: 2
+        x: 7587
+        y: 243
+        width: 347
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06123577c553138d0800000000000000
+      internalID: -2868452816403095200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand Reload_88
+      rect:
+        serializedVersion: 2
+        x: 8611
+        y: 243
+        width: 347
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3520073ecb90f7d50800000000000000
+      internalID: 6737114274443821651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
