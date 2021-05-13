@@ -34,6 +34,7 @@ public class ALEX_2035 : MonoBehaviour
     void Update()
     {
         //Camera.transform.position = new Vector3(gameObject.transform.position.x + 5, Camera.transform.position.y, Camera.transform.position.z);
+        
         Movement();
         Vector2 S = sp.sprite.bounds.size;
         boxC.size = S;
@@ -79,13 +80,13 @@ public class ALEX_2035 : MonoBehaviour
                     animator.SetBool("Jump", true);
                 }
             }
-            if (Input.GetMouseButton(0))
+            if (animator.GetBool("Move") == false && Input.GetMouseButton(0))
             {
                 animator.SetBool("Shoot", true);
             }
             else
                 animator.SetBool("Shoot", false);
-            if (animator.GetBool("Stand") == true && Input.GetMouseButton(1))
+            if (animator.GetBool("Move") == false && Input.GetMouseButton(1))
             {
                     animator.SetBool("Melee", true);
             }
@@ -174,7 +175,7 @@ public class ALEX_2035 : MonoBehaviour
                     Instantiate(Bullet, new Vector3(gameObject.transform.position.x - 3.5f, gameObject.transform.position.y + 2, 0), Quaternion.identity);
                 else
                      Instantiate(Bullet, new Vector3(gameObject.transform.position.x - 3.5f, gameObject.transform.position.y + 1.25f, 0), Quaternion.identity);
-                }
+            }
             Ammo--;
         }
     }

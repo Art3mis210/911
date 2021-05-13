@@ -28,6 +28,7 @@ public class Enemy : MonoBehaviour
         Dead = false;
         if (gameObject.name == "ENEMY HAZARD UNIT")
             Rest = false;
+ 
     }
 
     // Update is called once per frame
@@ -35,17 +36,26 @@ public class Enemy : MonoBehaviour
     {
         S = sp.sprite.bounds.size;
         boxC.size = S;
-        if (Alex.GetComponent<Player>().Dead == true && FoundPlayer == true)
-            FoundPlayer = false;
-        if(gameObject.name=="ENEMY 1" || gameObject.name == "ENEMY HAZARD UNIT")
+        if (Alex.gameObject.name == "ALEX")
         {
-            EnemyOne();
+            if ((Alex.GetComponent<Player>().Dead == true && FoundPlayer == true))
+                FoundPlayer = false;
         }
-        else if(gameObject.name=="ENEMY ROBOT")
+        else
+        {
+            if ((Alex.GetComponent<ALEX_2035>().Dead == true && FoundPlayer == true))
+                FoundPlayer = false;
+        }
+        
+        if(gameObject.name=="ENEMY ROBOT")
         {
             EnemyRobot();
         }
-        
+        else
+        {
+            EnemyOne();
+        }
+
 
     }
     private void OnCollisionEnter2D(Collision2D collision)
@@ -113,11 +123,18 @@ public class Enemy : MonoBehaviour
                 animator.SetBool("SPRINT", true);
 
             }
-            if (Alex.GetComponent<Player>().Dead == true)
-            {
-                animator.SetBool("SHOOT", false);
-                FoundPlayer = false;
-            }
+            if (Alex.gameObject.name == "ALEX")
+                if (Alex.GetComponent<Player>().Dead == true)
+                {
+                        animator.SetBool("SHOOT", false);
+                        FoundPlayer = false;
+                }
+            else
+                if (Alex.GetComponent<ALEX_2035>().Dead == true)
+                {
+                    animator.SetBool("SHOOT", false);
+                    FoundPlayer = false;
+                }
         }
         else
         {
@@ -197,13 +214,25 @@ public class Enemy : MonoBehaviour
     }
     public void KillAlex()
     {
-        if (FoundPlayer == true && Mathf.Abs(transform.position.x - Alex.transform.position.x) <= 5 && Alex.GetComponent<Player>().Dead==false)
+        if (Alex.gameObject.name == "ALEX")
         {
-            
-            Alex.GetComponent<Animator>().SetBool("Death", true);
-            Alex.GetComponent<Player>().BloodEffect.Play("DEATH EFFECT");
-            FoundPlayer = false;
-            //gameObject.transform.GetChild(0).GetComponent<BoxCollider2D>().enabled = false;
+            if (FoundPlayer == true && Mathf.Abs(transform.position.x - Alex.transform.position.x) <= 5 && Alex.GetComponent<Player>().Dead == false)
+            {
+
+                Alex.GetComponent<Animator>().SetBool("Death", true);
+                Alex.GetComponent<Player>().BloodEffect.Play("DEATH EFFECT");
+                FoundPlayer = false;
+            }
+        }
+        else
+        {
+            if (FoundPlayer == true && Mathf.Abs(transform.position.x - Alex.transform.position.x) <= 5 && Alex.GetComponent<ALEX_2035>().Dead == false)
+            {
+
+                Alex.GetComponent<Animator>().SetBool("Death", true);
+                Alex.GetComponent<ALEX_2035>().BloodEffect.Play("DEATH EFFECT");
+                FoundPlayer = false;
+            }
         }
     }
     public void TurnColliderOff()

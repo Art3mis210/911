@@ -12,6 +12,8 @@ public class Bullet : MonoBehaviour
     public bool DroneMode;
     public bool EnemyMode;
     public bool PlayerMode;
+    public Vector2 StartPos;
+    public Vector2 EndPos;
     void Start()
     {
         rigidBody2D = GetComponent<Rigidbody2D>();
@@ -35,12 +37,19 @@ public class Bullet : MonoBehaviour
                 speedY = 0;
             }
         }
+        StartPos = new Vector2(gameObject.transform.position.x, gameObject.transform.position.y);
+        EndPos= new Vector2(gameObject.transform.position.x, gameObject.transform.position.y);
 
     }
 
     // Update is called once per frame
     void Update()
     {
+        EndPos = new Vector2(gameObject.transform.position.x, gameObject.transform.position.y);
+        if(Mathf.Abs(EndPos.x-StartPos.x)>=40)
+        {
+            Destroy(gameObject);
+        }
         rigidBody2D.velocity = new Vector2(speedX, speedY);
     }
 

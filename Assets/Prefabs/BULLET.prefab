@@ -167,3 +167,5 @@ MonoBehaviour:
   DroneMode: 0
   EnemyMode: 0
   PlayerMode: 1
+  StartPos: {x: 0, y: 0}
+  EndPos: {x: 0, y: 0}
