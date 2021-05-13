@@ -38,7 +38,7 @@ public class Player_Melee_Trigger : MonoBehaviour
                 player.MeleeComplete = false;
             }
         }
-        if(collision.gameObject.tag=="ENEMY")
+        else if(collision.gameObject.tag=="ENEMY")
         {
             if (Alex.GetComponent<Animator>().GetBool("Melee")==true && player.MeleeComplete==true && collision.gameObject.GetComponent<Enemy>().Dead==false)
             {

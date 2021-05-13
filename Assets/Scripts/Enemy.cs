@@ -124,17 +124,21 @@ public class Enemy : MonoBehaviour
 
             }
             if (Alex.gameObject.name == "ALEX")
+            {
                 if (Alex.GetComponent<Player>().Dead == true)
                 {
-                        animator.SetBool("SHOOT", false);
-                        FoundPlayer = false;
+                    animator.SetBool("SHOOT", false);
+                    FoundPlayer = false;
                 }
+            }
             else
+            {
                 if (Alex.GetComponent<ALEX_2035>().Dead == true)
                 {
                     animator.SetBool("SHOOT", false);
                     FoundPlayer = false;
                 }
+            }
         }
         else
         {
