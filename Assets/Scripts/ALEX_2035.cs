@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 public class ALEX_2035 : MonoBehaviour
@@ -17,6 +18,9 @@ public class ALEX_2035 : MonoBehaviour
     public GameObject Bullet;
     public Animator BloodEffect;
     private int Ammo;
+    private int Remaining_Ammo;
+    public GameObject HealthBar;
+    public Text AmmoIndicator;
 
     // Start is called before the first frame update
     void Start()
@@ -27,7 +31,9 @@ public class ALEX_2035 : MonoBehaviour
         animator = GetComponent<Animator>();
         MeleeComplete = false;
         boxC = GetComponent<BoxCollider2D>();
+        Remaining_Ammo = 1000;
         Ammo = 30;
+        AmmoIndicator.text = Ammo.ToString() + "/"+Remaining_Ammo.ToString();
     }
 
     // Update is called once per frame
@@ -101,6 +107,15 @@ public class ALEX_2035 : MonoBehaviour
     public void SetMeleeComplete()
     {
         MeleeComplete = true;
+    }
+    public void HealthBarUpdate()
+    {
+        for (int child = 0; child <= 7; child++)
+        {
+            HealthBar.transform.GetChild(child).gameObject.SetActive(health >= child*10);
+        }
+        //  HealthBar.transform.GetChild(1).gameObject.SetActive(health >= 2);
+        //  HealthBar.transform.GetChild(2).gameObject.SetActive(health >= 3);
     }
     public void TurnColliderOff()
     {
@@ -177,11 +192,23 @@ public class ALEX_2035 : MonoBehaviour
                      Instantiate(Bullet, new Vector3(gameObject.transform.position.x - 3.5f, gameObject.transform.position.y + 1.25f, 0), Quaternion.identity);
             }
             Ammo--;
+            AmmoIndicator.text = Ammo.ToString() + "/" + Remaining_Ammo.ToString();
         }
     }
     public void Reload()
     {
-        Ammo = 30;
+        if(Remaining_Ammo-30>=0)
+        {
+            Ammo = 30;
+            Remaining_Ammo -= 30;
+        }
+        else
+        {
+            Ammo = Remaining_Ammo;
+            Remaining_Ammo = 0;
+        }
+        
+        AmmoIndicator.text = Ammo.ToString() + "/" + Remaining_Ammo.ToString();
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -189,7 +216,7 @@ public class ALEX_2035 : MonoBehaviour
         {
             Destroy(collision.gameObject);
             health -= 2;
-
+            HealthBarUpdate();
             if (health <= 0 && Dead == false)
             {
                 animator.SetBool("Death", true);

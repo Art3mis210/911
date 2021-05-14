@@ -222,7 +222,8 @@ public class Enemy : MonoBehaviour
         {
             if (FoundPlayer == true && Mathf.Abs(transform.position.x - Alex.transform.position.x) <= 5 && Alex.GetComponent<Player>().Dead == false)
             {
-
+                Alex.GetComponent<Player>().health = 0;
+                Alex.GetComponent<Player>().HealthBarUpdate();
                 Alex.GetComponent<Animator>().SetBool("Death", true);
                 Alex.GetComponent<Player>().BloodEffect.Play("DEATH EFFECT");
                 FoundPlayer = false;

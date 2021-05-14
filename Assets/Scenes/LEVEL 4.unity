@@ -575,6 +575,18 @@ Transform:
   m_Father: {fileID: 299199186}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &610803660 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6653000587500282759, guid: 5f63fbc705a25ea41ada57ac2dec81aa,
+    type: 3}
+  m_PrefabInstance: {fileID: 824824122}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &720726062
 GameObject:
   m_ObjectHideFlags: 0
@@ -990,6 +1002,21 @@ PrefabInstance:
       propertyPath: WalkMode
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6991862667513726847, guid: 5f63fbc705a25ea41ada57ac2dec81aa,
+        type: 3}
+      propertyPath: HealthBar
+      value: 
+      objectReference: {fileID: 909554869}
+    - target: {fileID: 6991862667513726847, guid: 5f63fbc705a25ea41ada57ac2dec81aa,
+        type: 3}
+      propertyPath: BloodEffect
+      value: 
+      objectReference: {fileID: 1717081228}
+    - target: {fileID: 6991862667513726847, guid: 5f63fbc705a25ea41ada57ac2dec81aa,
+        type: 3}
+      propertyPath: AmmoIndicator
+      value: 
+      objectReference: {fileID: 610803660}
     m_RemovedComponents:
     - {fileID: 6647853303007005566, guid: 5f63fbc705a25ea41ada57ac2dec81aa, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 5f63fbc705a25ea41ada57ac2dec81aa, type: 3}
@@ -1162,6 +1189,12 @@ Transform:
   m_Father: {fileID: 973726535}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &909554869 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8150268593681645477, guid: 5f63fbc705a25ea41ada57ac2dec81aa,
+    type: 3}
+  m_PrefabInstance: {fileID: 824824122}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &973726534
 GameObject:
   m_ObjectHideFlags: 0
@@ -1661,6 +1694,12 @@ Transform:
   m_Father: {fileID: 299199186}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &1717081228 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 4471686489268373817, guid: 5f63fbc705a25ea41ada57ac2dec81aa,
+    type: 3}
+  m_PrefabInstance: {fileID: 824824122}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1950073685
 PrefabInstance:
   m_ObjectHideFlags: 0

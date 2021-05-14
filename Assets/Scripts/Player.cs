@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
@@ -19,6 +20,9 @@ public class Player : MonoBehaviour
     public bool Control;
     public Animator BloodEffect;
     public bool WalkMode;
+    public GameObject HealthBar;
+    private int Ammo;
+    public Text AmmoIndicator;
 
     // Start is called before the first frame update
     void Start()
@@ -30,6 +34,8 @@ public class Player : MonoBehaviour
         MeleeComplete = false;
         boxC = GetComponent<BoxCollider2D>();
         Control = true;
+        Ammo = 85;
+        AmmoIndicator.text=Ammo.ToString()+ "/0";
     }
 
     // Update is called once per frame
@@ -170,6 +176,15 @@ public class Player : MonoBehaviour
 
 
     }
+    public void HealthBarUpdate()
+    {
+        for (int child = 0; child <= 7; child++)
+        {
+            HealthBar.transform.GetChild(child).gameObject.SetActive(health >= child+1);
+        }
+      //  HealthBar.transform.GetChild(1).gameObject.SetActive(health >= 2);
+      //  HealthBar.transform.GetChild(2).gameObject.SetActive(health >= 3);
+    }
     public void Unfreeze()
     {
         rigidBody.constraints = RigidbodyConstraints2D.None;
@@ -205,18 +220,23 @@ public class Player : MonoBehaviour
     }
     public void Fire()
     {
-        Bullet.GetComponent<Bullet>().DroneMode = false;
-        Bullet.GetComponent<Bullet>().EnemyMode = false;
-        Bullet.GetComponent<Bullet>().PlayerMode = true;
-        if (sp.flipX == false)
+        if (Ammo > 0)
         {
-            Bullet.GetComponent<SpriteRenderer>().flipX = false;
-            Instantiate(Bullet, new Vector3(gameObject.transform.position.x + 3.5f, gameObject.transform.position.y + 2, 0), Quaternion.identity);
-        }
-        else
-        {
-            Bullet.GetComponent<SpriteRenderer>().flipX = true;
-            Instantiate(Bullet, new Vector3(gameObject.transform.position.x - 3.5f, gameObject.transform.position.y + 2, 0), Quaternion.identity);
+            Bullet.GetComponent<Bullet>().DroneMode = false;
+            Bullet.GetComponent<Bullet>().EnemyMode = false;
+            Bullet.GetComponent<Bullet>().PlayerMode = true;
+            if (sp.flipX == false)
+            {
+                Bullet.GetComponent<SpriteRenderer>().flipX = false;
+                Instantiate(Bullet, new Vector3(gameObject.transform.position.x + 3.5f, gameObject.transform.position.y + 2, 0), Quaternion.identity);
+            }
+            else
+            {
+                Bullet.GetComponent<SpriteRenderer>().flipX = true;
+                Instantiate(Bullet, new Vector3(gameObject.transform.position.x - 3.5f, gameObject.transform.position.y + 2, 0), Quaternion.identity);
+            }
+            Ammo--;
+            AmmoIndicator.text = Ammo.ToString()+"/0";
         }
     }
     private void OnTriggerEnter2D(Collider2D collision)
@@ -224,8 +244,8 @@ public class Player : MonoBehaviour
         if (collision.gameObject.tag == "BULLET")
         {
             Destroy(collision.gameObject);
-            health -= 2;
-            
+            health -= 1;
+            HealthBarUpdate();
             if (health <= 0 && Dead==false)
             {
                 animator.SetBool("Death", true);
