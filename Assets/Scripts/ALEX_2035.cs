@@ -21,6 +21,7 @@ public class ALEX_2035 : MonoBehaviour
     private int Remaining_Ammo;
     public GameObject HealthBar;
     public Text AmmoIndicator;
+    private bool Paused;
 
     // Start is called before the first frame update
     void Start()
@@ -34,19 +35,30 @@ public class ALEX_2035 : MonoBehaviour
         Remaining_Ammo = 1000;
         Ammo = 30;
         AmmoIndicator.text = Ammo.ToString() + "/"+Remaining_Ammo.ToString();
+        Paused = false;
     }
 
     // Update is called once per frame
     void Update()
     {
         //Camera.transform.position = new Vector3(gameObject.transform.position.x + 5, Camera.transform.position.y, Camera.transform.position.z);
-        
+
         Movement();
         Vector2 S = sp.sprite.bounds.size;
         boxC.size = S;
-        if (Input.GetKey(KeyCode.Escape))
-            Application.Quit();
+        if (Input.GetKey(KeyCode.Escape) && Paused == false)
+        {
+            Time.timeScale = 0;
+            SceneManager.LoadScene("PAUSED", LoadSceneMode.Additive);
+            Paused = true;
+            Camera.GetComponent<Camera>().enabled = (false);
 
+        }
+        if (Paused == true && Time.timeScale == 1)
+        {
+            Camera.GetComponent<Camera>().enabled = (true);
+            Paused = false;
+        }
     }
     private void Movement()
     {

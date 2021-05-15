@@ -15,6 +15,7 @@ public class Drone : MonoBehaviour
     public GameObject Bullet;
     private int Ammo;
     public bool Control;
+    private bool Paused;
 
     void Start()
     {
@@ -23,17 +24,31 @@ public class Drone : MonoBehaviour
         speed = 10;
         Ammo = 5;
         Control = true;
+        Paused = false;
     }
 
     // Update is called once per frame
     void Update()
     {
-        if(Control==true && SceneManager.sceneCount==1)
+        if(Control==true && SceneManager.sceneCount==1 && Time.timeScale==1)
             Movement();
-    /*    if(player.Dead==true)
+        if (Input.GetKey(KeyCode.Escape) && Paused == false)
         {
-            Destroy(gameObject);
-        }*/
+            Time.timeScale = 0;
+            SceneManager.LoadScene("PAUSED", LoadSceneMode.Additive);
+            Paused = true;
+            transform.GetChild(0).gameObject.GetComponent<Camera>().enabled=(false);
+
+        }
+        if (Paused == true && Time.timeScale == 1)
+        {
+            transform.GetChild(0).gameObject.GetComponent<Camera>().enabled = (true);
+            Paused = false;
+        }
+        /*    if(player.Dead==true)
+            {
+                Destroy(gameObject);
+            }*/
     }
     private void Movement()
     {
@@ -52,7 +67,7 @@ public class Drone : MonoBehaviour
             rigidBody.constraints = RigidbodyConstraints2D.FreezeRotation;
             Destroy(gameObject);
         }
-        if (Input.GetKeyDown(KeyCode.Mouse0) && Ammo > 0)
+        if (Input.GetKeyDown(KeyCode.Mouse0) && Ammo > 0 )
         {
             Ammo--;
             Fire();

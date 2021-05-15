@@ -23,6 +23,7 @@ public class Player : MonoBehaviour
     public GameObject HealthBar;
     private int Ammo;
     public Text AmmoIndicator;
+    private bool Paused;
 
     // Start is called before the first frame update
     void Start()
@@ -36,6 +37,7 @@ public class Player : MonoBehaviour
         Control = true;
         Ammo = 85;
         AmmoIndicator.text=Ammo.ToString()+ "/0";
+        Paused = false;
     }
 
     // Update is called once per frame
@@ -46,8 +48,19 @@ public class Player : MonoBehaviour
             Movement();
         Vector2 S = sp.sprite.bounds.size;
         boxC.size = S;
-        if (Input.GetKey(KeyCode.Escape))
-            Application.Quit();
+        if (Input.GetKey(KeyCode.Escape) && Paused == false)
+        {
+            Time.timeScale = 0;
+            SceneManager.LoadScene("PAUSED", LoadSceneMode.Additive);
+            Paused = true;
+            Camera.GetComponent<Camera>().enabled = (false);
+
+        }
+        if (Paused == true && Time.timeScale == 1)
+        {
+            Camera.GetComponent<Camera>().enabled = (true);
+            Paused = false;
+        }
         if (Control == true && Camera.activeInHierarchy == false)
             Camera.SetActive(true);
 
