@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/EPISODE.unity
     guid: 16905431f9eb33e478ff919ae36e919f
   - enabled: 1
+    path: Assets/Scenes/SURVIVAL.unity
+    guid: 67657a8e0abe5ff4bb85d72ff3e9e6e5
+  - enabled: 1
     path: Assets/Scenes/OPTIONS.unity
     guid: d8fe1b74f9d767b4ab2c0a676ca1de49
   - enabled: 1
