@@ -21,22 +21,22 @@ public class Episode : MonoBehaviour, IPointerEnterHandler
         if (gameObject.name == "EPISODE 1")
         {
             ImagePanel.sprite = Level1;
-            Title.text = "PROLOGUE";
+            Title.text = "           PROLOGUE";
         }
         else if (gameObject.name == "EPISODE 2")
         {
             ImagePanel.sprite = Level2;
-            Title.text = "NIGHT SHIFT";
+            Title.text = "        NIGHT SHIFT";
         }
         else if (gameObject.name == "EPISODE 3")
         {
             ImagePanel.sprite = Level3;
-            Title.text = "SLIPPERY WET";
+            Title.text = "      SLIPPERY WET";
         }
         else if (gameObject.name == "EPISODE 4")
         {
             ImagePanel.sprite = Level4;
-            Title.text = "RADIOACTIVE";
+            Title.text = "       RADIOACTIVE";
         }
         else if (gameObject.name == "EPISODE 5")
         {
@@ -46,7 +46,7 @@ public class Episode : MonoBehaviour, IPointerEnterHandler
         else if (gameObject.name == "EPISODE 6")
         {
             ImagePanel.sprite = Level6;
-            Title.text = "BUTTERFLY EFFECT";
+            Title.text = "  BUTTERFLY EFFECT";
         }
     }
 }

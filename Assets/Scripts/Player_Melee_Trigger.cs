@@ -20,7 +20,7 @@ public class Player_Melee_Trigger : MonoBehaviour
     }
     private void OnTriggerStay2D(Collider2D collision)
     {
-        if(collision.gameObject.name=="ENEMY HAZARD UNIT")
+        if(gameObject.name.Contains("ENEMY HAZARD UNIT") == true) 
         {
             if (Alex.GetComponent<Animator>().GetBool("Melee") == true && player.MeleeComplete == true && collision.gameObject.GetComponent<Enemy>().Dead == false && collision.gameObject.GetComponent<Enemy>().Rest == false)
             {

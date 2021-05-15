@@ -47,7 +47,7 @@ public class Enemy : MonoBehaviour
                 FoundPlayer = false;
         }
         
-        if(gameObject.name=="ENEMY ROBOT")
+        if(gameObject.name.Contains("ENEMY ROBOT"))
         {
             EnemyRobot();
         }
@@ -266,7 +266,7 @@ public class Enemy : MonoBehaviour
             {
                 // boxC.size = new Vector2(1, 1);
                 Physics2D.IgnoreCollision(boxC, Alex.gameObject.GetComponent<BoxCollider2D>(), true);
-                if (gameObject.name!="ENEMY ROBOT")
+                if (gameObject.name.Contains("ENEMY ROBOT") == false) 
                     animator.SetBool("DEATH", true);
                 else
                 {

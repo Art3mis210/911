@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Survival_Buttons : MonoBehaviour
 {
@@ -17,6 +18,6 @@ public class Survival_Buttons : MonoBehaviour
     public void OnPlayerButtonClick(int i)
     {
         PlayerNo = i;
-        //LoadScene
+        SceneManager.LoadScene(PlayerNo + "-" + LevelNo);
     }
 }

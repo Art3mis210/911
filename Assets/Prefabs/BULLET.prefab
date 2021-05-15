@@ -165,7 +165,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DroneMode: 0
-  EnemyMode: 1
-  PlayerMode: 0
+  EnemyMode: 0
+  PlayerMode: 1
   StartPos: {x: 0, y: 0}
   EndPos: {x: 0, y: 0}
