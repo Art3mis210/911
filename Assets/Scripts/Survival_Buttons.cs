@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class Survival_Buttons : MonoBehaviour
 {
+    public GameObject Loading;
     public GameObject LevelButton;
     public GameObject PlayerButton;
     private int LevelNo;
@@ -18,6 +19,16 @@ public class Survival_Buttons : MonoBehaviour
     public void OnPlayerButtonClick(int i)
     {
         PlayerNo = i;
-        SceneManager.LoadScene(PlayerNo + "-" + LevelNo);
+        StartCoroutine(LoadYourAsyncScene(PlayerNo + "-" + LevelNo));
+    }
+    IEnumerator LoadYourAsyncScene(string SceneName)
+    {
+
+        AsyncOperation asyncLoad = SceneManager.LoadSceneAsync(SceneName);
+        while (asyncLoad.progress < 1)
+        {
+            Loading.SetActive(true);
+            yield return new WaitForEndOfFrame();
+        }
     }
 }

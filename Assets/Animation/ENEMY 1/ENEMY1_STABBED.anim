@@ -389,6 +389,13 @@ AnimationClip:
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
+  - time: 0.033333335
+    functionName: StopAnimation
+    data: DEATH
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
   - time: 0.06666667
     functionName: Died
     data: 

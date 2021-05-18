@@ -901,6 +901,7 @@ GameObject:
   - component: {fileID: 6269492735543366836}
   - component: {fileID: 6269492735543366835}
   - component: {fileID: 6269492735543366834}
+  - component: {fileID: 6343480417032477717}
   m_Layer: 0
   m_Name: ALEX_2035
   m_TagString: Player
@@ -1061,6 +1062,21 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!114 &6343480417032477717
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6269492735543366833}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c8baa4d7c7f7414e857d7fcca663fd2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MeleeKills: 0
+  GunKills: 0
+  Hacks: 0
 --- !u!1 &6964810083540485537
 GameObject:
   m_ObjectHideFlags: 0

@@ -992,6 +992,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ALEX
       objectReference: {fileID: 0}
+    - target: {fileID: 4471686489934902998, guid: 5f63fbc705a25ea41ada57ac2dec81aa,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6647853303007005566, guid: 5f63fbc705a25ea41ada57ac2dec81aa,
         type: 3}
       propertyPath: m_Enabled
@@ -1712,6 +1717,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 7740200904445623303, guid: 84b2961c8459ae04285fda9504264535,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7740200904445623416, guid: 84b2961c8459ae04285fda9504264535,
         type: 3}
       propertyPath: m_Pivot.x
@@ -2358,6 +2368,16 @@ PrefabInstance:
       propertyPath: m_Size.x
       value: 3000
       objectReference: {fileID: 0}
+    - target: {fileID: 7979849218755928710, guid: 4e6d777bf1b3e2f4d9aaa4dfd3704adb,
+        type: 3}
+      propertyPath: m_Simulated
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7979849218755928711, guid: 4e6d777bf1b3e2f4d9aaa4dfd3704adb,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7979849218843787752, guid: 4e6d777bf1b3e2f4d9aaa4dfd3704adb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2383,3 +2403,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5de92928cfe91684e9d406846d8b4a1d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  MainCamera: {fileID: 1319959795}

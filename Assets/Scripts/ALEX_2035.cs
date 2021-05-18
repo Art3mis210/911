@@ -22,6 +22,7 @@ public class ALEX_2035 : MonoBehaviour
     public GameObject HealthBar;
     public Text AmmoIndicator;
     private bool Paused;
+    private bool GameOver;
 
     // Start is called before the first frame update
     void Start()
@@ -36,14 +37,15 @@ public class ALEX_2035 : MonoBehaviour
         Ammo = 30;
         AmmoIndicator.text = Ammo.ToString() + "/"+Remaining_Ammo.ToString();
         Paused = false;
+        GameOver = false;
     }
 
     // Update is called once per frame
     void Update()
     {
         //Camera.transform.position = new Vector3(gameObject.transform.position.x + 5, Camera.transform.position.y, Camera.transform.position.z);
-
-        Movement();
+        if (Dead == false && SceneManager.sceneCount == 1)
+            Movement();
         Vector2 S = sp.sprite.bounds.size;
         boxC.size = S;
         if (Input.GetKey(KeyCode.Escape) && Paused == false)
@@ -59,6 +61,16 @@ public class ALEX_2035 : MonoBehaviour
             Camera.GetComponent<Camera>().enabled = (true);
             Paused = false;
         }
+        if (Dead == true && GameOver == false)
+        {
+            Invoke("LoadGameOverScene", 5);
+            GameOver = true;
+        }
+    }
+    private void LoadGameOverScene()
+    {
+        Camera.GetComponent<Camera>().enabled = false;
+        SceneManager.LoadScene("GAME OVER", LoadSceneMode.Additive);
     }
     private void Movement()
     {
@@ -124,7 +136,7 @@ public class ALEX_2035 : MonoBehaviour
     {
         for (int child = 0; child <= 7; child++)
         {
-            HealthBar.transform.GetChild(child).gameObject.SetActive(health >= child*10);
+            HealthBar.transform.GetChild(child).gameObject.SetActive(health >= child*10+1);
         }
         //  HealthBar.transform.GetChild(1).gameObject.SetActive(health >= 2);
         //  HealthBar.transform.GetChild(2).gameObject.SetActive(health >= 3);
@@ -133,7 +145,6 @@ public class ALEX_2035 : MonoBehaviour
     {
         Destroy(rigidBody);
         Destroy(boxC);
-        enabled = false;
     }
     public void Move(float speed)
     {

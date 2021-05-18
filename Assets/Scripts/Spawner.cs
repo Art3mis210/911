@@ -88,10 +88,10 @@ public class Spawner : MonoBehaviour
         }
         if(Over==true)
         {
-            for (int i = 0; i < Enemies.Count; i++)
+         /*   for (int i = 0; i < Enemies.Count; i++)
             {
                 Destroy(Enemies[i]);
-            }
+            }*/
             Enemies.Clear();
             Wave = Wave + 1;
             EnemyNo = 1;
@@ -101,6 +101,7 @@ public class Spawner : MonoBehaviour
                 EnemyTypeno++;
             else
                 EnemyTypeno = 0;
+
         }
     }
 }

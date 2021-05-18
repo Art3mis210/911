@@ -8,6 +8,7 @@ public class DISPLAY_SETTINGS : MonoBehaviour
 {
     public Dropdown ResolutionDropdown;
     public Dropdown QualityDropdown;
+    public Toggle FullscreenToggle;
     private void Start()
     {
         if(Screen.currentResolution.width==1920)
@@ -25,6 +26,8 @@ public class DISPLAY_SETTINGS : MonoBehaviour
         ResolutionDropdown.RefreshShownValue();
         QualityDropdown.value = QualitySettings.GetQualityLevel();
         QualityDropdown.RefreshShownValue();
+        FullscreenToggle.isOn = Screen.fullScreen;
+
 
     }
     public void OnResolutionChange(Dropdown dropDown)

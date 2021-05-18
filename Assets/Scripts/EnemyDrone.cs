@@ -8,6 +8,7 @@ public class EnemyDrone : MonoBehaviour
     private Rigidbody2D rigidBody2D;
     public int health;
     public bool destroyed;
+    public ScoreManager Score;
     private void Start()
     {
         boxC = gameObject.GetComponent<BoxCollider2D>();
@@ -19,6 +20,7 @@ public class EnemyDrone : MonoBehaviour
     {
         if(health<=0 && destroyed==false)
         {
+            Score.GunKills++;
             DestroyDrone();
             destroyed = true;
         }

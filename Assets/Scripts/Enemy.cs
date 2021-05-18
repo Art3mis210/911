@@ -82,8 +82,9 @@ public class Enemy : MonoBehaviour
         {
             Physics2D.IgnoreCollision(boxC, collision.gameObject.GetComponent<BoxCollider2D>(), true);
         }
-        if (collision.gameObject.tag == "RIGHT BOUND")
-            sp.flipX = !sp.flipX;
+        if (collision.gameObject.tag == "LEFT BOUND" ||collision.gameObject.tag == "RIGHT BOUND")
+                sp.flipX = !sp.flipX;
+
     }
     private void CollideWithAlex()
     {
@@ -234,6 +235,8 @@ public class Enemy : MonoBehaviour
             if (FoundPlayer == true && Mathf.Abs(transform.position.x - Alex.transform.position.x) <= 5 && Alex.GetComponent<ALEX_2035>().Dead == false)
             {
 
+                Alex.GetComponent<ALEX_2035>().health = 0;
+                Alex.GetComponent<ALEX_2035>().HealthBarUpdate();
                 Alex.GetComponent<Animator>().SetBool("Death", true);
                 Alex.GetComponent<ALEX_2035>().BloodEffect.Play("DEATH EFFECT");
                 FoundPlayer = false;
@@ -264,6 +267,7 @@ public class Enemy : MonoBehaviour
                 health-=2;
             if (health <= 0 && Dead==false)
             {
+                Alex.GetComponent<ScoreManager>().GunKills++;
                 // boxC.size = new Vector2(1, 1);
                 Physics2D.IgnoreCollision(boxC, Alex.gameObject.GetComponent<BoxCollider2D>(), true);
                 if (gameObject.name.Contains("ENEMY ROBOT") == false) 
@@ -280,6 +284,7 @@ public class Enemy : MonoBehaviour
                 FoundPlayer = true;
             }
         }
+        
     }
     public void Fire()
     {

@@ -20,6 +20,7 @@ public class Hack_Enemy_Robot : MonoBehaviour
             Destroy(gameObject);
         if (Time.timeScale == 0.5 && Hacked==true &&  SceneManager.sceneCount == 1)
         {
+            Robot.GetComponent<Enemy>().Alex.GetComponent<ScoreManager>().Hacks++;
             TurnOffRobot();
             
         }

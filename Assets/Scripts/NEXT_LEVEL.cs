@@ -5,11 +5,19 @@ using UnityEngine.SceneManagement;
 
 public class NEXT_LEVEL : MonoBehaviour
 {
+    public Camera MainCamera;
+    private bool SceneOver;
+    private void Start()
+    {
+        SceneOver = false;
+    }
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.gameObject.tag=="Player")
+        if(collision.gameObject.tag=="Player" && SceneOver==false)
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+            MainCamera.enabled = false;
+            SceneOver = true;
+            SceneManager.LoadScene("MISSION COMPLETED", LoadSceneMode.Additive);
         }
     }
 }

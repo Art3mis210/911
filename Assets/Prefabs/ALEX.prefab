@@ -313,6 +313,7 @@ GameObject:
   - component: {fileID: 6991862667513726847}
   - component: {fileID: 2890780335660978231}
   - component: {fileID: 1718141521727340135}
+  - component: {fileID: 9015691835717708407}
   m_Layer: 0
   m_Name: ALEX
   m_TagString: Player
@@ -426,10 +427,10 @@ MonoBehaviour:
   health: 10
   Bullet: {fileID: 7241644972620386722, guid: d6eb4b9283417494d90d151c6b87d2ab, type: 3}
   Control: 0
-  BloodEffect: {fileID: 0}
+  BloodEffect: {fileID: 4471686489268373817}
   WalkMode: 0
-  HealthBar: {fileID: 0}
-  AmmoIndicator: {fileID: 0}
+  HealthBar: {fileID: 8150268593681645477}
+  AmmoIndicator: {fileID: 6653000587500282759}
 --- !u!50 &2890780335660978231
 Rigidbody2D:
   serializedVersion: 4
@@ -477,6 +478,21 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 3.48, y: 5.74}
   m_EdgeRadius: 0
+--- !u!114 &9015691835717708407
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4413353968246518275}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c8baa4d7c7f7414e857d7fcca663fd2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MeleeKills: 0
+  GunKills: 0
+  DronesDestroyed: 0
 --- !u!1 &4916309795633399392
 GameObject:
   m_ObjectHideFlags: 0
@@ -1357,6 +1373,12 @@ PrefabInstance:
       objectReference: {fileID: 6611601640020536776}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 84b2961c8459ae04285fda9504264535, type: 3}
+--- !u!95 &4471686489268373817 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 7740200905107669992, guid: 84b2961c8459ae04285fda9504264535,
+    type: 3}
+  m_PrefabInstance: {fileID: 6153087646690757329}
+  m_PrefabAsset: {fileID: 0}
 --- !u!224 &4471686489934902953 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 7740200904445623416, guid: 84b2961c8459ae04285fda9504264535,

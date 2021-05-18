@@ -24,6 +24,7 @@ public class Player : MonoBehaviour
     private int Ammo;
     public Text AmmoIndicator;
     private bool Paused;
+    private bool GameOver;
 
     // Start is called before the first frame update
     void Start()
@@ -38,13 +39,14 @@ public class Player : MonoBehaviour
         Ammo = 85;
         AmmoIndicator.text=Ammo.ToString()+ "/0";
         Paused = false;
+        GameOver = false;
     }
 
     // Update is called once per frame
     void Update()
     {
         //Camera.transform.position = new Vector3(gameObject.transform.position.x + 5, Camera.transform.position.y, Camera.transform.position.z);
-        if(Control==true && Dead==false && SceneManager.sceneCount == 1)
+        if(Control == true && Dead == false && SceneManager.sceneCount == 1)
             Movement();
         Vector2 S = sp.sprite.bounds.size;
         boxC.size = S;
@@ -63,6 +65,11 @@ public class Player : MonoBehaviour
         }
         if (Control == true && Camera.activeInHierarchy == false)
             Camera.SetActive(true);
+        if(Dead==true && GameOver==false)
+        {
+            Invoke("LoadGameOverScene", 5);
+            GameOver = true;
+        }
 
     }
     private void Movement()
@@ -270,6 +277,11 @@ public class Player : MonoBehaviour
                 BloodEffect.Play("BLOOD EFFECT");
             }
         }
+    }
+    private void LoadGameOverScene()
+    {
+        Camera.GetComponent<Camera>().enabled = false;
+        SceneManager.LoadScene("GAME OVER", LoadSceneMode.Additive);
     }
 
 

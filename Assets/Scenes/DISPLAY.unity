@@ -415,7 +415,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 394, y: -1}
-  m_SizeDelta: {x: 15, y: 15}
+  m_SizeDelta: {x: 17.7, y: 11.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &276940665
 MonoBehaviour:
@@ -3483,3 +3483,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ResolutionDropdown: {fileID: 1874509528}
   QualityDropdown: {fileID: 998050984}
+  FullscreenToggle: {fileID: 1736340856}

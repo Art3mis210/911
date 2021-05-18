@@ -198,7 +198,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 545632126}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 100, y: 100, z: 500}
+  m_LocalPosition: {x: 100, y: 100, z: -600}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -215,7 +215,7 @@ GameObject:
   - component: {fileID: 602196364}
   - component: {fileID: 602196366}
   - component: {fileID: 602196365}
-  m_Layer: 5
+  m_Layer: 10
   m_Name: TITLE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -293,7 +293,7 @@ GameObject:
   - component: {fileID: 955627947}
   - component: {fileID: 955627949}
   - component: {fileID: 955627948}
-  m_Layer: 5
+  m_Layer: 10
   m_Name: RESUME TEXT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -374,7 +374,7 @@ GameObject:
   - component: {fileID: 1034801740}
   - component: {fileID: 1034801739}
   - component: {fileID: 1034801738}
-  m_Layer: 5
+  m_Layer: 10
   m_Name: EXIT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -504,7 +504,7 @@ GameObject:
   - component: {fileID: 1094202960}
   - component: {fileID: 1094202959}
   - component: {fileID: 1094202958}
-  m_Layer: 5
+  m_Layer: 10
   m_Name: MAIN MENU
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -635,7 +635,7 @@ GameObject:
   - component: {fileID: 1178141860}
   - component: {fileID: 1178141859}
   - component: {fileID: 1178141858}
-  m_Layer: 5
+  m_Layer: 10
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -654,6 +654,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2acc1b96a6d5e547993c54586c70bdd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Loading: {fileID: 0}
 --- !u!114 &1178141859
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -712,7 +713,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 500
   m_TargetDisplay: 0
 --- !u!224 &1178141862
 RectTransform:
@@ -816,7 +817,7 @@ GameObject:
   - component: {fileID: 1319879377}
   - component: {fileID: 1319879376}
   - component: {fileID: 1319879375}
-  m_Layer: 5
+  m_Layer: 10
   m_Name: RESUME
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -945,7 +946,7 @@ GameObject:
   - component: {fileID: 1482187840}
   - component: {fileID: 1482187842}
   - component: {fileID: 1482187841}
-  m_Layer: 5
+  m_Layer: 10
   m_Name: BACKGROUND
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1019,7 +1020,7 @@ GameObject:
   - component: {fileID: 1494447066}
   - component: {fileID: 1494447068}
   - component: {fileID: 1494447067}
-  m_Layer: 5
+  m_Layer: 10
   m_Name: MAIN MENU TEXT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1097,7 +1098,7 @@ GameObject:
   - component: {fileID: 1843742315}
   - component: {fileID: 1843742317}
   - component: {fileID: 1843742316}
-  m_Layer: 5
+  m_Layer: 10
   m_Name: EXIT TEXT
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -30,6 +30,9 @@ EditorBuildSettings:
     path: Assets/Scenes/EXTRAS.unity
     guid: 347d6e59b478d44488bfb04427053270
   - enabled: 1
+    path: Assets/Scenes/ARTWORK.unity
+    guid: c92f6945878d3ce47be40d08ac08b548
+  - enabled: 1
     path: Assets/Scenes/LEVEL 1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
@@ -89,4 +92,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SURVIVAL/ALEX 2035/2-6.unity
     guid: b5d4e1c9af2d3fb4198b256fd88a7201
+  - enabled: 1
+    path: Assets/Scenes/GAME OVER.unity
+    guid: eef44cadf63f3154197e4a7aca7cce0c
+  - enabled: 1
+    path: Assets/Scenes/MISSION COMPLETED.unity
+    guid: 7af8062e13987a24bbc5d4ff1b502467
   m_configObjects: {}

@@ -32,6 +32,10 @@ public class Drone : MonoBehaviour
     {
         if(Control==true && SceneManager.sceneCount==1 && Time.timeScale==1)
             Movement();
+        else if(player.Dead==true)
+        {
+            Destroy(gameObject);
+        }
         if (Input.GetKey(KeyCode.Escape) && Paused == false)
         {
             Time.timeScale = 0;

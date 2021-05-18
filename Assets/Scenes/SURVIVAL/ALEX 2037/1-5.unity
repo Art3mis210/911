@@ -4274,7 +4274,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1481247328}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
   m_Name: 
@@ -4576,6 +4576,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ALEX
+      objectReference: {fileID: 0}
+    - target: {fileID: 4471686489934902998, guid: 5f63fbc705a25ea41ada57ac2dec81aa,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6991862667513726847, guid: 5f63fbc705a25ea41ada57ac2dec81aa,
         type: 3}
@@ -5583,18 +5588,6 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1811153367}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1811153371
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1811153370}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5de92928cfe91684e9d406846d8b4a1d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1885407582
 GameObject:
   m_ObjectHideFlags: 0

@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 272289445}
   - component: {fileID: 272289447}
   - component: {fileID: 272289446}
-  m_Layer: 5
+  m_Layer: 10
   m_Name: MAIN MENU TEXT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -211,7 +211,7 @@ GameObject:
   - component: {fileID: 365578250}
   - component: {fileID: 365578249}
   - component: {fileID: 365578248}
-  m_Layer: 5
+  m_Layer: 10
   m_Name: MAIN MENU
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -406,12 +406,168 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 373081064}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 100, y: 100, z: 500}
+  m_LocalPosition: {x: 100, y: 100, z: -600}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &434365394
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 434365397}
+  - component: {fileID: 434365396}
+  - component: {fileID: 434365395}
+  m_Layer: 10
+  m_Name: MELEE KILLS
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &434365395
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 434365394}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 629ba14db21f26a43921a9b2de5ce955, type: 3}
+    m_FontSize: 51
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 64
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'MELEE KILLS:'
+--- !u!222 &434365396
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 434365394}
+  m_CullTransparentMesh: 0
+--- !u!224 &434365397
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 434365394}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.00008, y: 1.00008, z: 1.00008}
+  m_Children: []
+  m_Father: {fileID: 1866287369}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -519.00037, y: 8.000061}
+  m_SizeDelta: {x: 587.93, y: 158}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &834013728
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 834013731}
+  - component: {fileID: 834013730}
+  - component: {fileID: 834013729}
+  m_Layer: 10
+  m_Name: GUN KILLS
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &834013729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 834013728}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 629ba14db21f26a43921a9b2de5ce955, type: 3}
+    m_FontSize: 51
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 64
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'GUN KILLS:'
+--- !u!222 &834013730
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 834013728}
+  m_CullTransparentMesh: 0
+--- !u!224 &834013731
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 834013728}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.00008, y: 1.00008, z: 1.00008}
+  m_Children: []
+  m_Father: {fileID: 1866287369}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -573.0002, y: -64}
+  m_SizeDelta: {x: 475.63, y: 158}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1095238709
 GameObject:
   m_ObjectHideFlags: 0
@@ -423,7 +579,7 @@ GameObject:
   - component: {fileID: 1095238710}
   - component: {fileID: 1095238712}
   - component: {fileID: 1095238711}
-  m_Layer: 5
+  m_Layer: 10
   m_Name: EXIT TEXT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -501,7 +657,7 @@ GameObject:
   - component: {fileID: 1381552714}
   - component: {fileID: 1381552716}
   - component: {fileID: 1381552715}
-  m_Layer: 5
+  m_Layer: 10
   m_Name: RESTART TEXT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -580,7 +736,7 @@ GameObject:
   - component: {fileID: 1404073873}
   - component: {fileID: 1404073872}
   - component: {fileID: 1404073871}
-  m_Layer: 5
+  m_Layer: 10
   m_Name: RESTART
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -709,7 +865,7 @@ GameObject:
   - component: {fileID: 1479299223}
   - component: {fileID: 1479299225}
   - component: {fileID: 1479299224}
-  m_Layer: 5
+  m_Layer: 10
   m_Name: TITLE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -788,7 +944,7 @@ GameObject:
   - component: {fileID: 1677147340}
   - component: {fileID: 1677147339}
   - component: {fileID: 1677147338}
-  m_Layer: 5
+  m_Layer: 10
   m_Name: EXIT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -985,7 +1141,8 @@ GameObject:
   - component: {fileID: 1866287367}
   - component: {fileID: 1866287366}
   - component: {fileID: 1866287365}
-  m_Layer: 5
+  - component: {fileID: 1866287370}
+  m_Layer: 10
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1004,6 +1161,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2acc1b96a6d5e547993c54586c70bdd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Loading: {fileID: 0}
 --- !u!114 &1866287366
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1062,7 +1220,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 500
   m_TargetDisplay: 0
 --- !u!224 &1866287369
 RectTransform:
@@ -1080,6 +1238,9 @@ RectTransform:
   - {fileID: 1404073870}
   - {fileID: 365578247}
   - {fileID: 1677147337}
+  - {fileID: 434365397}
+  - {fileID: 834013731}
+  - {fileID: 1945116341}
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1088,6 +1249,21 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &1866287370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1866287364}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9111cba0e7d60e94bb81aa561f8d4df3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MeleeKills: {fileID: 434365395}
+  GunKills: {fileID: 834013729}
+  Hacks: {fileID: 1945116339}
 --- !u!1 &1892613528
 GameObject:
   m_ObjectHideFlags: 0
@@ -1099,7 +1275,7 @@ GameObject:
   - component: {fileID: 1892613529}
   - component: {fileID: 1892613531}
   - component: {fileID: 1892613530}
-  m_Layer: 5
+  m_Layer: 10
   m_Name: BACKGROUND
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1162,3 +1338,81 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1892613528}
   m_CullTransparentMesh: 0
+--- !u!1 &1945116338
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1945116341}
+  - component: {fileID: 1945116340}
+  - component: {fileID: 1945116339}
+  m_Layer: 10
+  m_Name: HACKS
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1945116339
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1945116338}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 629ba14db21f26a43921a9b2de5ce955, type: 3}
+    m_FontSize: 51
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 64
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'HACKS:'
+--- !u!222 &1945116340
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1945116338}
+  m_CullTransparentMesh: 0
+--- !u!224 &1945116341
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1945116338}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.00008, y: 1.00008, z: 1.00008}
+  m_Children: []
+  m_Father: {fileID: 1866287369}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -420.99988, y: -137.00003}
+  m_SizeDelta: {x: 774.64, y: 158}
+  m_Pivot: {x: 0.5, y: 0.5}

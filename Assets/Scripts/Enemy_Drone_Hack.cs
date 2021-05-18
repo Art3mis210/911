@@ -18,6 +18,7 @@ public class Enemy_Drone_Hack : MonoBehaviour
     {
         if(Time.timeScale==0.5f && SceneManager.sceneCount==1 && Hacked==true)
         {
+            Drone.GetComponent<EnemyDrone>().Score.Hacks++;
             DestroyDrone();
         }
     }
