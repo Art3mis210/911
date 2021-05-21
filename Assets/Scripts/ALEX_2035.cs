@@ -93,7 +93,7 @@ public class ALEX_2035 : MonoBehaviour
                 animator.SetBool("Sprint", false);
 
             }
-            if ((Input.GetKeyDown(KeyCode.LeftControl)))
+            if ((Input.GetKeyDown(KeyCode.LeftControl)) && animator.GetBool("Shoot")==false)
             {
                 animator.SetBool("Stand", !animator.GetBool("Stand"));
 

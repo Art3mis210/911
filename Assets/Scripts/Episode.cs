@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
 
-public class Episode : MonoBehaviour, IPointerEnterHandler
+public class Episode : MonoBehaviour, IPointerEnterHandler, ISelectHandler
 {
     public Sprite Level1;
     public Sprite Level2;
@@ -21,7 +21,40 @@ public class Episode : MonoBehaviour, IPointerEnterHandler
         if (gameObject.name == "EPISODE 1")
         {
             ImagePanel.sprite = Level1;
-            Title.text = "           PROLOGUE";
+            Title.text = "   BACK TO THE PAST";
+        }
+        else if (gameObject.name == "EPISODE 2")
+        {
+            ImagePanel.sprite = Level2;
+            Title.text = "        NIGHT SHIFT";
+        }
+        else if (gameObject.name == "EPISODE 3")
+        {
+            ImagePanel.sprite = Level3;
+            Title.text = "      SLIPPERY WET";
+        }
+        else if (gameObject.name == "EPISODE 4")
+        {
+            ImagePanel.sprite = Level4;
+            Title.text = "       RADIOACTIVE";
+        }
+        else if (gameObject.name == "EPISODE 5")
+        {
+            ImagePanel.sprite = Level5;
+            Title.text = "DAYS OF FUTURE PAST";
+        }
+        else if (gameObject.name == "EPISODE 6")
+        {
+            ImagePanel.sprite = Level6;
+            Title.text = "  BUTTERFLY EFFECT";
+        }
+    }
+    public void OnSelect(BaseEventData eventData)
+    {
+        if (gameObject.name == "EPISODE 1")
+        {
+            ImagePanel.sprite = Level1;
+            Title.text = "   BACK TO THE PAST";
         }
         else if (gameObject.name == "EPISODE 2")
         {

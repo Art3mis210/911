@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
 
-public class Survival_Level : MonoBehaviour, IPointerEnterHandler
+public class Survival_Level : MonoBehaviour, IPointerEnterHandler, ISelectHandler
 {
     public Sprite Level1;
     public Sprite Level2;
@@ -15,7 +15,35 @@ public class Survival_Level : MonoBehaviour, IPointerEnterHandler
     public Sprite Level6;
     public Image LevelImagePanel;
 
+
     public void OnPointerEnter(PointerEventData eventData)
+    {
+        if (gameObject.name == "LEVEL 1")
+        {
+            LevelImagePanel.sprite = Level1;
+        }
+        else if (gameObject.name == "LEVEL 2")
+        {
+            LevelImagePanel.sprite = Level2;
+        }
+        else if (gameObject.name == "LEVEL 3")
+        {
+            LevelImagePanel.sprite = Level3;
+        }
+        else if (gameObject.name == "LEVEL 4")
+        {
+            LevelImagePanel.sprite = Level4;
+        }
+        else if (gameObject.name == "LEVEL 5")
+        {
+            LevelImagePanel.sprite = Level5;
+        }
+        else if (gameObject.name == "LEVEL 6")
+        {
+            LevelImagePanel.sprite = Level6;
+        }
+    }
+    public void OnSelect(BaseEventData eventData)
     {
         if (gameObject.name == "LEVEL 1")
         {

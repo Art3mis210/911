@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.EventSystems;
 
 public class Survival_Buttons : MonoBehaviour
 {
@@ -10,11 +11,14 @@ public class Survival_Buttons : MonoBehaviour
     public GameObject PlayerButton;
     private int LevelNo;
     private int PlayerNo;
+    public EventSystem ES;
+    public GameObject FirstButton;
     public void OnLevelButtonClick(int i)
     {
         LevelNo = i;
         LevelButton.SetActive(false);
         PlayerButton.SetActive(true);
+        ES.SetSelectedGameObject(FirstButton);
     }
     public void OnPlayerButtonClick(int i)
     {

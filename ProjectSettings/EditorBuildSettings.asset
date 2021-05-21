@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/CAMPAIGN.unity
     guid: d886decb103c77241a212bfbce8ec158
   - enabled: 1
+    path: Assets/Scenes/INTRO.unity
+    guid: f7db2193c238d114885ce869317a738a
+  - enabled: 1
     path: Assets/Scenes/EPISODE.unity
     guid: 16905431f9eb33e478ff919ae36e919f
   - enabled: 1

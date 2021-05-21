@@ -285,7 +285,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: LEVEL 1
+          m_StringArgument: INTRO
           m_BoolArgument: 0
         m_CallState: 1
 --- !u!114 &589687711
@@ -1107,6 +1107,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2acc1b96a6d5e547993c54586c70bdd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Loading: {fileID: 0}
 --- !u!1 &2137738605
 GameObject:
   m_ObjectHideFlags: 0
