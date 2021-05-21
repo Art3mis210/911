@@ -101,4 +101,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MISSION COMPLETED.unity
     guid: 7af8062e13987a24bbc5d4ff1b502467
+  - enabled: 1
+    path: Assets/Scenes/CREDITS.unity
+    guid: 1bcb9aae46d2dd14c935c3e76d30f5cb
   m_configObjects: {}
