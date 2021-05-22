@@ -270,6 +270,7 @@ public class Player : MonoBehaviour
         {
             Destroy(collision.gameObject);
             health -= 1;
+            
             HealthBarUpdate();
             if (health <= 0 && Dead==false)
             {

@@ -1863,7 +1863,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &252452842
 Transform:
   m_ObjectHideFlags: 0
@@ -4765,7 +4765,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 0.38
+  m_Volume: 0.505
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -4809,7 +4809,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 1
+      value: 0.5
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -4839,7 +4839,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 1
+      value: 0.824
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -9359,12 +9359,12 @@ PrefabInstance:
     - target: {fileID: 1718141521727340135, guid: 5f63fbc705a25ea41ada57ac2dec81aa,
         type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.x
-      value: 1.45
+      value: 2.71
       objectReference: {fileID: 0}
     - target: {fileID: 1718141521727340135, guid: 5f63fbc705a25ea41ada57ac2dec81aa,
         type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.y
-      value: 5.8
+      value: 5.74
       objectReference: {fileID: 0}
     - target: {fileID: 2756607612547883114, guid: 5f63fbc705a25ea41ada57ac2dec81aa,
         type: 3}
@@ -9461,6 +9461,11 @@ PrefabInstance:
       propertyPath: AmmoIndicator
       value: 
       objectReference: {fileID: 857693666}
+    - target: {fileID: 7739873452359748991, guid: 5f63fbc705a25ea41ada57ac2dec81aa,
+        type: 3}
+      propertyPath: HeartBeat
+      value: 
+      objectReference: {fileID: 8300000, guid: 37682b2a1d405e542a8d0536e90458bf, type: 3}
     m_RemovedComponents:
     - {fileID: 6282146025259261684, guid: 5f63fbc705a25ea41ada57ac2dec81aa, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 5f63fbc705a25ea41ada57ac2dec81aa, type: 3}

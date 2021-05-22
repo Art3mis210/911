@@ -8,7 +8,7 @@ using UnityEngine.SceneManagement;
 public class PlayerSoundManager : MonoBehaviour
 {
     public AudioClip Shoot;
-    public AudioClip Sprint;
+    public AudioClip HeartBeat;
     private AudioSource AudioPlayer;
     private Animator animator;
     void Start()
@@ -20,15 +20,18 @@ public class PlayerSoundManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-    /*    else if(animator.GetBool("Move") == false && animator.GetBool("Shoot") == false || Time.timeScale != 1)
+      if( Time.timeScale != 1)
         {
-           // Invoke("StopAudio", 5);
-        } */
+           StopAudio();
+        } 
     }
     public void PlayOnceSound(AudioClip Clip)
     {
-        if(!AudioPlayer.isPlaying)
+        if (AudioPlayer.clip != Clip)
+        {
+            StopAudio();
             AudioPlayer.PlayOneShot(Clip);
+        }
     }
     public void StopAudio()
     {
@@ -36,7 +39,7 @@ public class PlayerSoundManager : MonoBehaviour
     }
     public void PlayAudioOnLoop(AudioClip Clip)
     {
-        if (!AudioPlayer.isPlaying)
+        if (!AudioPlayer.isPlaying || AudioPlayer.clip!=Clip)
         {
             AudioPlayer.loop = true;
             AudioPlayer.clip = Clip;

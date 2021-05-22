@@ -414,6 +414,14 @@ AnimationClip:
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
+  - time: 0
+    functionName: PlayOnceSound
+    data: 
+    objectReferenceParameter: {fileID: 8300000, guid: 7e9b4356e8c59204f9b91f391f9052fc,
+      type: 3}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
   - time: 0.1
     functionName: SetDeadTrue
     data: 
