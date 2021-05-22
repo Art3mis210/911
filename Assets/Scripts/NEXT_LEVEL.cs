@@ -16,6 +16,7 @@ public class NEXT_LEVEL : MonoBehaviour
         if(collision.gameObject.tag=="Player" && SceneOver==false)
         {
             MainCamera.enabled = false;
+            Time.timeScale = 0;
             SceneOver = true;
             SceneManager.LoadScene("MISSION COMPLETED", LoadSceneMode.Additive);
         }

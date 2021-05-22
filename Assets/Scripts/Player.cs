@@ -25,6 +25,7 @@ public class Player : MonoBehaviour
     public Text AmmoIndicator;
     private bool Paused;
     private bool GameOver;
+    private PlayerSoundManager soundManager;
 
     // Start is called before the first frame update
     void Start()
@@ -40,6 +41,7 @@ public class Player : MonoBehaviour
         AmmoIndicator.text=Ammo.ToString()+ "/0";
         Paused = false;
         GameOver = false;
+        soundManager = gameObject.GetComponent<PlayerSoundManager>();
     }
 
     // Update is called once per frame
@@ -109,6 +111,7 @@ public class Player : MonoBehaviour
             }
             if ((Input.GetKey(KeyCode.LeftShift)) && animator.GetBool("Move") == true)
             {
+                
                 animator.SetBool("Sprint", true);
 
             }
@@ -242,6 +245,8 @@ public class Player : MonoBehaviour
     {
         if (Ammo > 0)
         {
+            soundManager.StopAudio();
+            soundManager.PlayOnceSound(soundManager.Shoot);
             Bullet.GetComponent<Bullet>().DroneMode = false;
             Bullet.GetComponent<Bullet>().EnemyMode = false;
             Bullet.GetComponent<Bullet>().PlayerMode = true;
@@ -283,6 +288,7 @@ public class Player : MonoBehaviour
         Camera.GetComponent<Camera>().enabled = false;
         SceneManager.LoadScene("GAME OVER", LoadSceneMode.Additive);
     }
+
 
 
 }
