@@ -5,6 +5,7 @@ using UnityEngine;
 public class Enemy_Line_Of_Sight : MonoBehaviour
 {
     public GameObject Enemy;
+    public AudioClip Alert;
     private void Update()
     {
         if (Enemy.GetComponent<Enemy>().FoundPlayer == true)
@@ -24,6 +25,8 @@ public class Enemy_Line_Of_Sight : MonoBehaviour
     {
         if(collision.gameObject.tag=="Player")
         {
+            Enemy.GetComponent<SoundManager>().StopAudio();
+            Enemy.GetComponent<SoundManager>().PlayOnceSound(Alert);
             Enemy.GetComponent<Enemy>().FoundPlayer = true;
         }
     }

@@ -299,6 +299,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Alex: {fileID: 4413353968246518275}
+  soundManager: {fileID: 7739873452359748991}
+  Stab: {fileID: 8300000, guid: 7e07e970f7d69f84499ee7ec7845f052, type: 3}
+  Knockout: {fileID: 8300000, guid: 05ce35f99e6ab2e4fab330f3381548a6, type: 3}
 --- !u!1 &4413353968246518275
 GameObject:
   m_ObjectHideFlags: 0
@@ -314,8 +317,8 @@ GameObject:
   - component: {fileID: 2890780335660978231}
   - component: {fileID: 1718141521727340135}
   - component: {fileID: 9015691835717708407}
-  - component: {fileID: 6282146025259261684}
   - component: {fileID: 7739873452359748991}
+  - component: {fileID: 4935047227529135708}
   m_Layer: 0
   m_Name: ALEX
   m_TagString: Player
@@ -422,17 +425,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
-  Drone: {fileID: 5270726573495086095, guid: 39c74422f22119d47a73b751ea47f2b8, type: 3}
+  Drone: {fileID: 5232903044566365778, guid: 97ce853d0c159594d96765f8c75f8a74, type: 3}
   Camera: {fileID: 7171571873533960568}
   MeleeComplete: 0
   Dead: 0
-  health: 10
+  health: 6
   Bullet: {fileID: 7241644972620386722, guid: d6eb4b9283417494d90d151c6b87d2ab, type: 3}
   Control: 0
   BloodEffect: {fileID: 4471686489268373817}
   WalkMode: 0
   HealthBar: {fileID: 8150268593681645477}
   AmmoIndicator: {fileID: 6653000587500282759}
+  Shoot: {fileID: 8300000, guid: 0797949ce14a67d40ab7ee0cb86caae6, type: 3}
+  Empty: {fileID: 8300000, guid: 636e9bc5f49731944ace4df4ae8e1db2, type: 3}
+  NightVision: {fileID: 8300000, guid: fdd07756afbb8da4aa6966b47c12f8cf, type: 3}
 --- !u!50 &2890780335660978231
 Rigidbody2D:
   serializedVersion: 4
@@ -495,7 +501,19 @@ MonoBehaviour:
   MeleeKills: 0
   GunKills: 0
   Hacks: 0
---- !u!82 &6282146025259261684
+--- !u!114 &7739873452359748991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4413353968246518275}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f35c671ecec406c479e5ccf58b245cc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!82 &4935047227529135708
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -507,7 +525,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.505
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -551,7 +569,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 1
+      value: 0.5
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -581,7 +599,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 1
+      value: 0.824
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -591,20 +609,6 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &7739873452359748991
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4413353968246518275}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f35c671ecec406c479e5ccf58b245cc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Shoot: {fileID: 8300000, guid: 5a7e6b77d734c9e4e9e3d9a6d73cf3e7, type: 3}
-  Sprint: {fileID: 8300000, guid: be50c9b8f5457004c9eeeb445ea5336d, type: 3}
 --- !u!1 &4916309795633399392
 GameObject:
   m_ObjectHideFlags: 0

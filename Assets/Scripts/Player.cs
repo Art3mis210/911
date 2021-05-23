@@ -25,7 +25,10 @@ public class Player : MonoBehaviour
     public Text AmmoIndicator;
     private bool Paused;
     private bool GameOver;
-    private PlayerSoundManager soundManager;
+    private SoundManager soundManager;
+    public AudioClip Shoot;
+    public AudioClip Empty;
+    public AudioClip NightVision;
 
     // Start is called before the first frame update
     void Start()
@@ -41,7 +44,7 @@ public class Player : MonoBehaviour
         AmmoIndicator.text=Ammo.ToString()+ "/0";
         Paused = false;
         GameOver = false;
-        soundManager = gameObject.GetComponent<PlayerSoundManager>();
+        soundManager = gameObject.GetComponent<SoundManager>();
     }
 
     // Update is called once per frame
@@ -158,6 +161,8 @@ public class Player : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.N))
             {
                 Camera.GetComponent<DeferredNightVisionEffect>().enabled = !Camera.GetComponent<DeferredNightVisionEffect>().enabled;
+                if(Camera.GetComponent<DeferredNightVisionEffect>().enabled==true)
+                    soundManager.PlayOnceSound(NightVision);
             }
         }
         else if(WalkMode==true)
@@ -246,7 +251,7 @@ public class Player : MonoBehaviour
         if (Ammo > 0)
         {
             soundManager.StopAudio();
-            soundManager.PlayOnceSound(soundManager.Shoot);
+            soundManager.PlayOnceSound(Shoot);
             Bullet.GetComponent<Bullet>().DroneMode = false;
             Bullet.GetComponent<Bullet>().EnemyMode = false;
             Bullet.GetComponent<Bullet>().PlayerMode = true;
@@ -262,6 +267,11 @@ public class Player : MonoBehaviour
             }
             Ammo--;
             AmmoIndicator.text = Ammo.ToString()+"/0";
+        }
+        else
+        {
+            soundManager.StopAudio();
+            soundManager.PlayOnceSound(Empty);
         }
     }
     private void OnTriggerEnter2D(Collider2D collision)

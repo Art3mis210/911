@@ -5,10 +5,8 @@ using UnityEngine.Audio;
 using UnityEngine.SceneManagement;
 
 
-public class PlayerSoundManager : MonoBehaviour
+public class SoundManager : MonoBehaviour
 {
-    public AudioClip Shoot;
-    public AudioClip HeartBeat;
     private AudioSource AudioPlayer;
     private Animator animator;
     void Start()
@@ -27,11 +25,8 @@ public class PlayerSoundManager : MonoBehaviour
     }
     public void PlayOnceSound(AudioClip Clip)
     {
-        if (AudioPlayer.clip != Clip)
-        {
-            StopAudio();
-            AudioPlayer.PlayOneShot(Clip);
-        }
+        AudioPlayer.Pause(); 
+        AudioPlayer.PlayOneShot(Clip);
     }
     public void StopAudio()
     {

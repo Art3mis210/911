@@ -184,6 +184,14 @@ AnimationClip:
     floatParameter: 40
     intParameter: 0
     messageOptions: 0
+  - time: 0.06666667
+    functionName: PlayOnceSound
+    data: 
+    objectReferenceParameter: {fileID: 8300000, guid: faa9eb90e3dc2174fa20971593d770a2,
+      type: 3}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
   - time: 0.1
     functionName: Jump
     data: 

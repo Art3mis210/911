@@ -18,6 +18,8 @@ public class Enemy : MonoBehaviour
     public bool Rest;
     public int health;
     public GameObject Bullet;
+    private SoundManager soundManager;
+    public AudioClip Shoot;
     void Start()
     {
         rigidBody = GetComponent<Rigidbody2D>();
@@ -28,7 +30,8 @@ public class Enemy : MonoBehaviour
         Dead = false;
         if (gameObject.name == "ENEMY HAZARD UNIT")
             Rest = false;
- 
+        soundManager = gameObject.GetComponent<SoundManager>();
+
     }
 
     // Update is called once per frame
@@ -288,6 +291,8 @@ public class Enemy : MonoBehaviour
     }
     public void Fire()
     {
+        soundManager.StopAudio();
+        soundManager.PlayOnceSound(Shoot);
         Bullet.GetComponent<Bullet>().EnemyMode = true;
         Bullet.GetComponent<Bullet>().DroneMode = false;
         Bullet.GetComponent<Bullet>().PlayerMode = false;

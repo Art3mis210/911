@@ -47,9 +47,11 @@ public class Spawner : MonoBehaviour
         {
             if (EnemyNo <= Wave + 1)
             {
+
                 if (EnemyNo % 2 == 0)
                 {
-                    GameObject Enemy = (GameObject)Instantiate(EnemyType[EnemyTypeno], new Vector3(RightBound.transform.position.x - 3, RightBound.transform.position.y-2, 0), Quaternion.identity);
+
+                    GameObject Enemy = (GameObject)Instantiate(EnemyType[EnemyTypeno], new Vector3(RightBound.transform.position.x - 3, RightBound.transform.position.y - 2, 0), Quaternion.identity);
                     Enemy.GetComponent<Enemy>().Alex = Player;
                     Enemy.GetComponent<Enemy>().FoundPlayer = true;
                     Enemy.GetComponent<Enemy>().health = 2;
@@ -57,7 +59,7 @@ public class Spawner : MonoBehaviour
                 }
                 else
                 {
-                    GameObject Enemy = (GameObject)Instantiate(EnemyType[EnemyTypeno], new Vector3(LeftBound.transform.position.x + 3, LeftBound.transform.position.y-2, 0), Quaternion.identity);
+                    GameObject Enemy = (GameObject)Instantiate(EnemyType[EnemyTypeno], new Vector3(LeftBound.transform.position.x + 3, LeftBound.transform.position.y - 2, 0), Quaternion.identity);
                     Enemy.GetComponent<Enemy>().Alex = Player;
                     Enemy.GetComponent<Enemy>().FoundPlayer = true;
                     Enemy.GetComponent<Enemy>().health = 2;
@@ -68,7 +70,6 @@ public class Spawner : MonoBehaviour
             }
             else
                 Spawn = false;
-
         }
         else
         {

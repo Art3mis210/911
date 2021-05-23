@@ -14,6 +14,8 @@ GameObject:
   - component: {fileID: 8412674041890691415}
   - component: {fileID: 8412674041890691413}
   - component: {fileID: 8412674041890691412}
+  - component: {fileID: 7914814598194614150}
+  - component: {fileID: 4424764756669358448}
   m_Layer: 0
   m_Name: SWAT
   m_TagString: ENEMY
@@ -126,6 +128,7 @@ MonoBehaviour:
   Rest: 0
   health: 4
   Bullet: {fileID: 7241644972620386722, guid: d6eb4b9283417494d90d151c6b87d2ab, type: 3}
+  Shoot: {fileID: 8300000, guid: be95c834473b4eb48be7a956b1e2b598, type: 3}
 --- !u!50 &8412674041890691413
 Rigidbody2D:
   serializedVersion: 4
@@ -173,6 +176,114 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 3.07, y: 5.68}
   m_EdgeRadius: 0
+--- !u!114 &7914814598194614150
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8412674041890691411}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f35c671ecec406c479e5ccf58b245cc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!82 &4424764756669358448
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8412674041890691411}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 29
+  DopplerLevel: 2
+  MinDistance: 1
+  MaxDistance: 300
+  Pan2D: 0
+  rolloffMode: 2
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &8412674043296032751
 GameObject:
   m_ObjectHideFlags: 0
@@ -244,6 +355,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   EnemyParent: {fileID: 8412674041890691411}
+  Alert: {fileID: 8300000, guid: 554d91f6a57111745a00bd0631f36a20, type: 3}
 --- !u!1 &8412674043555996747
 GameObject:
   m_ObjectHideFlags: 0
@@ -316,6 +428,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Enemy: {fileID: 8412674041890691411}
+  Alert: {fileID: 8300000, guid: 554d91f6a57111745a00bd0631f36a20, type: 3}
 --- !u!212 &8412674043555996745
 SpriteRenderer:
   m_ObjectHideFlags: 0

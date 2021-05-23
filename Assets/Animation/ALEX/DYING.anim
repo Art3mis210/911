@@ -414,7 +414,14 @@ AnimationClip:
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
-  - time: 0
+  - time: 0.033333335
+    functionName: StopAudio
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.06666667
     functionName: PlayOnceSound
     data: 
     objectReferenceParameter: {fileID: 8300000, guid: 7e9b4356e8c59204f9b91f391f9052fc,

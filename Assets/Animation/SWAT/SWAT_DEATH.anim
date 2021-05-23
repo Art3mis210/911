@@ -388,6 +388,21 @@ AnimationClip:
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
+  - time: 0.044444446
+    functionName: StopAudio
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.06666667
+    functionName: PlayOnceSound
+    data: 
+    objectReferenceParameter: {fileID: 8300000, guid: 622774ab9a6cde64f8bc234716da73ba,
+      type: 3}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
   - time: 1.7111111
     functionName: TurnColliderOff
     data: 
