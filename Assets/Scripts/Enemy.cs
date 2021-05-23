@@ -104,6 +104,7 @@ public class Enemy : MonoBehaviour
             }
             else
                 sp.flipX = true;
+
             if (Mathf.Abs(transform.position.x - Alex.transform.position.x) <= 5)
             {
                 animator.SetBool("MELEE", true);
@@ -114,10 +115,20 @@ public class Enemy : MonoBehaviour
             }
             else if (Mathf.Abs(transform.position.x - Alex.transform.position.x) <= 15)
             {
-                animator.SetBool("MELEE", false);
-                animator.SetBool("SPRINT", false);
-                animator.SetBool("WALK", false);
-                animator.SetBool("SHOOT", true);
+                if (Alex.GetComponent<Animator>().GetBool("Stand") == true)
+                {
+                    animator.SetBool("MELEE", false);
+                    animator.SetBool("SPRINT", false);
+                    animator.SetBool("WALK", false);
+                    animator.SetBool("SHOOT", true);
+                }
+                else
+                {
+                    animator.SetBool("MELEE", false);
+                    animator.SetBool("SPRINT", true);
+                    animator.SetBool("WALK", true);
+                    animator.SetBool("SHOOT", false);
+                }
             }
             else
             {

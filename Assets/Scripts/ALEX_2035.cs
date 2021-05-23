@@ -23,6 +23,9 @@ public class ALEX_2035 : MonoBehaviour
     public Text AmmoIndicator;
     private bool Paused;
     private bool GameOver;
+    private SoundManager soundManager;
+    public AudioClip Shoot;
+    public AudioClip Empty;
 
     // Start is called before the first frame update
     void Start()
@@ -38,6 +41,7 @@ public class ALEX_2035 : MonoBehaviour
         AmmoIndicator.text = Ammo.ToString() + "/"+Remaining_Ammo.ToString();
         Paused = false;
         GameOver = false;
+        soundManager = gameObject.GetComponent<SoundManager>();
     }
 
     // Update is called once per frame
@@ -195,6 +199,8 @@ public class ALEX_2035 : MonoBehaviour
     {
         if (Ammo > 0)
         {
+            soundManager.StopAudio();
+            soundManager.PlayOnceSound(Shoot);
             Bullet.GetComponent<Bullet>().DroneMode = false;
             Bullet.GetComponent<Bullet>().EnemyMode = false;
             Bullet.GetComponent<Bullet>().PlayerMode = true;
@@ -216,6 +222,11 @@ public class ALEX_2035 : MonoBehaviour
             }
             Ammo--;
             AmmoIndicator.text = Ammo.ToString() + "/" + Remaining_Ammo.ToString();
+        }
+        else
+        {
+            soundManager.StopAudio();
+            soundManager.PlayOnceSound(Empty);
         }
     }
     public void Reload()

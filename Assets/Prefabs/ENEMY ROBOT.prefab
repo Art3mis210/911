@@ -72,7 +72,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Enemy: {fileID: 1570531013997021185}
-  Alert: {fileID: 0}
+  Alert: {fileID: 8300000, guid: 554d91f6a57111745a00bd0631f36a20, type: 3}
 --- !u!212 &1570531012699035502
 SpriteRenderer:
   m_ObjectHideFlags: 0

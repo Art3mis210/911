@@ -201,6 +201,14 @@ AnimationClip:
     floatParameter: 20
     intParameter: 0
     messageOptions: 0
+  - time: 0.033333335
+    functionName: PlayAudioOnLoop
+    data: 
+    objectReferenceParameter: {fileID: 8300000, guid: c87cdc3c3d0cbce4eb52a8df0fc74996,
+      type: 3}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
   - time: 0.06666667
     functionName: Move
     data: 
