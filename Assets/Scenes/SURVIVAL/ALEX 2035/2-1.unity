@@ -303,7 +303,7 @@ PrefabInstance:
     - target: {fileID: 455904875766707214, guid: f198d7e1793d9c447887a0f47e5934fd,
         type: 3}
       propertyPath: m_SortingOrder
-      value: 6
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 455904875766707215, guid: f198d7e1793d9c447887a0f47e5934fd,
         type: 3}
@@ -479,7 +479,7 @@ PrefabInstance:
     - target: {fileID: 455904875766707214, guid: f198d7e1793d9c447887a0f47e5934fd,
         type: 3}
       propertyPath: m_SortingOrder
-      value: 6
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 455904875766707215, guid: f198d7e1793d9c447887a0f47e5934fd,
         type: 3}
@@ -3923,7 +3923,7 @@ PrefabInstance:
     - target: {fileID: 455904875766707214, guid: f198d7e1793d9c447887a0f47e5934fd,
         type: 3}
       propertyPath: m_SortingOrder
-      value: 6
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 455904875766707215, guid: f198d7e1793d9c447887a0f47e5934fd,
         type: 3}
@@ -4604,7 +4604,7 @@ PrefabInstance:
     - target: {fileID: 455904875766707214, guid: f198d7e1793d9c447887a0f47e5934fd,
         type: 3}
       propertyPath: m_SortingOrder
-      value: 6
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 455904875766707215, guid: f198d7e1793d9c447887a0f47e5934fd,
         type: 3}
@@ -7566,6 +7566,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Alex: {fileID: 1635530909}
+  soundManager: {fileID: 0}
+  Knockout: {fileID: 0}
 --- !u!1001 &1541018416
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7676,7 +7678,7 @@ PrefabInstance:
     - target: {fileID: 455904875766707214, guid: f198d7e1793d9c447887a0f47e5934fd,
         type: 3}
       propertyPath: m_SortingOrder
-      value: 6
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 455904875766707215, guid: f198d7e1793d9c447887a0f47e5934fd,
         type: 3}
@@ -8524,7 +8526,7 @@ PrefabInstance:
     - target: {fileID: 455904875766707214, guid: f198d7e1793d9c447887a0f47e5934fd,
         type: 3}
       propertyPath: m_SortingOrder
-      value: 6
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 455904875766707215, guid: f198d7e1793d9c447887a0f47e5934fd,
         type: 3}
@@ -9307,7 +9309,7 @@ PrefabInstance:
     - target: {fileID: 455904875766707214, guid: f198d7e1793d9c447887a0f47e5934fd,
         type: 3}
       propertyPath: m_SortingOrder
-      value: 6
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 455904875766707215, guid: f198d7e1793d9c447887a0f47e5934fd,
         type: 3}
