@@ -18,10 +18,10 @@ public class SoundManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-      if( Time.timeScale != 1)
-        {
+      if(Time.timeScale != 1)
+      {
            StopAudio();
-        } 
+      } 
     }
     public void PlayOnceSound(AudioClip Clip)
     {

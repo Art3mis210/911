@@ -8,6 +8,8 @@ public class Enemy_Drone_Detect : MonoBehaviour
     public GameObject Drone;
     public GameObject DroneHackRange;
     public GameObject Bullet;
+    public AudioClip Shoot;
+    public AudioClip Alert;
     private bool RotateDrone;
     void Start()
     {
@@ -26,13 +28,17 @@ public class Enemy_Drone_Detect : MonoBehaviour
     {
         if(collision.tag=="Player" )
         {
+            Drone.GetComponent<SoundManager>().PlayOnceSound(Alert);
             if (RotateDrone == false)
             {
                 Drone.transform.rotation = Quaternion.Euler(0, 0, 90);
             //    gameObject.transform.rotation = Quaternion.Euler(0, 0, 0);
             //   Drone.transform.GetChild(0).transform.rotation = Quaternion.Euler(0, 0, 0);
                 RotateDrone = true;
+                
+
             }
+            
             Fire();
         }
     }
@@ -41,6 +47,7 @@ public class Enemy_Drone_Detect : MonoBehaviour
         Bullet.GetComponent<Bullet>().DroneMode = true;
         Bullet.GetComponent<Bullet>().EnemyMode = false;
         Bullet.GetComponent<Bullet>().PlayerMode = false;
+        Drone.GetComponent<SoundManager>().PlayOnceSound(Shoot);
         Instantiate(Bullet, new Vector3(Drone.transform.position.x, Drone.transform.position.y-2, 0), Quaternion.identity);
     }
 }

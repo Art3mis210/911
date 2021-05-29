@@ -82,6 +82,15 @@ public class Spawner : MonoBehaviour
                 {
                     Destroy(Enemies[i]);
                 }*/
+            if(Player.name=="ALEX")
+            {
+                Player.GetComponent<Player>().Ammo += 10 * Wave;
+                
+            }
+            else
+            {
+                Player.GetComponent<ALEX_2035>().Remaining_Ammo += 10 * Wave;
+            }
             List<GameObject> EnemiesToBeDestroyed= new List<GameObject>();
             EnemiesToBeDestroyed.AddRange(Enemies);
             Enemies.Clear();

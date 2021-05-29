@@ -30,6 +30,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SOUND.unity
     guid: ddcad1bf2a9ff1740aeb55ba90640755
   - enabled: 1
+    path: Assets/Scenes/SOUND_ADDITIVE.unity
+    guid: 7b099fd46dbcca5479267863d64fe16b
+  - enabled: 1
     path: Assets/Scenes/EXTRAS.unity
     guid: 347d6e59b478d44488bfb04427053270
   - enabled: 1

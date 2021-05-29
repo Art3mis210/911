@@ -21,7 +21,7 @@ public class Player : MonoBehaviour
     public Animator BloodEffect;
     public bool WalkMode;
     public GameObject HealthBar;
-    private int Ammo;
+    public int Ammo;
     public Text AmmoIndicator;
     private bool Paused;
     private bool GameOver;

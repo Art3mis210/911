@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 918379790035639296, guid: 39c74422f22119d47a73b751ea47f2b8,
+        type: 3}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: -8568081489523621414, guid: 9747c32ca5906544a881a3de03c4090d,
+        type: 2}
     - target: {fileID: 3393013564565819160, guid: 39c74422f22119d47a73b751ea47f2b8,
         type: 3}
       propertyPath: m_UiScaleMode

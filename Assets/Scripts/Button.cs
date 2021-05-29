@@ -15,7 +15,7 @@ public class Button : MonoBehaviour
             Application.Quit();
         else if (SceneName == "RESUME")
         {
-            SceneManager.UnloadSceneAsync("PAUSED");
+            SceneManager.UnloadSceneAsync("PAUSED"); 
         }
         else if (SceneName == "RESTART")
         {
@@ -25,19 +25,30 @@ public class Button : MonoBehaviour
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
         }
-        else if(SceneName.Contains("LEVEL")|| SceneName.Contains("-"))
+        else if(SceneName.Contains("LEVEL")||SceneName.Contains("-"))
         {
-
+            Destroy(GameObject.Find("BackgroundMainMusic"));
             Loading.SetActive(true);
             StartCoroutine(LoadYourAsyncScene(SceneName));
-
         }
         else 
         {
+            if(SceneName=="INTRO")
+                Destroy(GameObject.Find("BackgroundMainMusic"));
             SceneManager.LoadScene(SceneName);
+            DontDestroyOnLoad(GameObject.Find("BackgroundMainMusic"));
         }
 
     }
+    public void LoadAdditiveScene(string Scene)
+    {
+        SceneManager.LoadScene(Scene, LoadSceneMode.Additive);
+    }
+    public void UnLoadAdditiveScene(string Scene)
+    {
+        SceneManager.UnloadSceneAsync(Scene);
+    }
+
     IEnumerator LoadYourAsyncScene(string SceneName)
     {
         

@@ -9,12 +9,15 @@ public class EnemyDrone : MonoBehaviour
     public int health;
     public bool destroyed;
     public ScoreManager Score;
+    private SoundManager soundManager;
+    public AudioClip DestroySound;
     private void Start()
     {
         boxC = gameObject.GetComponent<BoxCollider2D>();
         rigidBody2D = gameObject.GetComponent<Rigidbody2D>();
         health = 5;
         destroyed = false;
+        soundManager = GetComponent<SoundManager>();
     }
     private void Update()
     {
@@ -35,6 +38,7 @@ public class EnemyDrone : MonoBehaviour
     {
         if(collision.gameObject.tag=="GROUND")
         {
+            soundManager.PlayOnceSound(DestroySound);
             rigidBody2D.gravityScale = 0;
             boxC.enabled = false;
             enabled = false;

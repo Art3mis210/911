@@ -18,7 +18,7 @@ public class ALEX_2035 : MonoBehaviour
     public GameObject Bullet;
     public Animator BloodEffect;
     private int Ammo;
-    private int Remaining_Ammo;
+    public int Remaining_Ammo;
     public GameObject HealthBar;
     public Text AmmoIndicator;
     private bool Paused;
