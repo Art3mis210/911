@@ -6,61 +6,61 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MAIN MENU.unity
+    path: Assets/Scenes/MENU/MAIN MENU.unity
     guid: 4c604daf478db5841b94995c051cad6e
   - enabled: 1
-    path: Assets/Scenes/CAMPAIGN.unity
+    path: Assets/Scenes/MENU/CAMPAIGN.unity
     guid: d886decb103c77241a212bfbce8ec158
   - enabled: 1
-    path: Assets/Scenes/INTRO.unity
+    path: Assets/Scenes/CAMPAIGN/INTRO.unity
     guid: f7db2193c238d114885ce869317a738a
   - enabled: 1
-    path: Assets/Scenes/EPISODE.unity
+    path: Assets/Scenes/MENU/EPISODE.unity
     guid: 16905431f9eb33e478ff919ae36e919f
   - enabled: 1
-    path: Assets/Scenes/SURVIVAL.unity
+    path: Assets/Scenes/SURVIVAL/SURVIVAL.unity
     guid: 67657a8e0abe5ff4bb85d72ff3e9e6e5
   - enabled: 1
-    path: Assets/Scenes/OPTIONS.unity
+    path: Assets/Scenes/MENU/OPTIONS.unity
     guid: d8fe1b74f9d767b4ab2c0a676ca1de49
   - enabled: 1
-    path: Assets/Scenes/DISPLAY.unity
+    path: Assets/Scenes/MENU/DISPLAY.unity
     guid: e2017c962457e2f45acbe6798f988441
   - enabled: 1
-    path: Assets/Scenes/SOUND.unity
+    path: Assets/Scenes/MENU/SOUND.unity
     guid: ddcad1bf2a9ff1740aeb55ba90640755
   - enabled: 1
-    path: Assets/Scenes/SOUND_ADDITIVE.unity
+    path: Assets/Scenes/MENU/SOUND_ADDITIVE.unity
     guid: 7b099fd46dbcca5479267863d64fe16b
   - enabled: 1
-    path: Assets/Scenes/EXTRAS.unity
+    path: Assets/Scenes/MENU/EXTRAS.unity
     guid: 347d6e59b478d44488bfb04427053270
   - enabled: 1
-    path: Assets/Scenes/ARTWORK.unity
+    path: Assets/Scenes/MENU/ARTWORK.unity
     guid: c92f6945878d3ce47be40d08ac08b548
   - enabled: 1
-    path: Assets/Scenes/LEVEL 1.unity
+    path: Assets/Scenes/CAMPAIGN/LEVEL 1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/LEVEL 2.unity
+    path: Assets/Scenes/CAMPAIGN/LEVEL 2.unity
     guid: cbaf86d502927164a920541c2404dc4c
   - enabled: 1
-    path: Assets/Scenes/LEVEL 3.unity
+    path: Assets/Scenes/CAMPAIGN/LEVEL 3.unity
     guid: d4dc35b012ba32447ba4117fbf08e954
   - enabled: 1
-    path: Assets/Scenes/LEVEL 4.unity
+    path: Assets/Scenes/CAMPAIGN/LEVEL 4.unity
     guid: a3ee11d75cb3ab74ca942b82b6be6d35
   - enabled: 1
-    path: Assets/Scenes/LEVEL 5.unity
+    path: Assets/Scenes/CAMPAIGN/LEVEL 5.unity
     guid: 2dd88ee147b12c747bbb0ffd0aa8de70
   - enabled: 1
-    path: Assets/Scenes/LEVEL 6.unity
+    path: Assets/Scenes/CAMPAIGN/LEVEL 6.unity
     guid: 2cbddaa158fd7d943b71117e93858154
   - enabled: 1
     path: Assets/Scenes/HACK.unity
     guid: 1b545d44db589884f91a2fc7047156b1
   - enabled: 1
-    path: Assets/Scenes/PAUSED.unity
+    path: Assets/Scenes/MENU/PAUSED.unity
     guid: d8c5e10931c7bd14eaf269e96040c850
   - enabled: 1
     path: Assets/Scenes/SURVIVAL/ALEX 2037/1-1.unity
@@ -99,12 +99,12 @@ EditorBuildSettings:
     path: Assets/Scenes/SURVIVAL/ALEX 2035/2-6.unity
     guid: b5d4e1c9af2d3fb4198b256fd88a7201
   - enabled: 1
-    path: Assets/Scenes/GAME OVER.unity
+    path: Assets/Scenes/MENU/GAME OVER.unity
     guid: eef44cadf63f3154197e4a7aca7cce0c
   - enabled: 1
-    path: Assets/Scenes/MISSION COMPLETED.unity
+    path: Assets/Scenes/MENU/MISSION COMPLETED.unity
     guid: 7af8062e13987a24bbc5d4ff1b502467
   - enabled: 1
-    path: Assets/Scenes/CREDITS.unity
+    path: Assets/Scenes/MENU/CREDITS.unity
     guid: 1bcb9aae46d2dd14c935c3e76d30f5cb
   m_configObjects: {}

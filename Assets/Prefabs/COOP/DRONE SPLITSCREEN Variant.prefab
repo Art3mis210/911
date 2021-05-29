@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &8114327483531053278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 980443123152937333}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bf0c76e5a6db754bba2bc3e49c407e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  Bullet: {fileID: 7241644972620386722, guid: d6eb4b9283417494d90d151c6b87d2ab, type: 3}
+  Control: 0
+  BatteryIndicator: {fileID: 3753053275076455106}
+  Shoot: {fileID: 8300000, guid: 0797949ce14a67d40ab7ee0cb86caae6, type: 3}
+  Empty: {fileID: 8300000, guid: 636e9bc5f49731944ace4df4ae8e1db2, type: 3}
+--- !u!1001 &4953495835903233402
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3178138404200163453, guid: 39c74422f22119d47a73b751ea47f2b8,
+        type: 3}
+      propertyPath: m_NormalizedViewPortRect.width
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5270726573495086082, guid: 39c74422f22119d47a73b751ea47f2b8,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5270726573495086082, guid: 39c74422f22119d47a73b751ea47f2b8,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -123.399574
+      objectReference: {fileID: 0}
+    - target: {fileID: 5270726573495086082, guid: 39c74422f22119d47a73b751ea47f2b8,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.1046815
+      objectReference: {fileID: 0}
+    - target: {fileID: 5270726573495086082, guid: 39c74422f22119d47a73b751ea47f2b8,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5270726573495086082, guid: 39c74422f22119d47a73b751ea47f2b8,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5270726573495086082, guid: 39c74422f22119d47a73b751ea47f2b8,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5270726573495086082, guid: 39c74422f22119d47a73b751ea47f2b8,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5270726573495086082, guid: 39c74422f22119d47a73b751ea47f2b8,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5270726573495086082, guid: 39c74422f22119d47a73b751ea47f2b8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5270726573495086082, guid: 39c74422f22119d47a73b751ea47f2b8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5270726573495086082, guid: 39c74422f22119d47a73b751ea47f2b8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5270726573495086095, guid: 39c74422f22119d47a73b751ea47f2b8,
+        type: 3}
+      propertyPath: m_Name
+      value: DRONE SPLITSCREEN Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6669067896183772886, guid: 39c74422f22119d47a73b751ea47f2b8,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8118824811103250360, guid: 39c74422f22119d47a73b751ea47f2b8,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 5270726573495086094, guid: 39c74422f22119d47a73b751ea47f2b8, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 39c74422f22119d47a73b751ea47f2b8, type: 3}
+--- !u!1 &980443123152937333 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5270726573495086095, guid: 39c74422f22119d47a73b751ea47f2b8,
+    type: 3}
+  m_PrefabInstance: {fileID: 4953495835903233402}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &3753053275076455106 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8118824811103250360, guid: 39c74422f22119d47a73b751ea47f2b8,
+    type: 3}
+  m_PrefabInstance: {fileID: 4953495835903233402}
+  m_PrefabAsset: {fileID: 0}
