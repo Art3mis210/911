@@ -24,7 +24,7 @@ public class Enemy_Drone_Hack : MonoBehaviour
     }
     private void OnTriggerStay2D(Collider2D collision)
     {
-        if((collision.gameObject.tag=="Player"|| collision.gameObject.tag == "PDRONE") && (Input.GetKey(KeyCode.H)|| Input.GetKey("joystick button 8")) && Hacked==false)
+        if((collision.gameObject.tag=="Player"|| collision.gameObject.tag == "PDRONE") && (Input.GetKey(KeyCode.H)|| Input.GetKey("joystick button 3")) && Hacked==false)
         {
             
             Debug.Log("Drone HAcked");

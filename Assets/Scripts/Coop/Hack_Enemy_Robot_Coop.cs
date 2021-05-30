@@ -28,7 +28,7 @@ public class Hack_Enemy_Robot_Coop : MonoBehaviour
     }
     private void OnTriggerStay2D(Collider2D collision)
     {
-        if ((collision.gameObject.tag == "Player" || collision.gameObject.tag == "PDRONE") && (Input.GetKey(KeyCode.H) || Input.GetKey("joystick button 8")) && Robot.GetComponent<Enemy_Coop>().FoundPlayer == false && Hacked == false)
+        if ((collision.gameObject.tag == "Player" || collision.gameObject.tag == "PDRONE") && (Input.GetKey(KeyCode.H) || Input.GetKey("joystick button 3")) && Robot.GetComponent<Enemy_Coop>().FoundPlayer == false && Hacked == false)
         {
 
             Time.timeScale = 0;
