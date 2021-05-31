@@ -14,6 +14,7 @@ public class Drone_Coop : MonoBehaviour
     private SpriteRenderer sprite;
     public Player_Coop player;
     public GameObject Bullet;
+    public GameObject Camera;
     private int Ammo;
     public bool Control;
     private bool Paused;
@@ -43,7 +44,9 @@ public class Drone_Coop : MonoBehaviour
     void Update()
     {
         if (Control == true && SceneManager.sceneCount == 1 && Time.timeScale == 1)
+        {
             Movement();
+        }
         else if (player.Dead == true)
         {
             Destroy(gameObject);
@@ -130,5 +133,12 @@ public class Drone_Coop : MonoBehaviour
         player.Control = true;
         rigidBody.constraints = RigidbodyConstraints2D.FreezeRotation;
         Destroy(gameObject);
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if(collision.gameObject.tag=="Player")
+        {
+            Physics2D.IgnoreCollision(gameObject.GetComponent<BoxCollider2D>(), collision.gameObject.GetComponent<BoxCollider2D>(), true);
+        }
     }
 }

@@ -22,6 +22,7 @@ public class Enemy_Coop : MonoBehaviour
     private SoundManager soundManager;
     public AudioClip Shoot;
     private GameObject Target;
+    private bool DestroyEnemy;
     void Start()
     {
         rigidBody = GetComponent<Rigidbody2D>();
@@ -33,6 +34,7 @@ public class Enemy_Coop : MonoBehaviour
         if (gameObject.name == "ENEMY HAZARD UNIT")
             Rest = false;
         soundManager = gameObject.GetComponent<SoundManager>();
+        DestroyEnemy = false;
 
     }
 
@@ -53,7 +55,11 @@ public class Enemy_Coop : MonoBehaviour
         {
             EnemyOne();
         }
-
+        if(DestroyEnemy==false && Dead==true)
+        {
+            DestroyEnemy = true;
+            Invoke("DestroyEnemyBody", 10);
+        }
 
     }
     private void OnCollisionEnter2D(Collision2D collision)
@@ -328,5 +334,9 @@ public class Enemy_Coop : MonoBehaviour
             Bullet.GetComponent<SpriteRenderer>().flipX = true;
             Instantiate(Bullet, new Vector3(gameObject.transform.position.x - 3.5f, gameObject.transform.position.y + 2, 0), Quaternion.identity);
         }
+    }
+    private void DestroyEnemyBody()
+    {
+        Destroy(gameObject);
     }
 }

@@ -15,6 +15,7 @@ public class Hack : MonoBehaviour
     public Text Orignal_password;
     public VideoPlayer HUDLOAD;
     public GameObject HUD;
+    public GameObject Buttons;
     void Start()
     {
         orignal_password = Random.Range(1000, 9999).ToString();
@@ -30,6 +31,7 @@ public class Hack : MonoBehaviour
             HUDLOAD.enabled = false;
             Orignal_password.text = orignal_password;
             HUD.GetComponent<SpriteRenderer>().enabled = true;
+            Buttons.SetActive(true);
         }
         Entered_password.text = entered_password;
     }

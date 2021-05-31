@@ -55,11 +55,13 @@ public class Alex_2035_Controller : MonoBehaviour
         boxC.size = S;
         if (Input.GetKey(KeyCode.JoystickButton7) && Paused == false)
         {
+            
             Time.timeScale = 0;
             SceneManager.LoadScene("PAUSED", LoadSceneMode.Additive);
             Paused = true;
             Camera.GetComponent<Camera>().enabled = (false);
             Camera2.GetComponent<Camera>().enabled = (false);
+            GameObject.FindGameObjectWithTag("PDRONE").GetComponent<Drone_Coop>().Camera.GetComponent<Camera>().enabled = false;
 
         }
         if (Paused == true && Time.timeScale == 1)
@@ -67,6 +69,7 @@ public class Alex_2035_Controller : MonoBehaviour
             Camera.GetComponent<Camera>().enabled = (true);
             Camera2.GetComponent<Camera>().enabled = (true);
             Paused = false;
+            GameObject.FindGameObjectWithTag("PDRONE").GetComponent<Drone_Coop>().Camera.GetComponent<Camera>().enabled = true;
         }
         if (Dead == true && GameOver == false)
         {

@@ -111,6 +111,15 @@ EditorBuildSettings:
     path: Assets/Scenes/COOP/COOP-1.unity
     guid: f7cfa31ca74ea1c4e9fd9b9ee4d03d65
   - enabled: 1
+    path: Assets/Scenes/COOP/COOP-2.unity
+    guid: c8b3784cf924ab446bdf61f5ec53ac53
+  - enabled: 1
+    path: Assets/Scenes/COOP/COOP-3.unity
+    guid: 5245d37398d23dc468db76976b70c0d5
+  - enabled: 1
+    path: Assets/Scenes/COOP/COOP-4.unity
+    guid: 1988abb9a538a724a9c3a18ad70aeb27
+  - enabled: 1
     path: Assets/Scenes/MENU/COOP_MISSION_COMPLETED.unity
     guid: df6569f1984b421499d7d11da6b7aea0
   - enabled: 1
