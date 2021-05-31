@@ -39,7 +39,13 @@ public class DefuseBomb : MonoBehaviour
         MainCamera.GetComponent<Camera>().enabled = false;
         MainCamera2.GetComponent<Camera>().enabled = false;
         Time.timeScale = 0;
-        SceneManager.LoadScene("COOP_MISSION_COMPLETED", LoadSceneMode.Additive);
+        if (SceneManager.GetActiveScene().name == "COOP-6")
+        {
+            Time.timeScale = 1;
+            SceneManager.LoadScene("Credits");
+        }
+        else
+            SceneManager.LoadScene("COOP_MISSION_COMPLETED", LoadSceneMode.Additive);
     }
 }
 

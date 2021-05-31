@@ -18,6 +18,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MENU/EPISODE.unity
     guid: 16905431f9eb33e478ff919ae36e919f
   - enabled: 1
+    path: Assets/Scenes/MENU/COOP.unity
+    guid: 7a407357c94f2bb438af663e908d3f77
+  - enabled: 1
     path: Assets/Scenes/SURVIVAL/SURVIVAL.unity
     guid: 67657a8e0abe5ff4bb85d72ff3e9e6e5
   - enabled: 1
@@ -119,6 +122,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/COOP/COOP-4.unity
     guid: 1988abb9a538a724a9c3a18ad70aeb27
+  - enabled: 1
+    path: Assets/Scenes/COOP/COOP-5.unity
+    guid: a0238da6b1a769846add04c012777fff
+  - enabled: 1
+    path: Assets/Scenes/COOP/COOP-6.unity
+    guid: 488331b2f841d3645b52e079233c5119
   - enabled: 1
     path: Assets/Scenes/MENU/COOP_MISSION_COMPLETED.unity
     guid: df6569f1984b421499d7d11da6b7aea0
