@@ -30,6 +30,7 @@ public class Player_Coop : MonoBehaviour
     public AudioClip Shoot;
     public AudioClip Empty;
     public AudioClip NightVision;
+    public GameObject HackIndicator;
 
     // Start is called before the first frame update
     void Start()
@@ -56,21 +57,7 @@ public class Player_Coop : MonoBehaviour
             Movement();
         Vector2 S = sp.sprite.bounds.size;
         boxC.size = S;
-        if (Input.GetKey(KeyCode.Escape) && Paused == false)
-        {
-            Time.timeScale = 0;
-            SceneManager.LoadScene("PAUSED", LoadSceneMode.Additive);
-            Paused = true;
-            Camera.GetComponent<Camera>().enabled = (false);
-            Camera2.GetComponent<Camera>().enabled = (false);
-
-        }
-        if (Paused == true && Time.timeScale == 1)
-        {
-            Camera.GetComponent<Camera>().enabled = (true);
-            Camera2.GetComponent<Camera>().enabled = (true);
-            Paused = false;
-        }
+        
         if (Control == true && Camera.activeInHierarchy == false)
             Camera.SetActive(true);
         if (Dead == true && GameOver == false)
@@ -166,6 +153,21 @@ public class Player_Coop : MonoBehaviour
                 Camera.GetComponent<DeferredNightVisionEffect>().enabled = !Camera.GetComponent<DeferredNightVisionEffect>().enabled;
                 if (Camera.GetComponent<DeferredNightVisionEffect>().enabled == true)
                     soundManager.PlayOnceSound(NightVision);
+            }
+            if (Input.GetKey(KeyCode.Escape) && Paused == false)
+            {
+                Time.timeScale = 0;
+                SceneManager.LoadScene("PAUSED", LoadSceneMode.Additive);
+                Paused = true;
+                Camera.GetComponent<Camera>().enabled = (false);
+                Camera2.GetComponent<Camera>().enabled = (false);
+
+            }
+            if (Paused == true && Time.timeScale == 1)
+            {
+                Camera.GetComponent<Camera>().enabled = (true);
+                Camera2.GetComponent<Camera>().enabled = (true);
+                Paused = false;
             }
         }
         else if (WalkMode == true)
@@ -298,6 +300,17 @@ public class Player_Coop : MonoBehaviour
                     BloodEffect.Play("BLOOD EFFECT");
                 }
             }
+        }
+        if (collision.gameObject.tag == "HACK")
+        {
+            HackIndicator.SetActive(true);
+        }
+    }
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "HACK")
+        {
+            HackIndicator.SetActive(false);
         }
     }
     private void LoadGameOverScene()

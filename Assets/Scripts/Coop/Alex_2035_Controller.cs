@@ -27,7 +27,7 @@ public class Alex_2035_Controller : MonoBehaviour
     private SoundManager soundManager;
     public AudioClip Shoot;
     public AudioClip Empty;
-
+    public GameObject HackIndicator;
     // Start is called before the first frame update
     void Start()
     {
@@ -273,6 +273,17 @@ public class Alex_2035_Controller : MonoBehaviour
                     BloodEffect.Play("BLOOD EFFECT");
                 }
             }
+        }
+        if (collision.gameObject.tag == "HACK")
+        {
+            HackIndicator.SetActive(true);
+        }
+    }
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "HACK")
+        {
+            HackIndicator.SetActive(false);
         }
     }
     private void OnCollisionEnter2D(Collision2D collision)

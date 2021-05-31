@@ -29,6 +29,7 @@ public class Player : MonoBehaviour
     public AudioClip Shoot;
     public AudioClip Empty;
     public AudioClip NightVision;
+    public GameObject HackIndicator;
 
     // Start is called before the first frame update
     void Start()
@@ -280,9 +281,9 @@ public class Player : MonoBehaviour
         {
             Destroy(collision.gameObject);
             health -= 1;
-            
+
             HealthBarUpdate();
-            if (health <= 0 && Dead==false)
+            if (health <= 0 && Dead == false)
             {
                 animator.SetBool("Death", true);
                 BloodEffect.Play("DEATH EFFECT");
@@ -292,6 +293,17 @@ public class Player : MonoBehaviour
             {
                 BloodEffect.Play("BLOOD EFFECT");
             }
+        }
+        if (collision.gameObject.tag == "HACK")
+        {
+            HackIndicator.SetActive(true);
+        }
+    }
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "HACK")
+        {
+            HackIndicator.SetActive(false);
         }
     }
     private void LoadGameOverScene()

@@ -9,18 +9,21 @@ public class SoundManager : MonoBehaviour
 {
     private AudioSource AudioPlayer;
     private Animator animator;
+    public bool StartAudio;
     void Start()
     {
         AudioPlayer = gameObject.GetComponent<AudioSource>();
         animator = gameObject.GetComponent<Animator>();
+        StartAudio = true;
     }
 
     // Update is called once per frame
     void Update()
     {
-      if(Time.timeScale != 1)
+      if(Time.timeScale != 1 && StartAudio==true)
       {
            StopAudio();
+           StartAudio = false;
       } 
     }
     public void PlayOnceSound(AudioClip Clip)

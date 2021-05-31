@@ -209,7 +209,7 @@ GameObject:
   - component: {fileID: 1570531013957865790}
   m_Layer: 0
   m_Name: HACK RANGE
-  m_TagString: Untagged
+  m_TagString: HACK
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -554,3 +554,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f35c671ecec406c479e5ccf58b245cc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  StartAudio: 0

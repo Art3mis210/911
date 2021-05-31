@@ -62,6 +62,8 @@ public class Player_Coop_Melee : MonoBehaviour
                 collision.gameObject.GetComponent<Animator>().SetBool("STABBED", true);
                 player.MeleeComplete = false;
                 Alex.GetComponent<ScoreManager>().MeleeKills++;
+                Destroy(collision.gameObject.transform.GetChild(0).gameObject);
+                Destroy(collision.gameObject.transform.GetChild(1).gameObject);
 
             }
         }

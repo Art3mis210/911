@@ -31,7 +31,7 @@ public class Drone_Coop : MonoBehaviour
         rigidBody = GetComponent<Rigidbody2D>();
         sprite = GetComponent<SpriteRenderer>();
         speed = 10;
-        Ammo = 5;
+        Ammo = 10;
         Control = true;
         Paused = false;
         Battery = 0;
@@ -57,11 +57,13 @@ public class Drone_Coop : MonoBehaviour
             SceneManager.LoadScene("PAUSED", LoadSceneMode.Additive);
             Paused = true;
             transform.GetChild(0).gameObject.GetComponent<Camera>().enabled = (false);
+            GameObject.Find("ALEX_2035").transform.GetChild(1).gameObject.GetComponent<Camera>().enabled = false;
 
         }
         if (Paused == true && Time.timeScale == 1)
         {
             transform.GetChild(0).gameObject.GetComponent<Camera>().enabled = true;
+            GameObject.Find("ALEX_2035").transform.GetChild(1).gameObject.GetComponent<Camera>().enabled = true;
             Paused = false;
         }
         if (Battery < 55)

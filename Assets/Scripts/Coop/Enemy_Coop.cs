@@ -293,9 +293,13 @@ public class Enemy_Coop : MonoBehaviour
     {
         if (collision.gameObject.tag == "BULLET")
         {
-            Destroy(collision.gameObject);
-            if (collision.gameObject.GetComponent<Bullet>().EnemyMode == false && collision.gameObject.GetComponent<Bullet>().DroneMode == false)
+            
+            if (collision.gameObject.GetComponent<Bullet>().EnemyMode == false && collision.GetComponent<Bullet>().DroneMode == false)
+            {   
                 health -= 2;
+                Destroy(collision.gameObject);
+            }
+
             if (health <= 0 && Dead == false)
             {
                 Target.GetComponent<ScoreManager>().GunKills++;

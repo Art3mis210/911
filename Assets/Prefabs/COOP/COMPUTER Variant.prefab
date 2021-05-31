@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7afdfd1e5f3be414aa1aea28273953ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  MainCamera: {fileID: 0}
+  MainCamera2: {fileID: 0}
 --- !u!1001 &6000372052224751417
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19,6 +21,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4110219443344231661, guid: 206e6f4dc4a5d8e4691a902192146acd,
+        type: 3}
+      propertyPath: m_TagString
+      value: HACK
+      objectReference: {fileID: 0}
     - target: {fileID: 4110219443581304088, guid: 206e6f4dc4a5d8e4691a902192146acd,
         type: 3}
       propertyPath: m_RootOrder
@@ -77,7 +84,7 @@ PrefabInstance:
     - target: {fileID: 4110219443581304089, guid: 206e6f4dc4a5d8e4691a902192146acd,
         type: 3}
       propertyPath: m_Name
-      value: COMPUTER
+      value: COMPUTER Variant
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 4110219443344231651, guid: 206e6f4dc4a5d8e4691a902192146acd, type: 3}
