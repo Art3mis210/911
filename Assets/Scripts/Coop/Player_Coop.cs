@@ -305,7 +305,7 @@ public class Player_Coop : MonoBehaviour
         Camera.GetComponent<Camera>().enabled = false;
         Camera2.GetComponent<Camera>().enabled = false;
         Time.timeScale = 0;
-        SceneManager.LoadScene("GAME OVER", LoadSceneMode.Additive);
+        SceneManager.LoadScene("COOP_GAMEOVER", LoadSceneMode.Additive);
     }
 
 

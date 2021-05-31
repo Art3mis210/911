@@ -71,6 +71,7 @@ public class Alex_2035_Controller : MonoBehaviour
         if (Dead == true && GameOver == false)
         {
             Invoke("LoadGameOverScene", 5);
+            Destroy(GameObject.FindGameObjectWithTag("PDRONE"));
             GameOver = true;
         }
     }
@@ -79,7 +80,7 @@ public class Alex_2035_Controller : MonoBehaviour
         Camera.GetComponent<Camera>().enabled = false;
         Camera2.GetComponent<Camera>().enabled = false;
         Time.timeScale = 0;
-        SceneManager.LoadScene("GAME OVER", LoadSceneMode.Additive);
+        SceneManager.LoadScene("COOP_GAMEOVER", LoadSceneMode.Additive);
     }
     private void Movement()
     {

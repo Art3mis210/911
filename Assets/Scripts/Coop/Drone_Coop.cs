@@ -78,8 +78,8 @@ public class Drone_Coop : MonoBehaviour
     }
     private void Movement()
     {
-        h = Input.GetAxis("Horizontal");
-        v = Input.GetAxis("Vertical");
+        h = Input.GetAxis("HorizontalDrone");
+        v = Input.GetAxis("VerticalDrone");
         rigidBody.velocity = new Vector2(h * speed, v * speed);
         if (Input.GetKeyDown(KeyCode.R))
         {

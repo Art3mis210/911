@@ -60,7 +60,7 @@ public class Enemy_Coop : MonoBehaviour
     {
         if (collision.gameObject.tag == "ENEMY")
         {
-            if (collision.gameObject.GetComponent<Enemy>().Dead == true)
+            if (collision.gameObject.GetComponent<Enemy_Coop>().Dead == true)
             {
                 FoundPlayer = true;
             }
@@ -68,10 +68,10 @@ public class Enemy_Coop : MonoBehaviour
         }
         if (collision.gameObject.tag == "Player")
         {
-            Animator an = Alex.GetComponent<Animator>();
+            Animator an = Target.GetComponent<Animator>();
             if (an.GetBool("Jump") == true || an.GetBool("Flip") == true)
             {
-                Physics2D.IgnoreCollision(boxC, Alex.GetComponent<BoxCollider2D>(), true);
+                Physics2D.IgnoreCollision(boxC, Target.GetComponent<BoxCollider2D>(), true);
                 Invoke("CollideWithAlex", 1);
             }
 
@@ -292,7 +292,7 @@ public class Enemy_Coop : MonoBehaviour
                 health -= 2;
             if (health <= 0 && Dead == false)
             {
-                Alex.GetComponent<ScoreManager>().GunKills++;
+                Target.GetComponent<ScoreManager>().GunKills++;
                 // boxC.size = new Vector2(1, 1);
                 Physics2D.IgnoreCollision(boxC, Alex.gameObject.GetComponent<BoxCollider2D>(), true);
                 if (gameObject.name.Contains("ENEMY ROBOT") == false)

@@ -113,4 +113,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MENU/COOP_MISSION_COMPLETED.unity
     guid: df6569f1984b421499d7d11da6b7aea0
+  - enabled: 1
+    path: Assets/Scenes/MENU/COOP_GAMEOVER.unity
+    guid: 6f992870ba89f994591db20f5c5ebeae
   m_configObjects: {}
