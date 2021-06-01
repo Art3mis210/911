@@ -72,6 +72,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: SWAT Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 8412674041890691412, guid: b2dd50471e575a64dbb91274a9b5979b,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 0.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 8412674041890691412, guid: b2dd50471e575a64dbb91274a9b5979b,
+        type: 3}
+      propertyPath: m_Offset.x
+      value: 0.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 8412674041890691413, guid: b2dd50471e575a64dbb91274a9b5979b,
+        type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8412674041890691414, guid: b2dd50471e575a64dbb91274a9b5979b,
         type: 3}
       propertyPath: m_RootOrder

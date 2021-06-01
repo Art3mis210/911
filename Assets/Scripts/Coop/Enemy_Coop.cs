@@ -41,8 +41,11 @@ public class Enemy_Coop : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        S = sp.sprite.bounds.size;
-        boxC.size = S;
+   //     if (Dead == true || Rest==true)
+    //    {
+            S = sp.sprite.bounds.size;
+            boxC.size = S;
+   //     }
         if (Alex.GetComponent<Player_Coop>().Dead == true && Alex_2035.GetComponent<Alex_2035_Controller>().Dead == true)
         {
                 FoundPlayer = false;
@@ -75,12 +78,26 @@ public class Enemy_Coop : MonoBehaviour
         if (collision.gameObject.tag == "Player")
         {
             Animator an = Target.GetComponent<Animator>();
-            if (an.GetBool("Jump") == true || an.GetBool("Flip") == true)
+            if (an.GetBool("Jump") == true)
             {
                 Physics2D.IgnoreCollision(boxC, Target.GetComponent<BoxCollider2D>(), true);
                 Invoke("CollideWithAlex", 1);
             }
 
+        }
+        if(collision.gameObject.name=="ALEX")
+        {
+            if(collision.gameObject.GetComponent<Player_Coop>().Dead==true)
+            {
+                Physics2D.IgnoreCollision(boxC, collision.gameObject.GetComponent<BoxCollider2D>(),true);
+            }
+        }
+        if (collision.gameObject.name == "ALEX_2035")
+        {
+            if (collision.gameObject.GetComponent<Alex_2035_Controller>().Dead == true)
+            {
+                Physics2D.IgnoreCollision(boxC, collision.gameObject.GetComponent<BoxCollider2D>(),true);
+            }
         }
         if (collision.gameObject.tag == "PDRONE")
         {
@@ -258,7 +275,6 @@ public class Enemy_Coop : MonoBehaviour
                 Alex.GetComponent<Player_Coop>().HealthBarUpdate();
                 Alex.GetComponent<Animator>().SetBool("Death", true);
                 Alex.GetComponent<Player_Coop>().BloodEffect.Play("DEATH EFFECT");
-                FoundPlayer = false;
             }
         }
         else
@@ -270,7 +286,6 @@ public class Enemy_Coop : MonoBehaviour
                 Alex_2035.GetComponent<Alex_2035_Controller>().HealthBarUpdate();
                 Alex_2035.GetComponent<Animator>().SetBool("Death", true);
                 Alex_2035.GetComponent<Alex_2035_Controller>().BloodEffect.Play("DEATH EFFECT");
-                FoundPlayer = false;
             }
         }
     }
@@ -282,7 +297,7 @@ public class Enemy_Coop : MonoBehaviour
             Destroy(gameObject.transform.GetChild(0).gameObject);
         Destroy(rigidBody);
         Destroy(boxC);
-        gameObject.GetComponent<Enemy>().enabled = false;
+        enabled = false;
 
     }
     public void StopAnimation(string parameter)
@@ -293,30 +308,35 @@ public class Enemy_Coop : MonoBehaviour
     {
         if (collision.gameObject.tag == "BULLET")
         {
-            
+
             if (collision.gameObject.GetComponent<Bullet>().EnemyMode == false && collision.GetComponent<Bullet>().DroneMode == false)
-            {   
+            {
                 health -= 2;
                 Destroy(collision.gameObject);
-            }
+                if (health <= 0 && Dead == false)
+                {
+                    // boxC.size = new Vector2(1, 1);
+                    if (collision.gameObject.GetComponent<Bullet>().PlayerMode2 == false)
+                        Alex.GetComponent<ScoreManager>().GunKills++;
+                    else
+                        Alex_2035.GetComponent<ScoreManager>().GunKills++;
+                    Physics2D.IgnoreCollision(boxC, Alex.gameObject.GetComponent<BoxCollider2D>(), true);
+                    Physics2D.IgnoreCollision(boxC, Alex_2035.gameObject.GetComponent<BoxCollider2D>(), true);
+                    if (gameObject.name.Contains("ENEMY ROBOT") == false)
+                        animator.SetBool("DEATH", true);
+                    else
+                    {
+                        animator.SetBool("STABBED", true);
+                    }
+                    Dead = true;
 
-            if (health <= 0 && Dead == false)
-            {
-                Target.GetComponent<ScoreManager>().GunKills++;
-                // boxC.size = new Vector2(1, 1);
-                Physics2D.IgnoreCollision(boxC, Alex.gameObject.GetComponent<BoxCollider2D>(), true);
-                if (gameObject.name.Contains("ENEMY ROBOT") == false)
-                    animator.SetBool("DEATH", true);
+
+                    // enabled = false;
+                }
                 else
                 {
-                    animator.SetBool("STABBED", true);
+                    FoundPlayer = true;
                 }
-                Dead = true;
-                // enabled = false;
-            }
-            else
-            {
-                FoundPlayer = true;
             }
         }
 
@@ -325,19 +345,23 @@ public class Enemy_Coop : MonoBehaviour
     {
         soundManager.StopAudio();
         soundManager.PlayOnceSound(Shoot);
-        Bullet.GetComponent<Bullet>().EnemyMode = true;
-        Bullet.GetComponent<Bullet>().DroneMode = false;
-        Bullet.GetComponent<Bullet>().PlayerMode = false;
+        GameObject FiredBullet;
+       
         if (sp.flipX == false)
         {
-            Bullet.GetComponent<SpriteRenderer>().flipX = false;
-            Instantiate(Bullet, new Vector3(gameObject.transform.position.x + 3.5f, gameObject.transform.position.y + 2, 0), Quaternion.identity);
+
+            FiredBullet = (GameObject)Instantiate(Bullet, new Vector3(gameObject.transform.position.x + 3.5f, gameObject.transform.position.y + 2, 0), Quaternion.identity);
+            FiredBullet.GetComponent<SpriteRenderer>().flipX = false;
         }
         else
         {
-            Bullet.GetComponent<SpriteRenderer>().flipX = true;
-            Instantiate(Bullet, new Vector3(gameObject.transform.position.x - 3.5f, gameObject.transform.position.y + 2, 0), Quaternion.identity);
+
+            FiredBullet = (GameObject)Instantiate(Bullet, new Vector3(gameObject.transform.position.x - 3.5f, gameObject.transform.position.y + 2, 0), Quaternion.identity);
+            FiredBullet.GetComponent<SpriteRenderer>().flipX = true;
         }
+        FiredBullet.GetComponent<Bullet>().EnemyMode = true;
+        FiredBullet.GetComponent<Bullet>().DroneMode = false;
+        FiredBullet.GetComponent<Bullet>().PlayerMode = false;
     }
     private void DestroyEnemyBody()
     {

@@ -39,9 +39,9 @@ public class Alex_2035_Coop_Melee : MonoBehaviour
             }
             else if (Alex.GetComponent<Animator>().GetBool("Melee") == true && player.MeleeComplete == true && collision.gameObject.GetComponent<Enemy_Coop>().Dead == false && collision.gameObject.GetComponent<Enemy_Coop>().Rest == true)
             {
+                collision.gameObject.GetComponent<Enemy_Coop>().Dead = true;
                 soundManager.PlayOnceSound(Knockout);
                 collision.gameObject.GetComponent<Animator>().SetBool("DEATH", true);
-                collision.gameObject.GetComponent<Enemy_Coop>().Dead = true;
                 player.MeleeComplete = false;
                 Alex.GetComponent<ScoreManager>().MeleeKills++;
             }

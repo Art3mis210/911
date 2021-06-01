@@ -12,6 +12,7 @@ public class Bullet : MonoBehaviour
     public bool DroneMode;
     public bool EnemyMode;
     public bool PlayerMode;
+    public bool PlayerMode2;
     public Vector2 StartPos;
     public Vector2 EndPos;
     void Start()

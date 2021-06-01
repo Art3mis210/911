@@ -210,25 +210,30 @@ public class Alex_2035_Controller : MonoBehaviour
         {
             soundManager.StopAudio();
             soundManager.PlayOnceSound(Shoot);
-            Bullet.GetComponent<Bullet>().DroneMode = false;
-            Bullet.GetComponent<Bullet>().EnemyMode = false;
-            Bullet.GetComponent<Bullet>().PlayerMode = true;
+            GameObject FiredBullet;
+            
             if (sp.flipX == false)
             {
-                Bullet.GetComponent<SpriteRenderer>().flipX = false;
+                
                 if (animator.GetBool("Stand") == true)
-                    Instantiate(Bullet, new Vector3(gameObject.transform.position.x + 3.5f, gameObject.transform.position.y + 2, 0), Quaternion.identity);
+                    FiredBullet = (GameObject)Instantiate(Bullet, new Vector3(gameObject.transform.position.x + 3.5f, gameObject.transform.position.y + 2, 0), Quaternion.identity);
                 else
-                    Instantiate(Bullet, new Vector3(gameObject.transform.position.x + 3.5f, gameObject.transform.position.y + 1.25f, 0), Quaternion.identity);
+                    FiredBullet = (GameObject)Instantiate(Bullet, new Vector3(gameObject.transform.position.x + 3.5f, gameObject.transform.position.y + 1.25f, 0), Quaternion.identity);
+                FiredBullet.GetComponent<SpriteRenderer>().flipX = false;
             }
             else
             {
-                Bullet.GetComponent<SpriteRenderer>().flipX = true;
+                
                 if (animator.GetBool("Stand") == true)
-                    Instantiate(Bullet, new Vector3(gameObject.transform.position.x - 3.5f, gameObject.transform.position.y + 2, 0), Quaternion.identity);
+                    FiredBullet = (GameObject)Instantiate(Bullet, new Vector3(gameObject.transform.position.x - 3.5f, gameObject.transform.position.y + 2, 0), Quaternion.identity);
                 else
-                    Instantiate(Bullet, new Vector3(gameObject.transform.position.x - 3.5f, gameObject.transform.position.y + 1.25f, 0), Quaternion.identity);
+                    FiredBullet = (GameObject)Instantiate(Bullet, new Vector3(gameObject.transform.position.x - 3.5f, gameObject.transform.position.y + 1.25f, 0), Quaternion.identity);
+                FiredBullet.GetComponent<SpriteRenderer>().flipX = true;
             }
+            FiredBullet.GetComponent<Bullet>().DroneMode = false;
+            FiredBullet.GetComponent<Bullet>().EnemyMode = false;
+            FiredBullet.GetComponent<Bullet>().PlayerMode = true;
+            FiredBullet.GetComponent<Bullet>().PlayerMode2 = true;
             Ammo--;
             AmmoIndicator.text = Ammo.ToString() + "/" + Remaining_Ammo.ToString();
         }

@@ -124,7 +124,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!61 &7241644972620386724
 BoxCollider2D:
@@ -164,8 +164,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32249c9130eea434aa955f7ce93d5959, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DroneMode: 0
+  DroneMode: 1
   EnemyMode: 0
-  PlayerMode: 1
+  PlayerMode: 0
+  PlayerMode2: 0
   StartPos: {x: 0, y: 0}
   EndPos: {x: 0, y: 0}
