@@ -48,7 +48,7 @@ public class Drone : MonoBehaviour
         {
             Destroy(gameObject);
         }
-        if (Input.GetKey(KeyCode.Escape) && Paused == false)
+        if (Input.GetKey(KeyCode.Escape) || Input.GetKey(KeyCode.JoystickButton7) && Paused == false)
         {
             Time.timeScale = 0;
             SceneManager.LoadScene("PAUSED", LoadSceneMode.Additive);
@@ -81,11 +81,11 @@ public class Drone : MonoBehaviour
         h = Input.GetAxis("Horizontal");
         v = Input.GetAxis("Vertical");
         rigidBody.velocity = new Vector2(h * speed, v * speed);
-        if (Input.GetKeyDown(KeyCode.R))
+        if (Input.GetKeyDown(KeyCode.R) || Input.GetKeyDown(KeyCode.JoystickButton0))
         {
             sprite.flipX = !sprite.flipX;
         }
-        if (Input.GetKeyDown(KeyCode.Tab))
+        if (Input.GetKeyDown(KeyCode.Tab) || Input.GetAxis("Drone") < 0)
         {
             player.enabled = true;
             player.Unfreeze();
@@ -93,7 +93,7 @@ public class Drone : MonoBehaviour
             rigidBody.constraints = RigidbodyConstraints2D.FreezeRotation;
             Destroy(gameObject);
         }
-        if (Input.GetKeyDown(KeyCode.Mouse0))
+        if (Input.GetKeyDown(KeyCode.Mouse0) ||  Input.GetAxis("SHOOT") != 0 )
         {
             Ammo--;
             Fire();

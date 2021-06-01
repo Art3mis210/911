@@ -52,7 +52,7 @@ public class ALEX_2035 : MonoBehaviour
             Movement();
         Vector2 S = sp.sprite.bounds.size;
         boxC.size = S;
-        if (Input.GetKey(KeyCode.Escape) && Paused == false)
+        if ((Input.GetKey(KeyCode.Escape)||Input.GetKey(KeyCode.JoystickButton7)) && Paused == false)
         {
             Time.timeScale = 0;
             SceneManager.LoadScene("PAUSED", LoadSceneMode.Additive);
@@ -79,13 +79,13 @@ public class ALEX_2035 : MonoBehaviour
     private void Movement()
     {
 
-            if (Input.GetKey(KeyCode.D))
+            if (Input.GetKey(KeyCode.D) || Input.GetAxis("Move") > 0)
             {
                 sp.flipX = false;
                 animator.SetBool("Move", true);
 
             }
-            else if (Input.GetKey(KeyCode.A))
+            else if (Input.GetKey(KeyCode.A) || Input.GetAxis("Move") < 0)
             {
                 sp.flipX = true;
                 animator.SetBool("Move", true);
@@ -97,34 +97,34 @@ public class ALEX_2035 : MonoBehaviour
                 animator.SetBool("Sprint", false);
 
             }
-            if ((Input.GetKeyDown(KeyCode.LeftControl)) && animator.GetBool("Shoot")==false)
+            if ((Input.GetKeyDown(KeyCode.LeftControl) || Input.GetKeyDown(KeyCode.JoystickButton1)) && animator.GetBool("Shoot")==false)
             {
                 animator.SetBool("Stand", !animator.GetBool("Stand"));
 
             }
-            if ((Input.GetKey(KeyCode.LeftShift)) && animator.GetBool("Move") == true)
+            if ((Input.GetKey(KeyCode.LeftShift) || Input.GetKey("joystick button 8")) && animator.GetBool("Move") == true)
             {
                 animator.SetBool("Sprint", true);
 
             }
             if (animator.GetBool("Jump") == false && animator.GetBool("Sprint") == true)
             {
-                if (Input.GetKeyDown(KeyCode.Space))
+                if (Input.GetKeyDown(KeyCode.Space) || Input.GetKey(KeyCode.JoystickButton0))
                 {
                     animator.SetBool("Jump", true);
                 }
             }
-            if (animator.GetBool("Move") == false && Input.GetMouseButton(0))
+            if (animator.GetBool("Move") == false && (Input.GetMouseButton(0) || Input.GetAxis("SHOOT") > 0))
             {
                 animator.SetBool("Shoot", true);
             }
             else
                 animator.SetBool("Shoot", false);
-            if (animator.GetBool("Move") == false && Input.GetMouseButton(1))
+            if (animator.GetBool("Move") == false && (Input.GetMouseButton(1) || Input.GetAxis("MELEE") > 0))
             {
                     animator.SetBool("Melee", true);
             }
-            if (Input.GetKey(KeyCode.R))
+            if (Input.GetKey(KeyCode.R) || Input.GetKey(KeyCode.JoystickButton2))
             {
                 animator.SetBool("Reload", true);
             }
@@ -152,7 +152,7 @@ public class ALEX_2035 : MonoBehaviour
     }
     public void Move(float speed)
     {
-        if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.A))
+        if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.A) || Input.GetAxis("Move") != 0)
         {
             if (sp.flipX == true)
                 transform.Translate(speed * Vector3.left * 0.01f);

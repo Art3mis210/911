@@ -56,7 +56,7 @@ public class Player : MonoBehaviour
             Movement();
         Vector2 S = sp.sprite.bounds.size;
         boxC.size = S;
-        if (Input.GetKey(KeyCode.Escape) && Paused == false)
+        if ((Input.GetKey(KeyCode.Escape) || Input.GetKey(KeyCode.JoystickButton7)) && Paused == false)
         {
             Time.timeScale = 0;
             SceneManager.LoadScene("PAUSED", LoadSceneMode.Additive);
@@ -85,18 +85,18 @@ public class Player : MonoBehaviour
         {
             if (animator.GetBool("Pistol") == false && animator.GetBool("Stand") == true && animator.GetBool("Flip") == false)
             {
-                if (Input.GetKey(KeyCode.B))
+                if (Input.GetKey(KeyCode.B) || Input.GetKeyDown("joystick button 4"))
                 {
                     animator.SetBool("Flip", true);
                 }
             }
-            if (Input.GetKey(KeyCode.D))
+            if (Input.GetKey(KeyCode.D) || Input.GetAxis("Move") > 0)
             {
                 sp.flipX = false;
                 animator.SetBool("Move", true);
 
             }
-            else if (Input.GetKey(KeyCode.A))
+            else if (Input.GetKey(KeyCode.A) || Input.GetAxis("Move") < 0)
             {
                 sp.flipX = true;
                 animator.SetBool("Move", true);
@@ -108,18 +108,18 @@ public class Player : MonoBehaviour
                 animator.SetBool("Sprint", false);
 
             }
-            if ((Input.GetKeyDown(KeyCode.LeftControl)))
+            if ((Input.GetKeyDown(KeyCode.LeftControl) || Input.GetKeyDown("joystick button 1") ))
             {
                 animator.SetBool("Stand", !animator.GetBool("Stand"));
 
             }
-            if ((Input.GetKey(KeyCode.LeftShift)) && animator.GetBool("Move") == true)
+            if ((Input.GetKey(KeyCode.LeftShift) || Input.GetKey("joystick button 8")) && animator.GetBool("Move") == true)
             {
                 
                 animator.SetBool("Sprint", true);
 
             }
-            if (Input.GetKeyDown(KeyCode.Alpha1))
+            if (Input.GetKeyDown(KeyCode.Alpha1) || Input.GetAxis("Weapon") != 0)
             {
                 if (animator.GetBool("Pistol") == false)
                     animator.SetBool("Pistol", true);
@@ -128,14 +128,14 @@ public class Player : MonoBehaviour
             }
             if (animator.GetBool("Jump") == false && animator.GetBool("Stand") == true)
             {
-                if (Input.GetKeyDown(KeyCode.Space))
+                if (Input.GetKeyDown(KeyCode.Space) || Input.GetKey("joystick button 0"))
                 {
                     animator.SetBool("Jump", true);
                 }
             }
             if (animator.GetBool("Pistol") == true)
             {
-                if (Input.GetMouseButton(0))
+                if (Input.GetMouseButton(0) || Input.GetAxis("SHOOT") != 0)
                 {
                     animator.SetBool("Shoot", true);
                 }
@@ -144,13 +144,13 @@ public class Player : MonoBehaviour
             }
             if (animator.GetBool("Pistol") == true || animator.GetBool("Move") == false)
             {
-                if (Input.GetMouseButton(1))
+                if (Input.GetMouseButton(1) ||  Input.GetAxis("MELEE") > 0)
                 {
                     animator.SetBool("Melee", true);
                 }
             }
 
-            if (Input.GetKeyDown(KeyCode.Tab))
+            if (Input.GetKeyDown(KeyCode.Tab) ||Input.GetAxis("Drone") >0)
             {
                 var drone = Instantiate(Drone, new Vector2(transform.position.x + 1, transform.position.y + 2), Quaternion.identity);
                 drone.GetComponent<Drone>().player = this;
@@ -159,7 +159,7 @@ public class Player : MonoBehaviour
                 Control = false;
                 Camera.SetActive(false);
             }
-            if (Input.GetKeyDown(KeyCode.N))
+            if (Input.GetKeyDown(KeyCode.N) || Input.GetKeyDown(KeyCode.JoystickButton5))
             {
                 Camera.GetComponent<DeferredNightVisionEffect>().enabled = !Camera.GetComponent<DeferredNightVisionEffect>().enabled;
                 if(Camera.GetComponent<DeferredNightVisionEffect>().enabled==true)
@@ -167,7 +167,7 @@ public class Player : MonoBehaviour
             }
         }
         else if(WalkMode==true)
-        {   if (Input.GetKey(KeyCode.D))
+        {   if (Input.GetKey(KeyCode.D) || Input.GetAxis("Move") > 0)
             {
                 sp.flipX = false;
                 animator.SetBool("Move", true);
@@ -195,7 +195,7 @@ public class Player : MonoBehaviour
     }
     public void Move(float speed)
     {
-        if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.A))
+        if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.A) || Input.GetAxis("Move") != 0)
         {
             if (sp.flipX == true)
                 transform.Translate(speed * Vector3.left * 0.01f);
