@@ -275,6 +275,8 @@ public class Enemy : MonoBehaviour
             Destroy(gameObject.transform.GetChild(0).gameObject);
         Destroy(rigidBody);
         Destroy(boxC);
+        Destroy(gameObject.GetComponent<AudioSource>());
+        Destroy(soundManager);
         gameObject.GetComponent<Enemy>().enabled = false;
         
     }

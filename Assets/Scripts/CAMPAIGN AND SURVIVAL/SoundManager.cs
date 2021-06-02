@@ -20,11 +20,17 @@ public class SoundManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-      if(Time.timeScale != 1 && StartAudio==true)
-      {
-           StopAudio();
-           StartAudio = false;
-      } 
+          if(Time.timeScale != 1 && SceneManager.sceneCount>1 && StartAudio==true)
+          {
+                AudioPlayer.Pause();
+                StartAudio = false;
+          } 
+          else if (Time.timeScale == 1 && SceneManager.sceneCount == 1 && StartAudio == false)
+          {
+                AudioPlayer.UnPause();
+                StartAudio = true;
+          }
+
     }
     public void PlayOnceSound(AudioClip Clip)
     {
