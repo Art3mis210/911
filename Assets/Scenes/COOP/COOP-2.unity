@@ -596,6 +596,12 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 112fe3978e3d2ca42b2dd2e138a1138d, type: 2}
+    - target: {fileID: 2702695870604762447, guid: 86fc536de22e516428c068fe0a646f5a,
+        type: 3}
+      propertyPath: Drone
+      value: 
+      objectReference: {fileID: 2387536526304199295, guid: 2a5b2d99bdb0c7e41b53f3c76f264736,
+        type: 3}
     - target: {fileID: 2702695871018017926, guid: 86fc536de22e516428c068fe0a646f5a,
         type: 3}
       propertyPath: m_Enabled

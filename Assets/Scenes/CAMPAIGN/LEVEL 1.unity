@@ -1871,8 +1871,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 252452841}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.6910048, y: 8.542996, z: -54.671448}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -3.691002, y: 8.542999, z: -54.671448}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 5485747096404513055}
@@ -4464,6 +4464,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BACKGROUND MUSIC
+      objectReference: {fileID: 0}
+    - target: {fileID: 8857132629025104838, guid: ab3273182a222a5478c3f9efb3f050d2,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ab3273182a222a5478c3f9efb3f050d2, type: 3}

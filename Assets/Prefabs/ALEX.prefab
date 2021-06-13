@@ -1641,7 +1641,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.06666667, g: 0.08627451, b: 0.10196079, a: 0.4392157}
+  m_Color: {r: 0.18431373, g: 0.3647059, b: 0.28627452, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -1794,6 +1794,26 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 6611601640020536776}
+    - target: {fileID: 7740200905107670007, guid: 84b2961c8459ae04285fda9504264535,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1920
+      objectReference: {fileID: 0}
+    - target: {fileID: 7740200905107670007, guid: 84b2961c8459ae04285fda9504264535,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 1080
+      objectReference: {fileID: 0}
+    - target: {fileID: 7740200905107670007, guid: 84b2961c8459ae04285fda9504264535,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7740200905107670007, guid: 84b2961c8459ae04285fda9504264535,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.000020742
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 84b2961c8459ae04285fda9504264535, type: 3}
 --- !u!224 &4471686489934902953 stripped

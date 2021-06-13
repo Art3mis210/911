@@ -101,22 +101,25 @@ public class Drone : MonoBehaviour
     }
     public void Fire()
     {
-        Bullet.GetComponent<Bullet>().DroneMode = false;
-        Bullet.GetComponent<Bullet>().EnemyMode = false;
-        Bullet.GetComponent<Bullet>().PlayerMode = true;
         if (Ammo > 0)
         {
             soundManager.PlayOnceSound(Shoot);
+            GameObject FiredBullet;
             if (sprite.flipX == false)
             {
-                Bullet.GetComponent<SpriteRenderer>().flipX = false;
-                Instantiate(Bullet, new Vector3(gameObject.transform.position.x + 3.5f, gameObject.transform.position.y, 0), Quaternion.identity);
+
+                FiredBullet = (GameObject)Instantiate(Bullet, new Vector3(gameObject.transform.position.x + 3.5f, gameObject.transform.position.y, 0), Quaternion.identity);
+                FiredBullet.GetComponent<SpriteRenderer>().flipX = false;
             }
             else
             {
-                Bullet.GetComponent<SpriteRenderer>().flipX = true;
-                Instantiate(Bullet, new Vector3(gameObject.transform.position.x - 3.5f, gameObject.transform.position.y, 0), Quaternion.identity);
+
+                FiredBullet = (GameObject)Instantiate(Bullet, new Vector3(gameObject.transform.position.x - 3.5f, gameObject.transform.position.y, 0), Quaternion.identity);
+                FiredBullet.GetComponent<SpriteRenderer>().flipX = true;
             }
+            FiredBullet.GetComponent<Bullet>().DroneMode = false;
+            FiredBullet.GetComponent<Bullet>().EnemyMode = false;
+            FiredBullet.GetComponent<Bullet>().PlayerMode = true;
         }
         else
         {

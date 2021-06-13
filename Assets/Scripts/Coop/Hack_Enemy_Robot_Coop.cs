@@ -18,6 +18,8 @@ public class Hack_Enemy_Robot_Coop : MonoBehaviour
     {
         if (Robot.GetComponent<Enemy_Coop>().FoundPlayer == true)
             Destroy(gameObject);
+        if (Robot.GetComponent<Enemy_Coop>().Dead == true)
+            Destroy(gameObject);
         if (Time.timeScale == 0.5 && Hacked == true && SceneManager.sceneCount == 1)
         {
             Robot.GetComponent<Enemy_Coop>().Alex.GetComponent<ScoreManager>().Hacks++;

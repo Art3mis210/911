@@ -77,7 +77,7 @@ SpriteRenderer:
   m_Sprite: {fileID: -2346302928887187388, guid: 4c1bcb291d018b743a13aa41d22cf4df,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.93, y: 0.52}
@@ -164,9 +164,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32249c9130eea434aa955f7ce93d5959, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DroneMode: 0
+  DroneMode: 1
   EnemyMode: 0
-  PlayerMode: 1
+  PlayerMode: 0
   PlayerMode2: 0
   StartPos: {x: 0, y: 0}
   EndPos: {x: 0, y: 0}

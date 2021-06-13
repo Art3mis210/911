@@ -41,11 +41,11 @@ public class Enemy_Coop : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-   //     if (Dead == true || Rest==true)
-    //    {
+        if (Dead == true || Rest==true)
+        {
             S = sp.sprite.bounds.size;
             boxC.size = S;
-   //     }
+        }
         if (Alex.GetComponent<Player_Coop>().Dead == true && Alex_2035.GetComponent<Alex_2035_Controller>().Dead == true)
         {
                 FoundPlayer = false;

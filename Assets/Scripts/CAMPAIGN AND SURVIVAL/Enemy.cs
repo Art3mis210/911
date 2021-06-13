@@ -37,8 +37,11 @@ public class Enemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        S = sp.sprite.bounds.size;
-        boxC.size = S;
+        if (Dead == true || Rest == true)
+        {
+            S = sp.sprite.bounds.size;
+            boxC.size = S;
+        }
         if (Alex.gameObject.name == "ALEX")
         {
             if ((Alex.GetComponent<Player>().Dead == true && FoundPlayer == true))
@@ -316,18 +319,22 @@ public class Enemy : MonoBehaviour
     {
         soundManager.StopAudio();
         soundManager.PlayOnceSound(Shoot);
-        Bullet.GetComponent<Bullet>().EnemyMode = true;
-        Bullet.GetComponent<Bullet>().DroneMode = false;
-        Bullet.GetComponent<Bullet>().PlayerMode = false;
+        GameObject FiredBullet;
+
         if (sp.flipX == false)
         {
-            Bullet.GetComponent<SpriteRenderer>().flipX = false;
-            Instantiate(Bullet, new Vector3(gameObject.transform.position.x + 3.5f, gameObject.transform.position.y + 2, 0), Quaternion.identity);
+
+            FiredBullet = (GameObject)Instantiate(Bullet, new Vector3(gameObject.transform.position.x + 3.5f, gameObject.transform.position.y + 2, 0), Quaternion.identity);
+            FiredBullet.GetComponent<SpriteRenderer>().flipX = false;
         }
         else
         {
-            Bullet.GetComponent<SpriteRenderer>().flipX = true;
-            Instantiate(Bullet, new Vector3(gameObject.transform.position.x - 3.5f, gameObject.transform.position.y + 2, 0), Quaternion.identity);
+
+            FiredBullet = (GameObject)Instantiate(Bullet, new Vector3(gameObject.transform.position.x - 3.5f, gameObject.transform.position.y + 2, 0), Quaternion.identity);
+            FiredBullet.GetComponent<SpriteRenderer>().flipX = true;
         }
+        FiredBullet.GetComponent<Bullet>().EnemyMode = true;
+        FiredBullet.GetComponent<Bullet>().DroneMode = false;
+        FiredBullet.GetComponent<Bullet>().PlayerMode = false;
     }
 }

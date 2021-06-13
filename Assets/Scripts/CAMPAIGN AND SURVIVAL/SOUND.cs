@@ -13,15 +13,15 @@ public class SOUND : MonoBehaviour
     private void Start()
     {
         
-        float Mvolume = PlayerPrefs.GetFloat("MusicVolume", 0.75f);
+        float Mvolume = PlayerPrefs.GetFloat("MusicVolume", 1f);
         MusicVolume.value = Mvolume;
-        float Gvolume = PlayerPrefs.GetFloat("GeneralVolume", 0.75f);
+        float Gvolume = PlayerPrefs.GetFloat("GeneralVolume", 1f);
         GeneralVolume.value = Gvolume;
     }
     //    public AudioMixerGroup AudioMixer_gp;
     public void SetMusicVolume(float volume)
     {
-        AudioMixer.SetFloat("volume", volume);
+        AudioMixer.SetFloat("Music", volume);
         PlayerPrefs.SetFloat("MusicVolume", volume);
     }
     public void SetGeneralVolume(float volume)

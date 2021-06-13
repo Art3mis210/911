@@ -17,6 +17,8 @@ public class Enemy_Coop_SoundDetection : MonoBehaviour
     {
         if (EnemyParent.GetComponent<Enemy_Coop>().FoundPlayer == true)
             Destroy(gameObject);
+        if (EnemyParent.GetComponent<Enemy_Coop>().Dead == true)
+            Destroy(gameObject);
 
     }
     private void OnTriggerStay2D(Collider2D collision)

@@ -30,6 +30,15 @@ EditorBuildSettings:
     path: Assets/Scenes/MENU/DISPLAY.unity
     guid: e2017c962457e2f45acbe6798f988441
   - enabled: 1
+    path: Assets/Scenes/MENU/CONTROLS.unity
+    guid: 2efbc9697eadf09499023b8fac0c9268
+  - enabled: 1
+    path: Assets/Scenes/MENU/MKCONTROLS.unity
+    guid: 5942733b18c9e704c9d3b7fd9a4ead5a
+  - enabled: 1
+    path: Assets/Scenes/MENU/CONTROLLER.unity
+    guid: e1224d4d10aeaef409f063ae01fda516
+  - enabled: 1
     path: Assets/Scenes/MENU/SOUND.unity
     guid: ddcad1bf2a9ff1740aeb55ba90640755
   - enabled: 1
@@ -41,6 +50,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MENU/ARTWORK.unity
     guid: c92f6945878d3ce47be40d08ac08b548
+  - enabled: 1
+    path: Assets/Scenes/MENU/SOUNDTRACK.unity
+    guid: 0da130379e1d6d84cb64ba3690e9174f
   - enabled: 1
     path: Assets/Scenes/CAMPAIGN/LEVEL 1.unity
     guid: 2cda990e2423bbf4892e6590ba056729

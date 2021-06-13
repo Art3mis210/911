@@ -16,7 +16,7 @@ public class Hack_Enemy_Robot : MonoBehaviour
     }
     private void Update()
     {
-        if (Robot.GetComponent<Enemy>().FoundPlayer == true)
+        if (Robot.GetComponent<Enemy>().FoundPlayer == true || Robot.GetComponent<Enemy>().Dead == true)
             Destroy(gameObject);
         if (Time.timeScale == 0.5 && Hacked==true &&  SceneManager.sceneCount == 1)
         {

@@ -21,6 +21,8 @@ public class Enemy_Drone_Hack : MonoBehaviour
             Drone.GetComponent<EnemyDrone>().Score.Hacks++;
             DestroyDrone();
         }
+        if (Drone.GetComponent<EnemyDrone>().destroyed == true)
+            Destroy(gameObject);
     }
     private void OnTriggerStay2D(Collider2D collision)
     {
