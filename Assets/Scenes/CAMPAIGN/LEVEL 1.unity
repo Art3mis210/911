@@ -8994,6 +8994,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ENEMY ROBOT
       objectReference: {fileID: 0}
+    - target: {fileID: 1570531013997021185, guid: 91d93a569f74e5c49a83a2f9720f4f47,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1570531013997021186, guid: 91d93a569f74e5c49a83a2f9720f4f47,
         type: 3}
       propertyPath: Alex
