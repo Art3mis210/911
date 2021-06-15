@@ -150,7 +150,7 @@ public class Player : MonoBehaviour
                 }
             }
 
-            if (Input.GetKeyDown(KeyCode.Tab) ||Input.GetAxis("Drone") >0)
+            if ((Input.GetKeyDown(KeyCode.Tab) ||Input.GetAxis("Drone") >0) && Time.timeScale==1)
             {
                 var drone = Instantiate(Drone, new Vector2(transform.position.x + 1, transform.position.y + 2), Quaternion.identity);
                 drone.GetComponent<Drone>().player = this;

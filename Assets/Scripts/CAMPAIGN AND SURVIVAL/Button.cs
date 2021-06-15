@@ -33,7 +33,7 @@ public class Button : MonoBehaviour
         }
         else 
         {
-            if(SceneName=="INTRO")
+            if(SceneName=="INTRO" || SceneName.Contains("CREDITS"))
                 Destroy(GameObject.Find("BackgroundMainMusic"));
             SceneManager.LoadScene(SceneName);
             DontDestroyOnLoad(GameObject.Find("BackgroundMainMusic"));

@@ -4764,6 +4764,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6895547257959953400}
   - component: {fileID: 5125191928726180861}
+  - component: {fileID: 4076742967536772988}
   m_Layer: 4
   m_Name: 'Rain '
   m_TagString: Untagged
@@ -4801,13 +4802,13 @@ AudioSource:
   m_GameObject: {fileID: 7106368902752232522}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: -8568081489523621414, guid: 9747c32ca5906544a881a3de03c4090d,
+  OutputAudioMixerGroup: {fileID: -4085764520443059284, guid: 9747c32ca5906544a881a3de03c4090d,
     type: 2}
   m_audioClip: {fileID: 8300000, guid: 0d37a12d02360b442bd4f2abfe3b22a4, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.305
+  m_Volume: 0.105
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -4889,6 +4890,19 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &4076742967536772988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7106368902752232522}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f35c671ecec406c479e5ccf58b245cc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  StartAudio: 0
 --- !u!1 &9165540451392519778
 GameObject:
   m_ObjectHideFlags: 0
