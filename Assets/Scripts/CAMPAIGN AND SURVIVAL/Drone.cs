@@ -48,7 +48,7 @@ public class Drone : MonoBehaviour
         {
             Destroy(gameObject);
         }
-        if (Input.GetKey(KeyCode.Escape) || Input.GetKey(KeyCode.JoystickButton7) && Paused == false)
+        if ((Input.GetKey(KeyCode.Escape) || Input.GetKey(KeyCode.JoystickButton7)) && Paused == false)
         {
             Time.timeScale = 0;
             SceneManager.LoadScene("PAUSED", LoadSceneMode.Additive);

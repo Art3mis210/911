@@ -39,7 +39,7 @@ public class Enemy_Sound_Detection : MonoBehaviour
                 }
             }
         }
-        if(collision.gameObject.tag=="PDRONE" && (Input.GetKeyDown(KeyCode.Q) || Input.GetKeyDown(KeyCode.Joystick1Button1)) && EnemyParent.GetComponent<Enemy>().FoundPlayer==false)
+        if(collision.gameObject.tag=="PDRONE" && (Input.GetKeyDown(KeyCode.Q) || Input.GetKeyDown(KeyCode.JoystickButton1)) && EnemyParent.GetComponent<Enemy>().FoundPlayer==false)
         {
 
             soundManager.StopAudio();

@@ -163,12 +163,7 @@ public class Player_Coop : MonoBehaviour
                 Camera2.GetComponent<Camera>().enabled = (false);
 
             }
-            if (Paused == true && Time.timeScale == 1)
-            {
-                Camera.GetComponent<Camera>().enabled = (true);
-                Camera2.GetComponent<Camera>().enabled = (true);
-                Paused = false;
-            }
+            
         }
         else if (WalkMode == true)
         {
@@ -185,6 +180,12 @@ public class Player_Coop : MonoBehaviour
                 animator.SetBool("Sprint", false);
 
             }
+        }
+        if (Paused == true && Time.timeScale == 1)
+        {
+            Camera.GetComponent<Camera>().enabled = (true);
+            Camera2.GetComponent<Camera>().enabled = (true);
+            Paused = false;
         }
 
     }

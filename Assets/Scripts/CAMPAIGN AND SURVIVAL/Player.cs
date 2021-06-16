@@ -56,25 +56,18 @@ public class Player : MonoBehaviour
             Movement();
         Vector2 S = sp.sprite.bounds.size;
         boxC.size = S;
-        if ((Input.GetKey(KeyCode.Escape) || Input.GetKey(KeyCode.JoystickButton7)) && Paused == false)
-        {
-            Time.timeScale = 0;
-            SceneManager.LoadScene("PAUSED", LoadSceneMode.Additive);
-            Paused = true;
-            Camera.GetComponent<Camera>().enabled = (false);
-
-        }
-        if (Paused == true && Time.timeScale == 1)
-        {
-            Camera.GetComponent<Camera>().enabled = (true);
-            Paused = false;
-        }
+       
         if (Control == true && Camera.activeInHierarchy == false)
             Camera.SetActive(true);
         if(Dead==true && GameOver==false)
         {
             Invoke("LoadGameOverScene", 5);
             GameOver = true;
+        }
+        if (Paused == true && Time.timeScale == 1)
+        {
+            Camera.GetComponent<Camera>().enabled = (true);
+            Paused = false;
         }
 
     }
@@ -181,7 +174,16 @@ public class Player : MonoBehaviour
 
             }
         }
+        if ((Input.GetKey(KeyCode.Escape) || Input.GetKey(KeyCode.JoystickButton7)) && Paused == false)
+        {
+            Time.timeScale = 0;
+            SceneManager.LoadScene("PAUSED", LoadSceneMode.Additive);
+            Paused = true;
+            Camera.GetComponent<Camera>().enabled = (false);
+
+        }
         
+
     }
     public void SetMeleeComplete()
     {
